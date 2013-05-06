@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string-array name="default_smiley_texts">
+        <item>:-)</item>
+        <item>:-(</item>
+        <item>;-)</item>
+        <item>:-P</item>
+        <item>=-O</item>
+        <item>:-*</item>
+        <item>:O</item>
+        <item>B-)</item>
+        <item>:-$</item>
+        <item>:-!</item>
+        <item>:-[</item>
+        <item>O:-)</item>
+        <item>:-\\</item>
+        <item>":'("</item>
+        <item>:-X</item>
+        <item>:-D</item>
+        <item>o_O</item>
+        <item>&amp;lt;3</item>
+        <item>x-(</item>
+        <item>:-/</item>
+        <item>:-I</item>
+    </string-array>
+    <string-array name="prefEntries_ringtone_repeat">
+        <item>Bir kez</item>
+        <item>İki kez</item>
+        <item>Üç kez</item>
+        <item>Beş kez</item>
+        <item>On kez</item>
+    </string-array>
+    <string-array name="prefValues_ringtone_repeat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>5</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="contact_entries">
+        <item>İsim</item>
+        <item>Takma Ad</item>
+        <item>Telefon</item>
+        <item>Mail</item>
+        <item>Şirket</item>
+        <item>IM</item>
+        <item>VOIP</item>
+        <item>Doğum Günü</item>
+        <item>Website</item>
+        <item>Adres</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="contact_values">
+        <item>vnd.android.cursor.item/name</item>
+        <item>vnd.android.cursor.item/nickname</item>
+        <item>vnd.android.cursor.item/phone_v2</item>
+        <item>vnd.android.cursor.item/email_v2</item>
+        <item>vnd.android.cursor.item/organization</item>
+        <item>vnd.android.cursor.item/im</item>
+        <item>vnd.android.cursor.item/sip_address</item>
+        <item>vnd.android.cursor.item/contact_event</item>
+        <item>vnd.android.cursor.item/website</item>
+        <item>vnd.android.cursor.item/postal-address_v2</item>
+        <item>vnd.android.cursor.item/note</item>
+    </string-array>
+    <string-array name="select_dialog_items">
+        <item>1 saniye</item>
+        <item>2 saniye</item>
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+        <item>10 saniye</item>
+        <item>Diğer...</item>
+    </string-array>
+    <string-array name="prefEntries_vibrateWhen">
+        <item>Her zaman</item>
+        <item>Sessizdeyken</item>
+        <item>Asla</item>
+    </string-array>
+    <string-array name="entries_date_type">
+        <item>Alınma zamanını göster</item>
+        <item>Gönderme zamanını göster</item>
+    </string-array>    
+</resources>
