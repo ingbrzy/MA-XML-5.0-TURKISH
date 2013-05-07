@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_contact_backup_info">Data (Backup Xiaomi and Gmail info)</string>
-  <string name="account_login">Login</string>
-  <string name="account_summary">Backup Gmail, E-mail and Xiaomi accounts</string>
+  <string name="account_login">Giriş</string>
+  <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
   <string name="already_enable_encrypt">Encryption enabled</string>
-  <string name="app_name">Backup</string>
-  <string name="auto_backup">Automatic Backup</string>
-  <string name="auto_backup_all_user_apps">All apps</string>
+  <string name="app_name">Yedek</string>
+  <string name="auto_backup">Otomatik Yedekle</string>
+  <string name="auto_backup_all_user_apps">Tüm Uygulamalar</string>
   <string name="auto_backup_choose">Automatically backup</string>
-  <string name="auto_backup_choose_empty">No backups</string>
+  <string name="auto_backup_choose_empty">Yedekleme Yok</string>
   <string name="auto_backup_choose_title">Choose backup items</string>
   <string name="auto_backup_date">Backup frequency (in days)</string>
   <string name="auto_backup_only_wifi">Automatically backup only when Wi-Fi connected</string>
   <string name="auto_backup_open">Enable automatic backup</string>
   <string name="auto_backup_progress">Performing automatic backup please wait...</string>
-  <string name="auto_backup_select_user_apps">Select apps</string>
-  <string name="auto_backup_selected_user_apps">Selected apps</string>
+  <string name="auto_backup_select_user_apps">Uygulama Seç</string>
+  <string name="auto_backup_selected_user_apps">Seçili Uygulamalar</string>
   <string name="auto_backup_setting">Automatic Backup Settings</string>
   <string name="auto_backup_system_data">System</string>
   <string name="auto_backup_time">Schedule backup</string>
