@@ -182,5 +182,5 @@
   <string name="unit_byte">\u0020Bytes</string>
   <string name="unit_piece">\u0020Item(s)</string>
   <string name="unknown_hint">N/A</string>
-  <string name="wifi_title">Wi-Fi Settings</string>
+  <string name="wifi_title">Wi-Fi Ayarları</string>
 </resources>
