@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail e yedekleme bilgisi)</string>
+  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail e Yedekleme Bilgisi)</string>
   <string name="account_login">Giriş</string>
   <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
   <string name="already_enable_encrypt">Şifreleme Etkin</string>
-  <string name="app_name">Yedek</string>
+  <string name="app_name">Yedekle</string>
   <string name="auto_backup">Otomatik Yedekle</string>
   <string name="auto_backup_all_user_apps">Tüm Uygulamalar</string>
   <string name="auto_backup_choose">Otomatik Olarak Yedekle</string>
@@ -13,20 +13,20 @@
   <string name="auto_backup_date">Yedekleme Sıklığı (Gün olarak)</string>
   <string name="auto_backup_only_wifi">Sadece Wifi Üzerinden Otomatik Yedekle</string>
   <string name="auto_backup_open">Otomatik Yedekleme Etkin</string>
-  <string name="auto_backup_progress">Performing automatic backup please wait...</string>
+  <string name="auto_backup_progress">Otomatik Yedekleme Çalışıyor Lütfen Bekleyin...</string>
   <string name="auto_backup_select_user_apps">Uygulama Seç</string>
   <string name="auto_backup_selected_user_apps">Seçili Uygulamalar</string>
-  <string name="auto_backup_setting">Automatic Backup Settings</string>
-  <string name="auto_backup_system_data">System</string>
-  <string name="auto_backup_time">Schedule backup</string>
-  <string name="auto_backup_user_data">Apps</string>
-  <string name="backup">Backup now</string>
-  <string name="backup_data">Backup data</string>
-  <string name="backup_delete">Delete:</string>
-  <string name="backup_empty">No backup files found</string>
-  <string name="backup_empty_info">Backup your data, settings and applications</string>
-  <string name="backup_error">Backup Error</string>
-  <string name="backup_failed">Backup failed, please try again</string>
+  <string name="auto_backup_setting">Otomatik Yedekleme Ayarları</string>
+  <string name="auto_backup_system_data">Sistem</string>
+  <string name="auto_backup_time">Yedekleme Programı</string>
+  <string name="auto_backup_user_data">Uygulamalar</string>
+  <string name="backup">Şimdi Yedekle</string>
+  <string name="backup_data">Veri Yedekle</string>
+  <string name="backup_delete">Sil:</string>
+  <string name="backup_empty">Yedekleme Dosyası Bulunamadı</string>
+  <string name="backup_empty_info">Ayarlarınızı Uygulamaları ve Verilerinizi Yedekleyin</string>
+  <string name="backup_error">Yedekleme Hatalı</string>
+  <string name="backup_failed">Yedekleme Başarısız Lütfen Tekrar Deneyin</string>
   <string name="backup_file_error">There was a problem with the backup, the operation was not valid.</string>
   <string name="backup_finished">Backup completed</string>
   <string name="backup_hint">Do not switch off phone, may cause corrupt data</string>
@@ -182,5 +182,5 @@
   <string name="unit_byte">\u0020Bytes</string>
   <string name="unit_piece">\u0020Item(s)</string>
   <string name="unknown_hint">N/A</string>
-  <string name="wifi_title">Wi-Fi Ayarları</string>
+  <string name="wifi_title">Wi-Fi Settings</string>
 </resources>
