@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="act_action_accept_accept">Accept</string>
-  <string name="act_action_accept_mute">Mute messages</string>
-  <string name="act_action_accept_reject">Block messages</string>
-  <string name="act_action_mute_accept">Mute calls</string>
-  <string name="act_action_mute_mute">Mute calls and messages</string>
-  <string name="act_action_mute_reject">Mute calls, monitor messages</string>
-  <string name="act_action_reject_accept">Monitor calls</string>
-  <string name="act_action_reject_mute">Monitor calls and mute messages</string>
-  <string name="act_action_reject_reject">Monitor incoming calls and messages</string>
-  <string name="act_call">Log calls</string>
-  <string name="act_del_ms">Don\'t display</string>
+  <string name="act_action_accept_accept">Kabul et</string>
+  <string name="act_action_accept_mute">Mesajlar sessiz</string>
+  <string name="act_action_accept_reject">Mesajlar engelli</string>
+  <string name="act_action_mute_accept">Çağrılar sessiz</string>
+  <string name="act_action_mute_mute">Çağrılar ve mesajlar sessiz</string>
+  <string name="act_action_mute_reject">Çağrılar sessiz, mesajları izle</string>
+  <string name="act_action_reject_accept">Çağrılar izle</string>
+  <string name="act_action_reject_mute">Çağrıları izle ve mesajlar sessiz</string>
+  <string name="act_action_reject_reject">Gelen çağrıları ve mesajları izle</string>
+  <string name="act_call">Arama kayıtları</string>
+  <string name="act_del_ms">Görüntülenemez</string>
   <string name="act_del_ms_summary">Rejected messages will not be displayed</string>
   <string name="act_hangup_call">Hang up immediately</string>
   <string name="act_hangup_call_summary">Rejected calls will not be displayed in the call log</string>
