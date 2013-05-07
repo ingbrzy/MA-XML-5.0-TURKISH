@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Data (Backup Xiaomi and Gmail info)</string>
+  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail e yedekleme bilgisi)</string>
   <string name="account_login">Giriş</string>
   <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
-  <string name="already_enable_encrypt">Encryption enabled</string>
+  <string name="already_enable_encrypt">Şifreleme Etkin</string>
   <string name="app_name">Yedek</string>
   <string name="auto_backup">Otomatik Yedekle</string>
   <string name="auto_backup_all_user_apps">Tüm Uygulamalar</string>
-  <string name="auto_backup_choose">Automatically backup</string>
+  <string name="auto_backup_choose">Otomatik Olarak Yedekle</string>
   <string name="auto_backup_choose_empty">Yedekleme Yok</string>
-  <string name="auto_backup_choose_title">Choose backup items</string>
-  <string name="auto_backup_date">Backup frequency (in days)</string>
-  <string name="auto_backup_only_wifi">Automatically backup only when Wi-Fi connected</string>
-  <string name="auto_backup_open">Enable automatic backup</string>
+  <string name="auto_backup_choose_title">Yedekleme Öğelerini Seçin</string>
+  <string name="auto_backup_date">Yedekleme Sıklığı (Gün olarak)</string>
+  <string name="auto_backup_only_wifi">Sadece Wifi Üzerinden Otomatik Yedekle</string>
+  <string name="auto_backup_open">Otomatik Yedekleme Etkin</string>
   <string name="auto_backup_progress">Performing automatic backup please wait...</string>
   <string name="auto_backup_select_user_apps">Uygulama Seç</string>
   <string name="auto_backup_selected_user_apps">Seçili Uygulamalar</string>
