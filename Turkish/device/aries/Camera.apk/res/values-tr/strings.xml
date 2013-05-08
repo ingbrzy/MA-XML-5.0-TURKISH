@@ -2,15 +2,14 @@
 <resources>
   <string name="Import">İçe aktar</string>
   <string name="access_sd_fail">"USB belleğe erişilemiyor."</string>
-  <string name="accessibility_camera_picker">Ön ve arka kamera değiştirme</string>
+  <string name="accessibility_camera_picker">Ön ve arka kamera geçişi</string>
   <string name="accessibility_review_thumbnail">En son fotoğraf</string>
   <string name="accessibility_shutter_button">Deklanşör tuşu</string>
   <string name="accessibility_zoom_control">Zoom kontrolü</string>
   <string name="albums">Albümler</string>
   <string name="aperture">Açıklık</string>
   <string name="auto">Otomatik</string>
-  <string name="bg_replacement_message">"Set your device down and
-Step out of view for a moment"</string>
+  <string name="bg_replacement_message">"Telefonunuzu aşağı indirin ve bir süre görüntüden uzaklaştırın"</string>
   <string name="camera_disabled">Kamera, güvenlik ilkelerinden dolayı devre dışı bırakıldı.</string>
   <string name="camera_error_title">Kamera hatası</string>
   <string name="camera_label">Kamera</string>
@@ -20,10 +19,10 @@ Step out of view for a moment"</string>
   <string name="cannot_connect_camera">"Kameraya bağlanılamıyor."</string>
   <string name="clear_effects">Efektleri temizle</string>
   <string name="close">Kapat</string>
-  <string name="confirm_change_mode_title">Switch mode</string>
+  <string name="confirm_change_mode_title">Modu değiştir</string>
   <string name="confirm_change_to_expert_mode_message">Profesyonel moda geçilsin mi?</string>
   <string name="confirm_change_to_simple_mode_message">Basit moda geçilsin mi?</string>
-  <string name="confirm_location_message">Kamera çekilen fotoğraflara konum bilgisini ekleyebilir. Bu özellik şimdi açılsın mı?</string>
+  <string name="confirm_location_message">Kamera, çekilen fotoğraflara konum bilgisi ekleyebilir. Bu özellik şimdi etkinleştirilsin mi?</string>
   <string name="confirm_restore_message">Kamera ayarları sıfırlansın mı?</string>
   <string name="confirm_restore_title">Ayarları sıfırla</string>
   <string name="crop_saved">Kırpılmış resim %s e kaydedildi.</string>
@@ -33,14 +32,14 @@ Step out of view for a moment"</string>
   <string name="details">Ayrıntılar</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">%1$d of %2$d items:</string>
+  <string name="details_title">%2$d de %1$d öğe:</string>
   <string name="dialog_ok">Tamam</string>
   <string name="disable_video_snapshot_hint">Özel efektler açıkken videodan resim alınamaz.</string>
   <string name="duration">Süre</string>
   <string name="edit">Düzenle</string>
   <string name="effect_backdropper_disco">Disko</string>
   <string name="effect_backdropper_gallery">Kendin seç</string>
-  <string name="effect_backdropper_space">In space</string>
+  <string name="effect_backdropper_space">Uzay</string>
   <string name="effect_backdropper_sunset">Gün batımı</string>
   <string name="effect_background">Arkaplan</string>
   <string name="effect_goofy_face_big_eyes">Büyük gözler</string>
@@ -56,7 +55,7 @@ Step out of view for a moment"</string>
   <string name="error_app_unsupported">Bu video formatı için desteklenmeyen çözünürlük</string>
   <string name="error_app_unsupported_hfr_720p">720P ancak 90FPS ye kadar destekler.</string>
   <string name="error_app_unsupported_hfr_codec">HFR açıkken sadece H264 formatı desteklenir.</string>
-  <string name="error_app_unsupported_raw_wavelet">wavelet denoise will not take effect when taking raw pictures</string>
+  <string name="error_app_unsupported_raw_wavelet">Gürültü azaltma, RAW formatı kullanılırken kullanılamaz.</string>
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatma hatası. Mikrofon başka bir uygulama tarafından kullanılıyor olabilir.</string>
   <string name="exposure_time">Pozlama süresi</string>
   <string name="file_size">Dosya boyutu</string>
@@ -89,7 +88,7 @@ Step out of view for a moment"</string>
   <string name="manual">Kılavuz</string>
   <string name="mimetype">MIME tipi</string>
   <string name="model">Model</string>
-  <string name="no_storage">Kamerayı kullanmadan önce lütfen SD kart takın.</string>
+  <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın.</string>
   <string name="no_thumbnail">Küçük resim yok</string>
   <string name="not_enough_space">Dahili hafıza dolu.</string>
   <string name="not_selectable_in_scene_mode">Sahne modunda seçilemez.</string>
@@ -162,7 +161,7 @@ Step out of view for a moment"</string>
   <string name="pref_camera_current_k_value">Mevcut değer</string>
   <string name="pref_camera_default_suffix">(Varsayılan)</string>
   <string name="pref_camera_denoise_default">denoise-on</string>
-  <string name="pref_camera_denoise_title">Wavelet Denoise Mode</string>
+  <string name="pref_camera_denoise_title">Gürültü azaltma modu</string>
   <string name="pref_camera_facedetection_default">Açık</string>
   <string name="pref_camera_facedetection_entry_off">Kapalı</string>
   <string name="pref_camera_facedetection_entry_on">Açık</string>
@@ -305,7 +304,7 @@ Step out of view for a moment"</string>
   <string name="pref_camera_scenemode_entry_fireworks">Havai fişek</string>
   <string name="pref_camera_scenemode_entry_flowers">Çiçekler</string>
   <string name="pref_camera_scenemode_entry_landscape">Manzara</string>
-  <string name="pref_camera_scenemode_entry_night">Gece</string>
+  <string name="pref_camera_scenemode_entry_night">Gece manzarası</string>
   <string name="pref_camera_scenemode_entry_night_portrait">Gece portresi</string>
   <string name="pref_camera_scenemode_entry_off">Kapalı</string>
   <string name="pref_camera_scenemode_entry_portrait">Portre</string>
@@ -350,7 +349,7 @@ Step out of view for a moment"</string>
   <string name="pref_camera_video_duration_entry_30">30 dakika</string>
   <string name="pref_camera_video_duration_entry_mms">30 saniye(MMS)</string>
   <string name="pref_camera_video_duration_title">Video Süresi</string>
-  <string name="pref_camera_video_flashmode_default">off</string>
+  <string name="pref_camera_video_flashmode_default">Kapalı</string>
   <string name="pref_camera_videoencoder_default">h264</string>
   <string name="pref_camera_volumekey_function_default">Zoom</string>
   <string name="pref_camera_volumekey_function_entry_shutter">Deklanşör</string>
@@ -362,7 +361,7 @@ Step out of view for a moment"</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bulutlu</string>
   <string name="pref_camera_whitebalance_entry_daylight">Gün ışığı</string>
   <string name="pref_camera_whitebalance_entry_fluorescent">Florasan</string>
-  <string name="pref_camera_whitebalance_entry_incandescent">Akkor ampul</string>
+  <string name="pref_camera_whitebalance_entry_incandescent">Akkor lamba</string>
   <string name="pref_camera_whitebalance_k_value_title">Beyaz dengesi K değeri</string>
   <string name="pref_camera_whitebalance_title">Beyaz Dengesi</string>
   <string name="pref_camera_zsl_default">Açık</string>
@@ -380,7 +379,7 @@ Step out of view for a moment"</string>
   <string name="pref_grp_capture_settings">Video Ayarları</string>
   <string name="pref_grp_picture_settings">Fotoğraf Ayarları</string>
   <string name="pref_grp_restore_settings">Ayarları Sıfırla</string>
-  <string name="pref_settings_mode">kamera modu</string>
+  <string name="pref_settings_mode">Kamera modu</string>
   <string name="pref_video_captrue_ability_title">Video çekebilme</string>
   <string name="pref_video_continuous_focus">Otomatik odaklama</string>
   <string name="pref_video_continuous_focus_entry_off">Açık</string>
@@ -401,7 +400,7 @@ Step out of view for a moment"</string>
   <string name="pref_video_speed_entry_fast">Hızlı</string>
   <string name="pref_video_speed_entry_normal">Normal</string>
   <string name="pref_video_speed_entry_slow">Yavaş</string>
-  <string name="pref_video_speed_title">Video Çekme Hızı</string>
+  <string name="pref_video_speed_title">Video Çekim Hızı</string>
   <string name="pref_video_speed_value_fast">Hızlı</string>
   <string name="pref_video_speed_value_normal">Normal</string>
   <string name="pref_video_speed_value_slow">Yavaş</string>
@@ -453,14 +452,14 @@ Step out of view for a moment"</string>
   <string name="simple_mode_title">Basit mod</string>
   <string name="skip">Atla</string>
   <string name="slideshow">Slayt gösterisi</string>
-  <string name="snapshot_lower_than_video">Video snapshot size lower than video size. Capping to Video size. Please select a resolution higher or equal to the current video size.</string>
-  <string name="snapshot_qcif_and_d1">Only Video snapshot size supported for this resolution.</string>
-  <string name="snapshotsize_low_powermode">Picture resolution in Low Power Mode is not supported. Video size snapshot will be used. Please select High power mode for picture size.</string>
+  <string name="snapshot_lower_than_video">Fotoğraf alma çözünürlüğü video çözünürlüğünden düşük. Lütfen video çözünürlüğüne eşit veya ondan daha büyük bir çözünürlük seçin.</string>
+  <string name="snapshot_qcif_and_d1">Bu çözünürlük için sadece videodan fotoğraf alma çözünürlüğü destekleniyor.</string>
+  <string name="snapshotsize_low_powermode">Fotoğraf çözünürlüğü düşük güç modunda desteklenmiyor. Videodan fotoğraf alma çözünürlüğü kullanılacak. Lütfen yüksek güç modunu seçin.</string>
   <string name="spaceIsLow_content">USB belleğiniz dolmak üzere. Fotoğraf kalitesini düşürün veya bazı resim dosyalarını veya başka dosyaları silin.</string>
   <string name="tags">Etiketler</string>
   <string name="tap_to_focus">Odaklamak için dokunun.</string>
   <string name="time">Zaman</string>
-  <string name="time_lapse_error">Hızlandırılmış kayıt için hatalı video boyutu.</string>
+  <string name="time_lapse_error">Hızlandırılmış kayıt için hatalı video çözünürlüğü.</string>
   <string name="times">Zamanlar</string>
   <string name="title">Başlık</string>
   <string name="toast_burst_snap_finished_end">Seri çekim tamamlandı.</string>
@@ -468,7 +467,7 @@ Step out of view for a moment"</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Ses kayıt özelliği açıkken çoklu çekim yapılamaz.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">HDR özelliği açıkken çoklu çekim yapılamaz.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"ISO özelliği otomatikte değilken çoklu çekim yapılamaz."</string>
-  <string name="toast_start_audio_capture">Sesle çekimi etkinleştirmek için bir ses çıkarın</string>
+  <string name="toast_start_audio_capture">Sesle fotoğraf çekimini etkinleştirmek için bir ses çıkarın</string>
   <string name="undo">Geri</string>
   <string name="unit_mm">mm</string>
   <string name="video_camera_label">Video</string>
