@@ -24,7 +24,7 @@
   <string name="bt_enable_title"/>
   <string name="bt_error_btn_ok">Tamam</string>
   <string name="bt_share_picker_label">Bluetooth</string>
-  <string name="bt_sm_2_1">"kaynağından gelen dosyayı kaydetmek için USB bellekte yeterli boş alan yok \"%1$s\""</string>
+  <string name="bt_sm_2_1">"\"%1$s\" kaynağından gelen dosyayı kaydetmek için USB bellekte yeterli boş alan yok"</string>
   <string name="bt_sm_2_2">Boş alan gerekli: %1$s</string>
   <string name="bt_toast_1">Dosya alınıyor. Kontrol etmek için bildirim çubuğuna bakın.</string>
   <string name="bt_toast_2">"Dosya alınamıyor."</string>
