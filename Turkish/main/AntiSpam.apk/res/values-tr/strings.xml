@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="act_action_accept_accept">Accept</string>
+  <string name="act_action_accept_accept">Kabul et</string>
   <string name="act_action_accept_mute">Mute messages</string>
   <string name="act_action_accept_reject">Block messages</string>
   <string name="act_action_mute_accept">Mute calls</string>
