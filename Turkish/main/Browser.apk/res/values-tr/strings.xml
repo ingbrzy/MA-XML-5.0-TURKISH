@@ -2,7 +2,7 @@
 <resources>
   <string name="accessibility_button_addbookmark">Sayfayı favorilere ekle</string>
   <string name="accessibility_button_back">Geri dön</string>
-  <string name="accessibility_button_bookmarks">Yerimleri</string>
+  <string name="accessibility_button_bookmarks">Yer işaretleri</string>
   <string name="accessibility_button_clear">Girdiyi temizle</string>
   <string name="accessibility_button_closetab">Sekmeyi kapat</string>
   <string name="accessibility_button_forward">İlerle</string>
@@ -15,7 +15,7 @@
   <string name="accessibility_button_refresh">Sayfayı yenile</string>
   <string name="accessibility_button_search">Arama yap</string>
   <string name="accessibility_button_stop">Sayfa yüklemeyi durdur</string>
-  <string name="accessibility_button_uaswitch">User agent\'ı değiştir</string>
+  <string name="accessibility_button_uaswitch">Kullanıcı ajanını değiştir</string>
   <string name="accessibility_button_voice">Sesli arama başlat</string>
   <string name="accessibility_state_frozen">Kayıtlı sayfa</string>
   <string name="accessibility_state_incognito">Gizli sayfa</string>
@@ -268,11 +268,11 @@
   <string name="pref_default_text_encoding_dialogtitle">Metin kodlama</string>
   <string name="pref_default_zoom">Varsayılan zum</string>
   <string name="pref_default_zoom_dialogtitle">Varsayılan zum</string>
-  <string name="pref_developer_options">Developer options</string>
+  <string name="pref_developer_options">Geliştirici Ayarları</string>
   <string name="pref_developer_options_summary">Debugging or reporting bug</string>
   <string name="pref_development_cpu_upload_path">Enable Cpu Upload Path</string>
-  <string name="pref_development_error_console">Show JavaScript Console</string>
-  <string name="pref_development_hardware_accel">Enable OpenGL Rendering</string>
+  <string name="pref_development_error_console">JavaScript konsolunu göster</string>
+  <string name="pref_development_hardware_accel">OpenGL rendering i etkinleştir</string>
   <string name="pref_development_hardware_accel_skia">Enable HW Accelerated Skia</string>
   <string name="pref_development_nav_dump">Enable nav cache dump</string>
   <string name="pref_development_normal_rendering">Normal rendering</string>
@@ -295,7 +295,7 @@
   <string name="pref_fling_on_border_enabled">Fling on border</string>
   <string name="pref_fling_on_border_operation">Operation for fling on border</string>
   <string name="pref_font_size_category">Metin boyutu</string>
-  <string name="pref_force_userscalable">Yakınlştrmyı etknlştrmye zorla</string>
+  <string name="pref_force_userscalable">Yakınlaştırmayı etkinleştirmeye zorla</string>
   <string name="pref_force_userscalable_summary">Web sitesinin yakınlaştırmayı denetleme isteğini geçersiz kıl</string>
   <string name="pref_general_autofill_title">Otomatik doldur</string>
   <string name="pref_general_exit_setting_title">Çıkış ayarları</string>
@@ -348,7 +348,7 @@
   <string name="pref_security_remember_passwords_summary">Web siteleri için kullanıcı adlarını ve şifreleri kaydet</string>
   <string name="pref_security_save_form_data">Form verilerini hatırla</string>
   <string name="pref_security_save_form_data_summary">Daha sonra kullanmak üzere formlara yazdığım verileri hatırla</string>
-  <string name="pref_security_show_security_warning">Güvenlik uyarıl. göster</string>
+  <string name="pref_security_show_security_warning">Güvenlik uyarılarını göster</string>
   <string name="pref_security_show_security_warning_summary">Site güvenliği ile ilgili bir sorun varsa uyarı göster</string>
   <string name="pref_set_homepage_to">Şunu kullan:</string>
   <string name="pref_text_zoom">Metin ölçekleme</string>
