@@ -29,8 +29,8 @@
   <string name="bt_toast_1">Dosya alınıyor. Kontrol etmek için bildirim çubuğuna bakın.</string>
   <string name="bt_toast_2">"Dosya alınamıyor."</string>
   <string name="bt_toast_3">\"%1$s\" hedefinden dosya alımı durduruldu.</string>
-  <string name="bt_toast_4">\"%1$s\ hedefine dosya gönderiliyor."</string>
-  <string name="bt_toast_5"> %1$s dosyaları \"%2$s\ hedefine gönderiliyor"</string>
+  <string name="bt_toast_4">\"%1$s\" hedefine dosya gönderiliyor.</string>
+  <string name="bt_toast_5"> %1$s dosyaları \"%2$s\" hedefine gönderiliyor</string>
   <string name="bt_toast_6">\"%1$s\" hedefine dosya gönderimi durduruldu</string>
   <string name="btopp_live_folder">Alınan dosyalar</string>
   <string name="defaultname">Araç kiti</string>
