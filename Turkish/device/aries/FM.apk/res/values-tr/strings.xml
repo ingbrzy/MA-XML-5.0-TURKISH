@@ -113,7 +113,7 @@
   <string name="status_recording">%s</string>
   <string name="status_recording_time">(Kaydediliyor: %s)</string>
   <string name="test_menu">Test Seçimi</string>
-  <string name="test_prompt">Test seç</string>
+  <string name="test_prompt">Seçim testi</string>
   <string name="test_run">Çalışma testi</string>
   <string name="title_select_station">Kanal seç - %s</string>
   <string name="toast_delete_station">%sMHz silindi.</string>
