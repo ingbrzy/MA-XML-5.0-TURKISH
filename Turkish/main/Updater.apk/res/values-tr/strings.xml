@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_device">About phone</string>
-  <string name="active_xiaomi_account">Active</string>
-  <string name="active_xiaomi_account_msg">"Please go to the MIUI forum to activate Xiaomi account:"</string>
-  <string name="active_xiaomi_account_title">Activate Xiaomi account</string>
-  <string name="app_name">Updater</string>
-  <string name="apply_buddy_update_info_message">Click Update now, the phone will begin the update process</string>
-  <string name="apply_existing_update_md5error_title">MD5 signature does not match</string>
-  <string name="apply_later_button_text">Apply later</string>
-  <string name="apply_now_button_text">Update now</string>
+  <string name="about_device">Telefon Hakkında</string>
+  <string name="active_xiaomi_account">Aktif</string>
+  <string name="active_xiaomi_account_msg">"Xiaomi hesabınızı etkinleştirmek için MIUI foruma gidin:"</string>
+  <string name="active_xiaomi_account_title">Xiaomi hesabınızı etkinleştirin</string>
+  <string name="app_name">Güncelleyici</string>
+  <string name="apply_buddy_update_info_message">Şimdi güncelle'ye tıklayın, telefon güncelleme işlemi başlayacaktır</string>
+  <string name="apply_existing_update_md5error_title">MD5 imzası eşleşmiyor</string>
+  <string name="apply_later_button_text">Daha sonra uygula</string>
+  <string name="apply_now_button_text">Şimdi Güncelle</string>
   <string name="apply_unable_to_reboot_toast">Unable to reboot to enter recovery</string>
-  <string name="apply_update_dialog_cancel_button">Cancel</string>
-  <string name="apply_update_dialog_update_button">Update</string>
-  <string name="apply_update_fail">System update failed</string>
-  <string name="apply_update_timer">Update completed，device will reboot in %d seconds</string>
+  <string name="apply_update_dialog_cancel_button">İptal</string>
+  <string name="apply_update_dialog_update_button">Güncelle</string>
+  <string name="apply_update_fail">Sistem güncellemesi başarısız oldu</string>
+  <string name="apply_update_timer">Güncelleme Tamamlandı，Cihazınız %d saniye içinde yeniden başlatılacak.</string>
   <string name="apply_upload_info_message">Clicking Update now will automatically restart the phone to apply the update</string>
   <string name="apply_upload_info_message_manually">After shutdown, you can manually enter Recovery to apply %s in SD Card. If you want to backup, you may perform it and then return to system update.</string>
   <string name="applying_rom_message">Applying update</string>
