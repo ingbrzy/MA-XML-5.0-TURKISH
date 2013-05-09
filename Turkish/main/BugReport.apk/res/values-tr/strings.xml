@@ -6,7 +6,7 @@
   <string name="description">Tanımlama (gerekli)</string>
   <string name="discard_draft_dialog_button_cancel">İptal</string>
   <string name="discard_draft_dialog_button_discard">Tamam</string>
-  <string name="discard_draft_dialog_content">Rapor değiştirildi. Taslağı silmek için tamama basın.</string>
+  <string name="discard_draft_dialog_content">Rapor değiştirildi. Taslağı silmek için tamama dokunun.</string>
   <string name="discard_draft_dialog_title">Taslağı sil.</string>
   <string name="err_type">Geri bildirim türü</string>
   <string name="err_type_call">Arama sorunu</string>
