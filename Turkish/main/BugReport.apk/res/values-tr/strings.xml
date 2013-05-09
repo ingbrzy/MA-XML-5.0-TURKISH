@@ -17,7 +17,7 @@
   <string name="err_type_power_consuming">Güç tüketimi</string>
   <string name="err_type_reboot">Sistem yeniden başlatma</string>
   <string name="err_type_suggestion">Öneri</string>
-  <string name="menu_attach_screenshot">Ekran görüntüşü iliştir</string>
+  <string name="menu_attach_screenshot">Ekran görüntüsü ekle</string>
   <string name="menu_copy">Kopyala</string>
   <string name="menu_discard">Sil</string>
   <string name="menu_send">Rapor gönder</string>
