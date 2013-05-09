@@ -11,7 +11,7 @@
   <string name="err_type">Geri bildirim türü</string>
   <string name="err_type_call">Arama sorunu</string>
   <string name="err_type_data_lost">Bilgi kayboldu</string>
-  <string name="err_type_force_close">Kapanmaya zorlama</string>
+  <string name="err_type_force_close">Kapanmaya zorla</string>
   <string name="err_type_network">Ağ sorunu</string>
   <string name="err_type_others">Diğer</string>
   <string name="err_type_power_consuming">Güç tüketimi</string>
