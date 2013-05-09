@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Wi-Fi Verisi</item>
+        <item>Kablosuz Verisi</item>
         <item>Tüm Programlar</item>
     </string-array>
     <string-array name="system_package_label">
         <item>Tarayıcı</item>
-        <item>Dosya Yönetici</item>
+        <item>Dosya Yöneticisi</item>
         <item>Galeri</item>
-        <item>İzin Yönetici</item>
-        <item>Hava Deposu</item>
+        <item>İzin Yöneticisi</item>
+        <item>Hava Durumu Deposu</item>
 	<item>Kamera</item>
         <item>Ağ Asistanı</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Kişiler</item>
-        <item>Çağrı Kaydı</item>
+        <item>Arama Kaydı</item>
         <item>Mesajlar</item>
         <item>Multimedya Mesajları</item>
         <item>Sistem Ayarları</item>
-        <item>Wi-Fi Ayarları</item>
-        <item>Masaüstü Düzeni</item>
+        <item>Kablosuz Ayarları</item>
+        <item>Ana ekran Düzeni</item>
         <item>Alarm Ayarları</item>
         <item>Notlar</item>
         <item>DND</item>
@@ -28,23 +28,23 @@
     </string-array>
     <string-array name="app_type_desc">
         <item>Veri</item>
-        <item>Uygulama</item>
-        <item>Uygulama ve Veri</item>
+        <item>Uygulamalar</item>
+        <item>Uygulamalar ve Veri</item>
     </string-array>
     <string-array name="cloud_data_label">
         <item>Kişiler</item>
-        <item>Çağrı Kaydı</item>
+        <item>Arama Kaydı</item>
         <item>Mesajlar</item>
-        <item>Wi-Fi Ayarları</item>
+        <item>kablosuz Ayarları</item>
         <item>Notlar</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Kişiler</item>
-        <item>Wi-Fi Ayarları</item>
+        <item>Kablosuz Ayarları</item>
         <item>Notlar</item>
     </string-array>
     <string-array name="cloud_sim_data">
-        <item>Çağrı Kaydı</item>
+        <item>Arama Kaydı</item>
         <item>Mesajlar</item>
     </string-array>
 </resources>
