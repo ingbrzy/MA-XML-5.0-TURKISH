@@ -35,7 +35,7 @@
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_yes">Evet</string>
     <string name="download_current_rom">Son çıkan Full Romu indir</string>
-    <string name="download_ota_rom">Ota update'i indir (%s)</string>
+    <string name="download_ota_rom">Ota update\'i indir (%s)</string>
     <string name="download_whole_rom">FULL romu indir (%s)</string>
     <string name="downloading_description">İndiriliyor...</string>
     <string name="emegency_build">Yapım:</string>
@@ -62,8 +62,8 @@
     <string name="mione_update_success_title">Güncelleme tamamlandı</string>
     <string name="monthly_build">Aylık yapı</string>
     <string name="move_data_to_sdcard_not_enough_space_message">seçilen %dMB veriyi taşımak için SD card da yeterli boşluk yok</string>
-    <string name="move_data_to_sdcard_title">Veriyi SD card'a taşı</string>
-    <string name="moving_data_to_sdcard_message">"Veri SD karta aktarılıyor, Lütfen USB modunu açmayınız veya SD card'ı çıkartmayınız."</string>
+    <string name="move_data_to_sdcard_title">Veriyi SD card\'a taşı</string>
+    <string name="moving_data_to_sdcard_message">"Veri SD karta aktarılıyor, Lütfen USB modunu açmayınız veya SD card\'ı çıkartmayınız."</string>
     <string name="moving_data_to_sdcard_progress_format">%2$dKb da %1$ddKb aktarıldı</string>
     <string name="my_best_update">En iyi gücellemem</string>
     <string name="my_expect_update">Beklenen güncelemem</string>
