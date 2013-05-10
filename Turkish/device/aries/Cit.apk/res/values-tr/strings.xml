@@ -102,7 +102,7 @@
   <string name="cit_hide_menu">Menüyü kapat</string>
   <string name="cit_kayboard_volume_down">Test tuşu: Ses kısma</string>
   <string name="cit_kayboard_volume_up">Test tuşu: Ses açma</string>
-  <string name="cit_keyboard_back">Test tuşu<: Geri</string>
+  <string name="cit_keyboard_back">Test tuşu: Geri</string>
   <string name="cit_keyboard_current">Klavye: %s</string>
   <string name="cit_keyboard_menu">Test tuşu: Menü</string>
   <string name="cit_keyboard_test_summary">Bu test mevcut seçilmiş fiziksel tuşu gösterir, orta tuşu kontol etmez</string>
