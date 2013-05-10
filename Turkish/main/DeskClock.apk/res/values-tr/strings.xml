@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Authentication error, please try again!</string>
-  <string name="add_alarm">Add alarm</string>
-  <string name="alarm_alert">Set ringtone</string>
-  <string name="alarm_alert_alert_silenced">Alarm silenced after %d minutes.</string>
-  <string name="alarm_alert_dismiss_text">Dismiss</string>
-  <string name="alarm_alert_snooze_set">Snoozing for %d minutes.</string>
-  <string name="alarm_alert_snooze_text">Snooze</string>
+  <string name="account_abnormal_state">Kimlik doğrulama hatası. Lütfen daha sonra tekrar deneyin!</string>
+  <string name="add_alarm">Alarm ekle</string>
+  <string name="alarm_alert">Zil sesini ayarla</string>
+  <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susacak.</string>
+  <string name="alarm_alert_dismiss_text">İptal et</string>
+  <string name="alarm_alert_snooze_set">%d dakika ertelendi.</string>
+  <string name="alarm_alert_snooze_text">Ertele</string>
   <string name="alarm_ascending_mode_summary">Alarm ascending using selected alarm volume.</string>
   <string name="alarm_ascending_mode_title">Alarm ascending</string>
-  <string name="alarm_button_description">Alarms</string>
+  <string name="alarm_button_description">Alarmlar</string>
   <string name="alarm_count">Alarm times before auto-silence (time)</string>
   <string name="alarm_count_never_summary">, never stop</string>
   <string name="alarm_count_summary">, auto silence after %d times</string>
-  <string name="alarm_disabled">Disabled</string>
+  <string name="alarm_disabled">Devre dışı bırakıldı</string>
   <string name="alarm_duration">Alarm duration and intervals (min)</string>
   <string name="alarm_duration_summary">Alarm at intervals of %d min</string>
   <string name="alarm_duration_title">Alarm duration settings</string>

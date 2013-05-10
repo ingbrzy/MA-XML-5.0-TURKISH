@@ -20,22 +20,22 @@
         <item>=</item>
     </string-array>
     <string-array name="operatorDescs">
-        <item>left parenthesis</item>
-        <item>right parenthesis</item>
-        <item>factorial</item>
-        <item>natural logarithm</item>
-        <item>logarithm</item>
-        <item>square root</item>
-        <item>divided by</item>
-        <item>multiplied by</item>
-        <item>plus</item>
-        <item>minus</item>
-        <item> point </item>
-        <item>power</item>
-        <item>tangent</item>
-        <item>sine</item>
-        <item>cosine</item>
+        <item>sol parantez</item>
+        <item>sağ parantez</item>
+        <item>faktöriyel</item>
+        <item>doğal logaritma</item>
+        <item>logaritma</item>
+        <item>kare kök</item>
+        <item>bölü</item>
+        <item>çarpı</item>
+        <item>artı</item>
+        <item>eksi</item>
+        <item> nokta </item>
+        <item>güç</item>
+        <item>tanjant</item>
+        <item>sinüs</item>
+        <item>kosinüs</item>
         <item>pi</item>
-        <item>equals</item>
+        <item>eşittir</item>
     </string-array>
 </resources>

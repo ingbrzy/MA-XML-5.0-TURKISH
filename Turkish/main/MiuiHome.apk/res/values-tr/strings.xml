@@ -12,7 +12,7 @@
   <string name="confirm_btn_label">Tamam</string>
   <string name="default_folder_title_game">Oyunlar</string>
   <string name="default_folder_title_recommend">Önerilenler</string>
-  <string name="default_folder_title_security">Güvenlik Merkezi</string>
+  <string name="default_folder_title_security">Sceurity Center</string>
   <string name="default_folder_title_tools">Araçlar</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$2d:%5$02d</string>
