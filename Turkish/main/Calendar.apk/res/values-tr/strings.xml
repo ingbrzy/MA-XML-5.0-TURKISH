@@ -59,7 +59,7 @@
   <string name="delete_recurring_event_title">Sil %s?</string>
   <string name="delete_this_event_title">Bu etkinlik silinsin mi?</string>
   <string name="description_label">Tanım</string>
-  <string name="directory_searching_fmt"><Aranıyor %s...</string>
+  <string name="directory_searching_fmt">Aranıyor %s...</string>
   <string name="discard_label">İptal</string>
   <string name="dismiss_all_label">Artık hiçbirini anımsatma</string>
   <string name="do_not_check">Kontrol etme -&gt;</string>
