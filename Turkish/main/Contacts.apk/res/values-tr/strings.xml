@@ -292,7 +292,7 @@
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
   <string name="import_to_xiaomi_account_progress_title">Kişileri Xiaomi hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Aşağıdaki kayıtları Xiaomi hesabına aktarmak istediğinizden emin misiniz?</string>
-  <string name="import_vcard_description">Kişileri SD kart'tan aktar</string>
+  <string name="import_vcard_description">Kişileri SD kart\'tan aktar</string>
   <string formatted="false" name="importing_vcard_canceled_title">%s dosyasını içe aktarma iptal edildi</string>
   <string formatted="false" name="importing_vcard_description">%s içe aktarılıyor</string>
   <string formatted="false" name="importing_vcard_finished_title">vCard %s dosysn içe aktarma tamamlandı</string>
@@ -341,7 +341,7 @@
   <string name="menu_batch_delete">Kişileri toplu sil</string>
   <string name="menu_call">Çağrı yap</string>
   <string formatted="false" name="menu_callNumber">Ara: %s</string>
-  <string formatted="false" name="menu_call_ip_number">IP araması çevir (%s 'i ara)</string>
+  <string formatted="false" name="menu_call_ip_number">IP araması çevir (%s \'i ara)</string>
   <string name="menu_contacts_filter">Görüntülenecek kişiler</string>
   <string name="menu_copyContact">Kişilerime kopyala</string>
   <string name="menu_deleteContact">Sil</string>
