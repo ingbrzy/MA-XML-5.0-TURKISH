@@ -1486,7 +1486,7 @@ Google Sync, kişilerinize, randevularınıza ve diğer bilgilerinize istediğin
   <string name="virus_scan_app_find_risk">%d bir tehdit, hemen kaldırmanız tavsiye edilir.</string>
   <string name="virus_scan_app_finish">Kapat</string>
   <string name="virus_scan_app_force_stop">Tarama durduruldu!</string>
-  <string name="virus_scan_app_multi_engines">Bir motor seçin, tarama uzun sürebilir/string>
+  <string name="virus_scan_app_multi_engines">Bir motor seçin, tarama uzun sürebilir</string>
   <string name="virus_scan_app_no_risk">Tehlike bulunmadı.</string>
   <string name="virus_scan_app_passed">Tarama başarıyla geçti</string>
   <string name="virus_scan_app_risk">Tehlike bulundu!</string>
