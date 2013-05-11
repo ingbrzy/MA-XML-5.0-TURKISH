@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="all_resources">Hepsi</string>
-  <string name="android_lockscreen_glogin_instructions">To unlock, sign in with your account</string>
-  <string name="arbor_day">Arbor Day</string>
-  <string name="autumn_begins">Fall Begins</string>
-  <string name="autumn_equinox">Fall Equinox</string>
+  <string name="android_lockscreen_glogin_instructions">Açmak için, hesabınızla giriş yapınız</string>
+  <string name="arbor_day">Ağaç dikme günü</string>
+  <string name="autumn_begins">Sonbahar başlangıcı</string>
+  <string name="autumn_equinox">Gündönümü</string>
   <string name="callNoAnswerTimeFormat">%s kez çaldı</string>
   <string name="caller_info_name_delimiter">veya</string>
-  <string name="childrens_day">Children\'s Day</string>
+  <string name="childrens_day">Çocukların günü</string>
   <string name="chinese_youth_day">Youth Day</string>
   <string name="christmas_dad">Christmas Day</string>
   <string name="clear_and_bright">Açık</string>
