@@ -57,7 +57,7 @@
   <string name="decompress_success">Çıkartma başarılı</string>
   <string name="decompress_to">Çıkart:</string>
   <string name="decompress_to_here">Buraya çıkart</string>
-  <string name="delete_failed">Silinemedi/string>
+  <string name="delete_failed">Silinemedi</string>
   <string name="delete_file">Sil?</string>
   <string name="delete_files">İşaretli %1$d dosya silinsin mi?</string>
   <string name="delete_files_and_folders">Seçilen %1$d dosya ve %2$d klasör silinsin mi?</string>
