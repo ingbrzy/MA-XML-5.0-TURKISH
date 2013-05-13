@@ -963,9 +963,9 @@
   <string name="power_wifi">Kablosuz</string>
   <string name="pref_button_light">Tuş ışıkları</string>
   <string name="pref_button_light_summary">Menü, Ev ve Geri tuşu ışıkları</string>
-  <string name="pref_operational_key">Operational key</string>
+  <string name="pref_operational_key">Opsiyonel tuş</string>
   <string name="pref_volume_category_title">Ses</string>
-  <string name="pref_volume_wake_summary">Ses tuşlarına basarak cihazı uyandurma. Güç tuşuna basmanın zor olduğu cihazlar için</string>
+  <string name="pref_volume_wake_summary">Ses tuşlarına basarak cihazı uyandırma. Güç tuşuna basmanın zor olduğu cihazlar için</string>
   <string name="pref_volume_wake_title">Ses tuşlarıyla uyanma</string>
   <string name="preference_change_password_title">Şifreyi değiştir</string>
   <string name="preferred_media_app_summary">Müzik oynatıcıyı değiştir</string>
@@ -1147,7 +1147,7 @@
   <string name="search_accelerometer">İvme Ölçer</string>
   <string name="search_access_control">Erişim Kontrolü</string>
   <string name="search_airplane">Uçak modu</string>
-  <string name="search_android_beam">Beam</string>
+  <string name="search_android_beam">Işın</string>
   <string name="search_battery_indicator">Pil göstergesi</string>
   <string name="search_bluetooth">Bluetooth</string>
   <string name="search_brightness">Parlaklık</string>
@@ -1189,7 +1189,7 @@
   <string name="service_manage">Ayarlar</string>
   <string name="service_manage_description">"%1$s: şu anda kullanılıyor. Kontrol etmek için Ayarlar'a dokunun."</string>
   <string name="service_process_name">%1$s</string>
-  <string name="service_restarting">Yeniden başlatılıyor</string>
+  <string name="service_restarting">Yeniden başlatılıyor..</string>
   <string name="service_started_by_app">Uygulama tarafından başlatıldı.</string>
   <string name="service_stop">Durdur</string>
   <string name="service_stop_description">Bu hizmet, uygulaması tarafından başlatıldı. Hizmetin durdurulması uygulamanın başarısız olmasına neden olabilir.</string>
@@ -1213,11 +1213,11 @@
   <string name="show_cpu_usage_summary">Mevcut CPU kullanımını gösteren yer paylaşımı</string>
   <string name="show_fc">Zorla Kapatmaları Göster</string>
   <string name="show_fc_summary">Uygulamalar içi zorla kapatma diyaloğu göster</string>
-  <string name="show_magnifier_when_input">Show magnifier</string>
+  <string name="show_magnifier_when_input">Büyüteçi göster</string>
   <string name="show_owner_info_on_lockscreen_label">Kilitli ekranda sahip bilgilerini göster</string>
   <string name="show_password">Şifreleri görünür yap</string>
   <string name="show_password_summary"/>
-  <string name="show_rounded_corners">Oval köşeler göster</string>
+  <string name="show_rounded_corners">Köşeleri oval göster</string>
   <string name="show_rounded_corners_summary">Aktifleşmesi için yeniden başlatma gerekir</string>
   <string name="show_running_services">Çalışan hizmetleri göster</string>
   <string name="show_screen_updates">Ekran güncellemelerini göster</string>
@@ -1237,7 +1237,7 @@
   <string name="sim_enter_ok">Tamam</string>
   <string name="sim_enter_old">Eski SIM PIN kodu</string>
   <string name="sim_enter_pin">SIM PIN kodu</string>
-  <string name="sim_lock_change_not_supported">"Unable to Change SIM/RUIM Lock. SIM/RUIM doesn't support it."</string>
+  <string name="sim_lock_change_not_supported">"SIM/RUIM kilidi değiştirilemez. SIM/RUIM desteklenmiyor."</string>
   <string name="sim_lock_failed">"SIM kartın kilit durumu değiştirilemiyor. PIN yanlış olabilir."</string>
   <string name="sim_lock_off">Telefonu kullanmak için PIN iste</string>
   <string name="sim_lock_on">Telefonu kullanmak için PIN iste</string>
@@ -1269,7 +1269,7 @@
   <string name="spellcheckers_settings_title">Yazım düzeltme</string>
   <string name="ssid_label">SSID:</string>
   <string name="status_awake_time">Uyanık geçen süre</string>
-  <string name="status_bar_settings">Status bar</string>
+  <string name="status_bar_settings">Durum çubuğu</string>
   <string name="status_bt_address">Bluetooth adresi</string>
   <string name="status_data_state">Mobil ağ durumu</string>
   <string name="status_icc_id">ICCID</string>
@@ -1299,11 +1299,11 @@
   <string name="storageuse_settings_summary">Uygulamalar tarafından kullanılan depolama alanını görüntüle</string>
   <string name="storageuse_settings_title">Depolama kullanımı</string>
   <string name="strict_mode">Yüksek düzey modu etkin</string>
-  <string name="strict_mode_summary">Uyglmlr uzun işlem yaprkn flash ekranı</string>
+  <string name="strict_mode_summary">Uzun işlem yaparken flash ekranı</string>
   <string name="sum_carrier_select">Bir ağ operatörü seçin</string>
   <string name="summary_font_size">%1$s</string>
- <string name="supplicant_state_label">Supplicant state:</string>
-  <string name="sync_automatically">Uygulama verilerini otomatk senk et</string>
+ <string name="supplicant_state_label">İstek sahibi:</string>
+  <string name="sync_automatically">Uygulamaları otomatk senk et</string>
   <string name="sync_calendar">Takvim</string>
   <string name="sync_contacts">Kişiler</string>
   <string name="sync_disabled">Senkronizasyon KAPALI</string>
@@ -1693,7 +1693,7 @@ Google Sync, kişilerinize, randevularınıza ve diğer bilgilerinize istediğin
   <string name="wifi_state_label">Wi-Fi durumu:</string>
   <string name="wifi_state_unknown">Bilinmiyor</string>
   <string name="wifi_status">Durum</string>
-  <string name="wifi_status_test">Wi-Fi status</string>
+  <string name="wifi_status_test">Wi-Fi durumu</string>
   <string name="wifi_stopping">Kablosuz kapatılıyor…</string>
   <string name="wifi_tether_checkbox_text">Taşınabilir kablosuz ortak erişim noktası</string>
   <string name="wifi_tether_configure_ap_text">Kablosuz ortak erişim noktası yapılandır</string>
@@ -1703,7 +1703,7 @@ Google Sync, kişilerinize, randevularınıza ve diğer bilgilerinize istediğin
   <string name="wifi_tether_failed_subtext">Taşınabilir kablosuz ortak erişim noktası hatası</string>
    <string name="wifi_unchanged">(değişmedi)</string>
   <string name="wifi_unspecified">(belirtilmemiş)</string>
-  <string name="wifi_update">Refresh stats</string>
+  <string name="wifi_update">Durumu yenile</string>
   <string name="wifi_wapi_as_certificate">AS certificate</string>
   <string name="wifi_wapi_fail_to_auth">"WAPI doğrulama hatası,lütfen sertifikaları kontrol edin"</string>
   <string name="wifi_wapi_fail_to_init">"WAPI sertifikaları açılamıyor. Kimlik depolama etkin olmayabilir"</string>
