@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
-  <string name="Parse_error_dlg_title">Package parse error</string>
-  <string name="allow_source_dlg_text">"%1$s wants to install other apps. Allow this now and in the future?"</string>
-  <string name="allow_source_dlg_title">Allow new source for apps?</string>
-  <string name="app_name">Package installer</string>
-  <string name="app_not_found_dlg_text">The application was not found in the list of installed applications.</string>
-  <string name="app_not_found_dlg_title">Application not found</string>
+  <string name="Parse_error_dlg_text">Paket ayrıştırırken bir sorun oluştu.</string>
+  <string name="Parse_error_dlg_title">Ayrıştırma hatası</string>
+  <string name="allow_source_dlg_text">"%1$s diğer uygulamalar yüklemek istiyor. Şimdi ve gelecekte bu izin verilsin mi?"</string>
+  <string name="allow_source_dlg_title">Yeni uygulamalara izin ver?</string>
+  <string name="app_name">Paket yükleyici</string>
+  <string name="app_not_found_dlg_text">Yyüklü uygulama listesinde bulunamadı.</string>
+  <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
   <string name="auto_startup_dialog_msg">"MIUI will allow the app to start-up automatically without prompting. This may lead to consumption of power or data traffic. Allow Autostart?"</string>
   <string name="caller_app">Caller: %1$s</string>
   <string name="cancel">Cancel</string>
