@@ -2,12 +2,12 @@
 <resources>
   <string name="Parse_error_dlg_text">Paket ayrıştırırken bir sorun oluştu.</string>
   <string name="Parse_error_dlg_title">Ayrıştırma hatası</string>
-  <string name="allow_source_dlg_text">"%1$s diğer uygulamalar yüklemek istiyor. Şimdi ve gelecekte bu izin verilsin mi?"</string>
+  <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor. Şimdi ve gelecekte bu izin verilsin mi?"</string>
   <string name="allow_source_dlg_title">Yeni uygulamalara izin ver?</string>
   <string name="app_name">Paket yükleyici</string>
-  <string name="app_not_found_dlg_text">Yyüklü uygulama listesinde bulunamadı.</string>
+  <string name="app_not_found_dlg_text">Yüklü uygulama listesinde bulunamadı.</string>
   <string name="app_not_found_dlg_title">Uygulama bulunamadı</string>
-  <string name="auto_startup_dialog_msg">MIUI uygulamaları otomatik olarak naşlatacak. İzin verilsin mi?"</string>
+  <string name="auto_startup_dialog_msg">MIUI uygulamaları otomatik olarak başlatacak. İzin verilsin mi?"</string>
   <string name="caller_app">Arayan: %1$s</string>
   <string name="cancel">İptal</string>
   <string name="dlg_app_replacement_statement">"Bu uygulama başka bir uygulamanın yerine geçecek ve eski kullanıcı verileri kaydedilecek."</string>
@@ -20,12 +20,12 @@
   <string name="install_confirm_question">Uygulama yüklensin mi?</string>
   <string name="install_done">Yüklendi</string>
   <string name="install_failed">Yüklenemedi</string>
-  <string name="install_failed_cpu_abi_incompatible">"Uygulama telefonunuz ile uyumlu değil."</string>
+  <string name="install_failed_cpu_abi_incompatible">"Uygulama CPU ile uyumlu değil."</string>
   <string name="install_failed_file_not_found">Yüklemenin tamamlanması için belirtilen paket silindi.</string>
   <string name="install_failed_inconsistent_certificates">Aynı ad ve imzalı bir uygulama zaten yüklenmiş.</string>
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor.</string>
   <string name="install_failed_msg">%1$s yüklenemedi.</string>
-  <string name="install_failed_older_sdk">Paket eski sürüm androidlerde çalışır.</string>
+  <string name="install_failed_older_sdk">Paket eski android sürümlerinde çalışır.</string>
   <string name="install_failed_verify_failed">Paket doğrulanamadı, yükleme iptal edildi</string>
   <string name="install_failed_verify_timeout">Bu paket doğrulamak için çalışırken zaman aşımı oluştu. Daha sonra yeniden deneyin.</string>
   <string name="installing">Yükleniyor...</string>
