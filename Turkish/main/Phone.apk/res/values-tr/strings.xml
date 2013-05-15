@@ -284,7 +284,7 @@
   <string name="count_down">Saniye:</string>
   <string name="count_of_persons_in_conference_miui">Toplam %d kişi</string>
   <string name="countrycode_alert_message_warning_miui">Girilen alan kodu yanlış, yinede kullanılsın mı?</string>
-  <string name="countrycode_alert_message_wrong_miui">Alan kodu yanlış, tekrar girin</string></string>
+  <string name="countrycode_alert_message_wrong_miui">Alan kodu yanlış, tekrar girin</string>
   <string name="countrycode_alert_title_miui">Uyarı</string>
   <string name="crystaltalk_summary_miui">Çağrı ses ayarları</string>
   <string name="crystaltalk_title_miui">NICAM ayarları</string>
