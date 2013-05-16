@@ -1014,7 +1014,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="throttle_current_usage">Dönem içinde kullanılan veriler</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s aşıldı veri hızı %2$d Kb/s düşürüldü"</string>
   <string name="throttle_data_usage">Veri kullanımı</string>
-  <string name="throttle_data_usage_subtext">%1$s (%2$d٪) arası %3$s en fazla/string>
+  <string name="throttle_data_usage_subtext">%1$s (%2$d٪) arası %3$s en fazla</string>
   <string name="throttle_help">Daha fazla öğren</string>
   <string name="throttle_help_subtext">"Detaylı bilgi için operatörünüzü arayın"</string>
   <string name="throttle_rate">Veri hızı ilkesi</string>
