@@ -134,7 +134,7 @@
   <string name="show_firewall_notification">Güvenlik duvarı uyarılarını göster</string>
   <string name="show_notification">Bildirimleri göster</string>
   <string name="smart_antispam">Akıllı Anti-Spam</string>
-  <string name="turn_on_smart_antispam_hint">Etkinleştirildikten sonra kimlik tespiti yapılacak, numaralar etiktetlenecek ve sahte aralamalar belirlencek.</string>
+  <string name="turn_on_smart_antispam_hint">Etkinleştirildikten sonra kimlik tespiti yapılacak, numaralar etiketlenecek ve sahte aralamalar belirlencek.</string>
   <string name="turn_on_smart_antispam_summary_off">Yerel numara veritabanını sorgula</string>
   <string name="turn_on_smart_antispam_summary_on">Sadece Wi-Fi ve 3G de çalış</string>
   <string name="turn_on_smart_antispam_title">Bilinmeyen numaralara kimlik tespiti yap</string>
