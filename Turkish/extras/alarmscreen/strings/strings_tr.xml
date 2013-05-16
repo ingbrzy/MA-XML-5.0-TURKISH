@@ -1,4 +1,4 @@
 <strings>
-    <string name="slider_text" value="Cancel Alarm" />
-    <string name="snooze_message" value="Snooze %d min." />
+    <string name="slider_text" value="Alarmı İptal Et" />
+    <string name="snooze_message" value="Sustur %d dk." />
 </strings>
