@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="alert_edit_action_delete">Remove</string>
-  <string name="alert_edit_action_update">Update</string>
+  <string name="alert_edit_action_delete">Sil</string>
+  <string name="alert_edit_action_update">Güncelle</string>
   <string name="alert_message_delete_folder">Klasör ve içerisindeki notlar silinecek, onaylıyor musunuz?</string>
   <string name="alert_message_delete_note">Bu notu silmeyi onaylıyor musunuz?</string>
   <string name="alert_message_delete_notes">%d seçili notu silmeyi onaylıyor musunuz?</string>
@@ -9,12 +9,12 @@
   <string name="app_name">Notlar</string>
   <string name="app_widget2x2">Notlar 2x2 </string>
   <string name="app_widget4x4">Notlar 4x4</string>
-  <string name="attachment_camera">Camera</string>
-  <string name="attachment_contact">Contact</string>
-  <string name="attachment_gallery">Gallery</string>
-  <string name="button_new_note">New Note</string>
+  <string name="attachment_camera">Kamera</string>
+  <string name="attachment_contact">Kişi</string>
+  <string name="attachment_gallery">Galeri</string>
+  <string name="button_new_note">Yeni not</string>
   <string name="call_record_folder_name">Çağrı Notları</string>
-  <string name="default_folder_name">Notes</string>
+  <string name="default_folder_name">Notlar</string>
   <string name="error_note_empty_for_clock">Üzgünüm, boş nota saat ayarı yapılamaz</string>
   <string name="error_note_empty_for_send_to_desktop">Üzgünüm, ana ekrana boş not gönderilemez</string>
   <string name="error_note_not_exist">Böyle bir not yok</string>
@@ -33,12 +33,12 @@
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">%1$d notu %2$s klasörüne taşındı</string>
   <string name="hint_foler_name">Giriş Adı</string>
-  <string name="image_edit_action_delete">Delete</string>
-  <string name="image_edit_action_replace">Replace</string>
+  <string name="image_edit_action_delete">Sil</string>
+  <string name="image_edit_action_replace">Değiştir</string>
   <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
   <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
   <string name="image_edit_action_replace_menu_title">Replace item</string>
-  <string name="image_edit_action_view">View</string>
+  <string name="image_edit_action_view">Görüntüle</string>
   <string name="info_note_enter_desktop">Not ana ekrana eklendi</string>
   <string name="menu_create_folder">Yeni Klasör</string>
   <string name="menu_delete">Sil</string>
@@ -103,9 +103,9 @@
   <string name="ticker_fail">Eşitleme hatası</string>
   <string name="ticker_success">Eşitleme tamamlandı</string>
   <string name="ticker_syncing">Notları eşitleniyor...</string>
-  <string name="time_picker_dialog_title">Set Reminder Time</string>
+  <string name="time_picker_dialog_title">Hatırlatma zamanı ayarla</string>
   <string name="toast_message_add_image_fail">Failed to insert image!</string>
-  <string name="toast_message_replace_image_fail">Failed to replace image!</string>
+  <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız oldu!</string>
    <string name="widget_havenot_content">Herhangi bir not yok, not oluşturmak için tıkla.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
 </resources>
