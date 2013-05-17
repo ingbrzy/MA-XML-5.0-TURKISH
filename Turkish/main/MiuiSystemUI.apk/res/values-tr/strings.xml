@@ -31,7 +31,7 @@
   <string name="accessibility_menu">Menü</string>
   <string name="accessibility_no_battery">Pil yok.</string>
   <string name="accessibility_no_data">Veri yok.</string>
-  <string name="accessibility_no_phone">Telefon sinyali yok.</string>
+  <string name="accessibility_no_phone">Şebeke sinyali yok.</string>
   <string name="accessibility_no_sim">SIM kart yok.</string>
   <string name="accessibility_no_wifi">Kablosuz yok.</string>
   <string name="accessibility_no_wimax">WiMAX yok.</string>
@@ -43,10 +43,10 @@
   <string name="accessibility_recent">Son uygulamalar</string>
   <string name="accessibility_recents_item_dismissed">%s kaldırıldı.</string>
   <string name="accessibility_remove_notification">Bildirimi temizle.</string>
-  <string name="accessibility_ringer_silent">Telefon zili sessiz.</string>
-  <string name="accessibility_ringer_vibrate">Telefon zili titreşim.</string>
+  <string name="accessibility_ringer_silent">Telefon sessizde.</string>
+  <string name="accessibility_ringer_vibrate">Telefon titreşimde.</string>
   <string name="accessibility_settings_button">Sistem ayarları.</string>
-  <string name="accessibility_tty_enabled">TeleTypewriter etkin.</string>
+  <string name="accessibility_tty_enabled">Daktilo etkin.</string>
   <string name="accessibility_wifi_one_bar">Kablosuz gücü tek çubukta.</string>
   <string name="accessibility_wifi_signal_full">Kablosuz sinyali tam.</string>
   <string name="accessibility_wifi_three_bars">Kablosuz sinyal gücü üç çubuk.</string>
@@ -57,7 +57,7 @@
   <string name="accessibility_wimax_two_bars">WiMAX iki çubuk.</string>
   <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
   <string name="always_use_device">Bu USB cihazı için varsayılan olarak kullan</string>
-  <string name="app_label">Sist Arayüzü</string>
+  <string name="app_label">Sistem Arayüzü</string>
   <string name="battery_low_percent_format">%d%% kaldı</string>
   <string name="battery_low_subtitle">Pil azalıyor.</string>
   <string name="battery_low_title">Şarj cihazını bağla</string>
@@ -67,14 +67,14 @@
   <string name="camera_key_action_app_title">Uygulamayı aç</string>
   <string name="camera_key_action_category_title">Kamera uygulaması açılmazsa kullanın</string>
   <string name="camera_key_action_none_title">Eylem yok</string>
-  <string name="camera_key_action_setting_title">MI Button</string>
+  <string name="camera_key_action_setting_title">MI tuşu</string>
   <string name="camera_key_action_shortcut_call">Çevirici</string>
   <string name="camera_key_action_shortcut_home">Ev Ekranına dön</string>
   <string name="camera_key_action_shortcut_screenshot">Ekran görüntüsü al</string>
   <string name="camera_key_action_shortcut_search">Ara</string>
   <string name="camera_key_action_shortcut_title">Kısayol</string>
   <string name="camera_key_action_shortcut_wake">Cihazı Uyandır/Kilitle</string>
-  <string name="camera_key_action_title">MI button</string>
+  <string name="camera_key_action_title">MI tuşu</string>
   <string name="camera_key_action_toggle_title">Özellik geçişi tetikleme</string>
   <string name="chooseUsbActivity">USB aygıtı için uygulama seçin</string>
   <string name="compat_mode_help_body">Uygulama küçük bir ekran için tasarlanmışsa saatin yanında bir yakınlaştırma denetimi görünür.</string>
@@ -91,7 +91,7 @@ Verileri yeniden etkinleştirirseniz, operatör sizden ücret talep edebilir."</
   <string name="data_usage_disabled_dialog_enable">Veriyi yeniden etkinleştir</string>
   <string name="data_usage_disabled_dialog_mobile_title">Mobil veriler devre dışı</string>
   <string name="data_usage_disabled_dialog_title">Veriler devre dışı</string>
-  <string name="dismount_storage">No</string>
+  <string name="dismount_storage">Hayır</string>
   <string name="dlg_confirm_kill_storage_users_text">USB depolamayı aktifleştirirseniz, kullandığınız bazı uygulamalar durabilir yada tekrar de-aktif edene kadar kullanılamayabilir.</string>
   <string name="dlg_confirm_kill_storage_users_title">USB Depolamayı Aç</string>
   <string name="dlg_error_title">USB eylemi başarısız</string>
@@ -111,7 +111,7 @@ Verileri yeniden etkinleştirirseniz, operatör sizden ücret talep edebilir."</
   <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
   <string name="gps_notification_found_text">Konum GPS ile belirlendi</string>
   <string name="gps_notification_searching_text">GPS aranıyor</string>
-  <string name="incoming_call_vibrate_hint">Incoming call</string>
+  <string name="incoming_call_vibrate_hint">Gelen çağrı</string>
   <string name="installer_cd_button_title">Mac için Android File Transfer uygulamasını yükle</string>
   <string name="invalid_charger">"USB üzerinden şarj desteklenmiyor.
 Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
@@ -164,7 +164,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="settings_expandable_under_keyguard">Kilit ekranında genişlet</string>
   <string name="settings_expandable_under_keyguard_summary">Sadece güvenliği olmayan kilit ekranında çalışır</string>
   <string name="settings_expanded_view">Genişletilmiş bildirim görünümü</string>
-  <string name="settings_notification_icon">durum çubuğundaki bildirimler</string>
+  <string name="settings_notification_icon">Durum çubuğundaki bildirimler</string>
   <string name="settings_screenshot_notification_disabled">Ekran görüntüsü</string>
   <string name="settings_separator">,</string>
   <string name="settings_show_flow_info">Trafik bilgilerini göster</string>
@@ -177,7 +177,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="settings_toggle_layout_style_single_page">Sayfa</string>
   <string name="settings_toggle_position">"Geçiş konumunu özelleştir"</string>
   <string name="settings_toggle_position_divider_list">Bar üzerine yerleştirilen geçiş aktif</string>
-  <string name="settings_toggle_position_divider_page">%1$d Bar üzerine yerleştirilen geçiş aktif</string>
+  <string name="settings_toggle_position_divider_page">%1$d Bar üzerine yerleştirilen geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="status_bar_accessibility_dismiss_recents">Son uygulamaları kapat</string>
   <string name="status_bar_clear_all_button">Temizle</string>
@@ -186,9 +186,9 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="status_bar_do_not_disturb_button">Rahatsız etmeyin</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarla</string>
   <string name="status_bar_latest_events_title">Bildirimler</string>
-  <string name="status_bar_network_flow">Today: %1$s Remaining: %2$s Apps: %3$s</string>
-  <string name="status_bar_network_flow_exceed">"Today: %1$s | Exceeded: %2$s  |  Apps: %3$s"</string>
-  <string name="status_bar_network_flow_today">Today:%1$s</string>
+  <string name="status_bar_network_flow">Bugün: %1$s Kalan: %2$s Uyg: %3$s</string>
+  <string name="status_bar_network_flow_exceed">"Bugün: %1$s | Aşılan: %2$s  |  Uyg: %3$s"</string>
+  <string name="status_bar_network_flow_today">Bugün:%1$s</string>
   <string name="status_bar_network_name_separator">""</string>
   <string name="status_bar_no_notifications_title">Bildirim yok</string>
   <string name="status_bar_no_recent_apps">Son uygulama yok</string>
@@ -216,7 +216,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="status_bar_style_settings">Durum çubuğu ayarları</string>
   <string name="status_bar_toggle_ac">Özel</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
-  <string name="status_bar_toggle_brightness">Arka ışık</string>
+  <string name="status_bar_toggle_brightness">Parlaklık</string>
   <string name="status_bar_toggle_data">Veri</string>
   <string name="status_bar_toggle_divider">Daha</string>
   <string name="status_bar_toggle_flight_mode">UçakModu</string>
@@ -225,7 +225,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="status_bar_toggle_mute">Sessiz</string>
   <string name="status_bar_toggle_network_type">Şebeke türü</string>
   <string name="status_bar_toggle_privacy_mode">Koruma</string>
-  <string name="status_bar_toggle_reboot">Tekrar başlat</string>
+  <string name="status_bar_toggle_reboot">T.başlat</string>
   <string name="status_bar_toggle_rotate">Döndür</string>
   <string name="status_bar_toggle_screen_button">Ekran tuşları</string>
   <string name="status_bar_toggle_screenshot">Ekran görüntüsü</string>
@@ -246,7 +246,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="usb_accessory_uri_prompt">Bu USB aksesuarıyla çalışan yüklü uygulama yok. Bu aksesuar hakkında bilgi içn: %1$s</string>
   <string name="usb_device_confirm_prompt">Bu USB cihaz bağlandığında %1$s açılsın mı?</string>
   <string name="usb_device_permission_prompt">%1$s uygulamasının USB cihazına erişmesine izin verilsin mi?</string>
-  <string name="usb_mode_dont_ask">"Daha sonra sorma"</string>
+  <string name="usb_mode_dont_ask">"Tekrar sorma"</string>
   <string name="usb_mode_mount_storage_title">USB depolama açılsın mı？</string>
   <string name="usb_mode_notification">USB depolama</string>
   <string name="usb_preference_title">USB dosya aktarım seçenekleri</string>
@@ -261,8 +261,8 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="usb_storage_title">USB bağlandı</string>
   <string name="use_mtp_button_title">Medya oynatıcı olarak ekle (MTP)</string>
   <string name="use_ptp_button_title">Kamera olarak ekle (PTP)</string>
-  <string name="user_guide_for_call">Telefon arayüzüne geri dönmek için, durum çubuğunu aşağı sürükleyin ve arama bildirimlerine tıklayabilirsiniz</string>
-  <string name="user_guide_for_notification">Yeni bir bildirim aldı, ayrıntılı kontrol için durum çubuğunu aşağı sürükleyebilirsiniz</string>
+  <string name="user_guide_for_call">Telefon arayüzüne geri dönmek için, durum çubuğunu aşağı sürükleyin ve arama bildirimlerine tıklayın</string>
+  <string name="user_guide_for_notification">Yeni bir bildirim alındı, ayrıntılı kontrol için durum çubuğunu aşağı sürükleyebilirsiniz</string>
   <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
   <string name="user_guide_for_toggle_list">Tıkla ve geçiş listesini özelleştir</string>
 </resources>
