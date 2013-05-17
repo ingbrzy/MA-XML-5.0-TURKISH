@@ -62,7 +62,7 @@
   <string name="pref_dialog_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="pref_download_settings_title">Veri kullanımı istemi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu limiti aşarsa, beni uyar"</string>
-  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s aşarsa beni uyar/string>
+  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s aşarsa beni uyar</string>
   <string name="pref_title_enable_max_bytes_popup">Ver iindirme uyarısı</string>
   <string name="pref_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="preferences_title">Ayarlar</string>
