@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="cit_OTG_plugin_check_summary">This test will detect an OTG device.</string>
-  <string name="cit_OTG_plugin_check_title"> Start OTG Test</string>
+  <string name="cit_OTG_plugin_check_title"> Otg testi başlat</string>
   <string name="cit_OTG_plugout_check_summary"> This test will detect for an OTG device plugged in status.</string>
   <string name="cit_OTG_plugout_check_title">OTG Pulled out status</string>
   <string name="cit_OTG_waiting_in">Lütfen USB_OTG cihazını takın.</string>
