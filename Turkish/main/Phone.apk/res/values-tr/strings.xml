@@ -948,7 +948,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="sip_settings">Internet çağrısı ayarları</string>
   <string name="sip_settings_miui">Internet çağrısı</string>
   <string name="sip_system_decide">Otomatik</string>
-  <string name="sliding_down_hint_miui">Aşağıya kaydırıp cevaplayın/string>
+  <string name="sliding_down_hint_miui">Aşağıya kaydırıp cevaplayın</string>
   <string name="sliding_target_hint_miui">Kaydırma hedefi</string>
   <string name="sliding_up_hint_miui">Yukarı kaydırarak reddet</string>
   <string name="sms_content">Mesaj içeriği</string>
