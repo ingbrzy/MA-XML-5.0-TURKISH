@@ -676,7 +676,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="onscreen_call_record_miui">Ses kayıt</string>
   <string name="onscreen_dialer_miui">KLavye</string>
   <string name="onscreen_end_call_text_miui">Son</string>
-  <string name="onscreen_hold_text_miui"Beklet</string>
+  <string name="onscreen_hold_text_miui">Beklet</string>
   <string name="onscreen_manage_calls_text_miui">Çağrıları yönet</string>
   <string name="onscreen_merge_calls_text_miui">Çağrıları birleştir</string>
   <string name="onscreen_mute_text_miui">Sessiz</string>
