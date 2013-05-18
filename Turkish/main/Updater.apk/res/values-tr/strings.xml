@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
     <string name="about_device">Telefon Hakkında</string>
-    <string name="active_xiaomi_account">Aktif</string>
-    <string name="active_xiaomi_account_msg">"Xiaomi hesabı etkinleştirmek için lütfen MIUI foruma gidin"</string>
-    <string name="active_xiaomi_account_title">Activate Xiaomi hesabını aktifleştir</string>
+    <string name="active_xiaomi_account">Etkin</string>
+    <string name="active_xiaomi_account_msg">"Xiaomi hesabı etkinleştirmek için lütfen MIUI forumuna gidin"</string>
+    <string name="active_xiaomi_account_title">Xiaomi hesabını aktifleştir</string>
     <string name="app_name">Güncelleyici</string>
     <string name="apply_buddy_update_info_message">Şimdi güncelleye basınız, Telefon güncelleme işlemine başlayacak</string>
     <string name="apply_existing_update_md5error_title">MD5 imzası eşleşmiyor</string>
