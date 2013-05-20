@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">Paket ayrıştırırken bir sorun oluştu.</string>
+  <string name="Parse_error_dlg_text">Paketi ayrıştırırken bir sorun oluştu.</string>
   <string name="Parse_error_dlg_title">Ayrıştırma hatası</string>
   <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor. Şimdi ve gelecekte bu izin verilsin mi?"</string>
   <string name="allow_source_dlg_title">Yeni uygulamalara izin ver?</string>
@@ -47,8 +47,8 @@
   <string name="perm_privacy_app_launch">Aç</string>
   <string name="perm_privacy_app_trust">Bu uygulama güvenilir</string>
   <string name="perm_privacy_app_trust_summary">MIUI bu uygulamayı izleyecek</string>
-  <string name="perm_sysopt_boost_auto_start">İzinleri otm başlat</string>
-  <string name="perm_sysopt_boost_auto_start_summary">Uygulama otm başlayacak!</string>
+  <string name="perm_sysopt_boost_auto_start">İzinleri otomatik başlat</string>
+  <string name="perm_sysopt_boost_auto_start_summary">Uygulama otomatik başlayacak!</string>
   <string name="privacy_relative">Gizlilik izinleri</string>
   <string name="safe_guard_support">Teknik testek %1$s</string>
   <string name="safe_relative">Güvenli izinler</string>
