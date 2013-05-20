@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_label">İndirilenler</string>
+  <string name="app_label">İndirmeler</string>
   <string name="button_sort_by_date">Tarihe göre sırala</string>
   <string name="button_sort_by_size">Boyuta göre sırala</string>
   <string name="cancel_download_notice">İndirme bildirimini yoksay</string>
@@ -23,25 +23,25 @@
   <string name="dialog_queued_body">Bu dosya daha sonra indirilmek üzere sıraya alındı.</string>
   <string name="dialog_title_not_available">İndirme hatası</string>
   <string name="dialog_title_queued_body">Dosya mevcut değil.</string>
-  <string name="disable_download_only_in_wifi_title">Turning off “Download via Wi-Fi only”</string>
+  <string name="disable_download_only_in_wifi_title">“Sadece Wİ-Fi ile indir”kapatılıyor</string>
   <string name="download_complete">İndirildi</string>
   <string name="download_error">Hata</string>
-  <string name="download_error_insufficient_space">Insufficient space</string>
+  <string name="download_error_insufficient_space">Yetersiz alan</string>
   <string name="download_in_process">İndiriliyor</string>
-  <string name="download_info_count_deleted_tasks">%s downloads removed</string>
+  <string name="download_info_count_deleted_tasks">%s İndirme kaldırıldı</string>
   <string name="download_info_start_deleted_tasks">İndirilenleri sil</string>
   <string name="download_no_application_title">Dosya açılamıyor</string>
   <string name="download_paused">İndirme duraklatıldı</string>
-  <string name="download_pending">Download pending</string>
+  <string name="download_pending">Bekleyeni indir</string>
   <string name="download_queued">Sıraya alındı</string>
   <string name="download_running">İndiriliyor</string>
-  <string name="download_share_dialog">Share via</string>
+  <string name="download_share_dialog">İle paylaş</string>
   <string name="download_success">Tamamlandı</string>
   <string name="download_title">İndirilenler</string>
   <string name="download_title_sorted_by_date">İndirilenler - Tarihe göre</string>
   <string name="download_title_sorted_by_size">İndirilenler - Boyuta göre</string>
   <string name="download_when_network_connected">İndirme mobil şebekeyi kullanıyor</string>
-  <string name="downloads_operating">İşletiyor...</string>
+  <string name="downloads_operating">Çalışıyor...</string>
   <string name="editmode_menu_delete">Sil</string>
   <string name="editmode_menu_share">Paylaş</string>
   <string name="keep_queued_download">Sakla</string>
@@ -60,18 +60,18 @@
   <string name="paused_waiting_to_retry">Yeniden denemek için bekliyor</string>
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Dosya boyutu limiti</string>
-  <string name="pref_download_settings_title">Veri kullanımı istemi</string>
+  <string name="pref_download_settings_title">Veri kullanımı isteği</string>
   <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu limiti aşarsa, beni uyar"</string>
   <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s aşarsa beni uyar</string>
-  <string name="pref_title_enable_max_bytes_popup">Ver iindirme uyarısı</string>
+  <string name="pref_title_enable_max_bytes_popup">Veri indirme uyarısı</string>
   <string name="pref_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="preferences_title">Ayarlar</string>
   <string name="remove_download">Kaldır</string>
   <string name="restart_download">Tekrar başlat</string>
   <string name="resume_download">Devam</string>
-  <string name="retry_after_network_available">Ağ bağlantısı olunca tekrar deneyin</string>
+  <string name="retry_after_network_available">Ağ bağlantısı sağlanınca tekrar deneyin</string>
   <string name="retry_download">Tekrar dene</string>
   <string name="select_all">Tümünü seç</string>
-  <string name="select_operation_items">Seçin</string>
+  <string name="select_operation_items">Seç</string>
   <string name="selected_count">Seçilen %1$d dışında %2$d</string>
 </resources>
