@@ -115,8 +115,8 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
-  <string name="config_export_vcard_type">default</string>
-  <string name="config_import_vcard_type">default</string>
+  <string name="config_export_vcard_type">varsayılan</string>
+  <string name="config_import_vcard_type">varsayılan</string>
   <string name="config_prohibited_phone_number_regexp" />
   <string formatted="false" name="confirm_delete_selected_call_log">%1d seçili arama kaydı grubu silinsin mi?</string>
   <string formatted="false" name="confirm_export_message">Kişi listeniz şu dosyaya aktarılacak: %s.</string>
@@ -124,7 +124,7 @@
   <string name="connections">Bağlantılar</string>
   <string name="contactDetailAbout">Hakkında</string>
   <string name="contactDetailCalllog">Arama kaydı</string>
-  <string name="contactDetailUpdates">Güncellemlr</string>
+  <string name="contactDetailUpdates">Güncellemeler</string>
   <string name="contactMultiPickerActivityTitle">Kişileri seç</string>
   <string name="contactPickerActivityTitle">Bir kişi seçin</string>
   <string name="contactSavedErrorToast">Kişi değişiklikleri kaydedilemedi.</string>
@@ -178,7 +178,7 @@
   <string name="description_image_button_four">dört</string>
   <string name="description_image_button_nine">dokuz</string>
   <string name="description_image_button_one">bir</string>
-  <string name="description_image_button_pound">pound</string>
+  <string name="description_image_button_pound">lira</string>
   <string name="description_image_button_seven">yedi</string>
   <string name="description_image_button_six">altı</string>
   <string name="description_image_button_star">yıldız</string>
@@ -204,7 +204,7 @@
   <string name="directory_search_label">Dizin</string>
   <string formatted="false" name="dirty_contacts_notification_description">Senkronize edilmemiş %d kişi mevcut</string>
   <string name="dirty_contacts_notification_message">(Kişi ayarlarından hatırlatma seçeneklerini değiştirebilirsiniz)</string>
-  <string name="dirty_contacts_notification_title">Senk. Edilsin mi?</string>
+  <string name="dirty_contacts_notification_title">Senkronize edilsin mi?</string>
   <string name="display_all_contacts">Tüm kişiler</string>
   <string name="display_more_groups">Diğer gruplar...</string>
   <string name="display_only_phones">Sadece telefon numarası olan kişileri göster</string>
@@ -283,7 +283,7 @@
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_button">İçe aktar</string>
   <string name="import_failure_no_vcard_file">SD kartta hiç vCard dosyası bulunamadı.</string>
-  <string name="import_from_sdcard">Depl biriminden içe aktar</string>
+  <string name="import_from_sdcard">Depolama biriminden içe aktar</string>
   <string name="import_from_sim">SIM karttan içe aktar</string>
   <string name="import_multiple_vcard_string">Birden fazla vCard dosyasını içe aktar</string>
   <string name="import_one_vcard_string">Bir vCard dosyasını içe aktar</string>
@@ -361,7 +361,7 @@
   <string name="menu_new_contact_action_bar">Yeni</string>
   <string name="menu_new_favorite_action_bar">Yeni</string>
   <string name="menu_new_group_action_bar">Yeni</string>
-  <string name="menu_redirect_calls_to_vm">Sesli mesaja gelen tüm çağrlr</string>
+  <string name="menu_redirect_calls_to_vm">Sesli mesaja gelen tüm çağrılar</string>
   <string name="menu_removeStar">Sık kullanılanlardan kaldır</string>
   <string name="menu_search">Ara</string>
   <string name="menu_sendSMS">Kısa mesaj gönder</string>
@@ -425,7 +425,7 @@ Favoriler listenize kişi eklemek için:
 • Kişilerinizi güvenli bir şekilde yedekleyin."</string>
   <string name="no_contact_details">Bu kişi için ek bilgi yok.</string>
   <string name="no_contact_name">Kişiismi kayıtlı değil</string>
-  <string name="no_contacts_selected">Seçili kişi yok.</string>
+  <string name="no_contacts_selected">Seçilen kişi yok.</string>
   <string name="no_sdcard_message">SD kart bulunamadı.</string>
   <string name="no_sdcard_title">SD kart yok</string>
   <string name="non_phone_add_to_contacts">Kişilere ekle</string>
@@ -619,7 +619,7 @@ Favoriler listenize kişi eklemek için:
   <string name="voicemail_status_action_configure">Yapılandır</string>
   <string name="voicemail_status_audio_not_available">Ses kullanılamıyor.</string>
   <string name="voicemail_status_configure_voicemail">Sesli mesajınızı yapılandırın.</string>
-  <string name="voicemail_status_messages_waiting">Sesli msj suncsuna bağlanılamıyor. Yeni sesli mesajlar bekliyor.</string>
+  <string name="voicemail_status_messages_waiting">Sesli mesaj suncsuna bağlanılamıyor. Yeni sesli mesajlar bekliyor.</string>
   <string name="voicemail_status_voicemail_not_available">Sesli mesaj sunucusuna bağlanılamıyor.</string>
   <string name="websiteLabelsGroup">Web sitesi</string>
   <string formatted="false" name="widget_name_and_phonetic">%1$s (%2$s)</string>
