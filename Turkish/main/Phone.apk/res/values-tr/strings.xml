@@ -987,12 +987,12 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="sum_fdn">Sabit arama numaralarını yönet</string>
   <string name="sum_fdn_change_pin">FDN erişimi için PIN değiştir</string>
   <string name="sum_fdn_manage_list">Telefon numaralarını yönet</string>
-  <string name="sum_gsm_call_settings">Ed sadece GSM çağrı ayarları</string>
+  <string name="sum_gsm_call_settings">Ek sadece GSM çağrı ayarları</string>
   <string name="sum_hide_caller_id">Giden çağrılarda numara gizlendi</string>
   <string name="sum_loading_settings">Yükleme ayarları…</string>
   <string name="sum_search_networks">Kullanılabilir şebekeleri ara</string>
-  <string name="sum_select_automatically">Tercihli şebekeyi oto seç</string>
-  <string name="sum_select_automatically_option_miui">Tercihli şebekeyi oto seç, %s</string>
+  <string name="sum_select_automatically">Tercihli şebekeyi otomatik seç</string>
+  <string name="sum_select_automatically_option_miui">Tercihli şebekeyi otomatik seç, %s</string>
   <string name="sum_show_caller_id">Giden çağrılarda numara gösterilecek</string>
   <string name="sum_voicemail_choose_provider">Sesli mesaj servisini seç</string>
   <string name="sum_xdivert_disabled">X-Divert devre dışı</string>
@@ -1001,7 +1001,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="t9_indexing_method_pinyin">PinYin</string>
   <string name="t9_indexing_method_title_miui">T9 arama ayarları</string>
   <string name="t9_indexing_method_zhuyin">ZhuYin</string>
-  <string name="t9_indexing_rebuilding_message">T9 indeksleri tekrar yapılıyor, bekleyin...</string>
+  <string name="t9_indexing_rebuilding_message">T9 indeksleri yapılandırılıyor, bekleyin...</string>
   <string name="technology_news_disable">Tekno haberler devre dışı</string>
   <string name="technology_news_enable">Tekno haberler etkin</string>
   <string name="telocation_setting_miui">Bölge ayarları</string>
@@ -1053,8 +1053,8 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="vibrate_on_ring_title">Çalınca titret</string>
   <string name="vm_change_failed">"Sesli mesaj numarası değiştirilemedi. Servis sağlayıcınıza başvurun."</string>
   <string name="vm_changed">Sesli mesaj numarası değiştirildi.</string>
-  <string name="voice_privacy">Ses gizli</string>
-  <string name="voice_privacy_miui">Ses gizli</string>
+  <string name="voice_privacy">Gizli ses</string>
+  <string name="voice_privacy_miui">Gizli ses</string>
   <string name="voice_privacy_summary">Gelişmiş gizlilik modu etkin</string>
   <string name="voice_privacy_summary_miui">Gelişmiş gizlilik modu etkin</string>
   <string name="voice_quality_ui_values_bright_miui">Parlak</string>
