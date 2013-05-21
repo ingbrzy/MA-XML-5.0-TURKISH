@@ -267,13 +267,6 @@
   <string name="export_to_sdcard">Depolama birimine aktar</string>
   <string name="export_to_sim">SIM kartına aktar</string>
   <string name="export_vcard_description">SD karta vCard olarak aktar</string>
-  <string name="exporting_contact_failed_message">"Rehber bilgisi dışa aktarılamadı. Sebep: \"%s\""</string>
-  <string name="exporting_contact_failed_title">"Dışa aktarılamaz"</string>
-  <string name="exporting_contact_list_message">Rehber bilgileri dışa aktarma başlıyor: %s.</string>
-  <string name="exporting_contact_list_progress" formatted="false">%s of %s kişi</string>
-  <string name="exporting_contact_list_title">Rehber bilgileri dışa aktarılıyor</string>
-  <string name="exporting_vcard_canceled_title">Dışa aktarma %s iptal edildi.</string>
-  <string name="exporting_vcard_finished_title">Dışa aktarma bitti %s.</string>
   <string formatted="false" name="exporting_contact_failed_message">"Kişi bilgisi aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">Dışa aktarılamadı</string>
   <string formatted="false" name="exporting_contact_list_message">Kişi verileriniz şu dosyaya aktarılıyor: %s.</string>
@@ -329,9 +322,6 @@
   <string name="import_to_xiaomi_account_progress_title">Kişileri Xiaomi hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Aşağıdaki kayıtları Xiaomi hesabına aktarmak istediğinizden emin misiniz?</string>
   <string name="import_vcard_description">Kişileri SD kart\'tan aktar</string>
-  <string formatted="false" name="importing_vcard_canceled_title">%s dosyasını içe aktarma iptal edildi</string>
-  <string formatted="false" name="importing_vcard_description">%s içe aktarılıyor</string>
-  <string formatted="false" name="importing_vcard_finished_title">vCard %s dosysn içe aktarma tamamlandı</string>
   <string name="importing_vcard_canceled_title">İçe aktarma %s iptal edildi</string>
   <string name="importing_vcard_description">İçe aktarılıyor %s</string>
   <string name="importing_vcard_finished_title">Vcart\'ı içe aktarma tamamlandı %s</string>
@@ -387,7 +377,6 @@
   <string name="menu_callNumber">Ara %s</string>
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
   <string name="menu_clear_frequents">Temizleme sıklığı</string>
-  <string name="menu_contacts_filter">Görüntülenecek rehber</string>
   <string name="menu_copy">Kopyala</string>
   <string name="menu_contacts_filter">Görüntülenecek kişiler</string>
   <string name="menu_copyContact">Kişilerime kopyala</string>
