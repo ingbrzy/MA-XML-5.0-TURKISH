@@ -254,7 +254,7 @@
   <string name="day_of_month">" %d"</string>
   <string name="delete">Sil</string>
   <string name="device_xiaomi">Xiaomi phone</string>
-  <string name="double_seventh_day">??</string>
+  <string name="double_seventh_day"/>
   <string name="emergency_call_string">Acil çağrı</string>
   <string name="error_forbidden">Hesabınızda problemler var, senkr iptal edildi.</string>
   <string name="error_not_acceptable">Sunucu hatası. Senkr devre dışı.</string>
