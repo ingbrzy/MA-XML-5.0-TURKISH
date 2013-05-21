@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="activate">Etkinleştir</string>
+  <string name="activate">Etkinleştir</string>
   <string name="activate_fail_notification_title">Xiaomi servislerini tekrar etkinleştirin</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="alarm_message_12_hour_formate">aah:mm</string>
@@ -461,7 +461,7 @@
   <string name="v5_icon_menu_bar_more_item_label">Daha</string>
   <string name="v5_select_all">Tümünü seç</string>
   <string name="v5_time_picker_label_hour"/>
-  <string name="v5_time_picker_label_minute"
+  <string name="v5_time_picker_label_minute" />
   <string name="valentines_day" />
   <string name="vernal_equinox" />
   <string name="volume_alarm">Alarm</string>
