@@ -194,6 +194,29 @@
   <string formatted="false" name="description_view_contact">Kişiyi görüntüle: %1$s</string>
   <string name="description_view_contact_detail">Kişiyi görüntüle</string>
   <string name="deselect_all">Hiçbirini seçme</string>
+  <string name="device_bluetooth_title">hazırlık çalışmaları</string>
+  <string name="device_brand_title">Telefon markasını seçin</string>
+  <string name="device_import_account_dialog_title">İçe aktarmak için hesap seçin</string>
+  <string name="device_import_account_dialog_title_suffix">"( %1$s kişi bulundu)"</string>
+  <string name="device_import_done_toast">%1$d kişi bulundu</string>
+  <string name="device_import_failed_message">İçe aktarma başarısız!</string>
+  <string name="device_import_local_account">Yerel hesap</string>
+  <string name="device_import_message">İçe aktarılıyor</string>
+  <string name="device_import_progress_begin_message">İçe aktarma için hazırlanıyor…</string>
+  <string name="device_import_progress_end_message">İçe aktarma tamamlandı!</string>
+  <string name="device_import_progress_message">İçe aktarılıyor...</string>
+  <string name="device_import_progress_toast">%1$d kişi içe aktarıldı</string>
+  <string name="device_import_title">İçe aktarım işlemi</string>
+  <string name="device_list_title">ile eşleştirmek için telefonu seçin</string>
+  <string name="device_other_guide">Telefonunuz üretici listesinde yok, aşağıdaki yardımı kullanmayı deneyin</string>
+  <string name="device_other_title">diğer telefon</string>
+  <string name="device_paired_dialog_message">Cihaz eşleştirildi, kişiler alınıyor (diğer telefondan onaylamanız gerekebilir)...</string>
+  <string name="device_paired_dialog_title">Cihaz eşleştirildi, kişiler alınıyor</string>
+  <string name="device_pairing_dialog_message">Cihaz eşleştiriliyor (diğer telefondan onaylamanız gerekebilir)...</string>
+  <string name="device_pairing_dialog_title">Cihaz eşleştiriliyor</string>
+  <string name="device_version_header_bluetooth">Telefonunuzun bluetooth\'unu açın</string>
+  <string name="device_version_header_no_bluetooth">Kişileri sim karttan aktar</string>
+  <string name="device_version_title">Telefon sürümünü seçin</string>
   <string name="dialerDialpadHintText">Arama eklemek için çevir</string>
   <string name="dialer_empty_text_loading">Yükleniyor...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
@@ -201,9 +224,11 @@
   <string name="dialerIconLabel">Sık Sık</string>
   <string name="dialerKeyboardHintText">Klavye kullanarak çevir</string>
   <string name="dialer_addAnotherCall">Çağrı ekle</string>
+  <string name="dialog_import">Kişileri içe aktar</string>
   <string name="dialog_import_export">Kişileri içe/dışa aktar</string>
   <string name="dialog_new_contact_account">Hesap altında kişi oluştur</string>
   <string name="dialog_new_group_account">Grubu şu hesabın altında oluştur:</string>
+  <string name="dialog_phone_call_prohibited_message">Çağrı gönderilmedi</string>
   <string name="dialog_sync_add">Senk. grup ekle</string>
   <string name="directory_search_label">Dizin</string>
   <string formatted="false" name="dirty_contacts_notification_description">Senkronize edilmemiş %d kişi mevcut</string>
@@ -242,6 +267,13 @@
   <string name="export_to_sdcard">Depolama birimine aktar</string>
   <string name="export_to_sim">SIM kartına aktar</string>
   <string name="export_vcard_description">SD karta vCard olarak aktar</string>
+  <string name="exporting_contact_failed_message">"Rehber bilgisi dışa aktarılamadı. Sebep: \"%s\""</string>
+  <string name="exporting_contact_failed_title">"Dışa aktarılamaz"</string>
+  <string name="exporting_contact_list_message">Rehber bilgileri dışa aktarma başlıyor: %s.</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s of %s kişi</string>
+  <string name="exporting_contact_list_title">Rehber bilgileri dışa aktarılıyor</string>
+  <string name="exporting_vcard_canceled_title">Dışa aktarma %s iptal edildi.</string>
+  <string name="exporting_vcard_finished_title">Dışa aktarma bitti %s.</string>
   <string formatted="false" name="exporting_contact_failed_message">"Kişi bilgisi aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">Dışa aktarılamadı</string>
   <string formatted="false" name="exporting_contact_list_message">Kişi verileriniz şu dosyaya aktarılıyor: %s.</string>
@@ -300,6 +332,9 @@
   <string formatted="false" name="importing_vcard_canceled_title">%s dosyasını içe aktarma iptal edildi</string>
   <string formatted="false" name="importing_vcard_description">%s içe aktarılıyor</string>
   <string formatted="false" name="importing_vcard_finished_title">vCard %s dosysn içe aktarma tamamlandı</string>
+  <string name="importing_vcard_canceled_title">İçe aktarma %s iptal edildi</string>
+  <string name="importing_vcard_description">İçe aktarılıyor %s</string>
+  <string name="importing_vcard_finished_title">Vcart\'ı içe aktarma tamamlandı %s</string>
   <string name="insertContactDescription">Kişi oluştur</string>
   <string name="invalidContactMessage">Kişi mevcut değil.</string>
   <string name="keep_local">Yerel olarak sakla</string>
@@ -342,16 +377,26 @@
   <string name="meid">MEID</string>
   <string name="menu_accounts">Hesaplar</string>
   <string name="menu_addStar">Sık kullanılanlara ekle</string>
+  <string name="menu_bar_group_add">Ekle</string>
+  <string name="menu_bar_group_delete">Sil</string>
+  <string name="menu_bar_group_rename">Adlandır</string>
+  <string name="menu_bar_group_ringtone">Gup Zilsesi</string>
+  <string name="menu_bar_group_sms">Grup SMS</string>
   <string name="menu_batch_delete">Kişileri toplu sil</string>
   <string name="menu_call">Çağrı yap</string>
-  <string formatted="false" name="menu_callNumber">Ara: %s</string>
-  <string formatted="false" name="menu_call_ip_number">IP araması çevir (%s \'i ara)</string>
+  <string name="menu_callNumber">Ara %s</string>
+  <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
+  <string name="menu_clear_frequents">Temizleme sıklığı</string>
+  <string name="menu_contacts_filter">Görüntülenecek rehber</string>
+  <string name="menu_copy">Kopyala</string>
   <string name="menu_contacts_filter">Görüntülenecek kişiler</string>
   <string name="menu_copyContact">Kişilerime kopyala</string>
   <string name="menu_deleteContact">Sil</string>
   <string name="menu_deleteGroup">Sil</string>
-  <string name="menu_dialpad">Ara</string>
+  <string name="menu_dialpad">Tuştakımı</string>
   <string name="menu_discard">Sil</string>
+  <string name="menu_display_all">Tümünü göster</string>
+  <string name="menu_display_selected">Seçileni göster</string>
   <string name="menu_doNotSave">İptal</string>
   <string name="menu_done">Bitti</string>
   <string name="menu_editContact">Düzenle</string>
@@ -471,8 +516,8 @@ Favoriler listenize kişi eklemek için:
   <string name="preference_auto_ip_summary_on">"Hattınızın IP öneki: %s"</string>
   <string name="preference_auto_ip_title">Otomatic IP</string>
   <string name="preference_contacts">Kayıt</string>
-  <string name="preference_contacts_display">Kişiyi görüntüle</string>
-  <string name="preference_contacts_filter">Görüntülemek için Rehber</string>
+  <string name="preference_contacts_display">Rehber görünümü</string>
+  <string name="preference_contacts_filter">Görüntülenecek Rehber</string>
   <string name="preference_contacts_more">Daha fazla kişi ayarları</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_human">İnsan sesi</string>
