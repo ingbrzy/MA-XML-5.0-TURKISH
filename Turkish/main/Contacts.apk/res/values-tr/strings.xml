@@ -559,7 +559,6 @@ Favoriler listenize kişi eklemek için:
   <string name="private_num">Özel numara</string>
   <string name="processing">İşleniyor...</string>
   <string name="profile_display_name">Profilimi ayarla</string>
-  <string name="progress_notifier_message" formatted="false">Importing %s/%s: %s</string>
   <string formatted="false" name="progress_notifier_message">İçe aktarılıyor %s/%s: %s</string>
   <string name="quickcontact_missing_app">Bu işlemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="quit_dialog_confirm_title">Kişi birleştirmeden çıkmak istediğinize emin misiniz?</string>
