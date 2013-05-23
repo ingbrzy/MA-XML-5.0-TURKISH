@@ -277,7 +277,7 @@
   <string name="first_back_long_press_message">"Geri tuşuna basılı tutarak uygulama veya arka plan hizmetlerini kapatmak istiyor musunuz? Etkinleştirmek için Ayarlar &gt; Sistem &gt; Tuş ayarlarına gidin"</string>
   <string name="fm_record_smaple_prefix_miui">FMKaydı</string>
   <string name="fools_day">Bir Nisan şaka günü</string>
-  <string name="force_exit_message">başarıyla kapatıldı \"%1$s\"</string>
+  <string name="force_exit_message">Kapatma işlemi başarılı \"%1$s\"</string>
   <string name="forget_password_string">Şifremi unuttum</string>
   <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">Korumalı modda, aramalar, notlar, galeri veri ve kısa mesaj gizli olacak ve başlatıcı düzenleme moduna girmek mümkün olmayacaktır. Erişim kontrol ayarlarından korumalı mod için şifre ayarlayabilirsiniz</string>
@@ -346,7 +346,11 @@
   <string name="lunar_yi" />
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
+  <string name="memory_clear_nothing_result">Temizlenecek bellek yok</string>
+  <string name="memory_clear_result">"%1$s Boş | %2$s Kullanılabilir"</string>
   <string name="miui_copyright_title">Telif hakkı</string>
+  <string name="miui_device_name">Android</string>
+  <string name="miui_mibi_license_title">Mi Kredi Kullanıcı sözleşmesi</string>
   <string name="miui_privacy_policy_title">Gizlilik politikası</string>
   <string name="miui_unlockscreen_password_wrong">Şifre yanlış! Tekrar deneyin</string>
   <string name="miui_user_agreement_title">Kullanıcı sözleşmesi</string>
@@ -392,7 +396,7 @@
   <string name="pincode_set_to_default_msg">PIN kodu 1234 olarak yarlandı, burdan PIN kodunuzu resetleyin.</string>
   <string name="private_num">Gizli numara</string>
   <string name="puk_operation_failed">PUK işlemi başarısız.</string>
-  <string name="reboot_confirm">Telefon tekrar başlatılacak</string>
+  <string name="reboot_confirm">Telefon tekrar başlatılsın mı?</string>
   <string name="reboot_progress">Tekrar başlatılıyor...</string>
   <string name="return_to_me_message">Lütfen sahibine iade ediniz.</string>
   <string name="reverse_all">Tümünü temizle</string>
