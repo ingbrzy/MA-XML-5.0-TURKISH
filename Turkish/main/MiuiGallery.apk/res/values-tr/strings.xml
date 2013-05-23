@@ -248,7 +248,7 @@
   <string name="size_below">%1$s veya altı</string>
   <string name="size_between">%1$s to %2$s</string>
   <string name="slideshow">Slayt Gösterisi</string>
-  <string name="slideshow_category">Slayt Gösterisi/string>
+  <string name="slideshow_category">Slayt Gösterisi</string>
   <string name="slideshow_dream_name">Slayt Gösterisi</string>
   <string name="slideshow_interval">Slayt Gösterisi zaman aralığı</string>
   <string name="slideshow_interval_dialog_title">Slayt Gösterisi zaman aralığı 0 saniyeden büyük olmalıdır</string>

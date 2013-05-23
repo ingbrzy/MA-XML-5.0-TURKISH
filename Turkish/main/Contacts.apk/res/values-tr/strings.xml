@@ -624,7 +624,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_title">Kaynak detayları</string>
   <string name="resource_title_select_ringtone">Zil sesini seç</string>
   <string name="resource_update">Güncelle</string>
-  <string name="restore_nickname">Onar/string>
+  <string name="restore_nickname">Onar</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Çağrıya dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>

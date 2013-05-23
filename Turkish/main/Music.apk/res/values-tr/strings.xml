@@ -216,7 +216,7 @@
   <string name="search_hint">Müzik ara</string>
   <string name="search_settings_description">Şarkıcı, albüm ve parça</string>
   <string name="search_suggestion">Arama Önerileri:</string>
-  <string name="search_title">Ara</string></string>
+  <string name="search_title">Ara</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_folder">Klasörü seç</string>
   <string name="select_quit_time">Oynatıcıyı durdurmak için zamanlayıcı kurun (dakika içinde)</string>
