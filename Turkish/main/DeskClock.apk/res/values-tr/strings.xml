@@ -92,7 +92,7 @@
   <string name="menu_delete">Sil</string>
   <string name="menu_desk_clock">Masaüstü Saati</string>
   <string name="menu_edit_systemtime">Sistem zamanı</string>
-  <string name="menu_item_dock_settings">Masaüstü Saati Ayarları>
+  <string name="menu_item_dock_settings">Masaüstü Saati Ayarları</string>
   <string name="menu_worldclock_edit">Dünya saatlerini düzenle</string>
   <string name="minute">1 dakika</string>
   <string name="minute_unit">D</string>
