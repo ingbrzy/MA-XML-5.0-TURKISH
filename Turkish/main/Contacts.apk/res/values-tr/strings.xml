@@ -15,6 +15,7 @@
   <string name="add_account">Hesap ekle</string>
   <string name="add_blacklist">Karalisteye ekle</string>
   <string name="add_connection_button">Bağlantı ekle</string>
+  <string name="add_contact_dlg_message_fmt"> \"%s\" kişilere eklensin mi?</string>
   <string name="add_contact_dlg_title">Kişi ekle</string>
   <string name="add_field">Başka alan ekle</string>
   <string name="add_new_account">Yeni hesap ekle</string>
@@ -33,6 +34,8 @@
   <string name="all_resources">Tümü</string>
   <string name="attach_photo_dialog_title">Kişi fotoğrafı</string>
   <string name="audio_chat">Sesli sohbet</string>
+  <string name="auto_nickname">Otomatik</string>
+  <string name="auto_set_nickname">Otomatik</string>
   <string name="batch_delete">Kişileri toplu sil</string>
   <string name="batch_delete_msg">"%d seçili kişi silinsin mi? Kişinin bulut'a kyıtlı bilgileri de silinecektir."</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
@@ -50,6 +53,7 @@
   <string name="callDetailTitle">Çağrı ayrıntıları</string>  
   <string name="callDetailsDurationFormat" formatted="false">%s dak %s san</string>
   <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
+  <string name="call_assistant">Çağrı %s</string>
   <string name="call_callback">Çağrı yap (geri arama)</string>
   <string name="call_car">Çağrı yap (araç)</string>
   <string name="call_company_main">Çağrı yap (şirket ana hattı)</string>
@@ -59,7 +63,8 @@
   <string name="call_fax_work">Çağrı yap (iş faksı)</string>
   <string name="call_home">Çağrı yap (ev)</string>
   <string name="call_isdn">ISDN ara</string>
-  <string name="call_log_empty_gecode">-</string> 
+  <string name="call_log_empty_gecode">-</string>
+  <string name="call_log_item_count_and_date">(%1$d) %2$s</string>
   <string name="call_log_new_header">Yeni</string>
   <string name="call_log_old_header">Daha eski</string>
   <string name="call_main">Çağrı yap (ana hat)</string>
@@ -80,7 +85,10 @@
   <string name="calllog_menu_edit_before_call">Aramadan önce düzenle</string>
   <string name="calllog_menu_send_sms">İleti gönder</string>
   <string name="callrecordview_item_newcontact">Yeni kişi</string>
+  <string name="callrecordview_item_op_time_minutes_seconds">%1$d dak %2$d san</string>
   <string name="callrecordview_item_op_time_missed">Bağlı değil</string>
+  <string name="callrecordview_item_op_time_only_minutes">%d dak</string>
+  <string name="callrecordview_item_op_time_only_seconds">%d san</string>
   <string name="callrecordview_item_op_time_rejected">Reddedilmiş aramalar</string>
   <string name="callrecordview_item_op_time_short_incoming">"Gelen: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Giden: "</string>
@@ -88,6 +96,7 @@
   <string name="callrecordview_menu_delete_accepted">Cevaplanmış aramaları temizle</string>
   <string name="callrecordview_menu_delete_all">Tüm arama geçmişini sil</string>
   <string name="callrecordview_menu_delete_called">Giden aramaları temizle</string>
+  <string name="callrecordview_menu_delete_confirm">Onayla %s?</string>
   <string name="callrecordview_menu_delete_missed">Cevaplanamayan aramaları temizle</string>
   <string name="callrecordview_menu_delete_one">Bu kaydı listeden temizle</string>
   <string name="callrecordview_menu_delete_stranger">Bilinmeyen numaraların aramalarını temizle</string>
@@ -101,6 +110,8 @@
   <string name="callrecordview_menu_show_stranger">Bilinmeyen numaralardan gelen aramaları göster</string>
   <string name="callrecordview_menu_show_title">Gösterilecek arama kaydı tipini seçiniz</string>
   <string name="cancel_confirmation_dialog_message">Değişiklikleriniz silinsin mi?</string>
+  <string name="cancel_import_confirmation_message">İçe aktarmayı iptal et %s?</string>
+  <string name="cancel_import_dialog_message">Kişilerin içe aktarılması durdurulsun mu?</string>
   <string name="cancel_confirmation_dialog_title">Değişiklikleri sil</string>
   <string name="cancel_export_confirmation_title">vCard dışa aktarmayı iptal etme</string>
   <string name="cancel_import_confirmation_title">vCard içe aktarmayı iptal etme</string>
@@ -115,11 +126,17 @@
   <string name="chat_skype">Skype kullanarak sohbet et</string>
   <string name="chat_yahoo">Yahoo kullanarak sohbet et</string>
   <string name="check_unsynchronized_accounts">Senkronize etmeme sıklığını kontrol edin</string>
+  <string name="checkhint">Diğer telefonu kontrol et</string>
   <string name="clearCallLogConfirmation">Tüm çağrı kayıtlarınız silinecek.</string>
   <string name="clearCallLogConfirmation_title">Çağrı günlüğünü sil?</string>
   <string name="clearCallLogProgress_title">Çağrı günlüğü temizleniyor...</string>
+  <string name="clearFrequentsConfirmation">"Sık kullanılan kişler listesini temizleyin"</string>
+  <string name="clearFrequentsConfirmation_title">Sık kullanılan kişiler temizlensin mi?</string>
+  <string name="clearFrequentsProgress_title">Sık kullanılan kişiler temizleniyor...</string>
   <string name="clear_default">Varsayılanları temizle</string>
   <string name="click_close">Kapatmak için tıkla</string>
+  <string name="cloud_antispam_mark">Spam</string>
+  <string name="cloud_antispam_title">Cloud Guard</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgileri alınamadı.</string>
   <string name="composer_has_no_exportable_contact">Dışa aktarabilir kişi yok. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermeyebilir.</string>
   <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>
@@ -131,8 +148,9 @@
   <string name="config_export_vcard_type">varsayılan</string>
   <string name="config_import_vcard_type">varsayılan</string>
   <string name="config_prohibited_phone_number_regexp" />
-  <string formatted="false" name="confirm_delete_selected_call_log">%1d seçili arama kaydı grubu silinsin mi?</string>
-  <string formatted="false" name="confirm_export_message">Kişi listeniz şu dosyaya aktarılacak: %s.</string>
+  <string name="confirm_delete_contact_all_call_logs">" %s's Çağrı günlüğü silinsin mi?"</string>
+  <string name="confirm_delete_selected_all_call_logs">"Çağrı günlükleri silinsin mi?"</string>
+  <string name="confirm_export_message">Kişi listeniz bu dosyaya aktarıldı: %s.</string>
   <string name="confirm_export_title">Kişileri dışa aktar?</string>
   <string name="connections">Bağlantılar</string>
   <string name="contactDetailAbout">Hakkında</string>
@@ -142,16 +160,23 @@
   <string name="contactPickerActivityTitle">Bir kişi seçin</string>
   <string name="contactSavedErrorToast">Kişi değişiklikleri kaydedilemedi.</string>
   <string name="contactSavedToast">Kişi kaydedildi.</string>
-  <string formatted="false" name="contact_directory_description">%1$s dizini</string>
+  <string name="contact_delete_toast">Kişi başarıyla silindi</string>
+  <string name="contact_detail_calllog_call_note_tips">Çağrı notu</string>
+  <string name="contact_detail_calllog_call_record_tips">Çağrı ses kaydı</string>
+  <string name="contact_directory_description">Dizin %1$s</string>
+  <string name="contact_edit_title_edit">Kişiyi Düzenle</string>
+  <string name="contact_edit_title_insert"> %s kişi oluştur</string>
+  <string name="contact_edit_title_readonly">Sadece okunabilir kişi</string>
   <string name="contact_editor_prompt_multiple_accounts">Yeni kişinizi aşağıdaki hesaplardan biriyle senkronize edebilirsiniz. Hangisini kullanmak istersiniz?</string>
-  <string formatted="false" name="contact_editor_prompt_one_account">Yeni kişiniz %1$s ile senkronize edilecek.</string>
   <string name="contact_editor_prompt_zero_accounts">Yeni kişiniz yedeklenmeyecek. Kişileri çevrimiçi olarak yedekleyen bir hesap eklensin mi?</string>
   <string name="contact_list_loading">Yükleniyor...</string>
+  <string name="contact_pick_photo">Foto</string>
   <string name="contact_read_only">Bu uygulamadan düzenlenemez.</string>
-  <string formatted="false" name="contact_status_update_attribution">%1$s aracılığıyla</string>
-  <string formatted="false" name="contact_status_update_attribution_with_date">%2$s üzerinden şu saatte: %1$s</string>
-  <string name="contactsAllLabel">Tümü</string>
-  <string name="contactsFavoritesLabel">Sık Kullanılanlar</string>
+  <string name="contact_status_update_attribution">ile %1$s</string>
+  <string name="contact_status_update_attribution_with_date">%1$s ile %2$s</string>
+  <string name="contact_unfavorite_toast">Kişi favori listesinden kaldırıldı</string>
+  <string name="contactsAllLabel">Kişiler</string>
+  <string name="contactsFavoritesLabel">Favoriler</string>
   <string name="contactsGroupsLabel">Gruplar</string>
   <string name="contactsJoinedMessage">Kişiler birleştirildi</string>
   <string name="contactsList">Kişiler</string>
@@ -159,6 +184,7 @@
   <string name="contacts_unavailable_create_contact">Yeni kişi oluştur</string>
   <string name="contacts_unavailable_import_contacts">Bir dosyadaki kişileri içe aktar</string>
   <string name="copy_text">Panoya kopyala</string>
+  <string name="createContactShortcutSuccessful">Ana ekrana kişi widget\'i ekle.</string>
   <string name="create_group_dialog_title">Yeni grup oluştur</string>
   <string name="create_group_item_label">[Yeni grup oluştur]</string>
   <string name="customLabelPickerTitle">Özel etiket adı</string>
@@ -169,23 +195,31 @@
   <string name="default_ringtone">Varsayılan zilsesi</string>
   <string name="delete">Sil</string>
   <string name="deleteConfirmation">Bu kişi silinecek.</string>
+  <string name="deleteConfirmationDetail">\"%s\" silinecek.</string>
   <string name="deleteConfirmation_title">Kişi silinsin mi?</string>
   <string name="delete_call_log_title">Silinecek arama kaydını seçin?</string>
   <string name="delete_contact_calllog_title">"Arama kayıtlarını silmek istediğinize emin misiniz?"</string>
   <string name="delete_duplicate">Toplu birleştirme</string>
   <string name="delete_duplicate_message">"Birleştiriliyor ... "</string>
-  <string formatted="false" name="delete_group_dialog_message">\"%1$s\" grubu silinsin mi? (Kişilerin kendileri silinmeyecektir.)</string>
+  <string name="delete_group_dialog_message"> \"%1$s\" grubunu sil, kişilerin kendilerini silinmez.</string>
   <string name="delete_group_dialog_title">Grubu sil</string>
   <string name="delete_unknown_contact_calllog_title">"Bilinmeyen kişinin arama kayıtlarını silmek istediğinize emin misiniz?"</string>
   <string name="description_add_contact">Kişi ekle</string>
-  <string formatted="false" name="description_call">Sesli arama yap: %1$s</string>
+  <string name="description_author">Yazar:</string>
+  <string name="description_call">Çağrı %1$s</string>
   <string name="description_call_log_incoming_call">Gelen çağrı</string>
   <string name="description_call_log_missed_call">Cevapsız çağrı</string>
   <string name="description_call_log_outgoing_call">Giden çağrı</string>
   <string name="description_call_log_play_button">Sesli mesajı oynat</string>
+  <string name="description_call_log_unheard_voicemail">Okunmamış Sesli Mesaj</string>
   <string name="description_call_log_voicemail">Sesli mesaj</string>
-  <string name="description_contact_photo">kişi fotoğrafı</string>
-  <string formatted="false" name="description_dial_phone_number">%1$s numararasını ara</string>
+  <string name="description_contact_photo">Kişi fotoğrafı</string>
+  <string name="description_delete_button">backspace</string>
+  <string name="description_designer">tasarımcı:</string>
+  <string name="description_dial_button">Tuş</string>
+  <string name="description_dial_phone_number">Telefon numarası %1$s</string>
+  <string name="description_digits_edittext">Tuşla</string>
+  <string name="description_download">İndir:</string>
   <string name="description_image_button_eight">sekiz</string>
   <string name="description_image_button_five">beş</string>
   <string name="description_image_button_four">dört</string>
@@ -199,11 +233,19 @@
   <string name="description_image_button_two">iki</string>
   <string name="description_image_button_zero">sıfır</string>
   <string name="description_minus_button">eksi</string>
-  <string formatted="false" name="description_quick_contact_for">%1$s için hızlı kişi</string>
-  <string formatted="false" name="description_send_message">%1$s adlı kişiye mesaj gönder</string>
-  <string formatted="false" name="description_send_text_message">Şu kişiye kısa mesaj gönder: %1$s</string>
+  <string name="description_plus_button">artı</string>
+  <string name="description_quick_contact_for">Hızlı iletişim için %1$s</string>
+  <string name="description_search_button">ara</string>
+  <string name="description_send_message"> %1$s buna mesaj gönder</string>
+  <string name="description_send_text_message"> %1$s buna yazılı mesaj gönder</string>
+  <string name="description_size">Boyut:</string>
   <string name="description_star">favori</string>
-  <string formatted="false" name="description_view_contact">Kişiyi görüntüle: %1$s</string>
+  <string name="description_summary">Özet:</string>
+  <string name="description_uploadtime">Güncellendi:</string>
+  <string name="description_version">Sürüm:</string>
+  <string name="description_view_contact">Kişiyi görüntüle %1$s</string>
+  <string name="description_view_contact_detail">Kişiyi görüntüle</string>
+  <string name="description_voicemail_button">Sesli mesaj</string>
   <string name="description_view_contact_detail">Kişiyi görüntüle</string>
   <string name="deselect_all">Hiçbirini seçme</string>
   <string name="device_bluetooth_title">hazırlık çalışmaları</string>
@@ -213,7 +255,7 @@
   <string name="device_import_done_toast">%1$d kişi bulundu</string>
   <string name="device_import_failed_message">İçe aktarma başarısız!</string>
   <string name="device_import_local_account">Yerel hesap</string>
-  <string name="device_import_message">İçe aktarılıyor</string>
+  <string name="device_import_message">İçe aktarılıyor...</string>
   <string name="device_import_progress_begin_message">İçe aktarma için hazırlanıyor…</string>
   <string name="device_import_progress_end_message">İçe aktarma tamamlandı!</string>
   <string name="device_import_progress_message">İçe aktarılıyor...</string>
@@ -243,7 +285,6 @@
   <string name="dialog_phone_call_prohibited_message">Çağrı gönderilmedi</string>
   <string name="dialog_sync_add">Senk. grup ekle</string>
   <string name="directory_search_label">Dizin</string>
-  <string formatted="false" name="dirty_contacts_notification_description">Senkronize edilmemiş %d kişi mevcut</string>
   <string name="dirty_contacts_notification_message">(Kişi ayarlarından hatırlatma seçeneklerini değiştirebilirsiniz)</string>
   <string name="dirty_contacts_notification_title">Senkronize edilsin mi?</string>
   <string name="display_all_contacts">Tüm kişiler</string>
@@ -257,7 +298,8 @@
   <string name="display_options_view_names_as">Kişi adlarını görüntüleme şekli:</string>
   <string name="display_sim_contacts">SIM kayıtlarını göster</string>
   <string name="display_ungrouped">Diğer tüm kişiler</string>
-  <string formatted="false" name="display_warn_remove_ungrouped">\"%s\" adlı grubu senkronizasyondan kaldırmak, gruplanmamış tüm kişilerin de senkronizasyondan kaldırılmasına neden olur.</string>
+  <string name="download_failed">İndirme başarısız!</string>
+  <string name="download_preview_failed">Önizleme yüklenemedi!</string>
   <string name="editContactDescription">Kişiyi düzenle</string>
   <string name="edit_contact">Kişiyi düzenle</string>
   <string name="edit_contact_card_title">Kişi kartını düzenle</string>
@@ -265,11 +307,12 @@
   <string name="edit_photo">Fotoğrafı düzenle</string>
   <string name="email">E-posta</string>
   <string name="emailLabelsGroup">E-posta</string>
-  <string formatted="false" name="email_custom">E-posta %s</string>
+  <string name="email_custom">E-posta %s</string>
   <string name="email_home">E-posta gönder (ev)</string>
   <string name="email_mobile">E-posta gönder (mobil)</string>
   <string name="email_other">E-posta</string>
   <string name="email_work">E-posta gönder (iş)</string>
+  <string name="emptyGroup">Bu grupta kişi yok.</string>
   <string name="empty_divider_title">Şunları yapabilirsiniz</string>
   <string name="enter_contact_name">Kişinin adını yazın</string>
   <string name="eventLabelsGroup">Etkinlikler</string>
@@ -278,47 +321,66 @@
   <string name="export_sim_contacts_dialog_message">SIM kartınızın %d kartvizit kapasitesi var, İşleme devam etmek istiyor musunuz?</string>
   <string name="export_to_sdcard">Depolama birimine aktar</string>
   <string name="export_to_sim">SIM kartına aktar</string>
+  <string name="export_to_sim_title">SIM karta aktarılıyor...</string>
   <string name="export_vcard_description">SD karta vCard olarak aktar</string>
-  <string formatted="false" name="exporting_contact_failed_message">"Kişi bilgisi aktarılamadı. Sebep: \"%s\""</string>
+  <string name="exporting_contact_failed_message">"Rehber aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">Dışa aktarılamadı</string>
-  <string formatted="false" name="exporting_contact_list_message">Kişi verileriniz şu dosyaya aktarılıyor: %s.</string>
+  <string name="exporting_contact_list_message">Rehber aktarılıyor: %s.</string>
   <string name="exporting_contact_list_title">Kişi verileri dışa aktarılıyor</string>
-  <string formatted="false" name="exporting_vcard_canceled_title">%s dosyasını dışa aktarma iptal edildi.</string>
-  <string formatted="false" name="exporting_vcard_finished_title">%s dosyasını dışa aktarma tamamlandı.</string>
-  <string formatted="false" name="external_profile_title">%1$s profilim</string>
-  <string formatted="false" name="fail_reason_could_not_initialize_exporter">Dışa aktarıcı başlatılamadı: \"%s\"</string>
-  <string formatted="false" name="fail_reason_could_not_open_file">\"%s\" açılamadı: %s</string>
-  <string formatted="false" name="fail_reason_error_occurred_during_export">Dışa aktarma sırasında bir hata oluştu: \"%s\"</string>
+  <string name="exporting_vcard_finished_title">Aktarım tamamlandı %s.</string>
+  <string name="external_profile_title"> %1$s profilim</string>
+  <string name="fail_reason_could_not_initialize_exporter">"Aktarıcı başlatılamadı: \"%s\"."</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Açılamamadı \"%s\": %s."</string>
+  <string name="fail_reason_error_occurred_during_export">Aktarım sırasında hata oluştu: \"%s\".</string>
+  <string name="fail_reason_failed_to_collect_vcard_meta_info">"vCard dosyasına meta bilgileri toplanamadı."</string>
+  <string name="fail_reason_failed_to_read_files">"Dosyalar içe aktarılamadı (%s)."</string>
   <string name="fail_reason_io_error">G/Ç Hatası</string>
   <string name="fail_reason_low_memory_during_import">Bellek yetersiz. Dosya çok büyük olabilir.</string>
   <string name="fail_reason_no_exportable_contact">Dışa verilebilecek kişi yok.</string>
   <string name="fail_reason_not_supported">Biçim desteklenmiyor.</string>
-  <string formatted="false" name="fail_reason_too_long_filename">Gereken dosya adı çok uzun (\"%s\").</string>
+  <string name="fail_reason_too_long_filename">Dosya adı çok uzun (\"%s\").</string>
   <string name="fail_reason_too_many_vcard">SD kartta çok fazla vCard dosyası var.</string>
   <string name="fail_reason_unknown">Bilinmeyen hata.</string>
+  <string name="fail_reason_vcard_parse_error">"Beklenmedik bir nedenle vCard ayrıştırılamadı."</string>
   <string name="favoritesFrequentCalled">Sık arananlar</string>
   <string name="favoritesFrequentContacted">Sık iletişim kurulanlar</string>
-  <string formatted="false" name="foundTooManyContacts">%d kişiden fazla bulundu.</string>
+  <string name="favorites_list_empty">Sık aranan yok</string>
+  <string name="foundTooManyContacts"> %d den daha fazla bulundu.</string>
   <string name="frequency_none">Hatırlatma</string>
   <string name="frequency_three_days">3günde bir kontrol et ve hatırlat</string>
   <string name="frequency_weekly">Haftalık kontrol et ve hatırlat</string>
   <string name="frequentList">Sık sık</string>
-  <string formatted="false" name="from_account_format">%1$s</string>
   <string name="full_name">Ad</string>
+  <string name="generic_no_account_prompt">Telefonunuzu kaybetsenizde rehber bilgilerini korumak için: çevrimiçi hizmetlerle senkronize yapınız.</string>
+  <string name="generic_no_account_prompt_title">Hesap ekle</string>
   <string name="ghostData_company">Şirket</string>
   <string name="ghostData_title">Başlık</string>
   <string name="groupSavedErrorToast">Grup değişiklikleri kaydedilemedi.</string>
   <string name="groupSavedToast">Grup kaydedildi.</string>
+  <string name="group_add_fail_toast">Kişi eklenemedi</string>
+  <string name="group_create_fail_toast">Grup oluşturulamadı</string>
+  <string name="group_create_success_toast">Grup oluşturuldu</string>
+  <string name="group_delete_success_toast">Grup silindi</string>
   <string name="group_edit_field_hint_text">Grup adı</string>
-  <string name="group_name_contacts">Kişiler</string>
-  <string name="group_name_coworkers">İş Arkadaşları</string>
-  <string name="group_name_family">Aile</string>
-  <string name="group_name_friends">Arkadaşlar</string>
-  <string name="group_name_hint">Grubun adı</string>
+  <string name="group_member_remove_toast">Kişi gruptan başarıyla kaldırıldı</string>
+  <string name="group_name_hint">"Grubun adı"</string>
   <string name="group_read_only">Bu cihazda düzenlenemez.</string>
+  <string name="group_rename_dialog_title">Grubu adlandır</string>
+  <string name="group_rename_fail_toast">Grup adlandırılamadı</string>
+  <string name="group_rename_success_toast">Grup adlandırıldı</string>
+  <string name="group_sms_progress_msg">Grup SMS için hazırlanıyor ...</string>
   <string name="groupsLabel">Gruplar</string>
+  <string name="groups_list_empty">Grup yok</string>
+  <string name="help_url_people_add"/>
+  <string name="help_url_people_edit"/>
+  <string name="help_url_people_main"/>
+  <string name="hint_distance">mesafeyi kotu</string>
   <string name="hint_findContacts">Kişileri bul</string>
-  <string formatted="false" name="hint_search_contacts">%d kişi</string>
+  <string name="hint_more_contact">Çift kişiler için birleştirmeyi kullanın</string>
+  <string name="hint_search_contacts">%d kişiler</string>
+  <string name="hint_search_phone_numbers">%d kişi numarası</string>
+  <string name="ic_menu_back">Geri</string>
+  <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
@@ -327,20 +389,30 @@
   <string name="import_from_sdcard">Depolama biriminden içe aktar</string>
   <string name="import_from_sim">SIM karttan içe aktar</string>
   <string name="import_multiple_vcard_string">Birden fazla vCard dosyasını içe aktar</string>
+  <string name="import_name">adı</string>
   <string name="import_one_vcard_string">Bir vCard dosyasını içe aktar</string>
+  <string name="import_percent">0%</string>
   <string name="import_to_xiaomi_account_confirm">İçe aktar</string>
   <string name="import_to_xiaomi_account_progress_finish">Aktarım tamamlandı</string>
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
   <string name="import_to_xiaomi_account_progress_title">Kişileri Xiaomi hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Aşağıdaki kayıtları Xiaomi hesabına aktarmak istediğinizden emin misiniz?</string>
   <string name="import_vcard_description">Kişileri SD kart\'tan aktar</string>
+  <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
+  <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
+  <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
+  <string name="import_weibo_notification_title_done">Import complete</string>
+  <string name="import_weibo_progress_name">%1$s</string>
+  <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">İçe aktarma %s iptal edildi</string>
   <string name="importing_vcard_description">İçe aktarılıyor %s</string>
   <string name="importing_vcard_finished_title">Vcart\'ı içe aktarma tamamlandı %s</string>
   <string name="insertContactDescription">Kişi oluştur</string>
   <string name="invalidContactMessage">Kişi mevcut değil.</string>
   <string name="keep_local">Yerel olarak sakla</string>
-  <string formatted="false" name="label_duplicate_count">(%1$d)</string>
+  <string name="keep_local_btn">Sadeve telefona kaydedilir</string>
+  <string name="label_custom_type">Özel</string>
+  <string name="label_duplicate_count">(%1$d)</string>
   <string name="label_no_duplicate_contacts">Harika! Hiçbir çift kişi bulunmadı!</string>
   <string name="label_notes">Notlar</string>
   <string name="label_sip_address">İnternet çağrısı</string>
@@ -366,13 +438,17 @@
   <string name="liveFolder_all_label">Tüm kişiler</string>
   <string name="liveFolder_favorites_label">Yıldızlı</string>
   <string name="liveFolder_phones_label">Telefonlar</string>
+  <string name="loading">Yükleniyor...</string>
+  <string name="loading_group_members">Grup üyeleri yükleniyor…</string>
+  <string name="loading_groups">Gruplar yükleniyor…</string>
+  <string name="loading_recent">Sık arananlar yükleniyor…</string>
+  <string name="loading_resource_detail_info">kaynak bilgisi yükleniyor...</string>
   <string name="local_invisible_directory">Diğer</string>
   <string name="local_profile_title">Yerel profilim</string>
   <string name="local_search_label">Tüm kişiler</string>
   <string name="locale_change_in_progress">Kişi listesi, dil değişikliğini yansıtmak üzere güncelleniyor.</string>
   <string name="lunarBirthdayLabelsGroup">Ay takvimine göre doğum günü</string>
   <string name="make_primary">Bu tercihi anımsa</string>
-  <string formatted="false" name="map_custom">%s adresini görüntüle</string>
   <string name="map_home">Ev adresini görüntüle</string>
   <string name="map_other">Adresi görüntüle</string>
   <string name="map_work">İş adresini görüntüle</string>
@@ -390,8 +466,9 @@
   <string name="menu_call_ip_number">Dial IP call (dial %s)</string>
   <string name="menu_clear_frequents">Temizleme sıklığı</string>
   <string name="menu_copy">Kopyala</string>
-  <string name="menu_contacts_filter">Görüntülenecek kişiler</string>
+  <string name="menu_contacts_filter">Görüntülenecek rehber</string>
   <string name="menu_copyContact">Kişilerime kopyala</string>
+  <string name="menu_create_contact_shortcut">Ana ekrana yerleştir</string>
   <string name="menu_deleteContact">Sil</string>
   <string name="menu_deleteGroup">Sil</string>
   <string name="menu_dialpad">Tuştakımı</string>
@@ -405,28 +482,38 @@
   <string name="menu_group_add_members">Gruba ekle</string>
   <string name="menu_group_ringtone">Grup zilsesi</string>
   <string name="menu_group_sms">Grup SMS</string>
+  <string name="menu_help">Yardım</string>
   <string name="menu_import_export">İçeri/Dışarı Aktar</string>
   <string name="menu_joinAggregate">Birleştir</string>
   <string name="menu_newContact">Yeni kişi</string>
   <string name="menu_new_contact_action_bar">Yeni</string>
   <string name="menu_new_favorite_action_bar">Yeni</string>
   <string name="menu_new_group_action_bar">Yeni</string>
+  <string name="menu_not_redirect_calls_to_vm">Sesli mesaj gönderilmedi</string>
   <string name="menu_redirect_calls_to_vm">Sesli mesaja gelen tüm çağrılar</string>
   <string name="menu_removeStar">Sık kullanılanlardan kaldır</string>
   <string name="menu_search">Ara</string>
-  <string name="menu_sendSMS">Kısa mesaj gönder</string>
+  <string name="menu_select_all">Tümünü seç</string>
+  <string name="menu_select_none">Tüm seçimi iptal et</string>
+  <string name="menu_sendTextMessage">Yazılı mesaj gönder</string>
+  <string name="menu_sendSMS">İletişim metni</string>
   <string name="menu_send_to_desktop">Ev ekranına gönder</string>
   <string name="menu_set_ring_tone">Zil sesi ayarla</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_share">Paylaş</string>
+  <string name="menu_show_all_calls">Tüm çağrıları göster</string>
+  <string name="menu_show_voicemails_only">Sadece sesli mesajları göster</string>
   <string name="menu_splitAggregate">Ayır</string>
   <string name="menu_sync_remove">Senkronize grubu kaldır</string>
   <string name="menu_viewContact">Kişiyi görüntüle</string>
-  <string formatted="false" name="merge_contact_message">(%1$d) kişinin bilgileri kısmen tekrar ediyor, (%2$d) birleştirildi</string>
+  <string name="merge_contact_message">%1$d kısmen yinelenen veriler, %2$d seçildi</string>
   <string name="messageShortcutActivityTitle">İleti gönderilecek bir numara seçin</string>
   <string name="missing_name">(Adsız)</string>
   <string name="move_and_resize">Taşı ve boyutlandır</string>
   <string name="multipleContactDeleteConfirmation">Bu kişiyi silmek, birden fazla hesaba ait bilgileri de siler.</string>
+  <string name="multipleContactDeleteConfirmationDetail">\"%s\" silme birden fazla hesap bilgileri siler..</string>
+  <string name="my_phone_not_provider_bluetooth">Cihaz Bluetooth\'u desteklemiyor</string>
+  <string name="my_phone_provider_bluetooth">Telefon Bluetooth\'u destekliyor</string>
   <string name="nameLabelsGroup">Ad</string>
   <string name="name_family">Soyadı</string>
   <string name="name_given">Adı</string>
@@ -437,6 +524,7 @@
   <string name="name_phonetic_middle">Fonetik ikinci ad</string>
   <string name="name_prefix">Ad öneki</string>
   <string name="name_suffix">Ad soneki</string>
+  <string name="next">sonraki</string>
   <string name="next_birthday">Sonraki doğumgünü: %s</string>
   <string name="nfc_vcard_file_name">Kişi NFC ile alındı</string>
   <string name="nicknameLabelsGroup">Takma ad</string>
@@ -474,6 +562,9 @@ Favoriler listenize kişi eklemek için:
 • Kişi Arama'ya Herhangi bir tarayıcıdan erişin.
 • Kişilerinizi güvenli bir şekilde yedekleyin."</string>
   <string name="no_contact_details">Bu kişi için ek bilgi yok.</string>
+  <string name="no_contact_in_other_phone">Telefonunuzda rehber listesi yok</string>
+  <string name="no_contacts_dialog_message">Rehberinizde kişi bulunamadı. SIM kartınızda kayıtlı olabilir, lütfen kontrol edin .</string>
+  <string name="no_contacts_dialog_title">Rehber bulunamadı</string>
   <string name="no_contact_name">Kişiismi kayıtlı değil</string>
   <string name="no_contacts_selected">Seçilen kişi yok.</string>
   <string name="no_sdcard_message">SD kart bulunamadı.</string>
@@ -482,45 +573,71 @@ Favoriler listenize kişi eklemek için:
   <string name="non_phone_caption">Telefon numarası</string>
   <string name="non_phone_close">Kapat</string>
   <string name="not_applied">Desteklenmiyor</string>
-  <string formatted="false" name="notification_new_voicemail_ticker">Yeni sesli mesj gönderen: %1$s</string>
-  <string formatted="false" name="notification_voicemail_callers_list">%1$s, %2$s</string>
   <string name="openDialKeyboard">Çevirici</string>
   <string name="open_contact">Kişiyi gör</string>
+  <string name="option_delete_contact">Sil</string>
+  <string name="option_delete_group">Sil</string>
+  <string name="option_edit_contact">Düzenle</string>
+  <string name="option_not_in_group">Kaldır</string>
+  <string name="option_not_star">Favori olmayan</string>
+  <string name="option_rename_group">Adlandır</string>
+  <string name="option_send_to_desktop">Masaüstüne gönder</string>
+  <string name="option_send_to_others">Diğerlerine gönder</string>
+  <string name="option_view_contact">Bak</string>
+  <string name="option_view_group">Bak</string>
   <string name="organizationLabelsGroup">Kuruluş</string>
-  <string formatted="false" name="organization_company_and_title">%2$s, %1$s</string>
+  <string name="organization_company_and_title">%2$s, %1$s</string>
   <string name="payphone">Ankesörlü telefon</string>
   <string name="people">Kişiler</string>
-  <string formatted="false" name="percentage">%s%%</string>
+  <string name="percent_sign">%</string>
+  <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefon</string>
+  <string name="phone_info_divider">"  |  "</string>
+  <string name="phone_primary">Primary</string>
   <string name="photoPickerNotFoundText">Telefonda hiçbir resim yok.</string>
   <string name="photo_package_activity_title">Fotoğraf paketi</string>
-  <string formatted="false" name="pick_favorites_list_title">Toplam %1$d favori kişi</string>
+  <string name="pick_favorites_contacts_list_title">%1$d favorite contacts in total</string>
+  <string name="pick_favorites_list_title">%1$d favorite contact numbers in total</string>
   <string name="pick_new_photo">"Galeri'den yeni fotoğraf seç"</string>
   <string name="pick_photo">"Galeri'den fotoğraf seçin"</string>
-  <string formatted="false" name="pick_recent_list_title">Toplam %1$d son kişi numarası</string>
+  <string name="pick_recent_contacts_list_title">%1$d toplam sık arananlar</string>
+  <string name="pick_recent_list_title">%1$d toplam sık aranan numaraları</string>
   <string name="pickerNewContactHeader">Yeni kişi oluştur</string>
+  <string name="pickerNewContactText">yeni kişi oluştur</string>
+  <string name="picker_all_list_empty">Kişi yok</string>
+  <string name="picker_contact_title">Lütfen Bir kişi seçin</string>
+  <string name="picker_email_title">Lütfen bir Eposta seçin</string>
+  <string name="picker_favorites_list_empty">Favori yok</string>
+  <string name="picker_groups_list_empty">Grup yok</string>
+  <string name="picker_join_title"> %s ile katılmak için bir kişi seçin</string>
+  <string name="picker_number_title">Bir numara seçin</string>
+  <string name="picker_postal_title">Bir posta seçin</string>
+  <string name="picker_recent_list_empty">Sık aranan kişi yok</string>
   <string name="pkgLabel">Kişiler ve çevirici</string>
   <string name="postalLabelsGroup">Adres</string>
   <string name="postal_address">Adres</string>
   <string name="postal_city">Şehir</string>
   <string name="postal_country">Ülke</string>
+  <string name="postal_neighborhood">Komşular</string>
+  <string name="postal_pobox">Posta kutusu</string>
   <string name="postal_postcode">Alan kodu</string>
   <string name="postal_region">Eyalet</string>
   <string name="postal_street">Cadde</string>
-  <string name="pref_key_photo_word_summary">Kişi olmasada kişi fotolarını otomatik seç.</string>
+  <string name="pref_key_photo">Foto</string>
+  <string name="pref_key_photo_word_summary">Kişi olmasada kişi fotolarını otomatik seçer.</string>
   <string name="pref_key_photo_word_title">Kişi fotolarını otomatik seç</string>
-  <string name="pref_key_rebuild_t9_index_message">Kişi arama hatalarını dültmek mümkündür</string>
+  <string name="pref_key_rebuild_t9_index_message">Kişi arama hatalarını düzeltmek mümkündür</string>
   <string name="pref_key_rebuild_t9_index_title">İndeks verilerini tekrar oluştur</string>
   <string name="pref_summary_import_from_account">Google ve Exchange hesabından Xiaomi hesabıma aktar</string>
   <string name="pref_title_account_import">Hesaptan aktar</string>
   <string name="pref_title_import_from_account">Xiaomi hesabıma aktar</string>
   <string name="preference_auto_ip_summary_disable">Etkin değil</string>
   <string name="preference_auto_ip_summary_on">"Hattınızın IP öneki: %s"</string>
-  <string name="preference_auto_ip_title">Otomatic IP</string>
-  <string name="preference_contacts">Kayıt</string>
+  <string name="preference_auto_ip_title">Otomatik IP Ayarları</string>
+  <string name="preference_contacts">Rehber</string>
   <string name="preference_contacts_display">Rehber görünümü</string>
   <string name="preference_contacts_filter">Görüntülenecek Rehber</string>
-  <string name="preference_contacts_more">Daha fazla kişi ayarları</string>
+  <string name="preference_contacts_more">Rehber ayarları</string>
   <string name="preference_dial_pad_touch_tone_default">Varsayılan</string>
   <string name="preference_dial_pad_touch_tone_human">İnsan sesi</string>
   <string name="preference_dial_pad_touch_tone_piano">Piyano sesi</string>
@@ -529,7 +646,7 @@ Favoriler listenize kişi eklemek için:
   <string name="preference_display">Ekran</string>
   <string name="preference_displayOptions">Ekran ayarları</string>
   <string name="preference_export">Dışa aktar</string>
-  <string name="preference_import">İçer aktar</string>
+  <string name="preference_import">İçe aktar</string>
   <string name="preference_import_export">İçe / Dışa aktar</string>
   <string name="preference_import_export_title">Kişileri İçe / Dışa Aktar</string>
   <string name="preference_others">Diğerleri</string>
@@ -559,12 +676,10 @@ Favoriler listenize kişi eklemek için:
   <string name="private_num">Özel numara</string>
   <string name="processing">İşleniyor...</string>
   <string name="profile_display_name">Profilimi ayarla</string>
-  <string formatted="false" name="progress_notifier_message">İçe aktarılıyor %s/%s: %s</string>
   <string name="quickcontact_missing_app">Bu işlemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="quit_dialog_confirm_title">Kişi birleştirmeden çıkmak istediğinize emin misiniz?</string>
-  <string formatted="false" name="raw_contact_account_label">Hesap:%1$s</string>
-  <string formatted="false" name="raw_contact_list_title">Bu kartvizit %1$d adet ham kişi bilgisi içeriyor，düzenlenecek kişi seçmek için dokununuz</string>
   <string name="readOnlyContactDeleteConfirmation">Bu kişi birden fazla hesaptan bilgiler içeriyor. Salt okunur hesaplardaki bilgiler silinmez, kişiler listelerinizde gizlenir.</string>
+  <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" Birden fazla hesap bilgileri içerir. Salt okunur hesaplardan bilgi silinmez, kişiler listeleri gizli olacak.</string>
   <string name="readOnlyContactWarning">Kişileri salt okunur hesaplardan silemezsiniz, ancak bu kişileri kişiler listenizde gizleyebilirsiniz.</string>
   <string name="reading_vcard_canceled_title">Vcard okunması ipdal edildi</string>
   <string name="reading_vcard_failed_title">vCard verileri okunamadı</string>
@@ -577,14 +692,16 @@ Favoriler listenize kişi eklemek için:
   <string name="recentCalls_editNumberBeforeCall">Önce numarayı düzenle</string>
   <string name="recentCalls_empty">Çağrı günlükğü boş.</string>
   <string name="recentCalls_removeFromRecentList">Çağrı kaydından kaldır</string>
+  <string name="recentCalls_shareVoicemail">Sesli mesajı paylaş</string>
   <string name="recentCalls_trashVoicemail">Sesli mesajı sil</string>
   <string name="recent_contacts_label">En Son</string>
+  <string name="recent_number">En Son</string>
   <string name="recent_updates">En Son</string>
   <string name="relationLabelsGroup">İlişki</string>
   <string name="remind_btn_ignore">Yoksay</string>
   <string name="remind_btn_sync_now">Şimdi Eşitle</string>
   <string name="removePhoto">Fotoğrafı kaldır</string>
-  <string name="remove_duplicate">"MIUI çift kişileri bulmanıza yardım edecek, Kişiler otomatik birleştirilemez, elle yapmanız gerekir"</string>
+  <string name="remove_duplicate">"MIUI çift kişileri bulmanıza yardım edecek. Kişiler otomatik birleştirilemez, elle yapmanız gerekir"</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Kaynak tarayıcı</string>
   <string name="resource_apply">Uygula</string>
@@ -592,7 +709,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_can_not_selected">%1$s seçilemedi!</string>
   <string name="resource_default">Varsayılan zil sesi</string>
   <string name="resource_default_name">Kaynak</string>
-  <string name="resource_delete_all">seçilen %1$d kaynak silinsin mi?</string>
+  <string name="resource_delete_all">Seçilen %1$d kaynak silinsin mi?</string>
   <string name="resource_delete_confirm">Bu kaynak silinsin mi?</string>
   <string name="resource_detail">Detaylar</string>
   <string name="resource_download">İndir</string>
@@ -628,8 +745,11 @@ Favoriler listenize kişi eklemek için:
   <string name="returnCall">Çağrıya dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>
   <string name="save_photo_progress">Fotoğraf kaydediliyor...</string>
+  <string name="savingContact">Kişi kaydediliyor…</string>
   <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor...</string>
+  <string name="scan">Cihazı tara</string>
   <string name="scan_duplicate">"Çift girişler aranıyor, lütfen bekleyin... "</string>
+  <string name="scan_duplicate_message">Rehberde tekrarlanan veriler %1$d</string>
   <string name="scan_merge">Muhtemel çift girişler aranıyor, lütfen bekleyin...</string>
   <string name="scanning">Taranıyor…</string>
   <string name="scanning_sdcard_failed_message">Sebep: \"%s\".</string>
@@ -649,10 +769,12 @@ Favoriler listenize kişi eklemek için:
   <string name="select_show_contacts">Kişiyi göster</string>
   <string name="select_vcard_title">vCard dosyası seçin</string>
   <string name="send_contact_shortcut_todesktop_success">Kişi başarıyla ev ekranına eklendi</string>
+  <string name="send_to_voicemail_checkbox">Sesli mesajlara doğrudan çağrı gönder</string>
   <string name="separatorJoinAggregateAll">Tüm kişiler</string>
   <string name="separatorJoinAggregateSuggestions">Önerilen kişiler</string>
   <string name="service_provider">Sarı sayfa</string>
   <string name="set_default">Varsayılan olarak ayarla</string>
+  <string name="set_photo_failed_msg">Avatar ayarlanamadı</string>
   <string name="share_error">Bu kişi paylaşılamıyor.</string>
   <string name="share_via">Şunu kullanarak kişi paylaş:</string>
   <string name="share_visible_contacts">Görülebilir kişileri paylaş</string>
@@ -668,15 +790,28 @@ Favoriler listenize kişi eklemek için:
   <string name="sim_contact_search_error">SIM Kart içerisinde kişi aranırken sorun oluştu</string>
   <string name="sim_contacts">SIM Kişileri</string>
   <string name="sim_export_loading">SIM kart bilgisi okunuyor. Bu işlem birkaç dakika sürebilir, lütfen bekleyiniz.</string>
-  <string formatted="false" name="sim_indexed_contact_not_exist">SIM kart üzerindeki %1$d pozisyonu hatalı, %2$d ile %3$d arasında seçim yapın</string>
+  <string name="sim_indexed_contact_not_exist">SIM karttaki %1$d pozisyonu hatalı, %2$d ve %3$d arasında olmalı</string>
   <string name="sim_no_contact">SIM kartta kişi yok</string>
+  <string name="single_group_list_empty">Grup üyesi yok</string>
+  <string name="smart_group_action_bar_title">%1$s-%2$s, %3$s</string>
+  <string name="smart_group_company_label">Şirkete göre</string>
+  <string name="smart_group_company_unavailable">Şirket yok</string>
+  <string name="smart_group_frequency_1">Bir ay içinde</string>
+  <string name="smart_group_frequency_2">3 ay içinde</string>
+  <string name="smart_group_frequency_3">6 ay içinde</string>
+  <string name="smart_group_frequency_4">6 aydan fazla</string>
+  <string name="smart_group_frequency_label">Sık aranan kişilere göre</string>
+  <string name="smart_group_label">Akıllı gruplama</string>
+  <string name="smart_group_loading">Akıllı gruplar yükleniyor…</string>
+  <string name="smart_group_location_label">Konuma göre</string>
+  <string name="smart_group_location_unavailable">Adres yok</string>
   <string name="sms">Kısa mesaj</string>
-  <string formatted="false" name="sms_assistant">SMS Gönder (%s)</string>
+  <string name="sms_assistant">Yazı %s</string>
   <string name="sms_callback">SMS Gönder (geri arama)</string>
   <string name="sms_car">SMS gönder (araç)</string>
   <string name="sms_company_main">SMS gönder (şirket merkezi)</string>
-  <string formatted="false" name="sms_custom">Metin %s</string>
-  <string name="sms_disambig_title">Şunu kullanarak SMS gönder:</string>
+  <string name="sms_custom">Yazı %s</string>
+  <string name="sms_disambig_title">Numarayı Seçin:</string>
   <string name="sms_fax_home">SMS Gönder (ev faksı)</string>
   <string name="sms_fax_work">SMS Gönder (iş faksı)</string>
   <string name="sms_home">SMS Gönder (ev)</string>
@@ -698,6 +833,7 @@ Favoriler listenize kişi eklemek için:
   <string name="splitConfirmation">Kişi birden çok kişiye ayrılacak.</string>
   <string name="splitConfirmation_title">Kişi ayrılsın mı?</string>
   <string name="starredList">Yıldızlı</string>
+  <string name="starred_contacts">Favoriler</string>
   <string name="status_available">Uygun</string>
   <string name="status_away">Dışarıda</string>
   <string name="status_busy">Meşgul</string>
@@ -709,7 +845,10 @@ Favoriler listenize kişi eklemek için:
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="titleJoinContactDataWith">Kişileri birleştir</string>
+  <string name="title_other_devices">Diğer kullanılabilir cihazlar</string>
+  <string name="title_paired_devices">Eşleştirilmiş cihazlar</string>
   <string name="toast_call_detail_error">İstenen çağrı için ayrıntılar okunamadı.</string>
+  <string name="toast_displaying_all_contacts">Tüm kişileri göster</string>
   <string name="toast_finish_delete_call_log">Arama kaydı silindi</string>
   <string name="toast_for_failed_saving_nickname">Rumuz kaydedilemedi!</string>
   <string name="toast_for_saving_nickname">Rumuz kaydedildi</string>
@@ -725,16 +864,16 @@ Favoriler listenize kişi eklemek için:
   <string name="unknown_contact_name">Bilinmeyen kişi</string>
   <string name="unkown_location">Bilinmeyen bölge</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
-  <string formatted="false" name="upgrade_out_of_memory">"Kişiler yeni sürüme geçiriliyor. Yeni sürüme geçirme işlemi yaklaşık %s MB dahili depolama alanı gerektirir. Aşağıdaki seçeneklerden birini belirleyin:"</string>
   <string name="upgrade_out_of_memory_retry">Yeni sürüme geçmeyi tekrar dene</string>
   <string name="upgrade_out_of_memory_uninstall">Bazı uygulamaları kaldırın</string>
   <string name="use_photo_as_primary">Bu fotoğrafı kullan</string>
+  <string name="use_photo_as_primary2"> %s kişi fotografını kullan</string>
   <string name="user_profile_contacts_list_header">Ben</string>
   <string name="vcard_export_request_rejected_message">"vCard'ı dışa aktarma isteği reddedildi. Daha sonra tekrar deneyin."</string>
-  <string formatted="false" name="vcard_export_will_start_message">%s kısa bir süre içinde dışa aktarılacak.</string>
+  <string name="vcard_export_will_start_message">%s Kısa zamanda dışa aktarılacak.</string>
   <string name="vcard_import_failed">vCard içe aktarılamadı.</string>
+  <string name="vcard_import_will_start_message">%s Kısa zamanda içe aktarılacak.</string>
   <string name="vcard_import_request_rejected_message">"vCard'ı içe aktarma isteği reddedildi. Daha sonra tekrar deneyin."</string>
-  <string formatted="false" name="vcard_import_will_start_message">%s kısa bir süre içinde içe aktarılacak.</string>
   <string name="vcard_import_will_start_message_with_default_name">Dosya kısa bir süre sonra içe aktarılacaktır.</string>
   <string name="vcard_unknown_filename">kişi</string>
   <string name="video_chat">Görüntülü sohbet</string>
@@ -758,7 +897,8 @@ Favoriler listenize kişi eklemek için:
   <string name="voicemail_status_messages_waiting">Sesli mesaj suncsuna bağlanılamıyor. Yeni sesli mesajlar bekliyor.</string>
   <string name="voicemail_status_voicemail_not_available">Sesli mesaj sunucusuna bağlanılamıyor.</string>
   <string name="websiteLabelsGroup">Web sitesi</string>
-  <string formatted="false" name="widget_name_and_phonetic">%1$s (%2$s)</string>
+  <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Verileri sil</string>
+  <string name="zero_items_selected">Seçili öğe yok</string>  
 </resources>
 
