@@ -31,7 +31,7 @@
   <string name="billboard">Billboard</string>
   <string name="buffering">Yükleniyor...</string>
   <string name="cancel">İptal Et</string>
-  <string name="cancel_sleep_mode">Uyku zamanlayıcısı durduruldu</string>
+  <string name="cancel_sleep_mode">Uyku zamanlayıcısını durdur</string>
   <string name="cancle_warining">Uyku modu durduruldu</string>
   <string name="channel">FM</string>
   <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
@@ -60,14 +60,14 @@
   <string name="dirac_disabled">Dirac devre dışı</string>
   <string name="dirac_enabled">Dirac etkin</string>
   <string name="download">İndir</string>
-  <string name="download_album_settings">Albüm kapağını totmatik indir</string>
-  <string name="download_album_summary">Mobil ağ üzerinden kullanıldığında daha pahalı olabilir, Wi-Fi kullanın</string>
+  <string name="download_album_settings">Albüm kapağını otomatik indir</string>
+  <string name="download_album_summary">Mobil ağ üzerinden kullanıldığında daha pahalı olabilir, Wi-Fi kullanmanız tavsiye edilir</string>
   <string name="download_all_album">Albüm kapaklarını indir</string>
   <string name="download_all_avatar">Sanatçı resmini indir</string>
   <string name="download_all_track">Tüm parçaları indir</string>
   <string name="download_batch_start">Tüm indirmeye başlayın</string>
   <string name="download_lyric_settings">Sözleri otomatik indir</string>
-  <string name="download_lyric_summary">"Şarkı sözleri indirmek büyük miktarda veri kullanmaz, veri tasarruf için devre dışı bırakılabilir."</string>
+  <string name="download_lyric_summary">"Şarkı sözlerini indirmek büyük miktarda veri kullanmaz, veri tasarruf için devre dışı bırakılabilir."</string>
   <string name="download_processing">İndiriliyor</string>
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
@@ -75,13 +75,13 @@
   <string name="edit_playlist_menu">Düzenle</string>
   <string name="empty_edit_hint">Şarkı bilgisi kullanılamaz</string>
   <string name="emptyplaylist">Seçilen çalma listesi boş.</string>
-  <string name="enter_sleep_mode">Uyku moduna gir</string>
+  <string name="enter_sleep_mode">Uyku modunu ayarla</string>
   <string name="equalizer">Ekolayzır</string>
   <string name="equalizer_delete">Sil</string>
   <string name="equalizer_delete_success">Ekolayzır profili kaldırıldı</string>
   <string name="equalizer_save_success">Ekolayzır profili kaydedildi</string>
   <string name="fade_effect_settings">Fade ayarları</string>
-  <string name="fade_effect_summary">Her şarkının arasında fading sağlar</string>
+  <string name="fade_effect_summary">Şarkı geçişlerinde fading efekti yapar</string>
   <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="file_not_found">Dosya yok</string>
   <string name="filter_by_duration">Süreye göre filtrele</string>
@@ -105,7 +105,7 @@
   <string name="hot_artists">Hit sanatçılar</string>
   <string name="id3_edit">ID3 bilgilerini düzenle</string>
   <string name="id3_edit_failed">ID3 düzenleme başarısız</string>
-  <string name="id3_modify_confirm_check">ID3 değişikliklerini onayla?</string>
+  <string name="id3_modify_confirm_check">ID3 değişikliklerini onaylıyor musunuz?</string>
   <string name="id3_modify_confirm_text">Kaydet</string>
   <string name="impunity_declaration">The online music you are about to use is from Baidu Online Music Service. Click \"OK\" to accept and use, click \"Cancel\" to exit.</string>
   <string name="impunity_declaration_title">Açıklama</string>
@@ -142,7 +142,7 @@
   <string name="min_interval">1</string>
   <string name="mobile_connect_settings">Mobil şebeke</string>
   <string name="modify_id3_for_list">Şarkıların ID3 bilgi düzenlenebilir olacak</string>
-  <string name="modify_id3_for_selected">Seçilen şarkını ID3 bilgileri düzenlendi</string>
+  <string name="modify_id3_for_selected">Seçilen şarkının ID3 bilgileri düzenlendi</string>
   <string name="modify_meta">Meta bilgisini düzenle</string>
   <string name="modify_tracks_id3_background">Modify selected songs ID3 information in background</string>
   <string name="more">Daha</string>
@@ -151,7 +151,7 @@
   <string name="music_filter_helper">Mp3 formatında olmayan dosyaları gizlemek için 800kb altında ki dosyaları gizleyecek bir boyut filtresi uygulanmıştır.Bu ayarı Gelişmiş ayarlar &gt; dosya filtresi altından değiştirebilirsiniz.</string>
   <string name="music_open_other_connect">Mobil internet bağlantısını kullanarak müzik indir</string>
   <string name="music_picker_title">Şarkıyı seç</string>
-  <string name="music_settings">Ayarlar</string>
+  <string name="music_settings">Oynatıcı Ayarları</string>
   <string name="network_error">Bağlantı yok, Ağ ayarlarını kontrol edin</string>
   <string name="new_albums">Yeni Albüm</string>
   <string name="new_equalizer_name_template">Yeni EQ profili %d</string>
@@ -222,7 +222,7 @@
   <string name="select_quit_time">Oynatıcıyı durdurmak için zamanlayıcı kurun (dakika içinde)</string>
   <string name="send_to">Buraya gönder</string>
   <string name="send_to_application">Başka uygulamaya gönder</string>
-  <string name="shake_and_skip">Sallayınca atlat</string>
+  <string name="shake_and_skip">Sallayınca şarkıyı atlat</string>
   <string name="shake_degree_desc">Sallama hassasiyeti</string>
   <string name="shake_degree_high">Yüksek</string>
   <string name="shake_degree_low">Düşük</string>
