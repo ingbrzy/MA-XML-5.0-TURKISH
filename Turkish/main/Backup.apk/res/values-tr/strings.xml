@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail e Yedekleme Bilgisi)</string>
+  <string name="account_contact_backup_info">Veri (Xiaomi ve Gmail\'e Yedekleme Bilgisi)</string>
   <string name="account_login">Giriş</string>
   <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
   <string name="already_enable_encrypt">Şifreleme Etkin</string>
@@ -21,7 +21,7 @@
   <string name="auto_backup_time">Yedekleme Programı</string>
   <string name="auto_backup_user_data">Uygulamalar</string>
   <string name="backup">Şimdi Yedekle</string>
-  <string name="backup_data">Veri Yedekle</string>
+  <string name="backup_data">Verileri Yedekle</string>
   <string name="backup_delete">Sil:</string>
   <string name="backup_empty">Yedekleme Dosyası Bulunamadı</string>
   <string name="backup_empty_info">Ayarlarınızı Uygulamaları ve Verilerinizi Yedekleyin</string>
@@ -50,7 +50,7 @@
   <string name="cancel_restore">GeriYükleme İptal</string>
   <string name="cloud_app_name">Bulut Yedekleme</string>
   <string name="cloud_backup_hint">Güvenli bir şekilde saklamak ve yedekleri geri yüklemek için giriş yapınız</string>
-  <string name="cloud_backup_login">Lütfen Xiaomi hesabını kullanarak giriş yapın</string>
+  <string name="cloud_backup_login">Lütfen Xiaomi hesabını kullanarak giriş yapınız</string>
   <string name="cloud_backup_window_title">Bulut Yedekleme</string>
   <string name="cloud_home_title">Bulut</string>
   <string name="cloud_item_info_summary">\u0020(Yerel %1$s | Bulut %2$s)</string>
@@ -65,17 +65,17 @@
   <string name="contact_title">Kişiler</string>
   <string name="current_account">Oturum Olarak: %s</string>
   <string name="current_sim">Mevcut Sim Kart</string>
-  <string name="data_no_enough_space">Yeterli Boş Alan Yok Kontrol Edip Tekrar Deneyin</string>
-  <string name="data_no_enough_space_message">Başarısız Depolama Alanından Birkaç Dosya Silip Tekrar Deneyin</string>
+  <string name="data_no_enough_space">Yeterli Boş Alan Yok, Kontrol Edip Tekrar Deneyin</string>
+  <string name="data_no_enough_space_message">Başarısız, Depolama Alanından Birkaç Dosya Silip Tekrar Deneyin</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="delete">Sil</string>
   <string name="delete_backup_process">Yedeklemeler Siliniyor...</string>
-  <string name="delete_failed_backup_confirm">Bir Hata Var Bunu Yedekten Geri Yükleye bilirsiniz</string>
+  <string name="delete_failed_backup_confirm">Bir Hata Var Bunu Yedekten Geri Yükleyebilirsiniz</string>
   <string name="dir_date_format">yyyy-MM-dd_HH-mm-ss</string>
   <string name="disable_encrypt_title">Şifreleme Devre Dışı</string>
   <string name="enable_encrypt">Şimdi Etkinleştir</string>
   <string name="enable_encrypt_fail">Etkinleştirme Başarısız Oldu</string>
-  <string name="enable_encrypt_indicator">Yedekleme şifreli değil,etkinleştirmek için tıklayın.</string>
+  <string name="enable_encrypt_indicator">Yedekleme şifreli değil, etkinleştirmek için tıklayın.</string>
   <string name="enable_encrypt_ok">TAMAM</string>
   <string name="enable_encrypt_summery1">"Sistem Xiaomi hesabına dayalı olarak yedeklemeri şifreler. Diğer cihazlarda veri kaldırma veya yedek geri yüklemek için Xiaomi hesabınızda oturum açmak gereklidir. "</string>
   <string name="enable_encrypt_summery2">"Yeni yedekleme otomatik olarak şifrelenir. Veri kaldırma ve yedek geri yüklemek için Xiaomi hesabınızda oturum açmanız gerekir."</string>
@@ -91,7 +91,7 @@
   <string name="import_from_xiaomi_account_hint2">Not: Zaten yedekeleme varsa sonraki adıma geçin</string>
   <string name="import_from_xiaomi_account_hint_title">Diğer kişileri başka cihazlarda yedeklemek MiTalk kullanın, MI-ONE Hariç</string>
   <string name="local_app_name">Yedekle</string>
-  <string name="local_backup_window_title">Yerel Veri Yedekleme</string>
+  <string name="local_backup_window_title">Yerel Verileri Yedekleme</string>
   <string name="local_home_title">Yerel Yedekleme</string>
   <string name="local_no_backup">Yerel Yedekleme Yok</string>
   <string name="local_restore_window_title">Yerel Kurtarma</string>
@@ -128,7 +128,7 @@
   <string name="restore_telephony_hit">(Not: Kurtarma işleminden sonra Telefonu yeniden başlat)</string>
   <string name="retry">Yeniden Dene</string>
   <string name="reverse_all">Hepsini Temizle</string>
-  <string name="sc_bad_request">Bad request</string>
+  <string name="sc_bad_request">Hatalı istek</string>
   <string name="sc_internal_server_error">Dahili Sunucu Hatası</string>
   <string name="sc_network_unavailable">Ağ Bağlantı Hatası</string>
   <string name="sc_others">Özel Program</string>
@@ -139,17 +139,17 @@
   <string name="sc_unauthorized">Sertifika geçerli değil</string>
   <string name="sdcard_no_enough_space">SD kartta yeterli boş yer yok</string>
   <string name="sdcard_no_enough_space_message">Yedekleme Başarısız lütfen Sdkarttan birkaç Dosya silerek tekrar deneyiniz</string>
-  <string name="sdcard_unmounted">Takılı Sdkart Bulunamadı!</string>
+  <string name="sdcard_unmounted">Takılı SD kart Bulunamadı!</string>
   <string name="select_all">Tümünü Seç</string>
   <string name="select_backup_item">Yedek öğeyi seçin</string>
   <string name="service_stoped">Hizmet Durduruldu</string>
   <string name="settings_summary">Telefon Ve Mesaj Yedekleme Ayarları</string>
-  <string name="sms_title">Mesajlaşma</string>
+  <string name="sms_title">Mesajlaş</string>
   <string name="software_backup_info">Uygulama Ve verilerini Yedekle</string>
   <string name="start_backup">Yedeklemeyi Başlat</string>
   <string name="start_restore">Geri Yükle</string>
   <string name="succeed">Başarılı</string>
-  <string name="system_backup">Yedekler</string>
+  <string name="system_backup">Verilerinizi Yedekler</string>
   <string name="system_backup_info">Sistem ayarları, masaüstü düzeni vb.</string>
   <string name="task_backup_cancel_progress">Yedekleme İptal Ediliyor...</string>
   <string name="task_backup_finished_local">Yedekleme Tamamlandı</string>
@@ -166,7 +166,7 @@
   <string name="task_post_running">İlerleme mesajı</string>
   <string name="task_pre_running">Hazırlanıyor</string>
   <string name="task_progress">İlerleme</string>
-  <string name="task_restore_cancel_dialog">Restore not completed\ncancelling restore may cause data corruption to occur</string>
+  <string name="task_restore_cancel_dialog">Onarma tamamlanmadı\nİptal edilirse veri kayıplarına neden olabilir</string>
   <string name="task_restore_cancel_progress">İptal Ediliyor...</string>
   <string name="task_restore_finished_local">Geri Yükleme Tamamlandı</string>
   <string name="task_restore_none">Geri yükleme gerekli değildir</string>
