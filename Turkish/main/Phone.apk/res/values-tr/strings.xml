@@ -498,7 +498,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="incall_error_supp_service_separate">Baska bir çağrı yapılamaz!</string>
   <string name="incall_error_supp_service_switch">Çağrılar arasında geçiş yapılamıyor!</string>
   <string name="incall_error_supp_service_transfer">Çağrı transfer edilemiyor!</string>
-  <string name="incall_error_supp_service_unknown">Desteklenmiyor.!/string>
+  <string name="incall_error_supp_service_unknown">Desteklenmiyor!</string>
   <string name="incall_screen_background_summary_miui">"Bir avatar olmadığı zaman kilit ekranı duvar kağıdını kullanın"</string>
   <string name="incall_screen_background_title_miui">Çağrı sırasındaki arka plan resmi</string>
   <string name="incall_status_dialed_mmi">MMI dizi başlatılıyor…</string>
