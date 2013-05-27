@@ -149,7 +149,7 @@
   <string name="HIPS_Perm_SilenceRinger">Sessiz</string>
   <string name="HIPS_Perm_Title">Başlık</string>
   <string name="HIPS_Perm_WIFINetwork">Wi-Fi</string>
-  <string name="HIPS_Perm_WIFINetwork_Desc">Wi-Fi üzerinden İnternet erişimi/string>
+  <string name="HIPS_Perm_WIFINetwork_Desc">Wi-Fi üzerinden İnternet erişimi</string>
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s uygulamanın internet erişim izni var</string>
   <string name="HIPS_SecurityPrompt_Accept">İzinli (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">İzin ver</string>
