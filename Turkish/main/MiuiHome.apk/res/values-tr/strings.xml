@@ -29,7 +29,7 @@
   <string name="encryption">Şifreleme</string>
   <string name="failed_to_delete_temporary">Silme işleminde hata, lütfen tekrar deneyin!</string>
   <string name="failed_to_drop">İkon taşınamadı, eski konumuna geri yüklendi!</string>
-  <string name="failed_to_drop_widget_invalid">Araç Hatalı!/string>
+  <string name="failed_to_drop_widget_invalid">Araç Hatalı!</string>
   <string name="failed_to_drop_widget_nospace">Ekranda yeteri kadar boşluk yok!</string>
   <string name="folder_name">Klasör</string>
   <string name="frame_load_failed">Geçersiz foto çerçevesi, çerçeve yüklenemedi!</string>
