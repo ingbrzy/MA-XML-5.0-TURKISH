@@ -300,7 +300,7 @@
   <string name="mailbox_list_account_selector_show_all_folders">Tüm klasörleri göster</string>
   <string name="mailbox_list_recent_mailboxes">Son klasörler</string>
   <string name="mailbox_list_user_mailboxes">Tüm klasörler</string>
-  <string name="mailbox_name_display_drafts">Taslaklar/string>
+  <string name="mailbox_name_display_drafts">Taslaklar</string>
   <string name="mailbox_name_display_inbox">Gelen kutusu</string>
   <string name="mailbox_name_display_junk">Önemsiz</string>
   <string name="mailbox_name_display_outbox">Giden kutusu</string>
