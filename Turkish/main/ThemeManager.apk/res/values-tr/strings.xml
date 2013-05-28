@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Hesap bilgileri hatalı, tekrar giriş yapmayı deneyin.</string>
   <string name="all_resources">Tümü</string>
