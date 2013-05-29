@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir kata oluştu!</string>
+  <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
   <string name="Parse_error_dlg_title">Ayrıştırma hatası!</string>
   <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor. Şimdi ve gelecekte bu izin verilsin mi?"</string>
   <string name="allow_source_dlg_title">Uygulamalar için yeni kaynaklara izin verilsin mi</string>
