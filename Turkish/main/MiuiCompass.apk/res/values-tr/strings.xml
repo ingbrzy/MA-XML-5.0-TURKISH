@@ -1,10 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="altitude_title">Yükseklik</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">Pusula</string>
-  <string name="cannot_get_location">Konumunuz bulunamıyor</string>
+  <string name="calibrate_failed_no_location">Kalibrasyon başarısız oldu: Mevcut enlem ve boylam alınamıyor!</string>
+  <string name="calibrate_failed_timeout">Kalibrasyon başarısız oldu: Sunucu zaman aşımı oluştu!</string>
+  <string name="calibrate_success">Kalibrasyon tamamlandı</string>
+  <string name="dialog_calibrat_altitude">Internet bağlantısı üzerinden yükseklik kalibrasyonu.</string>
+  <string name="dialog_title_no_network">Hiçbir ağ bulunamadı, Wi-Fi  veya veri hizmetini etkinleştirin</string>
+  <string name="direction_east">D</string>
+  <string name="direction_north">K</string>
+  <string name="direction_south">G</string>
+  <string name="direction_west">B</string>
   <string name="getting_location">Konumunuz bulunuyor...</string>
+  <string name="guide_toast">"Manyetik alan paraziti olabilir, aşağıdaki hareketi kullanarak pusulayı kalibre edin."</string>
+  <string name="latitude">LAT</string>
   <string name="location_east">Doğu</string>
   <string name="location_north">Kuzey</string>
   <string name="location_south">Güney</string>
   <string name="location_west">Batı</string>
+  <string name="longitude">LON</string>
+  <string name="menu_calibrate">Kalibre et</string>
+  <string name="menu_calibrate_altitude">Yüksekliği kalibre et</string>
+  <string name="pressure">%.1f</string>
+  <string name="pressure_title">Basınç</string>
+  <string name="pressure_unit">hPa</string>
 </resources>
