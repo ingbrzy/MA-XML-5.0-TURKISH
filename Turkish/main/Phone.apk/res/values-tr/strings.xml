@@ -33,9 +33,9 @@
   <string name="answer_and_hangup_miui">Cevapla</string>
   <string name="answer_features_setting_category_miui">Cevaplama ayarları</string>
   <string name="answer_miui">Cevapla</string>
-  <string name="answer_state_setting_summary">Çevirince sessiz, yakınlık sensörü, vb Ayarlar.</string>
-  <string name="answer_state_setting_title">Gelen arama ayarları</string>
-  <string name="answer_state_setting_title_miui">Gelen arama ayarları</string>
+  <string name="answer_state_setting_summary">Susturmak için çevir, yakınlık sensörü, vb ayarlar.</string>
+  <string name="answer_state_setting_title">Gelen çağrı ayarları</string>
+  <string name="answer_state_setting_title_miui">Gelen çağrı ayarları</string>
   <string name="answer_widget_dialog_title_miui">Cevaplamak için hareketi seçin</string>
   <string name="answer_widget_sliding_horizontal_miui">Yatay kaydırma</string>
   <string name="answer_widget_sliding_vertical_miui">Dikey kaydırma</string>
@@ -299,7 +299,7 @@
   <string name="data_enabled">Veri etkin</string>
   <string name="deact_all_sub_not_supported">Abonelikler desteklenmiyor.</string>
   <string name="default_contacts_countrycode_hint_miui">Örneğin: 90</string>
-  <string name="default_contacts_countrycode_miui">Geçerli kişi ülke kodu</string>
+  <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
   <string name="default_contacts_countrycode_sum_miui">Kişinin ülke kodunu seçin</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ayarlanamadı&gt;</string>
@@ -470,7 +470,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="hac_mode_summary_miui">Işitme cihazlarıyla uyumluluğu açın</string>
   <string name="hac_mode_title">Işitme cihazları</string>
   <string name="hac_mode_title_miui">Işitme cihazları</string>
-  <string name="handon_ringer_summary_miui">Boşta iken gelen çağrıda titreşim etkin</string>
+  <string name="handon_ringer_summary_miui">Telefonu kaldırırken zil sesini azaltır</string>
   <string name="handon_ringer_title_miui">Kaldırırken sesi azalt</string>
   <string name="hangup_sms_miui">SMS ile reddet</string>
   <string name="ignore_miui">Önemseme</string>
@@ -581,12 +581,12 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="mismatch_pin_miui">Girdiğiniz PIN eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="missed_call_notify_five_times_miui">5 kez</string>
   <string name="missed_call_notify_none_miui">Asla</string>
-  <string name="missed_call_notify_once_miui">1 kere</string>
-  <string name="missed_call_notify_ten_times_miui">10 kere</string>
-  <string name="missed_call_notify_thrice_miui">3 kere</string>
+  <string name="missed_call_notify_once_miui">1 kez</string>
+  <string name="missed_call_notify_ten_times_miui">10 kez</string>
+  <string name="missed_call_notify_thrice_miui">3 kez</string>
   <string name="missed_call_notify_times_summary_miui">Cevapsız aramalar için varsayılan olarak her 5 dakikada bir tekrar</string>
   <string name="missed_call_notify_times_title_miui">Cevapsız çağrı hatırlatma süresi</string>
-  <string name="missed_call_notify_twice_miui">2 kere</string>
+  <string name="missed_call_notify_twice_miui">2 kez</string>
   <string name="mmiCancelled">MMI kod iptal edildi</string>
   <string name="mmiStarted">MMI kod başladı</string>
   <string name="mobile_network_setting">Mobil şebeke ayarları</string>
@@ -1009,7 +1009,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="telocation_setting_summary_countrycode_on">Ülke kodunu otomatik ekle</string>
   <string name="telocation_setting_summary_teloc_off">Bölgeyi gizle</string>
   <string name="telocation_setting_summary_teloc_on">Bölgeyi göster</string>
-  <string name="telocation_show_settings_miui">Ekran ayarları</string>
+  <string name="telocation_show_settings_miui">Tele Konumlama Ayarları</string>
   <string name="third_party_account_summary">Bu hesap %s tarafından kullanılıyor</string>
   <string name="throttle_current_usage">Dönem içinde kullanılan veriler</string>
   <string name="throttle_data_rate_reduced_subtext">"%1$s aşıldı veri hızı %2$d Kb/s düşürüldü"</string>
