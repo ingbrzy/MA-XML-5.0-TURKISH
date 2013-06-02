@@ -19,7 +19,7 @@
   <string name="install">Yükle</string>
   <string name="install_confirm_question">Uygulama yüklensin mi?</string>
   <string name="install_done">Yüklendi</string>
-  <string name="install_failed">Yükleneme başarısız!</string>
+  <string name="install_failed">Yükleme başarısız!</string>
   <string name="install_failed_cpu_abi_incompatible">"Uygulama telefonunuzun CPU\'su ile uyumlu değil!"</string>
   <string name="install_failed_file_not_found">Yüklemenin tamamlanması için belirtilen paket silindi!</string>
   <string name="install_failed_inconsistent_certificates">Aynı ad ve imzalı bir uygulama zaten yüklenmiş!</string>
@@ -56,7 +56,7 @@
   <string name="settings">Ayarlar</string>
   <string name="trust_switch_dialog_msg">"MIUI tekrar güvenlik uyarısı yapmayacak, bu uygulama güvenli mi？"</string>
   <string name="uninstall_activity_text">%1$s Aşağıdaki uygulamanın bir parçasıdır:</string>
-  <string name="uninstall_application_text">Uygulama kaldırılamadı!</string>
+  <string name="uninstall_application_text">Uygulama kaldırılacak!</string>
   <string name="uninstall_application_title">Uygulamayı kaldır</string>
   <string name="uninstall_confirm_question">Uygulama kaldırılsın mı?</string>
   <string name="uninstall_done">Kaldırma tamamlandı</string>
