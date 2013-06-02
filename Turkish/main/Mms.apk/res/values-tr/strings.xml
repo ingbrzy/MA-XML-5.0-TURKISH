@@ -20,7 +20,7 @@
   <string name="adding_attachments_title">Ekler ekleniyor</string>
   <string name="adding_recipients">Alıcılar ekleniyor</string>
   <string name="all_threads">Tüm ileti dizileri</string>
-  <string name="app_label">Mesajlaş.</string>
+  <string name="app_label">Mesajlar</string>
   <string name="attach_image">Resimler</string>
   <string name="attach_record_sound">Ses kaydet</string>
   <string name="attach_record_video">Video çek</string>
@@ -37,7 +37,6 @@
   <string name="bookmark">Favoriler</string>
   <string name="bookmark_attr_format">%1$s,%2$s</string>
   <string name="bookmark_confirm_delete_message">Mesaj favorilerden kaldırılacak</string>
-  <string formatted="false" name="bookmark_list_title">Favoriler (%1$d)</string>
   <string name="cannot_add_picture_and_video">Video ve resim aynı slayta eklenemez.</string>
   <string name="cannot_add_slide_anymore">Daha fazla slayt eklenemiyor.</string>
   <string name="cannot_forward_drm_obj">Mesajdaki DRM nesnesi yönlendirilemiyor.</string>
@@ -255,7 +254,6 @@
   <string name="open_keyboard_to_compose_message">Mesajı yazmak için klavyeyi açın</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
   <string name="phrase_from">%1s</string>
-  <string formatted="false" name="phrase_list_title">Şablonlar (%1$d)</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="play">Yürüt</string>
   <string name="prefDefault_ringtone_repeat">1</string>
