@@ -105,7 +105,7 @@
   <string name="permlab_write_settings">Ana sayfa ve kısayol ayarları</string>
   <string name="photo_adjust">Fotoğrafı düzenle</string>
   <string name="photo_confirm">Onayla</string>
-  <string name="photo_load_failed">Fotoğrafı yüklenirken hata!</string>
+  <string name="photo_load_failed">Fotoğraf yüklenirken hata!</string>
   <string name="pref_cell_layout_size">Tablo stili</string>
   <string name="pref_enable_drawing_cache_summary">Hafızada yer açmak için devre dışı bırak. (Gecikmelere neden olabilir!)</string>
   <string name="pref_enable_drawing_cache_title">Grafik Önbelleği</string>
@@ -113,7 +113,7 @@
   <string name="pref_icon_shadow_title">İkon Gölgesi</string>
   <string name="pref_keep_in_memory_summary">Düşük hafıza kalsada uygulamayı sonlandırmaz</string>
   <string name="pref_keep_in_memory_title">Hafızada sakla</string>
-  <string name="pref_keep_layout_summary">Simge düzenini değiştirmek masaüstü düzeni bozabilir.</string>
+  <string name="pref_keep_layout_summary">Simge düzenini değiştirmek masaüstü görünümünü bozabilir.</string>
   <string name="pref_keep_layout_title">Geçerli düzeni koru</string>
   <string name="pref_render_in_truecolor_summary">Renk işlemeyi hızlandırmak için devre dışı bırak</string>
   <string name="pref_render_in_truecolor_title">Gerçek renk işleme</string>
