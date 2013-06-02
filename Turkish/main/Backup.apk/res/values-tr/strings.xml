@@ -4,7 +4,7 @@
   <string name="account_login">Giriş</string>
   <string name="account_summary">Gmail, E-mail ve Xiaomi Hesebını Yedekle</string>
   <string name="already_enable_encrypt">Şifreleme Etkin</string>
-  <string name="app_name">Yedekle</string>
+  <string name="app_name">Yedekleme</string>
   <string name="auto_backup">Otomatik Yedekle</string>
   <string name="auto_backup_all_user_apps">Tüm Uygulamalar</string>
   <string name="auto_backup_choose">Otomatik Olarak Yedekle</string>
@@ -149,7 +149,7 @@
   <string name="start_backup">Yedeklemeyi Başlat</string>
   <string name="start_restore">Geri Yükle</string>
   <string name="succeed">Başarılı</string>
-  <string name="system_backup">Verilerinizi Yedekler</string>
+  <string name="system_backup">Yedekleme</string>
   <string name="system_backup_info">Sistem ayarları, masaüstü düzeni vb.</string>
   <string name="task_backup_cancel_progress">Yedekleme İptal Ediliyor...</string>
   <string name="task_backup_finished_local">Yedekleme Tamamlandı</string>
