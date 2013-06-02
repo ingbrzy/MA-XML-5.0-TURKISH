@@ -64,7 +64,7 @@
   <string name="delete_folder">Bu klasör silinsin mi?</string>
   <string name="delete_folders">Seçilen %1$d klasör silinsin mi?</string>
   <string name="des_running_trans">Aktarılması gereken %1$d dosya var</string>
-  <string name="dialog_select_type">Dosya dipini seçin</string>
+  <string name="dialog_select_type">Dosya tipini seçin</string>
   <string name="dialog_type_audio">Ses</string>
   <string name="dialog_type_image">Resim</string>
   <string name="dialog_type_text">Yazı</string>
@@ -206,8 +206,8 @@ Junk"</string>
   <string name="sd_size_label">SD kart hafızası</string>
   <string name="search_hint">Dosyalar aranıyor</string>
   <string name="search_title">Dosyalar aranıyor</string>
-  <string name="send_to_midrive">MiDrive a gönder</string>
-  <string name="send_to_midrive_failed_message">MiDrive\'a gönderilemedi. Bağlandı hatası!</string>
+  <string name="send_to_midrive">MiDrive\'a gönder</string>
+  <string name="send_to_midrive_failed_message">MiDrive\'a gönderilemedi. Bağlantı hatası!</string>
   <string name="server_control_advanced_settings">Gelişmiş ayarlar</string>
   <string name="server_control_charset">Transfer kodlaması</string>
   <string name="server_control_settings">Sunucu ayarları</string>
