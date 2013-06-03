@@ -8,6 +8,7 @@
   <string name="accessibility_zoom_control">Zoom kontrolü</string>
   <string name="albums">Albümler</string>
   <string name="aperture">Açıklık</string>
+  <string name="app_details">Uygulama:</string> 
   <string name="auto">Otomatik</string>
   <string name="bg_replacement_message">"Telefonunuzu aşağı indirin ve bir süre görüntüden uzaklaştırın"</string>
   <string name="camera_disabled">Kamera, güvenlik ilkelerinden dolayı devre dışı bırakıldı.</string>
@@ -25,6 +26,19 @@
   <string name="confirm_location_message">Kamera, çekilen fotoğraflara konum bilgisi ekleyebilir. Bu özellik şimdi etkinleştirilsin mi?</string>
   <string name="confirm_restore_message">Kamera ayarları sıfırlansın mı?</string>
   <string name="confirm_restore_title">Ayarları sıfırla</string>
+  <string name="contact_address">Adres</string>
+  <string name="contact_birthday">Doğum tarihi</string>
+  <string name="contact_company">Şirket</string>
+  <string name="contact_details">İletişim:</string>
+  <string name="contact_email">E-Posta</string>
+  <string name="contact_name">Adı</string>
+  <string name="contact_nickname">Takma adı</string>
+  <string name="contact_note">Not</string>
+  <string name="contact_phone">Telefon</string>
+  <string name="contact_title">Başlık</string>
+  <string name="contact_web">Web</string>
+  <string name="copy_text">Kopyala</string>
+  <string name="copy_text_success">Metin kopyalandı</string> 
   <string name="crop_saved">Kırpılmış resim %s e kaydedildi.</string>
   <string name="delete">Sil</string>
   <string name="deleted">Silindi</string>
@@ -35,6 +49,7 @@
   <string name="details_title">%2$d de %1$d öğe:</string>
   <string name="dialog_ok">Tamam</string>
   <string name="disable_video_snapshot_hint">Özel efektler açıkken videodan resim alınamaz.</string>
+  <string name="download_by_browser">Bir web tarayıcısı indir</string> 
   <string name="duration">Süre</string>
   <string name="edit">Düzenle</string>
   <string name="effect_backdropper_disco">Disko</string>
@@ -59,6 +74,11 @@
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatma hatası. Mikrofon başka bir uygulama tarafından kullanılıyor olabilir.</string>
   <string name="exposure_time">Pozlama süresi</string>
   <string name="file_size">Dosya boyutu</string>
+  <string name="find_market_qrcode">İşletme QR kodu bul</string>
+  <string name="find_mecard_qrcode">Kart QR kodu bul</string>
+  <string name="find_other_qrcode">QR kodu bul</string>
+  <string name="find_web_qrcode">Web QR kodu bul</string>
+  <string name="find_weixin_qrcode">Weixin QR kodu bul</string> 
   <string name="flash">Flaş</string>
   <string name="flash_off">Flaş kapalı</string>
   <string name="flash_on">Flash açık</string>
@@ -78,8 +98,10 @@
   <string name="height">Yükseklik</string>
   <string name="image_file_name_format">"'IMG'_yyyyMMdd_HHmmss"</string>
   <string name="import_complete">İçe aktarma tamamlandı</string>
+  <string name="import_contact">Kişileri İçe aktar</string>
   <string name="import_fail">İçe aktarmada başarısız</string>
   <string name="iso">ISO</string>
+  <string name="launch_market">Google Play\'i başlat</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_video">Video yükleniyor...</string>
   <string name="location">Konum</string>
@@ -341,6 +363,7 @@
   <string name="pref_video_time_lapse_frame_interval_entry_900">30 saniye aralıkla (900 kez)</string>
   <string name="preference_simple_mode_title">Basit mod</string>
   <string name="preparing_sd">Dahili hafıza hazırlanıyor...</string>
+  <string name="qr_code_details">"QR kodu: "</string> 
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar basın</string>
   <string name="resume_playing_message">%s den oynatmaya devam ediyor ?</string>
   <string name="resume_playing_restart">Yeniden başlat</string>
@@ -349,6 +372,11 @@
   <string name="review_cancel">İptal</string>
   <string name="rotate_left">Sola döndür</string>
   <string name="rotate_right">Sağa döndür</string>
+  <string name="save">Kaydet</string> 
+  <string name="scan_qrcode">QR kodu tara</string>
+  <string name="secure_access_web_url">Güvenli internet erişimi</string>
+  <string name="see_app_details">Uygulama detayları</string>
+  <string name="see_qrcode_detals">QR kodu ayrıntılarını göster</string> 
   <string name="select_all">Tümünü seç</string>
   <string name="select_image">Fotoğraf seç</string>
   <string name="select_item">Öğe seç</string>
@@ -377,6 +405,7 @@
   <string name="snapshot_qcif_and_d1">Bu çözünürlük için sadece videodan fotoğraf alma çözünürlüğü destekleniyor.</string>
   <string name="snapshotsize_low_powermode">Fotoğraf çözünürlüğü düşük güç modunda desteklenmiyor. Videodan fotoğraf alma çözünürlüğü kullanılacak. Lütfen yüksek güç modunu seçin.</string>
   <string name="spaceIsLow_content">USB belleğiniz dolmak üzere. Fotoğraf kalitesini düşürün veya bazı resim dosyalarını veya başka dosyaları silin.</string>
+  <string name="success_message_import_from_account">İçe aktarma başarılı</string> 
   <string name="tags">Etiketler</string>
   <string name="tap_to_focus">Odaklamak için dokunun.</string>
   <string name="time">Zaman</string>
@@ -398,6 +427,10 @@
   <string name="video_snapshot_hint">Video kaydederken fotoğraf çekmek için önizleme ekranına dokunun.</string>
   <string name="videocamera_settings_label">Video Ayarları</string>
   <string name="wait">Lütfen bekleyin...</string>
+  <string name="web_url_apk_warning">Seçilen QR kodu verilerinizi tehlikeye sokabilecek uygulama içeriyor. Güvenliği doğrulamak için, Google Play Store uygulama bulmalısınız..</string>
+  <string name="web_url_warning">QR kodu Web sitesi verilerinizi tehlikeye sokabilir,  MIUI tarayıcı bu QR kodunu kontrol edecektir.</string>
+  <string name="website_details">"Web Sitesi:: "</string>
+  <string name="weixin_details">"Weixin: "</string> 
   <string name="white_balance">Beyaz Dengesi</string>
   <string name="width">Genişlik</string>
 </resources>
