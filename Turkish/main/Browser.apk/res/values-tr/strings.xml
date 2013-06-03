@@ -33,6 +33,7 @@
   <string name="add_to_other_folder_menu_option">Diğer klasör</string>
   <string name="add_xiaomi_account_warning">Önce Xiaomi hesabınız ile giriş yapın.</string>
   <string name="added_to_bookmarks">Yer işaretlerine eklendi.</string>
+  <string name="alert_tips">Bu sayfa, güvenlik ve gizliliği tehlikeye atabilir, dikkatli olun!</string> 
   <string name="allow">İzin Ver</string>
   <string name="application_name">İnternet</string>
   <string name="autofill_profile_editor_address_line_1">Adres satırı 1:</string>
@@ -90,8 +91,9 @@
   <string name="choosertitle_sharevia">Şunu kullanarak paylaş:</string>
   <string name="clear">Temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
+  <string name="close_all_tab_alert_message">Tüm kartları kapatmak istediğinizden emin misiniz?</string>
+  <string name="close_all_tab_alert_title">Tüm kartları kapat</string>
   <string name="containing_folder">Şu klasöre ekle</string>
-  <string formatted="false" name="contextheader_folder_bookmarkcount">%d yer işareti</string>
   <string name="contextheader_folder_empty">Boş klasör</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
@@ -168,11 +170,8 @@
   <string name="import_bookmark_failure">Yerimleri içe aktarımı başarısız!</string>
   <string name="import_bookmark_sucess">Yerimlerini içeri aktarma başarıyla tamamlandı</string>
   <string name="import_bookmarks_dialog_add">Yer işaretlerini Google hesabına ekle</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_add">Bu cihazdaki mevcut yer işaretleri eklensin ve %s ile senkronize edilmeye başlansın mı?</string>
-  <string formatted="false" name="import_bookmarks_dialog_confirm_delete">Bu cihazdaki mevcut yer işaretleri silinip %s ile senkronize edilmeye başlansın mı?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Bu cihazdaki mevcut yer işaretlerini silin ve Google hesabı ile senkronize etmeye başlayın</string>
   <string name="import_bookmarks_dialog_description">Bu cihazdaki yer işaretleri henüz bir Google hesabıyla ilişkilendirilmemiş. Bu yer işaretlerini bir hesaba ekleyerek kaydedin. Bu yer işaretlerini senkronize etmek istemiyorsanız silin.</string>
-  <string formatted="false" name="import_bookmarks_dialog_import">Android yer işaretlerinizi %s yer işaretlerine ekleyin</string>
   <string name="import_bookmarks_dialog_remove">Yer işaretlerini sil</string>
   <string name="import_bookmarks_dialog_select_add_account">Bu cihazdaki mevcut yer işaretlerini ekleyin ve Google Hesabı ile senkronize etmeye başlayın</string>
   <string name="import_bookmarks_dialog_title">Google hesabı ile senkronize et</string>
@@ -209,6 +208,10 @@
   <string name="move_to_up_folder">Üst Seviye</string>
   <string name="multi_select_title">%1$s öğe seçili</string>
   <string name="name">Etiket</string>
+  <string name="navigation_button_close">Kapat</string>
+  <string name="navigation_button_newtab">Yeni</string>
+  <string name="navigation_button_tab">Kart</string>
+  <string name="navigation_button_view">Görünüm</string> 
   <string name="new_folder">Yeni klasör</string>
   <string name="new_incognito_tab">Yeni gizli sekme</string>
   <string name="new_tab">Yeni sekme</string>
@@ -231,7 +234,6 @@
   <string name="pref_autofill_enabled_summary">Web formlarını tek bir dokunmayla doldurun</string>
   <string name="pref_autofill_profile_editor">Otomatik doldurma metni</string>
   <string name="pref_autofill_profile_editor_summary">Web formlarına otomatik girilecek metni ayarlayın</string>
-  <string formatted="false" name="pref_autologin_progress">%s kullanılarak Google sitelerinde oturum açılıyor</string>
   <string name="pref_autologin_title">Googleda otomatik oturum açma</string>
   <string name="pref_clear_cache_for_exit">Çıkarken önbelleği temizle</string>
   <string name="pref_clear_history_for_exit">Çıkarken geçmişi temizle</string>
@@ -290,6 +292,7 @@
   <string name="pref_extras_website_settings">Web sitesi ayarları</string>
   <string name="pref_extras_website_settings_summary">Her web sitesi için ayrı düzenlenebilen gelişmiş ayarlar</string>
   <string name="pref_fling_on_border_enabled">Fling on border</string>
+  <string name="pref_fling_on_border_enabled_title_summary">Ekranın kenarında parmağınızı hareket ettirin</string> 
   <string name="pref_fling_on_border_operation">Operation for fling on border</string>
   <string name="pref_font_size_category">Metin boyutu</string>
   <string name="pref_force_userscalable">Yakınlaştırmayı etkinleştirmeye zorla</string>
@@ -311,7 +314,6 @@
   <string name="pref_lab_quick_controls_summary">Hızlı denetimleri açmak, uygulama ve URL çubuklarını gizlemek için baş parmağınızı sol veya sağ kenara kaydırın.</string>
   <string name="pref_lab_title">Labs</string>
   <string name="pref_min_font_size">Minimum yazı tipi boyutu</string>
-  <string formatted="false" name="pref_min_font_size_value">%dpt</string>
   <string name="pref_privacy_clear_cache">Önbelleği temizle</string>
   <string name="pref_privacy_clear_cache_dlg">Yerel olarak önbelleğe alınmış içerik ve veritabanları silinsin mi?</string>
   <string name="pref_privacy_clear_cache_summary">Yerel olarak önbelleğe alınmış içeriği ve veritabanlarını temizle</string>
@@ -391,7 +393,6 @@
   <string name="share_page">Sayfayı paylaş</string>
   <string name="shortcut_bookmark">Favori</string>
   <string name="shortcut_bookmark_title">Bir yer işareti seçin</string>
-  <string formatted="false" name="sign_in_to">%s1 \"%s2\" oturumu aç</string>
   <string name="snapshot_failed">Çevrimdışı okuma için kaydedilemedi.</string>
   <string name="snapshot_go_live">Yayına al</string>
   <string name="ssl_continue">Devam Et</string>
