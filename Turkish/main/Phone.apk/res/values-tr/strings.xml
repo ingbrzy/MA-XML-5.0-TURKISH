@@ -34,8 +34,8 @@
   <string name="answer_features_setting_category_miui">Cevaplama ayarları</string>
   <string name="answer_miui">Cevapla</string>
   <string name="answer_state_setting_summary">Susturmak için çevir, yakınlık sensörü, vb ayarlar.</string>
-  <string name="answer_state_setting_title">Gelen çağrı ayarları</string>
-  <string name="answer_state_setting_title_miui">Gelen çağrı ayarları</string>
+  <string name="answer_state_setting_title">Çağrı Cevaplama Ayarları</string>
+  <string name="answer_state_setting_title_miui">Çağrı Cevaplama Ayarları</string>
   <string name="answer_widget_dialog_title_miui">Cevaplamak için hareketi seçin</string>
   <string name="answer_widget_sliding_horizontal_miui">Yatay kaydırma</string>
   <string name="answer_widget_sliding_vertical_miui">Dikey kaydırma</string>
@@ -61,8 +61,8 @@
   <string name="auto_answer_delay_entries_delay_5s_miui">5 saniye</string>
   <string name="auto_answer_delay_entries_immediately_miui">0 saniye</string>
   <string name="auto_answer_delay_title_miui">Otomatik cevaplama gecikme süresi</string>
-  <string name="auto_answer_pref_summary_miui">Otomatik cevapla</string>
-  <string name="auto_answer_pref_title_miui">Otomatik cevapla</string>
+  <string name="auto_answer_pref_summary_miui">Otomatik cevaplama</string>
+  <string name="auto_answer_pref_title_miui">Otomatik cevaplama</string>
   <string name="auto_answer_scenario_enteries_always_miui">Herzaman</string>
   <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Sadece Bluetooth bağlandı</string>
   <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Kulaklık ya da  bluetooth bağlandı</string>
@@ -150,9 +150,9 @@
   <string name="call_recording_notification_summary_miui">Çağrı ses kaydı tamamlanınca durum çubuğunda göster</string>
   <string name="call_recording_notification_title_miui">Çağrı ses kaydı bildirimi</string>
   <string name="call_recording_prompt_miui">Çağrı ses kaydını aç</string>
-  <string name="call_settings">Çağrı ayarları</string>
-  <string name="call_settings_category_miui">Çağrı ayarları</string>
-  <string name="call_settings_miui">Çağrı ayarları</string>
+  <string name="call_settings">Diğer Ayarları</string>
+  <string name="call_settings_category_miui">Diğer Ayarları</string>
+  <string name="call_settings_miui">Diğer Ayarlar</string>
   <string name="call_title_redialing_with_times_miui">Tekrar arama süresi %d</string>
   <string name="call_waiting_sum_miui">Çağrı esnasında gelen aramayı göster</string>
   <string name="call_waiting_tone_continuously_miui">Sesi sürekli çal</string>
@@ -160,7 +160,7 @@
   <string name="call_waiting_tone_title_miui">Çağrı bekletme istek sesi</string>
   <string name="call_waiting_tone_twice_and_vibrate_miui">Ses çal ve titret</string>
   <string name="call_waiting_tone_twice_only_miui">İki kez ses çal</string>
-  <string name="caller_id_sum_miui">Giden aramalarda numaramı gizler veya gösterir</string>
+  <string name="caller_id_sum_miui">Giden aramalarda numaranızı gizler veya gösterir</string>
   <string name="caller_id_title_miui">Numaramı göster veya gizle</string>
   <string name="caller_manage_header">Konferans çağrısı %s</string>
   <string name="caller_manage_manage_done_text_miui">Aramaya dön</string>
@@ -482,8 +482,11 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="import_selected_sim_entries_miui">Seçili kişileri içe aktar</string>
   <string name="import_sim_entries_finish">SIM kayıtları içe aktarma başarılı</string>
   <string name="import_sim_entry_miui">İçe aktar</string>
+   <string name="importAllSimEntries">Tümünü İçe Aktar</string>
   <string name="importingSimContacts">SIM kayıtları içe aktarılıyor..</string>
   <string name="importing_sim_contacts_miui">SIM kayıtları içe aktarılıyor..</string>
+  <string name="importSimEntry">İçe Aktar</string>
+  <string name="importToFDNfromContacts">Kişileri içe aktar</string>
   <string name="in_calling">Aranıyor..</string>
   <string name="in_sms">Mesaj</string>
   <string name="incall_call_type_label_sip">İnternet çağrısı</string>
@@ -622,7 +625,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="no_wifi_available_title">Wi-Fi bağlantısı yok</string>
   <string name="not_a_valid_port">Port numarası 1000 ve 65534 arasında olmalıdır</string>
   <string name="not_allowed">SIM kartınız bu şebekeye bağlanma izni vermiyor.</string>
-  <string name="not_connected_miui">Bağlanamadı!</string>
+  <string name="not_connected_miui">Bağlanmadı!</string>
   <string name="not_voice_capable">Sesli çağrı desteklenmiyor</string>
   <string name="notification_action_end_call">Çağrıyı sonlandır</string>
   <string name="notification_incoming_call">Gelen çağrı</string>
@@ -705,8 +708,8 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ota_touch_activate">"Özel bir çağrı hizmeti etkinleştirmek için yapılması gerekenler. "Etkinleştir" e bastıktan sonra, telefonunuz etkinleştirmek için verilen talimatları dinleyin."</string>
   <string name="ota_try_again">Tekrar deneyin</string>
   <string name="ota_unsuccessful">"Telefon etkinleştirme hatası, daha iyi bir kapsama alanında (dış mekanda) tekrar deneyin ."</string>
-  <string name="other_settings">Diğer çağrı ayarları</string>
-  <string name="other_settings_miui">Diğer ayarlar</string>
+  <string name="other_settings">Diğer Telefon Ayarları</string>
+  <string name="other_settings_miui">Diğer Telefon Ayarları</string>
   <string name="password">Şifre</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
@@ -775,7 +778,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Sadece 2G (Pil tasarrufu sağlar)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Sadece 3G Şebekesi</string>
-  <string name="preferred_network_type_title_miui">2G/3G Şebeke türünü seçin</string>
+  <string name="preferred_network_type_title_miui">2G/3G Şebeke Ayarları</string>
   <string name="primary_account_summary_with">Birincil hesap. %s</string>
   <string name="private_num">Gizli numara</string>
   <string name="proceed">Devam et</string>
@@ -864,8 +867,8 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="rnw2_unlock_failed">UIM şebeke2 kilidi açılamadı.</string>
   <string name="rnw2_unlock_success">UIM şebeke2 kilidi açıldı.</string>
   <string name="roaming">Veri dolaşımı</string>
-  <string name="roaming_disable">Dolaşımda iken veri servislaerine bağlan</string>
-  <string name="roaming_enable">Dolaşımda iken veri servislaerine bağlan</string>
+  <string name="roaming_disable">Dolaşımda iken veri servislerine bağlan</string>
+  <string name="roaming_enable">Dolaşımda iken veri servislerine bağlan</string>
   <string name="roaming_reenable_message">Veri bağlantısı kaybedildi, ev ağını terketmiş olabilrsiniz.</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Bu dolaşım önemli bir ücrete tabi olabilir!</string>
   <string name="rsp_unlock_failed">UIM Servis sağlayıcı kilit açma isteği başarısız.</string>
@@ -1037,7 +1040,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="turn_off_auto_select_title_miui">Otomatik şebeke seçimini kapat</string>
   <string name="turn_off_auto_select_warning_message_miui">Bu özellik kapatılınca, seçtiğiniz şebeke kullanılacak</string>
   <string name="turn_off_miui">kapat</string>
-  <string name="turnover_mute_summary_miui">Telefon yatay yerleştirilmiş ise susturmak için ters çevirin</string>
+  <string name="turnover_mute_summary_miui">Telefon yatay yerleştirilmiş ise gelen çağrıyı susturmak için cihazı ters çevirin</string>
   <string name="turnover_mute_title_miui">Susturmak için ters çevir</string>
   <string name="undefined_miui">Tanımlanmayan</string>
   <string name="unknown">Bilinmeyen</string>
