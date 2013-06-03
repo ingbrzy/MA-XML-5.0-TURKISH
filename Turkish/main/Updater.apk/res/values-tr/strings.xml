@@ -2,14 +2,14 @@
 <resources>
     <string name="about_device">Telefon Hakkında</string>
     <string name="active_xiaomi_account">Etkin</string>
-    <string name="active_xiaomi_account_msg">"Xiaomi hesabı etkinleştirmek için lütfen MIUI forumuna gidin"</string>
-    <string name="active_xiaomi_account_title">Xiaomi hesabını aktifleştir</string>
-    <string name="app_name">Güncelleyici</string>
+    <string name="active_xiaomi_account_msg">"Xiaomi hesabını etkinleştirmek için lütfen MIUI forumuna gidin"</string>
+    <string name="active_xiaomi_account_title">Xiaomi hesabını etkinleştir</string>
+    <string name="app_name">Güncelle</string>
     <string name="apply_buddy_update_info_message">Şimdi güncelleye basınız, Telefon güncelleme işlemine başlayacak</string>
     <string name="apply_existing_update_md5error_title">MD5 imzası eşleşmiyor</string>
     <string name="apply_later_button_text">Daha sonra uygula</string>
     <string name="apply_now_button_text">Şimdi güncelle</string>
-    <string name="apply_unable_to_reboot_toast">Kurtarma girmek için yeniden başlatılamıyor</string>
+    <string name="apply_unable_to_reboot_toast">Recovery moduna girmek için yeniden başlatılamıyor</string>
     <string name="apply_update_dialog_cancel_button">Vazgeç</string>
     <string name="apply_update_dialog_update_button">Güncelle</string>
     <string name="apply_update_fail">Sistem güncelleme başarısız</string>
@@ -19,7 +19,7 @@
     <string name="applying_rom_message">Güncelleme uygulanıyor</string>
     <string name="applying_update">Güncelleme uygulanıyor...%s</string>
     <string name="best_update">2. En iyi gücelleme</string>
-    <string name="boot_recovery">Recovery modda başlat</string>
+    <string name="boot_recovery">Recovery modunda başlat</string>
     <string name="cancel_download_buton_text">Vazgeç</string>
     <string name="check_update">Güncellemeri kontrol et</string>
     <string name="check_update_policy">Güncellemeleri Kontrol et</string>
@@ -34,14 +34,14 @@
     <string name="dialog_no">Hayır</string>
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_yes">Evet</string>
-    <string name="download_current_rom">Son çıkan Full Romu indir</string>
+    <string name="download_current_rom">Son çıkan Full Rom\'u indir</string>
     <string name="download_ota_rom">Ota update\'i indir (%s)</string>
-    <string name="download_whole_rom">FULL romu indir (%s)</string>
+    <string name="download_whole_rom">FULL ROM\'u indir (%s)</string>
     <string name="downloading_description">İndiriliyor...</string>
     <string name="emegency_build">Yapım:</string>
     <string name="exception_while_downloading">Güncelleme indirilirken Hata oluştu</string>
     <string name="expect">4. Beklentiler</string>
-    <string name="experimental_build">Deneysek Yapı</string>
+    <string name="experimental_build">Deneysel Yapı</string>
     <string name="file_not_found_error_message">İstenilen dosya sunucuda bulunamadı</string>
     <string name="finish">Bitti</string>
     <string name="finish_download">İndirme tamamlandı</string>
@@ -80,7 +80,7 @@
     <string name="no_proper_updates">Şuanda yüklü olan versiyon için güncelleme bulunamadı</string>
     <string name="no_updatecheck_executed">Güncelleme denetimi yapılmadı</string>
     <string name="no_updates_found">Son versiyona sahipsiniz</string>
-    <string name="no_updates_warning">Telefonun için güncelleme bulunamadı</string>
+    <string name="no_updates_warning">Telefonunuz için güncelleme bulunamadı</string>
     <string name="no_updates_warning2">Uygulama ileride güncellemeleri size bildirir</string>
     <string name="not_recommend">"Önerilmez"</string>
     <string name="paused_queued_for_network">Ağ bağlantısı için bekleniyor</string>
