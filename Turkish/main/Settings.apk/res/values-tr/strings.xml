@@ -1164,7 +1164,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_location_source_network">Kaynak: Şebeke</string>
   <string name="perm_hips_mobile_network">Mobil Şebeke</string>
   <string name="perm_hips_mobile_network_desc">Mobil Şebeke</string>
-  <string name="perm_hips_mobile_network_hint">%1$s mobil ağ üzerinden Internet'e erişmek için izin veridi</string>
+  <string name="perm_hips_mobile_network_hint">%1$s mobil ağ üzerinden Internet\'e erişmek için izin veridi</string>
   <string name="perm_hips_network_accept"> %1$s bağlantısını kabul etme</string>
   <string name="perm_hips_network_connect"> %1$s bağlanma</string>
   <string name="perm_hips_network_listen"> %1$s port dinleme</string>
