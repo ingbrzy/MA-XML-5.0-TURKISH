@@ -78,6 +78,7 @@
   <string name="empty_dir_title">Boş klasörler</string>
   <string name="enable_sd_card">SD kart kullanılabilir değil, önce kartı bağlayın</string>
   <string name="error_info_cant_send_folder">Klasör gönderilemiyor</string>
+  <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı!</string> 
   <string name="fail_to_create_folder">Klasör oluşturulamıyor, zaten var!</string>
   <string name="fail_to_rename">Dosya yeniden adlandırılamıyor, zaten var!</string>
   <string name="favorite_photo">Foto</string>
@@ -103,7 +104,7 @@
   <string name="ftp_username_and_passworld">Kullanıcı adı ve şifre</string>
   <string name="ftp_username_hint">Kullanıcı adı</string>
   <string name="garbage_size_metric">"%s
-Junk"</string>
+Artık dosya"</string>
   <string name="gbk_summary">Eğer GBK kodlama kullanıyorsanız, Windows Gezgininde bozuk Çince metinleri önlemek için bu kodlamayı tip seçin</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Temizleme iptal edildi</string>
@@ -153,9 +154,9 @@ Junk"</string>
   <string name="no_wifi_hint">Wi-Fi bağlantısı bulunamadı</string>
   <string name="notif_server_starting">FTP Server başladı</string>
   <string name="notif_title">FTP Server</string>
-  <string name="open_changed_file_message">"The file you are trying to open has been modified, you could:
-1. Download (update the local file)
-2. Upload (update the remote file)"</string>
+  <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi, bunları deneyin:
+1. İndir (Yerel dosyaları güncelle)
+2. Karşıya yükle (Uzak dosyaları güncelle)"</string>
   <string name="open_changed_file_title">Dosya değiştirildi</string>
   <string name="operating">Çalışıyor…</string>
   <string name="operation_cancel">İptal</string>
