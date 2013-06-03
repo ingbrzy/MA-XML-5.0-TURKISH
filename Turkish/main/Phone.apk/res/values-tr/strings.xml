@@ -482,11 +482,8 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="import_selected_sim_entries_miui">Seçili kişileri içe aktar</string>
   <string name="import_sim_entries_finish">SIM kayıtları içe aktarma başarılı</string>
   <string name="import_sim_entry_miui">İçe aktar</string>
-   <string name="importAllSimEntries">Tümünü İçe Aktar</string>
   <string name="importingSimContacts">SIM kayıtları içe aktarılıyor..</string>
   <string name="importing_sim_contacts_miui">SIM kayıtları içe aktarılıyor..</string>
-  <string name="importSimEntry">İçe Aktar</string>
-  <string name="importToFDNfromContacts">Kişileri içe aktar</string>
   <string name="in_calling">Aranıyor..</string>
   <string name="in_sms">Mesaj</string>
   <string name="incall_call_type_label_sip">İnternet çağrısı</string>
