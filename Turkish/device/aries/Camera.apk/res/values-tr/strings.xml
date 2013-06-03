@@ -18,6 +18,8 @@
   <string name="can_not_play_video">Oynatmak için ekran kilidini açın.</string>
   <string name="cancel">İptal</string>
   <string name="cannot_connect_camera">"Kameraya bağlanılamıyor!"</string>
+  <string name="cannot_connect_camera_once">"Kameraya bağlanamıyor, uygulamadan çıkın"</string>
+  <string name="cannot_connect_camera_twice">"Kameraya bağlanamıyor, telefonunuzu yeniden başlatın"</string> 
   <string name="clear_effects">Efektleri temizle</string>
   <string name="close">Kapat</string>
   <string name="confirm_change_mode_title">Modu değiştir</string>
