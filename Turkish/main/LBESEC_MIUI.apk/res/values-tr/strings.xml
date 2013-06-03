@@ -41,10 +41,10 @@
   <string name="Generic_InvalidInput">Geçersiz giriş</string>
   <string name="Generic_Loading">Yükleniyor...</string>
   <string name="Generic_MonitoredApp">İzlenen uygulamalar (%1$d)</string>
-  <string name="Generic_Operating">İşliyor...</string>
+  <string name="Generic_Operating">İşleniyor...</string>
   <string name="Generic_Optimize">Optimize</string>
   <string name="Generic_Service_Disabled">Servis kapatıldı</string>
-  <string name="Generic_Service_Enabled">Service etkin</string>
+  <string name="Generic_Service_Enabled">Servis etkin</string>
   <string name="Generic_Shortcut">İçerik menüsü</string>
   <string name="Generic_ShowSystemApp">Sistem uygulamalarını göster</string>
   <string name="Generic_Summary_Disabled">Kapalı</string>
@@ -57,10 +57,10 @@
   <string name="Generic_Version">Sürüm: %1$s</string>
   <string name="HIPS_Action_Accept">İzin</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
-  <string name="HIPS_Action_Accept_Count">Allowed: %1$d</string>
-  <string name="HIPS_Action_Prompt">Ask</string>
+  <string name="HIPS_Action_Accept_Count">İzin verilen: %1$d</string>
+  <string name="HIPS_Action_Prompt">Sor</string>
   <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Ask&lt;/font&gt;</string>
-  <string name="HIPS_Action_Reject">Deny</string>
+  <string name="HIPS_Action_Reject">Reddet</string>
   <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
   <string name="HIPS_Action_Reject_Count">Reddedildi: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Gizlilik</string>
@@ -87,11 +87,11 @@
   <string name="HIPS_Perm_CallState_Hint">%1$s uygulamanın telefon durumu bilgileri için izni var</string>
   <string name="HIPS_Perm_Call_Desc">Doğrudan yanıtlamak veya telefon görüşmelerini kapatma</string>
   <string name="HIPS_Perm_Call_Hint">%1$s uygulamanın telefonu cevaplama ve kapatma izni var</string>
-  <string name="HIPS_Perm_Call_Number">call %1$s</string>
+  <string name="HIPS_Perm_Call_Number">Ara %1$s</string>
   <string name="HIPS_Perm_CancelMissedCalls">Cevapsız çağrı bildirimlerini temizle</string>
   <string name="HIPS_Perm_Contact">Rehber</string>
-  <string name="HIPS_Perm_Contact_Access">kKşi listenizi okuma</string>
-  <string name="HIPS_Perm_Contact_Desc">kişi listenize erişme </string>
+  <string name="HIPS_Perm_Contact_Access">Kişi listenizi okuma</string>
+  <string name="HIPS_Perm_Contact_Desc">Kişi listenize erişme </string>
   <string name="HIPS_Perm_Contact_Hint">%1$s uygulamanın kişi listenize erişme izni var</string>
   <string name="HIPS_Perm_EndCall">Geçerli çağrıyı sonlandır</string>
   <string name="HIPS_Perm_GetCallState">Çağrı durumunu al</string>
@@ -112,7 +112,7 @@
   <string name="HIPS_Perm_Network_Accept">%1$s bağlantısına izin ver</string>
   <string name="HIPS_Perm_Network_Connect"> %1$s bağlandı</string>
   <string name="HIPS_Perm_Network_Listen">Bağlantı noktasını dinleme %1$s</string>
-  <string name="HIPS_Perm_Network_MobileEvent">Mobil ağ kullanılması</string>
+  <string name="HIPS_Perm_Network_MobileEvent">Mobil ağ kullanma</string>
   <string name="HIPS_Perm_Network_Recv">Veri alma</string>
   <string name="HIPS_Perm_Network_Send">Veri gönderme</string>
   <string name="HIPS_Perm_Network_UnknownAddr">Bilinmeyen adres</string>
@@ -136,10 +136,10 @@
   <string name="HIPS_Perm_SMS_Access">Gelen SMS kutunuzu okuma</string>
   <string name="HIPS_Perm_SMS_Desc">Gelen SMS kutusu erişimi</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s uygulamanın Gelen SMS kutunsu erişim izni var</string>
-  <string name="HIPS_Perm_SendSMS">SMS Gönder</string>
+  <string name="HIPS_Perm_SendSMS">SMS Gönderme</string>
   <string name="HIPS_Perm_SendSMS_Content">İçerik:</string>
-  <string name="HIPS_Perm_SendSMS_Data">%1$s:%2$d SMS gönder </string>
-  <string name="HIPS_Perm_SendSMS_Desc">Doğrudan SMS Gönder</string>
+  <string name="HIPS_Perm_SendSMS_Data">%1$s:%2$d SMS gönderme </string>
+  <string name="HIPS_Perm_SendSMS_Desc">Doğrudan SMS Gönderme</string>
   <string name="HIPS_Perm_SendSMS_Hint">%1$s uygulamanın SMS gönderme izni var</string>
   <string name="HIPS_Perm_SendSMS_Port">Dest Port:</string>
   <string name="HIPS_Perm_SendSMS_Recipient">Alıcı:</string>
@@ -157,9 +157,9 @@
   <string name="HIPS_SecurityPrompt_Next">Sonraki</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Önemli Uyarı !</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s uyhulamaya ROOT yetkisi verilsin mi?</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT Yetkileri sistem kararlılığını bozabilir</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step3">Hesaplarınızı, şifrelerinizi, mesajlarınızı, gizliliğinizi ve verileri tehlikeye atabilir.</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step4">Donanımlara kalıcı vararlar verebilir</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT Yetkileri sistem kararlılığını bozabilir!</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step3">Hesaplarınızı, şifrelerinizi, mesajlarınızı, gizliliğinizi ve verileri tehlikeye atabilir!</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step4">Donanımlara kalıcı zararlar verebilir!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Dikkatli kullanın!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6"> %1$s uygulamasına ROOT yetkisi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_Reject">Reddedildi(%d)</string>
