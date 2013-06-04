@@ -10,7 +10,7 @@
   <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvarkağıdı aktif olmayabilir.</string>
   <string name="apply_theme_no_select_message">Bileşenlerden seç!</string>
   <string name="backup_preference_title">Düzenlenmiş temayı yedekle</string>
-  <string name="backup_theme_dialog_message">Geçerli Tema yedekleme bilgileri :\nSD Kart Yer: \\MIUI\\theme\\backup\n Name: backup.mtz</string>
+  <string name="backup_theme_dialog_message">Geçerli Tema yedekleme bilgileri :\nSD Kart Yer: \\MIUI\\theme\\backup\n Adı: backup.mtz</string>
   <string name="backup_theme_dialog_ok">Yedekle</string>
   <string name="backup_theme_name">Yedeğim</string>
   <string name="backup_theme_progress_message">Tema dosyaları yedekleniyor, lütfen bekleyin...</string>
@@ -33,7 +33,7 @@
   <string name="description_download">İndir:</string>
   <string name="description_size">Boyut:</string>
   <string name="description_summary">Özet:</string>
-  <string name="description_uploadtime">Güncelle:</string>
+  <string name="description_uploadtime">Güncelleme:</string>
   <string name="description_version">Sürüm:</string>
   <string name="desktop_wallpaper">Masaüstü Duvar Kağıtları</string>
   <string name="download_success">Başarıyla indirildi!</string>
@@ -93,7 +93,7 @@
   <string name="resource_list_title">Son seçilen</string>
   <string name="resource_local">Yerel %1$s</string>
   <string name="resource_mute">Yok</string>
-  <string name="resource_no_result">Sonuç yok</string>
+  <string name="resource_no_result">Sonuç bulunamadı!</string>
   <string name="resource_notification_default">Bildirimler</string>
   <string name="resource_online">Çevrim içi %1$s</string>
   <string name="resource_preview">Önizleme</string>
@@ -109,7 +109,7 @@
   <string name="resource_tip_select_ringtone">Zil sesi seçilmemiş</string>
   <string name="resource_title">Kaynak detayı</string>
   <string name="resource_title_select_ringtone">Zil sesini seç</string>
-  <string name="resource_update">Güncelleme</string>
+  <string name="resource_update">Güncelle</string>
   <string name="restore_default_theme_alert">Bu tema sahtecilik kurbanı olabilir, satın almak için tema marketine göz atın veya yeniden indirin.</string>
   <string name="sdcard_status_changed_dialog_message">"Çıkışa gidiyor, kaynaklar için uygulamayı tekrar yükleyin."</string>
   <string name="sdcard_status_changed_dialog_title">SD kart durumu değişti</string>
@@ -146,7 +146,7 @@
   <string name="theme_import_data">Başlatılıyor. Lütfen bekleyin...</string>
   <string name="theme_import_fail"> %1$s İçe aktarılamadı!</string>
   <string name="theme_import_from_sdcard">Temayı SD karttan yükle</string>
-  <string name="theme_import_importing">Güncelleniyor.. %1$d</string>
+  <string name="theme_import_importing">%1$d Güncelleniyor.. </string>
   <string name="theme_import_item_delete_request_button">Sil</string>
   <string name="theme_import_item_delete_request_content">Paket güncellenemedi, tekrar deneyin ya da paketi silin.</string>
   <string name="theme_import_item_delete_request_title">Tema güncel değil</string>
@@ -155,7 +155,7 @@
   <string name="theme_import_item_reject_use">Tema güncelleniyor, bekleyin.</string>
   <string name="theme_import_item_waiting">Bekleniyor...</string>
   <string name="theme_import_new_download">Tema içe aktarılıyor...</string>
-  <string name="theme_import_normal">Tema güncelle</string>
+  <string name="theme_import_normal">Temayı güncelle</string>
   <string name="theme_import_oper_complete">Tamamlandı</string>
   <string name="theme_import_oper_start">Tümünü güncelle</string>
   <string name="theme_import_oper_stop">İptal</string>
