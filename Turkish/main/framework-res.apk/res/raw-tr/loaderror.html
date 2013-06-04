@@ -1,18 +1,72 @@
 <html>
-    <head>
-        <title>Web sayfası yok</title>
-        <style type="text/css">
-            body { margin-top: 0px; padding-top: 0px; }
-            h2   { margin-top: 5px; padding-top: 0px; }
-        </style>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' />
+		<title>Bu sayfa kullanılamıyor</title>
+		<style type="text/css">
+*{background-repeat:no-repeat;}
+body, div, dl, dt, dd, ul, ol, li,h1, h2, h3, h4, h5, h6, pre, code,form, fieldset, legend, input, button,textarea, p, blockquote, th, td { margin: 0;padding: 0;color:#000000;}
+fieldset, img {border: 0;}
+:focus {outline: 0;}
+address, caption, cite, code, dfn,em, strong, th, var, optgroup {font-style: normal;font-weight: normal;}
+h1, h2, h3, h4, h5, h6 {font-size: 100%;font-weight: normal;}
+abbr, acronym { border: 0;font-variant: normal;}
+code, kbd, samp, tt {font-size: 100%;}
+ol, ul {list-style: none;}
+table {border-collapse: collapse;border-spacing: 0;}
+caption, th {text-align: left;}
+sup, sub {font-size: 100%;vertical-align: baseline;}
+a , ins {text-decoration: none;color:#000000;}
+blockquote, q {quotes: none;}
+blockquote:before, blockquote:after,q:before, q:after {content: '';content: none;}
 
-        <body>
 
-            <img src="file:///android_asset/webkit/android-weberror.png" align="top" />
-            <h2>Web sayfası yok</h2>
-            <p><a href="%s">%s</a> adresindeki web sayfası y&uuml;klenemedi:</p>
-            <!-- The %e is replaced by a localized error string -->
-            <p>%e</p>
-        </body>
-    </head>
+
+		.main{ min-height: 100%;  min-width: 100%; padding-bottom: 30px; position: relative; z-index: 4; background: url(file:///android_asset/webkit/main_bg.png) repeat-x left bottom; background-size: 1px 265px; margin: 0;}
+		.error{ text-align: center; padding: 170px 0 20px 0; background: url(file:///android_asset/webkit/logo.png) no-repeat center 40px; background-size: 120px 120px; }
+		.reason{ border-top: 1px solid #cbcbcb; margin: 0 15px; padding: 15px 0 20px 40px; }
+		.error_0{ color: #585858; font-size: 17px; line-height: 24px; margin-bottom: 1px; }
+		.error_1{ color: #a3a3a3; text-overflow: ellipsis; white-space: nowrap;  font-size: 13px; height: 20px; width: 300px; line-height: 20px; overflow: hidden; margin: 0 auto; }
+		.reason h3{ color: #9e9e9e; line-height: 24px; margin-bottom: 3px; }
+		.reason p{ color: #9e9e9e; background: url(file:///android_asset/webkit/list_bg.png) no-repeat left center; background-size: 6px 6px; padding-left: 15px; font-size: 13px; line-height: 22px;  }
+		.button{ text-align: center; padding-bottom: 20px; }
+		.button a{ display: inline-block; width: 70px; height: 20px; line-height: 20px; padding-left: 22px; color: #ff7200; font-size: 17px; background-size: 20px 20px; text-align: left;}
+		a.reload{ background: url("file:///android_asset/webkit/reload.png") no-repeat left 1px;margin-right: 60px;  }
+		a.detail{ background: url("file:///android_asset/webkit/back.png") no-repeat left 1px; padding-left: 23px; width: 50px; }
+		</style>
+		<script type="text/javascript">
+			function loadAgain()
+			{
+				window.location.assign(location.href);
+			}
+			function back()
+			{
+				window.history.back();
+			}
+			
+			$(function(){
+				$("a.reload").on("click", loadAgain());
+				$("a.detail").on("click", back());
+			})
+		</script>
+	</head>
+	<body>
+		<div class="main">
+			<div class="error">
+				<p class="error_0">Üzgünüz, bu sayfa kullanılamaz</p>
+				<p class="error_1"><a href="%s">%s</a></p>
+			</div>
+			<div class="reason">
+				<h3>Olası nedenleri:</h3>
+				<p>Bu sayfa geçici olarak kullanılamıyor</p>
+				<p>Yanlış URL</p>
+				<p>Hiçbir internet bağlantısı yok</p>
+			</div>
+			<div class="button">
+				<a href="javascript:void(0)" class="reload" type="button" onclick="loadAgain()">Obnoviť</a>
+				<a href="javascript:void(0)" class="detail" type="button" onclick="back()">Späť</a>
+			</div>
+			
+		</div>
+	</body>
 </html>
