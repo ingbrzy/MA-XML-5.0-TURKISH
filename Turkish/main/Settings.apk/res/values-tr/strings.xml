@@ -1562,9 +1562,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
     <string name="screensaver_settings_summary_dock">Yuvada iken</string>
     <string name="screensaver_settings_summary_either_long">Yuvada ve ya şarj olurken</string>
     <string name="screensaver_settings_summary_either_short">Her ikiside</string> 
-  <string name="screensaver_settings_summary_off">Devre dışı</string>
     <string name="screensaver_settings_summary_sleep">Şarş olurken</string>
-  <string name="screensaver_settings_title">Ekran Şekeri</string>
     <string name="screensaver_settings_button">Ekran koruyucu ayarları</string>
     <string name="screensaver_settings_disabled_prompt">Telefonun uyku modunu kontrol etmek için, Daydream\'i açın.</string>
     <string name="screensaver_settings_dream_start">Şimdi başlat</string> 
