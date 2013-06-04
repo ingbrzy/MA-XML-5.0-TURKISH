@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="download_filters">
+        <item>Tümü</item>
+        <item>Temalar</item>
+        <item>Market</item>
+        <item>İnternet</item>
+        <item>Müzik</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="prefEntries_max_bytes_limit">
+        <item>10MB</item>
+        <item>5MB</item>
+        <item>2MB</item>
+        <item>1MB</item>
+        <item>500KB</item>
+        <item>200KB</item>
+        <item>100KB</item>
+    </string-array>
+</resources>
