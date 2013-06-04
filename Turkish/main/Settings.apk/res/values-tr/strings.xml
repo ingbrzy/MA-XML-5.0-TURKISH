@@ -18,10 +18,31 @@
   <string name="access_control_recording_intro_header">Şifre koruması için desen çiz</string>
   <string name="access_control_reset_by_account">Eriim kontrol şifrenizi sıfırlamak için Xiaomi hesabınız ile giriş yapın</string>
   <string name="accessibility_enable">Erişebilirliği etkinleştir</string>
-  <string name="accessibility_long_press_timeout_title">Dokunma ve bekleme süresi</string>
-  <string name="accessibility_menu_item_settings">Ayarlar</string>
-  <string name="accessibility_no_services_installed">Hiçbir hizmet yüklenmedi</string>
-  <string name="accessibility_power_button_ends_call_title">Güç düğmesi çağrıyı sonlandırır</string>
+  <string name="accessibility_feature_state_off">Kapalı</string>
+  <string name="accessibility_feature_state_on">Açık</string>
+  <string name="accessibility_global_gesture_preference_description">"Bu özellik etkinse, hızlı bir şekilde iki adımda erişilebilirlik özellikleri etkinleştirebilirsiniz:
+
+Adım 1: Bir uyarı sesi veya titreşim duyana kadar Açık düğmesine basın ve basılı tutun.
+
+Adım 2: İki parmakla ekrana dokunun ve bir onay sesi duyana kadar basılı tutun.
+
+Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebilir, cihaz kilidini izini için bu kısayolu kullanabilirsiniz."</string>
+  <string name="accessibility_global_gesture_preference_summary_off">Kapalı</string>
+   <string name="accessibility_global_gesture_preference_summary_on">Açık</string>
+   <string name="accessibility_global_gesture_preference_title">Basit erişebilirlik kısayolu</string>
+   <string name="accessibility_long_press_timeout_preference_title">Uzun basma süresi</string>
+   <string name="accessibility_long_press_timeout_title">Dokunma ve bekleme süresi</string>
+   <string name="accessibility_menu_item_settings">Ayarlar</string>
+   <string name="accessibility_no_services_installed">Hiçbir hizmet yüklü değil</string>  
+   <string name="accessibility_power_button_ends_call_title">Güç tuşu ile çağrıyı sonlandır</string>  
+   <string name="accessibility_screen_magnification_summary">"Bu özellik etkin olduğunda, yakınlaştırmak veya  uzaklaştırmak için üçlü dokunmayı kullanabilirsiniz.
+Yakınlaştırma sırasında, şunları yapabilirsiniz:
+"<li><ul>"İki veya daha fazla parmak ekran boyunca kaydırın.
+"<li>yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin.</li></ul></li>"
+
+Parmağınızı altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
+
+Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her yerde çalışır."</string>    
   <string name="accessibility_script_injection_allowed">İzin Verildi</string>
   <string name="accessibility_script_injection_button_allow">İzin ver</string>
   <string name="accessibility_script_injection_button_disallow">İzin verme</string>
@@ -45,12 +66,19 @@
   <string name="accessibility_sync_enabled">Senkronize etkinleştirildi</string>
   <string name="accessibility_sync_error">Senkronize hatası</string>
   <string name="accessibility_system_title">Sistem</string>
-  <string name="accessibility_toggle_large_text_title">Büyük metin</string>
+    <string name="accessibility_toggle_large_text_title">Büyük yazı tipi</string>
+    <string name="accessibility_toggle_large_text_preference_title">büyük yazı tipi</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Daha yakından güncelleyin.</string>
+    <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Oto ekran büyüteçi</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Priblíženie obrazovky</string>
+    <string name="accessibility_toggle_script_injection_preference_title">Siteye kolay erişim</string>
+    <string name="accessibility_toggle_speak_password_preference_title">konuşma şifreleri</string>
   <string name="account_settings">Hesaplar</string>
   <string name="account_sync_settings_title">Senkronizasyon ayarları</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="active_device_admin_msg">Cihaz yöneticisi</string>
   <string name="active_input_method_subtypes">Etkin giriş yöntemleri</string>
+    <string name="activity_not_found">Uygulama telefonunuzda yüklü değil!</string> 
   <string name="activity_picker_label">Etkinlik seçin</string>
   <string name="adb_warning_message">USB hata ayıklaması yalnızca geliştirme amaçlıdır. Verileri bilgisayarınızla cihazınız arasında kopyalamak, bildirim göndermeksizin uygulamaları cihazınıza yüklemek ve günlük verilerini okumak için kullanın.</string>
   <string name="adb_warning_title">USB hata ayıklamasına izin verilsin mi?</string>
@@ -63,6 +91,7 @@
   <string name="airplane_mode">Uçak modu</string>
   <string name="alarm_volume_title">Alarm</string>
   <string name="all_volume_title">Ses Düzeyleri</string>
+    <string name="allow">İzin ver</string>
   <string name="allow_bind_app_widget_activity_allow_bind">Widget\'i oluşturduktan sonra, %1$s tüm verilere erişebilecek.</string>
   <string name="allow_bind_app_widget_activity_allow_bind_title">Widget oluştur ve erişime izin ver?</string>
   <string name="allow_bind_app_widget_activity_always_allow_bind">%1$s Widget oluşturmak için herzaman izinli</string>
@@ -121,6 +150,8 @@
   <string name="app_not_found_dlg_text">Uygulama, yüklü uygulamalar listesinde bulunamadı.</string>
   <string name="app_notifications_switch_label">Bildirimleri göster</string>
   <string name="app_process_limit_title">Arka plan işlem sınırı</string>
+    <string name="app_special_disable_dlg_title">Verileri silinip  uygulaması devre dışı bırakılsın mı?</string>
+    <string name="app_special_disable_dlg_text">Eğer yerleşik bir uygulamayı devre dışı bırakırsanız , diğer uygulamalara zararı olabilir. Sizin verileriniz de silinecektir..</string> 
   <string name="application_forbid_auto_startup">%s Arkaplanda başlatma devre dışı</string>
   <string name="application_info_label">Uygulama bilgileri</string>
   <string name="application_item_already_permission">İzi verildi</string>
@@ -134,6 +165,7 @@
   <string name="assisted_gps">Desteklenen GPS\'i kullan</string>
   <string name="assisted_gps_disabled">"GPS\'e yardımcı olmak için sunucu kullan (GPS performansını iyileştirmek için onay işaretini kaldırın)"</string>
   <string name="assisted_gps_enabled">"GPS\'e destek olmak için sunucu kullan (ağ kullanımını azaltmak için onay işaretini kaldırın)"</string>
+    <string name="audio_profile_settings_title">Ses Profilleri</string>
   <string name="audio_record_proc_title">Gürültü giderme</string>
   <string name="auto_caps">Otomatik büyük harf yap</string>
   <string name="auto_caps_summary">Cümlelerin ilk harfini büyük yap</string>
@@ -185,6 +217,7 @@
   <string name="battery_desc_display">Ekran ve arka aydınlatma ışığı tarafından kullanılan pil</string>
   <string name="battery_desc_radio">Telefon radyosu tarafından kullanılan pil</string>
   <string name="battery_desc_standby">Telefon boştayken kullanılan pil</string>
+    <string name="battery_desc_users">Kullanıcı tarafından kullanılan pil</string>
   <string name="battery_desc_voice">Sesli aramalar tarafından kullanılan pil</string>
   <string name="battery_desc_wifi">Kablosuz özellik tarafından kullanılan pil</string>
   <string name="battery_history_days">%1$dg %2$ds %3$dd %4$ds</string>
@@ -215,6 +248,7 @@
   <string name="battery_info_status_charging">Şarj oluyor</string>
   <string name="battery_info_status_charging_ac">(AC)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
+    <string name="battery_info_status_charging_wireless">(Kablosuz)</string>
   <string name="battery_info_status_discharging">Oranında dolu</string>
   <string name="battery_info_status_full">Dolu</string>
   <string name="battery_info_status_label">Pil durumu:</string>
@@ -423,6 +457,10 @@
   <string name="brightness_auto_adjust_on">Otomatik paraklık kaydırma çubuğu ile yapılmış ayarlarını değiştirebilir.</string>
   <string name="brightness_summary">Ekranın parlaklığını ayarla</string>
   <string name="bssid_label">BSSID:</string>
+    <string name="bugreport_in_power">Güç menüsü hata raporları</string>
+    <string name="bugreport_in_power_summary">Bir hata raporu almak için güç menüsünde seçenek içerir</string> 
+    <string name="bugreport_tool_log_toast">Buraya kaydedildi %s</string> 
+	<string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor, birkaç dakika sürebilir...</string> 
   <string name="build_number">Derleme numarası</string>
   <string name="builtin_keyboard_settings_summary">Fiziksel klavye ayarları</string>
   <string name="builtin_keyboard_settings_title">Fiziksel Klavye</string>
@@ -585,6 +623,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="data_usage_total_during_range">%2$s: yaklaşık %1$s kullanıldı</string>
   <string name="data_usage_total_during_range_mobile">"%2$s: about %1$s used, as measured by your phone. Your carrier's data usage accounting may differ."</string>
   <string name="data_usage_uninstalled_apps">Kaldırılan uygulamalar</string>
+    <string name="data_usage_uninstalled_apps_users">Kullanıcılar ve uygulamalar kaldırıldı</string>
   <string name="data_usage_warning_editor_title">Veri kullanım uyarısını ayarla</string>
   <string name="date_and_time">Tarih ve saat ayarları</string>
   <string name="date_and_time_settings_summary">Tarihi, saati, saat dilimini ve biçimleri ayarla</string>
@@ -618,6 +657,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="default_input_method">Varsayılan giriş metodunu seçin</string>
   <string name="default_usb_mode">Varsayılan USB bağlantı modu</string>
   <string name="delete">Sil</string>
+    <string name="deny">Reddet</string>
   <string name="details_subtitle">Ayrıntıları kullan</string>
   <string name="details_title">Ayrıntıları kullan</string>
   <string name="dev_settings_warning_message">Bu seçenek geliştirime amaçlıdır. Yanlış işlem yapmanız cihaz ya da uygulamanın cevap vermemesine neden olabilir.</string>
@@ -748,6 +788,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="enable_adb_summary">USB bağlandığında hata ayıklama modu</string>
   <string name="enable_back_long_press">Geri tuşuna basılı tutarak uyg. sonlandırın</string>
   <string name="enable_compatibility">Uygulamayı ölçeklendir</string>
+    <string name="enable_drive_mode">Sürüş modunu etkinleştir</string>
+	<string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
   <string name="enable_snapshot_screenlock">Geri tuşuna il ekran önizlemesi alın</string>
   <string name="enable_text">Etkinleştir</string>
   <string name="enable_traces_dialog_title">Etkinleştirilecek izleri seç</string>
@@ -755,6 +797,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="enable_traces_summary_none">Etkin iz yok</string>
   <string name="enable_traces_summary_num">%1$d iz şu anda etkin</string>
   <string name="enable_traces_title">İzleri etkinleştir</string>
+    <string name="enable_wifi_display">Kablosuz ekranını etkinleştir</string>
   <string name="enforce_read_external_confirm_message">"USB depolama korunduğunda, uygulamaların harici depolamadan veri okumak için izin istemesi gerekir.
 
 Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalışmayabilir."</string>
@@ -803,19 +846,38 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="font_size_summary">Okunabilirliği ve kullanılabilirliğini artırmak için, Telefon, Mesajlar, Rehber vb; gibi uygulamaların yazı tipi boyutunu veya düzenleri ayarlayın.</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
   <string name="force_hw_ui_summary">Uygulamalarda 2D donanım hızlandırmayı kullan</string>
+    <string name="force_msaa">4x MSAA\'a zorla</string>
+    <string name="force_msaa_summary">OpenGL ES 2.0 uyg için 4x MSAA\'ı etkinleştir </string> 
   <string name="force_stop">Durmaya zorla</string>
   <string name="force_stop_dlg_text">Uygulamayı zorla durdurursanız, hatalı davranabilir.</string>
   <string name="force_stop_dlg_title">Durmaya zorlansın mı?</string>
   <string name="forget_wifi_message">Bu Wi-Fi Ağı unutulsun mu? Ağa tekrar bağlanmak istesiniz şifreyi tekrar girmeniz gerekecektir</string>
   <string name="frequently_fragment_delete">Sil</string>
   <string name="frequently_fragment_tempty">Sık kullanılan öğeler burada listelenecektir</string>
+    <string name="gadget_bluetooth">Bluetooth</string>
+    <string name="gadget_brightness_state_auto">Oto</string>
+    <string name="gadget_brightness_state_full">Tam</string>
+    <string name="gadget_brightness_state_half">Yarım</string>
+    <string name="gadget_brightness_state_off">Kapalı</string>
+    <string name="gadget_brightness_template">Parlaklık %1$s</string>
+    <string name="gadget_gps">GPS</string> 
   <string name="gadget_picker_title">Gadget seç</string>
+    <string name="gadget_state_off">Kapalı</string>
+    <string name="gadget_state_on">Açık</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
+    <string name="gadget_state_turning_off">Kapatılıyor</string>
+    <string name="gadget_state_turning_on">Açılıyor</string>
+    <string name="gadget_sync">Senkronize</string> 
   <string name="gadget_title">Güç denetimi</string>
   <string name="gadget_toggle_bluetooth">Bluetooth ayarları güncelleniyor..</string>
   <string name="gadget_toggle_wifi">Kablosuz ayaları güncelleniyor..</string>
+    <string name="gadget_wifi">Wi-Fi</string> 
   <string name="game_controller_settings_category">Oyun Kontrolleri</string>  
   <string name="getConfiguredNetworks">ŞebekeAyarlarınıAl</string>
   <string name="getConnectionInfo">BağlantıBilgisiniAl</string>
+    <string name="global_change_warning">Bu ayar telefondaki tüm kullanıcılara etki eder.</string>
+    <string name="global_font_change_title">Yazı boyutunu değiştir</string>
+    <string name="global_locale_change_title">Dili değiştir</string> 
   <string name="haptic_feedback_enable_title">Dokununca titret</string>
   <string name="haptic_feedback_level">Titreşim seviyesi</string>
   <string name="hardkeyboard_category">Fiziksel klavye ayarları</string>
@@ -832,6 +894,18 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="header_data_and_synchronization">VERİ ve SENKRONİZE</string>
   <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Durdurursanız, bazı mevcut işlerinizin kaybına neden olabilir.</string>
   <string name="help_label">Yardım</string>
+     <string name="help_url_bluetooth"/>
+    <string name="help_url_choose_lockscreen"/>
+    <string name="help_url_data_usage"/> 
+	<string name="help_url_dreams"/>
+    <string name="help_url_location_access"/> 
+	<string name="help_url_more_networks"/>
+    <string name="help_url_security"/>
+    <string name="help_url_sound"/>
+    <string name="help_url_tether"/>
+    <string name="help_url_users"/>
+    <string name="help_url_vpn"/>
+    <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Gizli SSID:</string>
   <string name="history_details_title">Geçmiş ayrıntıları</string>
   <string name="home_key">Ev tuşu</string>
@@ -859,6 +933,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="input_settings">Giriş ayarları</string>
   <string name="install_all_warning">Telefonunuz ve kişisel verileriniz, bilinmeyen kaynaklardan gelen uygulamaların saldırılarına karşı daha savunmasızdır. Bu uygulamaları kullanmanız sonucunda telefonunuzun başına gelebilecek her tür hasardan ve veri kaybından yalnızca kendinizin sorumlu olduğunu kabul edersiniz.</string>
   <string name="install_applications">Bilinmeyen kaynaklar</string>
+    <string name="install_text">Yükle</string>
   <string name="install_unknown_applications">Market dışı uygulamaların yüklenmesine izin ver</string>
   <string name="insufficient_storage">Yeterli depolama alanı yok.</string>
   <string name="intent_sender_account_label">Hesap:</string>
@@ -915,11 +990,14 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="local_backup_password_toast_confirmation_mismatch">"Yeni şifre ve doğrulama aynı değil"</string>
   <string name="local_backup_password_toast_success">Yeni yedekleme şifresini ayarla</string>
   <string name="local_backup_password_toast_validation_failure">Yeni yedekleme şifresini ayarlanamadı</string>
+    <string name="location_access_summary">Uygulamalar sizin konum bilgilerinizi kullanacak</string>
+    <string name="location_access_title">Konumuma erişim</string>   
   <string name="location_gps">GPS Uyduları</string>
   <string name="location_neighborhood_level">Uygulamalar, yaklaşık konumumu belirlemek için Kablosuz ve mobil ağlar gibi kaynaklardan gelen verileri kullansın</string>
   <string name="location_neighborhood_level_wifi">Konum, Kablosuz tarafından belirlendi</string>
   <string name="location_network_based">"Google konum hizmeti"</string>
   <string name="location_settings_title">GPS ve Konum hizmetleri</string>
+    <string name="location_sources_heading">Konum kaynakları</string>
   <string name="location_street_level">Konumunuzu belirlemek üzere, uygulamaların GPS kullanmasına izin verir</string>
   <string name="location_title">Konumum</string>
   <string name="lock_after_timeout">Otomatik olarak kilitle</string>
@@ -1032,9 +1110,13 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Uygulamalar</string>
   <string name="memory_available">Kullanılabilir</string>
+    <string name="memory_available_read_only">Kullanılabilir (sadece okunabilir)</string>
   <string name="memory_calculating_size">Hesaplanıyor...</string>
+    <string name="memory_clear_cache_message">Bu işlem tüm uygulamaların bellek verilerini temizleyecek</string>
+    <string name="memory_clear_cache_title">Bellek verileri temizlensin mi?</string> 
   <string name="memory_dcim_usage">Resimler, videolar</string>
   <string name="memory_downloads_usage">İndirilenler</string>
+    <string name="memory_media_cache_usage">Bellekteki veriler</string>
   <string name="memory_media_misc_usage">Çeşitli</string>
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses (müzik, zil sesleri, oynatıcı yayın abonelği vb.)</string>
@@ -1107,6 +1189,7 @@ please follow the steps to complete installation"</string>
   <string name="oem_radio_info_label">"OEM\'e Özgü Bilgiler, Ayarlar"</string>
   <string name="onscreen_keyboard_settings_summary">Ekran klavyesi ayarları</string>
   <string name="other_relative">Diğer yetkiler</string>
+    <string name="overlay_display_devices_title">Ikincil ekranları simüle et</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Sahip Bilgileri</string>
@@ -1386,6 +1469,7 @@ please follow the steps to complete installation"</string>
   <string name="radio_info_band_mode_label">Radyo bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
   <string name="radio_info_call_status_label">Çağrı durumu:</string>
+    <string name="radio_info_cellinfo_label">HücreBilgisi:</string>
   <string name="radio_info_current_network_label">Geçerli ağ:</string>
   <string name="radio_info_data_attempts_label">Veri giriş denemeleri:</string>
   <string name="radio_info_data_successes_label">Veri başarıları:</string>
@@ -1419,6 +1503,7 @@ please follow the steps to complete installation"</string>
   <string name="recognizer_settings_title">Sesli Arama</string>
   <string name="recognizer_title">Ses tanıyıcı</string>
   <string name="recompute_size">Boyut yeniden hesaplanıyor…</string>
+    <string name="regulatory_information">Düzenleme bilgileri</string>
   <string name="remove_account_failed">Bu hesap, bazı uygulamalar için gereklidir. Hesabı ancak Ayarlar &gt; Yedek &amp; sıfırlama içinden telefonu varsayılan fabrika ayarlarına geri döndürerek kaldırabilirsiniz (tüm kişisel verileriniz silinir).</string>
   <string name="remove_account_label">Hesabı kaldır</string>
   <string name="remove_device_admin">Etkinliğini Kaldır</string>
@@ -1441,7 +1526,12 @@ please follow the steps to complete installation"</string>
   <string name="roaming_reenable_title">Dikkat</string>
   <string name="roaming_turn_it_on_button">Açın</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Kayda değer dolaşım ücretleri ödeyebilirsiniz!</string>
+    <string name="roaming_warning_multiuser">"Veri dolaşımına izin verdiğinizde, size önemli dolaşım ücretlerine neden olabilir!
+
+Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="rssi_label">RSSI:</string>
+    <string name="running_process_item_removed_user_label">Kaldırılan Kullanıcı</string>
+    <string name="running_process_item_user_label">Kullanıcı: %1$s</string> 
   <string name="running_processes_item_description_p_p">%1$d işlem ve %2$d hizmet</string>
   <string name="running_processes_item_description_p_s">%1$d işlem ve%2$d hizmet</string>
   <string name="running_processes_item_description_s_p">%1$d işlem ve %2$d hizmet</string>
@@ -1471,13 +1561,16 @@ please follow the steps to complete installation"</string>
   <string name="screen_timeout_title">Uyku Modu Süresi</string>
   <string name="screensaver_activate_on_dock_title">Yuvasına yerleştirildiğinde de başlat</string>
   <string name="screensaver_component_title">Seçilen şeker</string>
+    <string name="screensaver_settings_summary_dock">Yuvada iken</string>
+    <string name="screensaver_settings_summary_either_long">Yuvada ve ya şarj olurken</string>
+    <string name="screensaver_settings_summary_either_short">Her ikiside</string> 
   <string name="screensaver_settings_summary_off">Devre dışı</string>
-  <string name="screensaver_settings_summary_on">Prize takılıysa, uyku moduna geçtiğinde başlar</string>
+    <string name="screensaver_settings_summary_sleep">Şarş olurken</string>
   <string name="screensaver_settings_title">Ekran Şekeri</string>
-  <string name="screensaver_test">Deneyin!</string>
-  <string name="screensaver_timeout_summary">%1$s boşta kaldıktan sonra</string>
-  <string name="screensaver_timeout_title">Etkinleştirme zamanı</string>
-  <string name="screensaver_timeout_zero_summary">Hiçbir zaman</string>
+    <string name="screensaver_settings_button">Ekran koruyucu ayarları</string>
+    <string name="screensaver_settings_disabled_prompt">Telefonun uyku modunu kontrol etmek için, Daydream\'i açın.</string>
+    <string name="screensaver_settings_dream_start">Şimdi başlat</string> 
+    <string name="screensaver_settings_when_to_dream">Daydream de iken</string>
   <string name="sd_card_settings_label">SD kart</string>
   <string name="sd_card_storage">SD kart dep brm</string>
   <string name="sd_eject">SD kartının bağlantısını kes</string>
@@ -1539,8 +1632,10 @@ please follow the steps to complete installation"</string>
   <string name="security_passwords_title">Şifreler</string>
   <string name="security_privacy_settings_title">Güvenlik ve Gizlilik</string>
   <string name="security_relative">Güvenlik ile ilgili</string>
+    <string name="security_settings_billing_desc">Bu uygulama paranızı yükleyebilir:</string> 
   <string name="security_settings_desc">Bu uygulama telefonunuzda şunlara erişebilir:</string>
   <string name="security_settings_desc_multi">Bu uygulama telefonunuzda şunlara erişebilir. Bu performas düşüşüne neden olabilir, bunun gibi kullanılabilir izinler %1$s benzer çalışan işlemler %2$s:</string>
+    <string name="security_settings_premium_sms_desc">Özel SMS Gönder</string>  
   <string name="security_settings_summary">Konumum, ekran kil. açma, SIM kart kil., kim. bilg. dep.kilidini ayarla</string>
   <string name="security_settings_title">Güvenlik</string>
   <string name="sel_sub_summary">SUB-1 ve SUB-2 için abonelik seç</string>
@@ -1548,7 +1643,10 @@ please follow the steps to complete installation"</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_application">Uygulama seçin</string>
   <string name="select_device_admin_msg">Cihaz yöneticileri</string>
-  <string name="select_subscription">Abonelik seçin</string>
+    <string name="selinux_status">SELinux durumu</string>
+    <string name="selinux_status_disabled">Devre dışı</string>
+    <string name="selinux_status_enforcing">Zorla</string>
+    <string name="selinux_status_permissive">Serbest</string> 
   <string name="service_background_processes">%1$s boş</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s kullanılan</string>
@@ -1583,8 +1681,14 @@ please follow the steps to complete installation"</string>
   <string name="show_background_processes">Önbelleğe alınan işlemleri göster</string>
   <string name="show_cpu_usage">CPU kullanımını göster</string>
   <string name="show_cpu_usage_summary">Mevcut CPU kullanımını gösteren yer paylaşımı</string>
+    <string name="show_dev_already">Gerek yok, zaten bir geliştiriciyim.</string>
+    <string name="show_dev_on">Şimdi bir geliştiricisiniz!</string> 
   <string name="show_fc">Zorla Kapatmaları Göster</string>
   <string name="show_fc_summary">Uygulamalarda zorla kapatma diyaloğu göster</string>
+    <string name="show_hw_layers_updates">Donanım katman güncellemelerini göster</string>
+    <string name="show_hw_layers_updates_summary">Donanım katmanları güncellenince yeşil flaşlar yapar</string>
+    <string name="show_hw_overdraw">GPU overdraw\'ları göster</string>
+    <string name="show_hw_overdraw_summary">En iyiden en kötüye doğru: mavi, yeşil, açık kırmızı, kırmızı</string> 
   <string name="show_hw_screen_updates">GPU güncellemelerini göster</string>
   <string name="show_hw_screen_updates_summary">GPU işlemlerinde ekranda flaş yapar</string>
   <string name="show_magnifier_when_input">Büyüteçi göster</string>
@@ -1596,6 +1700,7 @@ please follow the steps to complete installation"</string>
   <string name="show_screen_updates_summary">Güncellenirken ekranda flaş yapar</string>
   <string name="show_touches">Dokunmaları göster</string>
   <string name="show_touches_summary">Dokunmalarda görsel işaret göster</string>
+    <string name="show_user_info_on_lockscreen_label">Kilit ekranında kullanıcıyı göster</string>
   <string name="silent_mode_title">Sessiz mod</string>
   <string name="sim_absent">SIM/RUIM Yok</string>
   <string name="sim_bad_pin">Yanlış PIN</string>
@@ -1660,6 +1765,7 @@ please follow the steps to complete installation"</string>
   <string name="status_icc_id">ICCID</string>
   <string name="status_imei">IMEI</string>
   <string name="status_imei_sv">IMEI SV</string>
+    <string name="status_latest_area_info">Operatör bilgisi</string>
   <string name="status_meid_number">MEID</string>
   <string name="status_min_number">MİN</string>
   <string name="status_msid_number">MSID</string>
@@ -1677,6 +1783,7 @@ please follow the steps to complete installation"</string>
   <string name="status_wimax_mac_address">4G MAC adresi</string>
   <string name="storage_label">Depolama</string>
   <string name="storage_menu_usb">USB bilgisayar bağlantısı</string>
+    <string name="storage_other_users">Diğer kullanıcılar</string> 
   <string name="storage_settings">Depolama</string>
   <string name="storage_settings_summary">SD kartın bağlantısını kes, kull. Depolama alanını görüntüle</string>
   <string name="storage_settings_title">Depolama ayarları</string>
@@ -1786,6 +1893,7 @@ please follow the steps to complete installation"</string>
   <string name="turn_off_radio">Radyoyu kapat</string>
   <string name="turn_on_radio">Radyoyu aç</string>
   <string name="under_keyguard">Kilit ekranında</string>
+    <string name="uninstall_all_users_text">Tüm kullanıcılar için kaldır</string>
   <string name="uninstall_text">Kaldır</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unlock_backup_info_summary">Yüz Tanıma Kilidi sizi göremezse, kilidi nasıl açmak istersiniz?</string>
@@ -1856,6 +1964,7 @@ please follow the steps to complete installation"</string>
   <string name="usb_tethering_button_text">USB bağlantısı</string>
   <string name="usb_tethering_errored_subtext">USB bağlantısı hatası</string>
   <string name="usb_tethering_storage_active_subtext">USB depolama birimi kullanılırken tethering yapılamaz</string>
+  
   <string name="usb_tethering_unavailable_subtext">USB bağlı değil</string>
   <string name="usb_title">USB</string>
   <string name="use_default_tts_settings_summary">Aşağıdaki varsayılan ayarlar, uygulama ayarlarını geçersiz kılıyor</string>
@@ -1863,9 +1972,24 @@ please follow the steps to complete installation"</string>
   <string name="use_location_summary">"Arama sonuçlrını ve diğer hizmtlri iyileştrmk için Google'ın konumunzu kullanmasına izin verir"</string>
   <string name="use_location_title">Konum ve Google arama</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistemin dilini kullanın</string>
+   <string name="user_account_title">Hesap içeriği</string> 
   <string name="user_add_user_menu">Kullanıcı Ekle</string>
-  <string name="user_confirm_remove_message">Kullanıcı ve özel verileri cihazdan silinsin mi?</string>
+   <string name="user_add_user_message_long">"Ek kullanıcılar oluşturarak diğer insanlarla bu cihazı paylaşabilirsiniz. Her kullanıcı sistemi kendine özgü uygulama ve duvar kağıtları ile özelleştirebilir. Kullanıcılar ayrıca  WLAN gibi tablet ayarlarını da yapabilirler.
+	
+Eğer yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum sürecinden geçmesi gerekiyor.
+
+Herhangi bir kullanıcı, diğer tüm kullanıcılar adına güncel uygulama izinlerini kabul ve ya red edebilir."</string>
+ <string name="user_add_user_message_short">"Eğer yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum sürecinden geçmesi gerekiyor.
+
+Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izinlerini kabul edebilir."</string>
+   <string name="user_add_user_title">Kullanıcı ekle</string>
+   <string name="user_adding_new_user">Yeni kullanıcı ekleniyor...</string>
+   <string name="user_cannot_manage_message">"Sadece telefon sahibi kullanıcıları yönetebilir."</string>
+   <string name="user_confirm_remove_message">"Bu kullanıcının alanı ve verileri bu telefondan kaybolayak. Bu eylemi geri alamazsınız."</string>
+   <string name="user_confirm_remove_self_message">"Bu telefonda alanı ve veri kaybedeceksiniz. Bu eylemi geri alamazsınız."</string>
+   <string name="user_confirm_remove_self_title">Kendinizi silmek istiyor musunuz?</string> 
   <string name="user_confirm_remove_title">Kullanıcı Kaldırılsın mı?</string>
+    <string name="user_delete_button">SİL</string>
   <string name="user_details_title">Detayları Düzenle</string>
   <string name="user_dict_multiple_settings_title">Kişisel sözlükler</string>
   <string name="user_dict_settings_add_dialog_confirm">TAMAM</string>
@@ -1885,18 +2009,26 @@ please follow the steps to complete installation"</string>
   <string name="user_dict_settings_more_languages">Daha fazla dil...</string>
   <string name="user_dict_settings_titlebar">Kullanıcı sözlüğü</string>
   <string name="user_dict_single_settings_title">Kişisel sözlük</string>
-  <string name="user_discard_user_menu">Terket</string>
-  <string name="user_information_heading">Kulanıcı bilgileri</string>
-  <string name="user_list_title">Kullanıcılar</string>
-  <string name="user_market_apps_heading">Yüklü Uygulamalar</string>
-  <string name="user_market_requires_pin">PIN kodu gerekli</string>
-  <string name="user_max_content_rating">İçerik oylama</string>
-  <string name="user_name_title">Adı</string>
-  <string name="user_new_user_name">Sinir bozucu çocuk</string>
-  <string name="user_remove_user_menu">Kullanıcıyı Kaldır</string>
-  <string name="user_restrictions_heading">İçerik Kısıtlama</string>
-  <string name="user_settings_title">kullanıcılar ve Kısıtlamalar</string>
-  <string name="user_system_apps_heading">Sistem Uygulamaları</string>
+   <string name="user_info_settings_title">Kullanıcı bilgileri</string>
+   <string name="user_list_title">Diğer kullanıcılar</string>
+   <string name="user_new_user_name">Yeni kullanıcı</string>
+   <string name="user_nickname">Takma adı</string>
+   <string name="user_owner">Sahip</string>
+   <string name="user_picture_title">Foto ID</string>
+   <string name="user_remove_user_menu">%1$s bu cihazdan sil</string>
+   <string name="user_settings_title">Kullanıcılar</string>
+   <string name="user_setup_button_setup_later">Şimdi değil</string>
+   <string name="user_setup_button_setup_now">Şimdi ayarla</string>
+   <string name="user_setup_dialog_message">Kişinin tableti alıp kendi alanını kurmak için uygun olduğundan emin olun</string>
+   <string name="user_setup_dialog_title">Kullanıcı şimdi ayarlansın mı?</string>
+   <string name="user_summary_active">Etkin</string>
+   <string name="user_summary_inactive">Etkin değil</string>
+   <string name="user_summary_not_set_up">Şimdi ayarlama</string>
+   <string name="user_you_section">Sen</string>
+   <string name="verify_applications">Uygulamaları doğrula</string>
+   <string name="verify_applications_summary">Zarar verebilecek uygulamaların kurulmasına  izin verme veya uyarma</string>
+   <string name="verify_apps_over_usb_summary">Zararlı davranış için ADB / ADT ile yüklenmiş uygulamalar kontrol et.</string>
+   <string name="verify_apps_over_usb_title">Uygulamaları USb üzerinden doğrula</string> 
   <string name="version_text">sürüm %1$s</string>
   <string name="vibrate_category_title">Titreşim</string>
   <string name="vibrate_in_normal_title">Normal modda titret</string>
@@ -1970,8 +2102,12 @@ please follow the steps to complete installation"</string>
   <string name="vpn_ipsec_server_cert">IPSec sunucu sertifikası</string>
   <string name="vpn_ipsec_user_cert">IPSec kullanıcı sertifikası</string>
   <string name="vpn_l2tp_secret">L2TP gizli bilgisi</string>
+   <string name="vpn_lockdown_config_error">DNS her iki sunucu için bir IP adresi ve her zaman açık bir VPN sunucusu gerekir.</string>
+   <string name="vpn_lockdown_none">Hiçbiri</string>
+   <string name="vpn_lockdown_summary">Her zaman bağlı kalmak için bir VPN profili seçin. Sadece VPN bağlandığında ağ trafiğini için izin verilecek.</string> 
   <string name="vpn_menu_delete">Ağı sil</string>
   <string name="vpn_menu_edit">Ağı düzenle</string>
+    <string name="vpn_menu_lockdown">Her zaman açık VPN</string>
   <string name="vpn_missing_cert">Sertifika yok, profili düzenleyin.</string> 
   <string name="vpn_mppe">PPP şifreleme (MPPE)</string>
   <string name="vpn_name">Adı</string>
@@ -2013,11 +2149,13 @@ please follow the steps to complete installation"</string>
   <string name="wifi_advanced_mac_address_title">MAC adresi</string>
   <string name="wifi_advanced_settings_label">IP ayarları</string>
   <string name="wifi_advanced_titlebar">Gelişmiş Kablosuz Ayarları</string>
+    <string name="wifi_and_mobile_skipped_message">"UYARI: Telefon yazılımınızın güncel olduğunu doğrulamadıkça mümkün olmayacaktır."</string> 
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_cancel">İptal</string>
   <string name="wifi_certificate">Sertifika</string>
   <string name="wifi_config_info">Wi-Fi yapılandırması</string>
   <string name="wifi_connect">Bağlan</string>
+    <string name="wifi_connect_failed_message">elefon bu WLAN ağı ile bağlantı kuramadı.</string>
   <string name="wifi_context_menu_change_password">Şifreyi değiştir</string>
   <string name="wifi_context_menu_change_wapi_certificate">WAPI Sertifkasını değiştir</string>
   <string name="wifi_context_menu_connect">Ağa bağlan</string>
@@ -2025,11 +2163,31 @@ please follow the steps to complete installation"</string>
   <string name="wifi_disabled_generic">Devre dışı</string>
   <string name="wifi_disabled_help">Zayıf bağlantı nedeniyle ağ kullanılmadı. Ayarlar &gt; Kablosuz ekranı, Gelişmiş menü öğesi ile bu davranışı kapatın.</string>
   <string name="wifi_disabled_network_failure">Kötü İnternet bağlantısından kaçınıldı</string>
-  <string name="wifi_disabled_password_failure">Kimlik doğrulama sorunu</string>
-  <string name="wifi_dns1">DNS 1</string>
+    <string name="wifi_display_available_devices">Kullanılabilir cihazlar</string>
+    <string name="wifi_display_details">Gösterim ayarları</string>
+    <string name="wifi_display_disconnect_text">Bu bağlantı ile sona erecek:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="wifi_display_disconnect_title">Bağlantı kesilsin mi?</string>
+    <string name="wifi_display_no_devices_found">Yakınlarda kablosuz ağı bulunamadı.</string>
+    <string name="wifi_display_options_done">Tamam</string>
+    <string name="wifi_display_options_forget">Unut</string>
+    <string name="wifi_display_options_name">Adı</string>
+    <string name="wifi_display_options_title">Kablosuz gösterim ayarları</string>
+    <string name="wifi_display_paired_devices">Eşleştirilmiş gösterimler</string>
+    <string name="wifi_display_search_for_devices">Ara</string>
+    <string name="wifi_display_searching_for_devices">Aranıyor…</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_disabled">Kablosuz gösterim kapalı çünkü WLAN devre dışı.</string>
+    <string name="wifi_display_settings_empty_list_wifi_display_off">Cihazları görmek için kablosuz gösterimi açın.</string>
+    <string name="wifi_display_settings_title">Kablosuz gösterim</string>
+    <string name="wifi_display_status_available">Kullanılabilir</string>
+    <string name="wifi_display_status_connected">Bağlandı</string>
+    <string name="wifi_display_status_connecting">Bağlanıyor..</string>
+    <string name="wifi_display_summary_disabled">Devre dışı</string>
+    <string name="wifi_display_summary_off">Kapalı</string>
+    <string name="wifi_display_summary_on">Açık</string> 
   <string name="wifi_dns1_hint">8.8.8.8</string>
   <string name="wifi_dns2">DNS 2</string>
   <string name="wifi_dns2_hint">4.4.4.4</string>
+    <string name="wifi_dont_skip">"Atlama"</string> 
   <string name="wifi_eap_anonymous">Anonim kimlik</string>
   <string name="wifi_eap_ca_cert">CA sertifikası</string>
   <string name="wifi_eap_identity">Kimlik</string>
@@ -2061,6 +2219,7 @@ please follow the steps to complete installation"</string>
   <string name="wifi_menu_connect">Ağa bağlan</string>
   <string name="wifi_menu_forget">Ağı unut</string>
   <string name="wifi_menu_modify">Ağı değiştir</string>
+    <string name="wifi_menu_more_options">Diğer Kablosuz Ayarları</string>
   <string name="wifi_menu_p2p">Wi-Fi Yönlendir</string>
   <string name="wifi_menu_scan">Tara</string>
   <string name="wifi_menu_wfd">Wi-Fi Ekranı</string>
@@ -2076,6 +2235,7 @@ please follow the steps to complete installation"</string>
   <string name="wifi_other_network">Diğer ağlar</string>
   <string name="wifi_p2p_cancel_connect_message">Do you want to cancel invitation to connect with %1$s?</string>
   <string name="wifi_p2p_cancel_connect_title">Cancel invitation?</string>
+    <string name="wifi_p2p_delete_group_message">Forget this group?</string> 
   <string name="wifi_p2p_device_info">Cihaz bilgileri</string>
   <string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
   <string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
@@ -2090,6 +2250,7 @@ please follow the steps to complete installation"</string>
   <string name="wifi_p2p_menu_searching">Searching…</string>
   <string name="wifi_p2p_peer_devices">Peer devices</string>
   <string name="wifi_p2p_persist_network">Bu bağlantıyı hatırla</string>
+    <string name="wifi_p2p_remembered_groups">Remembered groups</string>
   <string name="wifi_p2p_settings_summary">Eşler arası bağlantı kurulumu</string>
   <string name="wifi_p2p_settings_title">Kablosuz doğrudan bağlantı</string>
   <string name="wifi_p2p_wps_pin">"PIN'i yazın"</string>
@@ -2100,6 +2261,7 @@ please follow the steps to complete installation"</string>
   <string name="wifi_quick_toggle_summary">Kablosuzu aç</string>
   <string name="wifi_quick_toggle_title">Kablosuz</string>
   <string name="wifi_remembered">Kaydedildi</string>
+    <string name="wifi_required_info_text">Kurulumu tamamlamak için, tabletinizin WLAN\'a erişmesi gerekir. Kurulumdan sonra, mobil veri ile WLAN arasında geçiş yapabilirsiniz.</string> 
   <string name="wifi_save">Kaydet</string>
   <string name="wifi_secured_first_item">Güvenliği %1$s ile sağlanıyor</string>
   <string name="wifi_secured_second_item">, güvenliği %1$s ile sağlanıyor</string>
@@ -2161,6 +2323,10 @@ please follow the steps to complete installation"</string>
   <string name="wifi_show_advanced">Gelişmiş seçenekleri göster</string>
   <string name="wifi_show_password">Şifreyi göster</string>
   <string name="wifi_signal">Sinyal gücü</string>
+   <string name="wifi_skip_anyway">Skip anyway</string>
+   <string name="wifi_skipped_message">"UYARI: Fazladan, taşıyıcınızın veri ücretlerine tabi olabilir.
+
+Telefon ayarları önemli ağ etkinliği gerektirebilir."</string> 
   <string name="wifi_speed">Bağlantı hızı</string>
   <string name="wifi_ssid">"Ağ SSID'si"</string>
   <string name="wifi_starting">Kablosuz açılıyor...</string>
@@ -2173,12 +2339,17 @@ please follow the steps to complete installation"</string>
   <string name="wifi_status">Durum</string>
   <string name="wifi_status_test">Wi-Fi durumu</string>
   <string name="wifi_stopping">Kablosuz kapatılıyor…</string>
+   <string name="wifi_suspend_optimizations">WLAN Optimizasyonu</string>
+   <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirmek için kullanın</string> 
   <string name="wifi_tether_checkbox_text">Taşınabilir kablosuz ortak erişim noktası</string>
   <string name="wifi_tether_configure_ap_text">Kablosuz ortak erişim noktası yapılandır</string>
   <string name="wifi_tether_configure_ssid_default">Android Ortak Erişim Noktası</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s taşınabilir kablosuz ortak erişim noktası</string>
   <string name="wifi_tether_enabled_subtext">Taşınabilir ortak erişim noktası %1$s etkin</string>
-  <string name="wifi_tether_failed_subtext">Taşınabilir kablosuz ortak erişim noktası hatası</string>
+   <string name="wifi_tether_failed_subtext">Taşınabilir Wi-Fi hotspot hatası!</string>
+   <string name="wifi_tether_setting_title">Temel Ayarlar</string>
+   <string name="wifi_tether_starting">Hotspot açılıyor...</string>
+   <string name="wifi_tether_stopping">Hotspot kapatılıyor...</string> 
   <string name="wifi_unchanged">(değişmedi)</string>
   <string name="wifi_unspecified">(belirtilmemiş)</string>
   <string name="wifi_update">Durumu yenile</string>
