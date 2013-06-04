@@ -418,7 +418,6 @@
   <string name="label_notes">Notlar</string>
   <string name="label_sip_address">İnternet çağrısı</string>
   <string name="launcherDialer">Telefon</string>
-  <string name="listAllContactsInAccount">%s içinde kişiler</string>
   <string name="listCustomView">Özel görünümdeki kişiler</string>
   <string name="listFoundAllContactsZero">Bulunamadı.</string>
   <string name="listSingleContact">Tek kişi</string>
@@ -673,7 +672,6 @@ Favoriler listenize kişi eklemek için:
   <string name="prepare_import">içe aktarma hazırla</string>
   <string name="preview_contact_card_title">Kişiler içe aktarılıyor</string>
   <string name="previous">önceki</string>
-  <string name="primary_indicator">(varsayılan)</string>
   <string name="private_num">Özel numara</string>
   <string name="processing">İşlem yapılıyor...</string>
   <string name="profile_display_name">Profilimi ayarla</string>

@@ -57,8 +57,6 @@
   <string name="delete_playlist_menu">Sil</string>
   <string name="delete_song_desc">\"%s\" kalıcı olarak SD karttan silinecek.</string>
   <string name="deselect_all">Tümünü reddet</string>
-  <string name="dirac_disabled">Dirac devre dışı</string>
-  <string name="dirac_enabled">Dirac etkin</string>
   <string name="download">İndir</string>
   <string name="download_album_settings">Albüm kapağını otomatik indir</string>
   <string name="download_album_summary">Mobil ağ üzerinden kullanıldığında daha pahalı olabilir, Wi-Fi kullanmanız tavsiye edilir</string>
@@ -72,7 +70,6 @@
   <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
-  <string name="edit_playlist_menu">Düzenle</string>
   <string name="empty_edit_hint">Şarkı bilgisi kullanılamaz</string>
   <string name="emptyplaylist">Seçilen çalma listesi boş.</string>
   <string name="enter_sleep_mode">Uyku modunu ayarla</string>
@@ -161,7 +158,6 @@
   <string name="no_song_downloaded">Şarkı indirilemedi</string>
   <string name="not_selected">Şarkıyı seçin</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
-  <string name="online_music">Online Müzik</string>
   <string name="online_search_hint">Online müzik ara</string>
   <string name="other_settings">Diğer</string>
   <string name="overwrite_confirm">Üstüne yaz</string>
@@ -178,7 +174,6 @@
   <string name="playlist_deleted_message">Çalma listesi silindi.</string>
   <string name="playlist_favorite">Favoriler</string>
   <string name="playlist_frequently_played">Sık çalınanlar</string>
-  <string name="playlist_new">Yeni çalma listesi oluştur</string>
   <string name="playlist_recently_added">En son eklenenler</string>
   <string name="playlist_recently_played">En son çalınanlar</string>
   <string name="playlist_renamed_message">Çalma listesi adlandırıldı.</string>

@@ -413,7 +413,6 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_profile_dun">Dial-up Network Access</string>
   <string name="bluetooth_profile_headset">Telefon sesi</string>
   <string name="bluetooth_profile_hid">Giriş cihazı</string>
-  <string name="bluetooth_profile_name">"%1$s'in MIUI telefonu"</string>
   <string name="bluetooth_profile_opp">Dosya aktarımı</string>
   <string name="bluetooth_profile_pan">İnternet erişimi</string>
   <string name="bluetooth_profile_pan_nap">İnternet bağlantısı paylaşımı</string>
@@ -786,7 +785,6 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="enableNetwork">ŞebekeEtkin</string>
   <string name="enable_adb">USB hata ayıklama modu</string>
   <string name="enable_adb_summary">USB bağlandığında hata ayıklama modu</string>
-  <string name="enable_back_long_press">Geri tuşuna basılı tutarak uyg. sonlandırın</string>
   <string name="enable_compatibility">Uygulamayı ölçeklendir</string>
     <string name="enable_drive_mode">Sürüş modunu etkinleştir</string>
 	<string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>

@@ -1,6 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Kimlik doğrulama hatası. Lütfen daha sonra tekrar deneyin!</string>
   <string name="add_alarm">Alarm ekle</string>
   <string name="alarm_alert">Zil sesini ayarla</string>
   <string name="alarm_alert_alert_silenced">Alarm %d dakika sonra susacak.</string>
@@ -26,7 +25,6 @@
   <string name="alarm_volume_title">Alarm ses düzeyi</string>
   <string name="alarmclock_empty_text">Alarm yok</string>
   <string name="alert">Zilsesi</string>
-  <string name="all_resources">Tümü</string>
   <string name="analog_gadget">Analog saat</string>
   <string name="app_label">Saat</string>
   <string name="auto_silence_never">Kapalı</string>
@@ -56,8 +54,6 @@
   <string name="dialog_confirm_abort">Değişiklikleri iptal etmek istiyor musunuz?</string>
   <string name="disable_alarm">Alarmı kapat</string>
   <string name="done">Tamam</string>
-  <string name="download_failed">İndirme başarısız!</string>
-  <string name="download_preview_failed">Önizleme yüklenemedi!</string>
   <string name="edit_alarm">Alarmı düzenle</string>
   <string name="elapsed_hour">%d saat</string>
   <string name="elapsed_time_format">(+%s)</string>
@@ -72,8 +68,6 @@
   <string name="holiday_data_update_succeed">Güncelleme tamamlandı</string>
   <string name="holiday_data_updating">Güncelleniyor...</string>
   <string name="holiday_update_pref_invalidate_title">İşgünü verilerini güncelle</string>
-  <string name="holiday_update_pref_summary">Güncellemeleri kontrol et</string>
-  <string name="holiday_update_pref_title">İşgünü verilerini güncelle</string>
   <string name="home_button_description">Başlatıcı</string>
   <string name="hour">1 saat</string>
   <string name="hour_unit">Sa</string>
