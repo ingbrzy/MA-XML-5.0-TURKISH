@@ -236,6 +236,19 @@
         <item>Animasyon 5x</item>
         <item>Animasyon 10x</item>
     </string-array>
+	<string-array name="overlay_display_devices_entries">
+        <item>Hiçbiri</item>
+        <item>720 x 480 mdpi</item>
+        <item>1 280 x 720 tvdpi</item>
+        <item>1 920 x 1 080 xhdpi</item>
+        <item>1 280 x 720 tvdpi a 1 920 x 1 080 xhdpi</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>Hiçbiri</item>
+        <item>Logcat</item>
+        <item>Systrace (grafik)</item>
+        <item>glGetError çağrı yığını</item>
+    </string-array> 
     <string-array name="app_process_limit_entries">
         <item>Standart sınır</item>
         <item>Arka planda işlem yok</item>
@@ -334,9 +347,15 @@
     </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Eylem Yok</item>
-        <item>RAM Yöneticisini Başlat</item>
+        <item>Görev Yöneticisini Başlat</item>
         <item>Ses Asistanını Başlat</item>
         <item>Google Now\'ı Başlat</item>
-        <item>Son Uygulamaları Aç</item>
+        <item>Açık Uygulamalayı Zorla Kapat</item>
+    </string-array>
+	<string-array name="screen_key_long_press_timeout">
+        <item>0.5 saniye</item>
+        <item>1 saniye</item>
+        <item>1.5 saniye</item>
+        <item>2 saniye</item>
     </string-array>
 </resources>

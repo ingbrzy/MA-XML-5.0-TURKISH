@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Geliştirici modunu elde etmek için adım sayısı: %1$d.</item>
+        <item quantity="one">Geliştirici modunu elde etmek için adım sayısı: %1$d.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parolada en az %d adet harf kullanılması gerekir</item>
+        <item quantity="one">Parola en az bir harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola arka arkaya %d adet küçük harf içermelidir</item>
+        <item quantity="one">Parola en az bir adet küçük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola en az %d adet sadece küçük harf içermelidir</item>
+        <item quantity="one">Parola en az bir büyük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola en az %d basamaklı olmalıdır</item>
+        <item quantity="one">Parola en az bir basamaklı olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola en az %d adet özel karakter içermelidir</item>
+        <item quantity="one">Parola en az bir özel sembol içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola en az %d  harften başka karakter içermelidir</item>
+        <item quantity="one">Parola sadece bir harf değil en az bir karakter içermelidir</item>
+    </plurals>
+</resources>
