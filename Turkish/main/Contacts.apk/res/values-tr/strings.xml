@@ -442,7 +442,8 @@
   <string name="loading_group_members">Grup üyeleri yükleniyor…</string>
   <string name="loading_groups">Gruplar yükleniyor…</string>
   <string name="loading_recent">Sık arananlar yükleniyor…</string>
-  <string name="loading_resource_detail_info">kaynak bilgisi yükleniyor...</string>
+  <string name="loading_resource_detail_fail">Kaynak bilgileri yüklenemedi!</string>
+  <string name="loading_resource_detail_info">Kaynak bilgisi yükleniyor...</string>
   <string name="local_invisible_directory">Diğer</string>
   <string name="local_profile_title">Yerel profilim</string>
   <string name="local_search_label">Tüm kişiler</string>
@@ -740,6 +741,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_title_select_ringtone">Zil sesini seç</string>
   <string name="resource_update">Güncelle</string>
   <string name="restore_nickname">Onar</string>
+  <string name="resource_waiting_download">İndirme için bekliyor...</string> 
   <string name="ret_sign">" "</string>
   <string name="returnCall">Çağrıya dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>

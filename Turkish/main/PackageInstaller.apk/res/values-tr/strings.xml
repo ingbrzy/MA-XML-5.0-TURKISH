@@ -5,12 +5,13 @@
   <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor. Şimdi ve gelecekte bu izin verilsin mi?"</string>
   <string name="allow_source_dlg_title">Uygulamalar için yeni kaynaklara izin verilsin mi</string>
   <string name="app_name">Paket Yükleyici</string>
-  <string name="app_not_found_dlg_text">Yüklü uygulama listesinde bulunamadı!</string>
+  <string name="app_not_found_dlg_text">Yüklü uygulamalar listesinde bulunamadı!</string>
   <string name="app_not_found_dlg_title">Uygulama bulunamadı!</string>
   <string name="auto_startup_dialog_msg">MIUI uygulamaları otomatik olarak başlatacak. İzin verilsin mi?"</string>
   <string name="caller_app">Yükleme İsteği: %1$s</string>
   <string name="cancel">İptal</string>
   <string name="dlg_app_replacement_statement">"Bu uygulama başka bir uygulamanın yerine geçecek ve eski kullanıcı verileri kaydedilecek."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü (%3$s) sürümünün yerine geçecek.  Verilerinizi muhafaza edilecektir. Devam etmek istiyor musunuz?"</string> 
   <string name="dlg_app_replacement_title">Uygulamanın yerine geçecek</string>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_sys_app_replacement_statement">"Sistem uygulamasının yerine geçecek ve eski veriler kaydedilecek."</string>

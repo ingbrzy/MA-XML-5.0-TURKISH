@@ -39,7 +39,8 @@
   <string name="download_success">Başarıyla indirildi!</string>
   <string name="live_wallpaper">Canlı Duvar Kağıtları</string>
   <string name="loading">Yükleniyor...</string>
-  <string name="loading_resource_detail_info">Yükleniyor..</string>
+  <string name="loading_resource_detail_fail">Kaynak yüklenemedi!</string>
+  <string name="loading_resource_detail_info">Kaynak Yükleniyor..</string>
   <string name="lockscreen_wallpaper">Kilit Ekranı Duvar Kağıtları</string>
   <string name="lockstyle_personal_settings">Özelleştir</string>
   <string name="long_ringtone_resource">Uzun</string>
@@ -110,11 +111,17 @@
   <string name="resource_title">Kaynak detayı</string>
   <string name="resource_title_select_ringtone">Zil sesini seç</string>
   <string name="resource_update">Güncelle</string>
+  <string name="resource_waiting_download">İndirme için bekliyor...</string>
   <string name="restore_default_theme_alert">Bu tema sahtecilik kurbanı olabilir, satın almak için tema marketine göz atın veya yeniden indirin.</string>
   <string name="sdcard_status_changed_dialog_message">"Çıkışa gidiyor, kaynaklar için uygulamayı tekrar yükleyin."</string>
   <string name="sdcard_status_changed_dialog_title">SD kart durumu değişti</string>
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_another_import_running">Başka bir içe aktarma işlemi çalışıyor, sonra tekrar deneyin.</string>
+  <string name="theme_batch_has_update_text">%1$d için güncelleme var</string>
+  <string name="theme_batch_update_all">Tümünü güncelle</string>
+  <string name="theme_batch_update_dlg_content">Şimdi güncellemek istiyor musunuz?</string>
+  <string name="theme_batch_update_dlg_title">Güncelle</string>
+  <string name="theme_batch_updating_text">%1$d güncelleme tamamlandı</string> 
   <string name="theme_changed_failed_message"> %1$s Teması uygulanamadı!</string>
   <string name="theme_changed_message"> %1$s Tema başarıyla uygulandı.</string>
   <string name="theme_changing_dialog_title">Tema uygulanırken bekleyin...</string>
@@ -151,6 +158,7 @@
   <string name="theme_import_item_delete_request_content">Paket güncellenemedi, tekrar deneyin ya da paketi silin.</string>
   <string name="theme_import_item_delete_request_title">Tema güncel değil</string>
   <string name="theme_import_item_importing">Güncelleniyor..</string>
+   <string name="theme_import_item_not_exist">Öğe mevcut değil!</string>
   <string name="theme_import_item_not_upgraded">Güncel değil</string>
   <string name="theme_import_item_reject_use">Tema güncelleniyor, bekleyin.</string>
   <string name="theme_import_item_waiting">Bekleniyor...</string>
