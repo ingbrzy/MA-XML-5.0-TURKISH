@@ -22,7 +22,7 @@
     <string name="button_cancel_download">İptal</string>
     <string name="button_start_now">Başlat</string>
     <string name="download_percent">%d %%</string>
-	<string name="dialog_insufficient_space_on_external">Harici depolamada yeterli alan yok</string>
+    <string name="dialog_insufficient_space_on_external">Harici depolamada yeterli alan yok</string>
     <string name="dialog_insufficient_space_on_cache">Dahili depolamada yeterli alan yok</string>
-    <string name="auto_restart_under_wifi">Dosyayı Wi-Fi otomatik olarak indir</string>
+    <string name="auto_restart_under_wifi">Dosyayı Wi-Fi ile otomatik olarak indir</string>
 </resources>
