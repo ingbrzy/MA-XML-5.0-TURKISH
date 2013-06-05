@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">% s dakika boyunca veri bağlantısı yok</item>
+        <item quantity="one">% s dakika boyunca veri bağlantısı yok</item>
+    </plurals>
+    <plurals name="alert_dialog_exit_ecm">
+        <item quantity="other">Telefon %s dakika boyunca acil arama modunda olacaktır. Artık ayrılmak istiyor musunuz?</item>
+        <item quantity="one">Telefon %s dakika boyunca acil arama modunda olacaktır. Artık ayrılmak istiyor musunuz?</item>
+    </plurals>
+    <plurals name="alert_dialog_not_avaialble_in_ecm">
+        <item quantity="other">Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
+        <item quantity="one">Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
+    </plurals>
+    <plurals name="numSelectedSimContacts">
+        <item quantity="other">" %1$d seçilen öğeler"</item>
+        <item quantity="zero">%1$d seçilen öğeler</item>
+        <item quantity="one">%1$d seçilen öğe</item>
+    </plurals>
+</resources>
