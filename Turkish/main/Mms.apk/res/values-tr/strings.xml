@@ -254,6 +254,7 @@
   <string name="open_keyboard_to_compose_message">Mesajı yazmak için klavyeyi açın</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
   <string name="phrase_from">%1s</string>
+  <string name="phrase_list_title" formatted="false">Şablonlar (%1$d)</string>
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="play">Yürüt</string>
   <string name="prefDefault_ringtone_repeat">1</string>

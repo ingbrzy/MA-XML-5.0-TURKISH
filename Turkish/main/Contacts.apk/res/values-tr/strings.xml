@@ -50,7 +50,8 @@
   <string name="caching_vcard_title">Önbelleğe alınıyor</string>
   <string name="callAgain">Tekrar Ara</string>
   <string name="callBack">Geri ara</string>
-  <string name="callDetailTitle">Çağrı ayrıntıları</string>  
+  <string name="callDetailTitle">Çağrı ayrıntıları</string> 
+  <string name="callDetailsDurationFormat" formatted="false">%s dak %s san</string>  
   <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
   <string name="call_assistant">Çağrı %s</string>
   <string name="call_callback">Çağrı yap (geri arama)</string>
@@ -326,6 +327,7 @@
   <string name="exporting_contact_failed_message">"Rehber aktarılamadı. Sebep: \"%s\""</string>
   <string name="exporting_contact_failed_title">Dışa aktarılamadı</string>
   <string name="exporting_contact_list_message">Rehber aktarılıyor: %s.</string>
+  <string name="exporting_contact_list_progress" formatted="false">%s de %s kişi</string>
   <string name="exporting_contact_list_title">Kişi verileri dışa aktarılıyor</string>
   <string name="exporting_vcard_finished_title">Aktarım tamamlandı %s.</string>
   <string name="external_profile_title"> %1$s profilim</string>
@@ -676,6 +678,7 @@ Favoriler listenize kişi eklemek için:
   <string name="private_num">Özel numara</string>
   <string name="processing">İşlem yapılıyor...</string>
   <string name="profile_display_name">Profilimi ayarla</string>
+  <string name="progress_notifier_message" formatted="false">İçe aktarılıyor %s/%s: %s</string>
   <string name="quickcontact_missing_app">Bu işlemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="quit_dialog_confirm_title">Kişi birleştirmeden çıkmak istediğinize emin misiniz?</string>
   <string name="readOnlyContactDeleteConfirmation">Bu kişi birden fazla hesaptan bilgiler içeriyor. Salt okunur hesaplardaki bilgiler silinmez, kişiler listelerinizde gizlenir.</string>

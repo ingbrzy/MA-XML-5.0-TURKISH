@@ -103,6 +103,8 @@
   <string name="ftp_transfer_secure">Güvenli FTP transferi</string>
   <string name="ftp_username_and_passworld">Kullanıcı adı ve şifre</string>
   <string name="ftp_username_hint">Kullanıcı adı</string>
+  <string name="garbage_item_name_format" formatted="false">%s ( %s )</string>
+  <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s
 Artık dosya"</string>
   <string name="gbk_summary">Eğer GBK kodlama kullanıyorsanız, Windows Gezgininde bozuk Çince metinleri önlemek için bu kodlamayı tip seçin</string>
