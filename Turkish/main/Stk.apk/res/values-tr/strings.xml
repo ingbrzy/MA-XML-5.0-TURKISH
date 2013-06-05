@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="alphabet">Alfabe</string>
+    <string name="app_name">SIM Araç Kiti</string>
+    <string name="app_name2">SIM Araç Kiti2</string>
+    <string name="button_cancel">İptal</string>
+    <string name="button_no">Hayır</string>
+    <string name="button_ok">Tamam</string>
+    <string name="button_yes">Evet</string>
+    <string name="default_call_setup_msg">Çağrı devam ediyor...</string>
+    <string name="default_close_channel_msg">Kanal kapatıldı</string>
+    <string name="default_open_channel_msg">Kanal açılsın mı?</string>
+    <string name="default_receive_data_msg">Veri alma</string>
+    <string name="default_send_data_msg">Veri gönderme</string>
+    <string name="default_setup_call_msg">Çağrı ayarları</string>
+    <string name="digits">Rakamlar (0-9, *, #, +)</string>
+    <string name="disable_app">Kapalı</string>  
+    <string name="enable_app">Açık</string>
+    <string name="help">Yardım</string>
+    <string name="menu_back">Geri</string>
+    <string name="menu_end_session">Oturumu kapat</string>
+    <string name="service_name">Hizmet adı</string>
+    <string name="stk_app_state">Uygulama durumu</string>   
+    <string name="stk_dialog_accept">EVET</string>
+    <string name="stk_dialog_reject">HAYIR</string>
+    <string name="stk_dialog_title">SIM Araç Kiti</string>
+    <string name="stk_no_service">Servis Yok</string>
+</resources> 
