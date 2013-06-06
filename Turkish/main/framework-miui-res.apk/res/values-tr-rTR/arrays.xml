@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mobile_operator_display_names">
+        <item>TURKCELL TR</item>
+        <item>VODAFONE TR</item>
+        <item>AVEA TR</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_values">
+        <item>28601</item>
+        <item>28602</item>
+        <item>28603</item>
+    </string-array>
+    <string-array name="mobile_operator_numeric_equivalencies">
+        <item>28601</item>
+        <item>28602</item>
+        <item>28603</item>
+    </string-array>
+    <string-array name="alarm_in_future">
+        <item>Bir dakikadan daha az</item>
+        <item>Yaklaşık %1$s</item>
+        <item>Yaklaşık %2$s</item>
+        <item>Yaklaşık %1$s %2$s</item>
+        <item>Yaklaşık %3$s</item>
+        <item>Yaklaşık %1$s %3$s</item>
+        <item>Yaklaşık %2$s %3$s</item>
+        <item>Yaklaşık %1$s %2$s %3$s</item>
+    </string-array>
+	<string-array name="contact_entries">
+        <item>Adı</item>
+        <item>Takma Adı</item>
+        <item>Telefon</item>
+        <item>E-posta</item>
+        <item>Şirketi</item>
+        <item>Sohbet</item>
+        <item>SIP</item>
+        <item>Doğum Tarihi</item>
+        <item>Web</item>
+        <item>Adresi</item>
+        <item>Not</item>
+    </string-array>
+</resources>
