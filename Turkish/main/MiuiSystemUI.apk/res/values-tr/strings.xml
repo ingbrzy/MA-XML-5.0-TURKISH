@@ -60,7 +60,7 @@
   <string name="app_label">Sistem Arayüzü</string>
   <string name="battery_low_percent_format">%d%% kaldı</string>
   <string name="battery_low_subtitle">Pil azalıyor !</string>
-  <string name="battery_low_title">Şarj cihazını bağla</string>
+  <string name="battery_low_title">Şarj cihazını bağlayın!</string>
   <string name="battery_low_why">Pil kullanımı</string>
   <string name="bluetooth_tethered">Bluetooth paylaşımı tamam</string>
   <string name="call_status_dialing">Aranıyor..</string>
@@ -85,7 +85,7 @@
   <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
   <string name="data_usage_disabled_dialog">"Belirtilen veri kullanım limitine ulaştınız. 
 
-Verileri yeniden etkinleştirirseniz, operatör sizden ücret talep edebilir."</string>
+Verileri yeniden etkinleştirirseniz, operatör sizden ek ücret talep edebilir."</string>
   <string name="data_usage_disabled_dialog_3g_title">2G-3G verileri devre dışı bırakıldı</string>
   <string name="data_usage_disabled_dialog_4g_title">4G verileri devre dışı</string>
   <string name="data_usage_disabled_dialog_enable">Veriyi yeniden etkinleştir</string>
@@ -177,7 +177,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="settings_notification_icon">Durum çubuğundaki bildirimler</string>
   <string name="settings_screenshot_notification_disabled">Ekran görüntüsü</string>
   <string name="settings_separator">,</string>
-  <string name="settings_show_flow_info">Trafik bilgilerini göster</string>
+  <string name="settings_show_flow_info">Trafik bilgisini göster</string>
   <string name="settings_show_network_speed">Ağ hızını göster</string>
   <string name="settings_toggle">Geçişler</string>
   <string name="settings_toggle_collapse_after_clicked">Tıklayınca kapat</string>
@@ -197,8 +197,8 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="status_bar_do_not_disturb_button">Rahatsız etmeyin</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarla</string>
   <string name="status_bar_latest_events_title">Bildirimler</string>
-  <string name="status_bar_network_flow">Bugün: %1$s Kalan: %2$s Uyg: %3$s</string>
-  <string name="status_bar_network_flow_exceed">"Bugün: %1$s | Aşılan: %2$s  |  Uyg: %3$s"</string>
+  <string name="status_bar_network_flow">Bugün: %1$s Kalan: %2$s Kota: %3$s</string>
+  <string name="status_bar_network_flow_exceed">"Bugün: %1$s | Aşılan: %2$s  |  Kota: %3$s"</string>
   <string name="status_bar_network_flow_today">Bugün:%1$s</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_notifications_title">Bildirim yok</string>
@@ -262,7 +262,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="tab_notifications_lable">Bildirimler</string>
   <string name="tab_toggles_lable">Geçişler</string>
   <string name="title_usb_accessory">USB aksesuarı</string>
-  <string name="toast_rotation_locked">Ekran manzara modunda</string>
+  <string name="toast_rotation_locked">Ekran manzara moduna kilitlendi</string>
   <string name="to_vibrate_settings">Titreşim ayarları</string>
   <string name="torch_activity_hint">Elfenerini [icon] \'a basılı tutarak aç</string>
   <string name="torch_activity_name">El feneri</string>
@@ -272,7 +272,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="usb_debugging_always">Bu PC\'ye her zaman izin ver</string>
   <string name="usb_debugging_message">"RSA Anahtarı: %1$s"</string>
   <string name="usb_debugging_title">USB hata ayıklama atkinleştirilsin mi?</string>  
-  <string name="usb_device_confirm_prompt">Bu USB cihaz bağlandığında %1$s açılsın mı?</string>
+  <string name="usb_device_confirm_prompt">USB cihaz bağlandığında %1$s açılsın mı?</string>
   <string name="usb_device_permission_prompt">%1$s uygulamasının USB cihazına erişmesine izin verilsin mi?</string>
   <string name="usb_mode_dont_ask">"Tekrar sorma"</string>
   <string name="usb_mode_mount_storage_title">USB depolama açılsın mı?</string>
@@ -287,7 +287,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="usb_ptp_text">Fotolar</string>
   <string name="usb_storage_error_message">SD kart için USB kullanımında sorun var!</string>
   <string name="usb_storage_message">USB kablo ile bağlandı. SD karttan veri aktarımın yapılabilir.</string>
-  <string name="usb_storage_notification_message">Kopyalanacak dosyaları seç</string>
+  <string name="usb_storage_notification_message">Kopyalanacak dosyaları seçin</string>
   <string name="usb_storage_notification_title">USB bağlandı</string>
   <string name="usb_storage_stop_message"> USB depolamayı kaldırmadan önce telefonunuzu PCden güvenli kaldır ile ayırın(“ejected”).</string>
   <string name="usb_storage_stop_notification_message">USb depolamayı seç</string>
