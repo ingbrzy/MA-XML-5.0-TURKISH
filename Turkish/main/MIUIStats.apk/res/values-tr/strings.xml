@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">MIUI Raporlama</string>
+    <string name="main_title">Anonim Kullanım Verileri</string>
+    <string name="main_desc">Bu uygulama, sizin MIUI yüklemelerinize dair, MIUI Android geliştiricilerine yardımcı olacak bilgileri toplamalarına imkan sağlar. Gönderilen veriler hiçbir şekilde gizliliğinizi tehlikeye atmaz ve cihaz veya sürüm bilgilerini açıklamayacak benzersiz bir tanımlayıcı içerir.	Veriler, telefon her başladığında gönderilir. Gönderilen veri örneğine bakmak için Verileri Önizle\'i tıklayın.</string>
+    <string name="main_optin">Raporlamayı etkinleştir</string>
+    <string name="main_btn_preview">Verileri Önizle</string>
+    <string name="main_btn_save">Tercihleri Kaydet</string>
+    <string name="main_show_stats">Raporlara Bak</string>
+    <string name="preview_title">Veri Gönderim Önizlemesi</string>
+    <string name="preview_id_lbl">Benzersiz Kimlik</string>
+    <string name="preview_device_lbl">Aygıt</string>
+    <string name="preview_version_lbl">Sürüm</string>
+    <string name="preview_done_btn">Tamam</string>
+    <string name="preview_country_lbl">Ülke</string>
+    <string name="preview_carrier_lbl">Şebeke</string>
+    <string name="notification_ticker">Kayıtlı raporlar</string>
+    <string name="notification_title">MIUI raporları</string>
+    <string name="notification_desc">Anonim raporları etkinleştir veya kapat</string>
+    <string name="main_link">&lt;a href=http://stats.miuiandroid.com//>Daha fazla bilgi&lt;/a></string>
+</resources>
