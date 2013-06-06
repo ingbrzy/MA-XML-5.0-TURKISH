@@ -156,7 +156,7 @@
   <string name="HIPS_SecurityPrompt_Caption">Güvenlik Uyarısı !</string>
   <string name="HIPS_SecurityPrompt_Next">Sonraki</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Önemli Uyarı !</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s uyhulamaya ROOT yetkisi verilsin mi?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s uygulamasına ROOT yetkisi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT Yetkileri sistem kararlılığını bozabilir!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Hesaplarınızı, şifrelerinizi, mesajlarınızı, gizliliğinizi ve verileri tehlikeye atabilir!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Donanımlara kalıcı zararlar verebilir!</string>
@@ -164,7 +164,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step6"> %1$s uygulamasına ROOT yetkisi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_Reject">Reddedildi(%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Seçimi Hatırla</string>
-  <string name="HIPS_SecurityPrompt_Title">%1$s deniyor %2$s</string>
+  <string name="HIPS_SecurityPrompt_Title">%1$s deneniyor %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d yetkiler</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d yetkiler - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Bitti</string>
