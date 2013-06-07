@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="about">Hakkında</string>
+  <string name="adjust_no_network_update_data_fail">Veri güncelleme başarısız, ağ bağlantılarını kontrol edin ve tekrar deneyin.</string> 
   <string name="adjust_traffic_auto_adjust_hint">Sistem sorular ve operatörleri düzenli olarak veri ayarlar. Operatör bilgsinii ayarlamanız gerekir</string>
   <string name="adjust_traffic_auto_adjust_open_hint">Otomatik ayar etkinleştirildiğinde, trafik verileri düzenli olarak otomatik ayarlanır</string>
   <string name="adjust_traffic_auto_adjust_title">Oto trafiği ayarla</string>

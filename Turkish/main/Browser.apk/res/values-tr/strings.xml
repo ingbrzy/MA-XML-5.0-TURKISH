@@ -63,6 +63,7 @@
   <string name="block">Engelle</string>
   <string name="bookmark_add_to">Ekle</string>
   <string name="bookmark_cannot_save_url">Bu URL yer işareti olarak eklenemez.</string>
+  <string name="bookmarks_content_is_null">Yer imi yok</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Favorinin bir adı olmalıdır.</string>
   <string name="bookmark_needs_url">Favorinin bir konumu olmalıdır.</string>
@@ -74,8 +75,8 @@
   <string name="bookmark_title">Başlık</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">Bu URL geçersiz.</string>
-  <string name="bookmarks">Favoriler</string>
-  <string name="bookmarks_management">Favoriler</string>
+  <string name="bookmarks">Yer imleri</string>
+  <string name="bookmarks_management">Yer imleri</string>
   <string name="bookmarks_root_folder">Ana klasör</string>
   <string name="bookmarks_search">Tarayıcı</string>
   <string name="browserFrameFileErrorLabel">Dosya sorunu</string>
@@ -90,6 +91,7 @@
   <string name="choosertitle_sharevia">Şunu kullanarak paylaş:</string>
   <string name="clear">Temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
+  <string name="clear_history_group">Geçmişi temizle</string>
   <string name="close_all_tab_alert_message">Tüm kartları kapatmak istediğinizden emin misiniz?</string>
   <string name="close_all_tab_alert_title">Tüm kartları kapat</string>
   <string name="containing_folder">Şu klasöre ekle</string>
@@ -146,8 +148,13 @@
   <string name="export_bookmark_failure">Yerimlerini dışarı aktarma başarısız!</string>
   <string name="export_bookmark_sucess">Yerimleri başarıyla SD karta çıkarıldı!</string>
   <string name="exported_bookmark_file_name">Favorilerim</string>
+  <string name="file_dir">Klasör</string>
+  <string name="file_name">Dosya adı</string>
+  <string name="file_picker">Yolu seç</string> 
   <string name="file_picker_new_folder">Yeni Klasör</string>
   <string name="file_picker_sdcard_not_found">SD kart bulunamadı, lütfen kontrol ediniz</string>
+  <string name="filename_empty_alert_message">"Dosya adı boş olamaz"</string>
+  <string name="filename_illegal_alert_message">Dosya adı geçersiz karakterler içeriyor, dosya otomatik olarak kaldırıldı.</string> 
   <string name="folder_name">Klasör ismi</string>
   <string name="forward">İleri</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
@@ -166,6 +173,10 @@
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Git</string>
   <string name="history">Geçmiş</string>
+  <string name="history_browsed">Tarama geçmişi</string>
+  <string name="history_most_visited">En çok ziyaret edilenler</string>
+  <string name="history_saved_webpage">Web sayfasını kaydet</string>
+  <string name="history_track">Geçmiş</string> 
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Ana sayfa ayarlandı.</string>
   <string name="http">http://</string>
@@ -227,6 +238,8 @@
   <string name="open_all_bookmarks">Tümünü aç</string>
   <string name="open_all_in_new_window">Tümünü yeni sekmelerde aç</string>
   <string name="open_bookmark">Aç</string>
+  <string name="open_history_group_in_new_window">Tüm geçmiş öğelerini yeni pencerede aç</string>
+  <string name="open_history_most_visited_group_in_new_window">Tüm sık ziyaret edilen sayfaları aç</string> 
   <string name="page_info">Sayfa bilgileri</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Sayfa bilgilerini görüntüle</string>
@@ -336,6 +349,7 @@
   <string name="pref_privacy_clear_geolocation_access_summary">Tüm web siteleri için konum erişimini temizle</string>
   <string name="pref_privacy_clear_history">Geçmişi temizle</string>
   <string name="pref_privacy_clear_history_dlg">Tarayıcı gezinme geçmişi silinsin mi?</string>
+  <string name="pref_privacy_clear_history_by_group_dlg">Tarama geçmişinizi silmek istiyor musunuz?</string> 
   <string name="pref_privacy_clear_history_summary">Tarayıcı gezinme geçmişini temizle</string>
   <string name="pref_privacy_clear_passwords">Şifreleri temizle</string>
   <string name="pref_privacy_clear_passwords_dlg">Tüm kayıtlı şifreler silinsin mi?</string>
@@ -370,6 +384,7 @@
   <string name="pref_zoom_on_double_tap">Hafifçe çift vurulduğunda yakınlaştır</string>
   <string name="preview">Önizleme</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
+  <string name="quicklinks_management">Hızlı linkler</string> 
   <string name="recover">Recover</string>
   <string name="recover_from_crash">Tarayıcının son oturumu ile devam et</string>
   <string name="reload">Yenile</string>
@@ -383,7 +398,11 @@
   <string name="report_reading_mode_issue">Okuma modu hatasını rapor et</string>
   <string name="rlz_access_point">Y1</string>
   <string name="save">Tamam</string>
+  <string name="save_dialog_title">Kaydet</string>
+  <string name="save_file_already_exist_alert_message">Dosya zaten var, üzerine yazılsın mı?</string>
+  <string name="save_file_already_exist_alert_title">Dosya var!</string> 
   <string name="save_to_bookmarks">Yer işaretlerine kaydet</string>
+  <string name="search_139">Search 139</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Git</string>
@@ -416,6 +435,9 @@
   <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikasında sorunlar var.</string>
   <string name="stop">Durdur</string>
   <string name="stopping">Durduruluyor...</string>
+  <string name="storage_internal">Dahili depolama</string>
+  <string name="storage_sd_card">SD kart</string>
+  <string name="storage_usb">USB depolama</string> 
   <string name="tab_bookmarks">Favoriler</string>
   <string name="tab_closed">Sekme kapatıldı.</string>
   <string name="tab_history">Geçmiş</string>
