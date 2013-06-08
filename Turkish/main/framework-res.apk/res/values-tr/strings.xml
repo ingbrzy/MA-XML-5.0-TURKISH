@@ -947,9 +947,9 @@ Kapatmak ister misiniz?"</string>
     <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
     <string name="smv_process">%1$s işlemi kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
     <string name="android_upgrading_title">Android yeni sürüme geçiriliyor...</string>
-    <string name="android_upgrading_apk">%1$d/%2$d uygulama optimize ediliyor, bekleyin.</string>
+    <string name="android_upgrading_apk">Uygulamalar optimize ediliyor %1$d/%2$d </string>
     <string name="android_upgrading_starting_apps">Uygulamalar başlatılıyor</string>
-    <string name="android_upgrading_complete">Açılış tamamlanıyor.</string>
+    <string name="android_upgrading_complete">Açılış tamamlanıyor</string>
     <string name="heavy_weight_notification">%1$s çalışıyor</string>
     <string name="heavy_weight_notification_detail">Uygulamaya geçiş yapmak için dokunun</string>
     <string name="heavy_weight_switcher_title">Uygulama değiştirilsin mi?</string>

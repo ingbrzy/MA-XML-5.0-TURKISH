@@ -86,7 +86,7 @@
   <string name="calllog_menu_send_sms">İleti gönder</string>
   <string name="callrecordview_item_newcontact">Yeni kişi</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d dak %2$d san</string>
-  <string name="callrecordview_item_op_time_missed">Bağlı değil</string>
+  <string name="callrecordview_item_op_time_missed">Bağlanmadı</string>
   <string name="callrecordview_item_op_time_only_minutes">%d dak</string>
   <string name="callrecordview_item_op_time_only_seconds">%d san</string>
   <string name="callrecordview_item_op_time_rejected">Reddedilmiş aramalar</string>
@@ -127,7 +127,7 @@
   <string name="chat_qq">QQ kullanarak sohbet et</string>
   <string name="chat_skype">Skype kullanarak sohbet et</string>
   <string name="chat_yahoo">Yahoo kullanarak sohbet et</string>
-  <string name="check_unsynchronized_accounts">Senkronize etmeme sıklığını kontrol edin</string>
+  <string name="check_unsynchronized_accounts">Senkronize etme sıklığı</string>
   <string name="checkhint">Diğer telefonu kontrol et</string>
   <string name="clearCallLogConfirmation">Tüm çağrı günlükleriniz silinecek.</string>
   <string name="clearCallLogConfirmation_title">Çağrı günlüğünü sil?</string>
@@ -290,7 +290,7 @@
   <string name="dirty_contacts_notification_title">Senkronize edilsin mi?</string>
   <string name="display_all_contacts">Tüm kişiler</string>
   <string name="display_more_groups">Diğer gruplar...</string>
-  <string name="display_only_phones">Sadece telefon numarası olan kişileri göster</string>
+  <string name="display_only_phones">Sadece telefon numarası olan kişiler</string>
   <string name="display_options_sort_by_family_name">Soyadı</string>
   <string name="display_options_sort_by_given_name">Adı</string>
   <string name="display_options_sort_list_by">Listeyi şu ölçüte göre sırala:</string>

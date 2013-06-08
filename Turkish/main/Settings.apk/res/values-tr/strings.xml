@@ -261,7 +261,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="battery_info_voltage_label">Pil voltajı:</string>
   <string name="battery_info_voltage_units">mV</string>
   <string name="battery_level_title">Pil düzeyi</string>
-  <string name="battery_settings">Pil</string>
+  <string name="battery_settings">Pil Bilgileri</string>
   <string name="battery_settings_title">Pil Seçenekleri</string>
   <string name="battery_since_reset">Sıfırlamadan itibaren pil kullanımı</string>
   <string name="battery_since_unplugged">Fişten çekildikten sonra pil kullanımı</string>
@@ -275,7 +275,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="battery_stats_wake_lock_label">Uyanık</string>
   <string name="battery_stats_wifi_running_label">Kablosuz</string>
   <string name="battery_status_title">Pil durumu</string>
-  <string name="battery_sugg_apps_gps">"Uygulamanın kullanmasını önlemek için GPS'yi el ile denetle"</string>
+  <string name="battery_sugg_apps_gps">"Uygulamanın kullanmasını önlemek için GPS\'i el ile denetle"</string>
   <string name="battery_sugg_apps_info">Uygulamayı durdur veya yüklemesini kaldır</string>
   <string name="battery_sugg_apps_settings">Uygulama, pil kullanımını azaltmak için ayarlar önerebilir</string>
   <string name="battery_sugg_bluetooth_basic">"Bluetooth'u kullanmadığınız zamanlarda kapatın"</string>
@@ -696,7 +696,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="dirac_mode_earphones">Earphones</string>
   <string name="dirac_mode_off">Dirac Off</string> 
   <string name="disableNetwork">ŞebekeyiKapat</string>
-  <string name="disable_overlays">Donanım bindirmelerini devre dışı bırak</string>
+  <string name="disable_overlays">Donanım bindirmelerini kapat</string>
   <string name="disable_overlays_summary">Ekran kompozisyon için GPU kullanımı</string>
   <string name="disable_power_key_long_press_under_keyguard">Kilit ekranında devre dışı bırak</string>
   <string name="disable_text">Devre dışı bırak</string>
@@ -788,7 +788,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="enable_compatibility">Uygulamayı ölçeklendir</string>
     <string name="enable_drive_mode">Sürüş modunu etkinleştir</string>
 	<string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
-  <string name="enable_snapshot_screenlock">Geri tuşuna il ekran önizlemesi alın</string>
+  <string name="enable_snapshot_screenlock">Geri tuşu ile ekran önizlemesi al</string>
   <string name="enable_text">Etkinleştir</string>
   <string name="enable_traces_dialog_title">Etkinleştirilecek izleri seç</string>
   <string name="enable_traces_summary_all">Tüm izler etkin</string>
@@ -978,7 +978,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="led_colors_summary">Bildirim LED rengi</string>
   <string name="led_frequence_summary">LED parlamaları arası süre</string>
   <string name="led_pulse_summary">Bildirimlerde LED ışığı yanıp sönsün</string>
-  <string name="led_settings">LED</string>
+  <string name="led_settings">LED Ayarları</string>
   <string name="legal_information">Yasal bilgiler</string>
   <string name="license_title">Lisans</string>
   <string name="link_speed_label">Link hızı:</string>
