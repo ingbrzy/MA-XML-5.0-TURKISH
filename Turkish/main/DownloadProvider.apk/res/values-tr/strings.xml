@@ -17,8 +17,8 @@
 
  %s（%s）
 
- Bu dosyayı indirme işlemi, önemli ölçüde mobil internet ücretlerini artırabilir"</string>
-    <string name="button_queue_for_wifi">Liste</string>
+ Bu dosyayı indirme işlemi, mobil internet ücretlerini önemli ölçüde artırabilir"</string>
+    <string name="button_queue_for_wifi">Listeye Al</string>
     <string name="button_cancel_download">İptal</string>
     <string name="button_start_now">Başlat</string>
     <string name="download_percent">%d %%</string>

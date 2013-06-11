@@ -808,7 +808,7 @@
     <string name="factorytest_failed">Fabrika testi yapılamadı</string>
     <string name="factorytest_not_system">FACTORY_TEST işlemi yalnızca /system/app dizinine yüklenmiş paketler için desteklenir.</string>
     <string name="factorytest_no_action">FACTORY_TEST işlemini sağlayan hiçbir paket bulunamadı.</string>
-    <string name="factorytest_reboot">Yeniden başlat</string>
+    <string name="factorytest_reboot">Tekrar başlat</string>
     <string name="js_dialog_title">\"%s\" adresindeki sayfada şunlar belirtiliyor:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Bu sayfadan ayrılıyor musunuz?
@@ -1004,7 +1004,7 @@ Kapatmak ister misiniz?"</string>
     <string name="sim_done_button">Tamamlandı</string>
     <string name="sim_added_title">SIM kart eklendi</string>
     <string name="sim_added_message">Mobil ağa erişmek için cihazınızı yeniden başlatın.</string>
-    <string name="sim_restart_button">Yeniden başlat</string>
+    <string name="sim_restart_button">Tekrar başlat</string>
     <string name="time_picker_dialog_title">Saati ayarlayın</string>
     <string name="date_picker_dialog_title">Tarihi ayarlayın</string>
     <string name="date_time_set">Ayarla</string>

@@ -65,7 +65,7 @@
   <string name="confirm_delete_items">%s öğe</string>
   <string name="confirm_delete_pictures">%s resim</string>
   <string name="confirm_delete_system_album">%s sistem albümü, Silmek istiyor musunuz?</string>
-  <string name="confirm_delete_videos">%s vidyolar</string>
+  <string name="confirm_delete_videos">%s videolar</string>
   <string name="contact_photo">Rehber fotosu</string>
   <string name="context_menu_add_contact">Rehbere ekle</string>
   <string name="context_menu_copy">Kopyala</string>
@@ -86,7 +86,7 @@
   <string name="delete">Sil</string>
   <string name="delete_fail_too_many_items">Silme işlemi başarısız, çok fazla öğe seçilmiş!</string>
   <string name="deleting_files">Dosyalar siliniyor...</string>
-  <string name="demo_video_folder_display_name">Demo Vidyo</string>
+  <string name="demo_video_folder_display_name">Demo video</string>
   <string name="description">Tanımlama</string>
   <string name="details">Detaylar</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
@@ -101,9 +101,9 @@
   <string name="edit">Düzenle</string>
   <string name="edited_photo_bucket_name">Düzenlendi</string>
   <string name="email_picker_title">Paylaşılan E-posta ekle</string>
-  <string name="empty_album">O resim/vidyo kullanılabilir.</string>
+  <string name="empty_album">O resim/video kullanılabilir.</string>
   <string name="error_should_not_select_image">Uyarı: lütfen resim dosyası seçmeyin.</string>
-  <string name="error_should_not_select_video">Uyarı: lütfen vidyo dosyası seçmeyin.</string>
+  <string name="error_should_not_select_video">Uyarı: lütfen video dosyası seçmeyin.</string>
   <string name="exit_share">Albümden çık</string>
   <string name="exit_share_failed">%1$s albümünden çıkma başarısız</string>
   <string name="exit_share_in_process">Tekrar çıkmayı deniyor...</string>
@@ -144,7 +144,7 @@
   <string name="home_my_captured_items">toplam foto</string>
   <string name="how_many_pics">%d foto</string>
   <string name="how_many_sub_folders">%d klasör</string>
-  <string name="how_many_videos">%d Vidyo</string>
+  <string name="how_many_videos">%d Video</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="import_complete">İçe aktarım tamamlandı</string>
   <string name="import_fail">İçe aktarma başarısız!</string>
@@ -246,7 +246,7 @@
   <string name="select_all">Tümünü seç</string>
   <string name="select_image">Fotoyu seç</string>
   <string name="select_item">Öğeyi seç</string>
-  <string name="select_video">Vidyoyu seç</string>
+  <string name="select_video">Videoyu seç</string>
   <string name="send">Gönder</string>
   <string name="send_multiple_files_hint_format">Birden fazla dosya gönder (%s)</string>
   <string name="send_to_cloud_failed_message">Öğe Cloud albümüne gönderilemedi!</string>
@@ -276,12 +276,12 @@
   <string name="sharer_status_waiting">Bekliyor</string>
   <string name="sharer_status_waitting">Bekliyor</string>
   <string name="sharpen">Keskinlik</string>
-  <string name="show_all">Resim ve Vidyolar</string>
+  <string name="show_all">Resim ve Videolar</string>
   <string name="show_hidden_album">Gizli albümleri göster</string>
   <string name="show_hidden_albums">Gizli albümleri göster</string>
   <string name="show_images_only">Sadece resimler</string>
   <string name="show_on_map">Haritada göster</string>
-  <string name="show_videos_only">Sadece vidyolar</string>
+  <string name="show_videos_only">Sadece Videolar</string>
   <string name="size_above">%1$s veya üzeri</string>
   <string name="size_below">%1$s veya altı</string>
   <string name="size_between">%1$s to %2$s</string>
@@ -316,7 +316,7 @@
   <string name="turn_right">Sağa döndür</string>
   <string name="unit_mm">mm</string>
   <string name="untagged">Etiketsiz</string>
-  <string name="video_err">"Vidyo oynatılamıyor!"</string>
+  <string name="video_err">"Video oynatılamıyor!"</string>
   <string name="vignette">Skeç</string>
   <string name="wallpaper">Duvarkağıdı</string>
   <string name="warn">Uyarı</string>

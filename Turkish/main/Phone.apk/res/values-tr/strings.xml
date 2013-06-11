@@ -150,8 +150,8 @@
   <string name="call_recording_notification_summary_miui">Çağrı ses kaydı tamamlanınca durum çubuğunda göster</string>
   <string name="call_recording_notification_title_miui">Çağrı ses kaydı bildirimi</string>
   <string name="call_recording_prompt_miui">Çağrı ses kaydını aç</string>
-  <string name="call_settings">Diğer Ayarları</string>
-  <string name="call_settings_category_miui">Diğer Ayarları</string>
+  <string name="call_settings">Diğer Ayarlar</string>
+  <string name="call_settings_category_miui">Diğer Ayarlar</string>
   <string name="call_settings_miui">Diğer Ayarlar</string>
   <string name="call_title_redialing_with_times_miui">Tekrar arama süresi %d</string>
   <string name="call_waiting_sum_miui">Çağrı esnasında gelen aramayı göster</string>

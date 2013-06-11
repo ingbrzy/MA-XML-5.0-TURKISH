@@ -213,8 +213,8 @@
   <string name="location">Adres</string>
   <string name="manage_feature_permissions">İzinleri Yönet</string>
   <string name="max_tabs_warning">Kullanılabilir başka sekme yok</string>
-  <string name="menu_disable_night_mode">Gece modu devre dışı</string>
-  <string name="menu_enable_night_mode">Gece modu devrede</string>
+  <string name="menu_disable_night_mode">Gece modunu kapat</string>
+  <string name="menu_enable_night_mode">Gece modunu aç</string>
   <string name="menu_exit">Çıkış</string>
   <string name="menu_preferences">Ayarlar</string>
   <string name="menu_save_snapshot">Çevrimdışı okuma için kaydet</string>
@@ -311,9 +311,9 @@
   <string name="pref_extras_title">Gelişmiş</string>
   <string name="pref_extras_website_settings">Web sitesi ayarları</string>
   <string name="pref_extras_website_settings_summary">Her web sitesi için ayrı düzenlenebilen gelişmiş ayarlar</string>
-  <string name="pref_fling_on_border_enabled">Fling on border</string>
+  <string name="pref_fling_on_border_enabled">Ekran kenarından kaydır</string>
   <string name="pref_fling_on_border_enabled_title_summary">Ekranın kenarında parmağınızı hareket ettirin</string> 
-  <string name="pref_fling_on_border_operation">Operation for fling on border</string>
+  <string name="pref_fling_on_border_operation">Ekran kenarından kaydırma işlemi</string>
   <string name="pref_font_size_category">Metin boyutu</string>
   <string name="pref_force_userscalable">Yakınlaştırmayı etkinleştirmeye zorla</string>
   <string name="pref_force_userscalable_summary">Web sitesinin yakınlaştırmayı denetleme isteğini geçersiz kıl</string>
@@ -385,7 +385,7 @@
   <string name="preview">Önizleme</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="quicklinks_management">Hızlı linkler</string> 
-  <string name="recover">Recover</string>
+  <string name="recover">Kurtar</string>
   <string name="recover_from_crash">Tarayıcının son oturumu ile devam et</string>
   <string name="reload">Yenile</string>
   <string name="remove">Kaldır</string>
