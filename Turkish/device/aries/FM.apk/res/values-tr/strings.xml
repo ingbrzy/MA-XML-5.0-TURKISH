@@ -107,7 +107,7 @@
   <string name="station_edit">Düzenle</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Taşı</string>
-  <string name="station_name_already_used">Bu kanala ismi zaten kullanılıyor. Başka bir isim yazın</string>
+  <string name="station_name_already_used">Bu kanal ismi zaten kullanılıyor. Başka bir isim yazın</string>
   <string name="stations_list">Kanal listesi</string>
   <string name="stations_list_empty">Kanal listesi boş</string>
   <string name="status_recording">%s</string>
