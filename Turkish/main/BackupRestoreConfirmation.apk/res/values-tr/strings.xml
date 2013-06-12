@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="backup_confirm_title">Tam yedekleme</string>
+    <string name="restore_confirm_title">Tam geri yükleme</string>
+    <string name="backup_confirm_text">"Tüm verilerinizi bağlı olan bilgisayara yedeklemek istiyor musunuz?"</string>
+    <string name="allow_backup_button_label">Verileri yedekleyin</string>
+    <string name="deny_backup_button_label">Yedekleme yapma</string>
+    <string name="restore_confirm_text">"Bağlı olan bilgisayardan herhangi bir veriyi geri yüklemek istiyor musunuz?"</string>
+    <string name="allow_restore_button_label">Verileri geri yükle</string>
+    <string name="deny_restore_button_label">Geri Yükleme</string>
+    <string name="current_password_text">Yedekleme için bir parola girin:</string>
+    <string name="device_encryption_restore_text">Cihaz parolası girin</string>
+    <string name="device_encryption_backup_text">Cihaz parolası girin. Ayrıca, yedeklemeyi şifrelemek için kullanılır.</string>
+    <string name="backup_enc_password_text">Tam veri yedeklemeyi şifrelemek için şifrenizi girin:</string>
+    <string name="backup_enc_password_optional">Tam yedeklemeyi kodlamak isterseniz, parolayı yazın:</string>
+    <string name="restore_enc_password_text">Bu veriler şifrelenmiş olup geri yüklenecektir, Varsa şifre girin:</string>
+    <string name="toast_backup_started">Yedekleniyor...</string>
+    <string name="toast_backup_ended">Yedekleme tamamlandı</string>
+    <string name="toast_restore_started">Geri yükleniyor...</string>
+    <string name="toast_restore_ended">Geri yükleme tamamlandı</string>
+    <string name="toast_timeout">Zaman aşımı</string>
+</resources>
