@@ -43,6 +43,7 @@ Yakınlaştırma sırasında, şunları yapabilirsiniz:
 Parmağınızı altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
 
 Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her yerde çalışır."</string>    
+   <string name="accessibility_screen_magnification_title">Yakınlaştırma hareketi</string>
   <string name="accessibility_script_injection_allowed">İzin Verildi</string>
   <string name="accessibility_script_injection_button_allow">İzin ver</string>
   <string name="accessibility_script_injection_button_disallow">İzin verme</string>
@@ -70,7 +71,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
     <string name="accessibility_toggle_large_text_preference_title">büyük yazı tipi</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Daha yakından güncelleyin.</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Oto ekran büyüteçi</string>
-    <string name="accessibility_toggle_screen_magnification_preference_title">Priblíženie obrazovky</string>
+    <string name="accessibility_toggle_screen_magnification_preference_title">Ekran yakınlaştırması</string>
     <string name="accessibility_toggle_script_injection_preference_title">Siteye kolay erişim</string>
     <string name="accessibility_toggle_speak_password_preference_title">konuşma şifreleri</string>
   <string name="account_settings">Hesaplar</string>

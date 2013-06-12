@@ -301,6 +301,7 @@
   <string name="default_contacts_countrycode_hint_miui">Örneğin: 90</string>
   <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
   <string name="default_contacts_countrycode_sum_miui">Kişinin ülke kodunu seçin</string>
+   <string name="default_notification_description">Varsayılan Zilsesi (%1$s)</string>
   <string name="default_port">5060</string>
   <string name="default_preference_summary">&lt;Ayarlanamadı&gt;</string>
   <string name="default_transport">UDP</string>
@@ -625,6 +626,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="not_connected_miui">Bağlanmadı!</string>
   <string name="not_voice_capable">Sesli çağrı desteklenmiyor</string>
   <string name="notification_action_end_call">Çağrıyı sonlandır</string>
+   <string name="notification_dialing">Arama</string>
   <string name="notification_incoming_call">Gelen çağrı</string>
   <string name="notification_missedCallTicker">Cevapsız çağrı %s</string>
   <string name="notification_missedCallTitle">Cevapsız çağrı</string>
