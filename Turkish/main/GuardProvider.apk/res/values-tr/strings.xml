@@ -1,7 +1,7 @@
-<?xml version='1.0' encoding='UTF-8'?>
+ï»¿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Jinshan Güvenlik Hizmetleri</string>
-  <string name="hello_world">Merhaba Dünya!</string>
+  <string name="app_name">Jinshan GÃ¼venlik Hizmetleri</string>
+  <string name="hello_world">Merhaba DÃ¼nya!</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="title_activity_main">Aktiviteler</string>
 </resources>
