@@ -66,7 +66,7 @@
   <string name="gadget_weather_loading">Hava Durumu bilgisi yok</string>
   <string name="gadget_weather_low_temp">Düşük Sıcaklık</string>
   <string name="gadget_weather_theme_type">Gadget tipi</string>
-  <string name="gadget_weather_time_format">MM/d EEE</string>
+  <string name="gadget_weather_time_format">dd.MM.yyyy</string>
   <string name="gadget_weather_title_14">Hava Durumu 1x4</string>
   <string name="gadget_weather_title_24">Hava Durumu 2x4</string>
   <string name="global_search_hint">Tıkla ve ara</string>
