@@ -40,6 +40,7 @@
   <string name="cleanup_complete">Temizleme başarılı</string>
   <string name="clear_cache">Verileri temizle</string>
   <string name="close">Kapat</string>
+  <string name="compress_fail">Zip dosyası oluşturulamadı, zaten var!</string>
   <string name="compress_message">Sıkıştır:</string>
   <string name="compress_title">Sıkıştır</string>
   <string name="confirm">TAMAM</string>
@@ -70,6 +71,8 @@
   <string name="dialog_type_text">Yazı</string>
   <string name="dialog_type_video">Video</string>
   <string name="directory_no_item">Boş klasör</string>
+  <string name="dlg_error_unmount_text">"USB depolama kaldırılamaz, tekrar deneyin!"</string> 
+  <string name="directory_info_divider">"  |  "</string> 
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">İndirme hatası!</string>
   <string name="download_link_completed">MiDrive ile %1$s paylaşıldı. Görmek için linke tıklayın: </string>
@@ -77,8 +80,10 @@
   <string name="empty_dir_cleanup_indication">%s artık dosya</string>
   <string name="empty_dir_title">Boş klasörler</string>
   <string name="enable_sd_card">SD kart kullanılabilir değil, önce kartı bağlayın</string>
+  <string name="error_filename_too_long">Dosya adı çok uzun</string> 
   <string name="error_info_cant_send_folder">Klasör gönderilemiyor</string>
   <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı!</string> 
+  <string name="fail_to_create_folder_unknown">Bir klasör oluşturmak mümkün değildir</string> 
   <string name="fail_to_create_folder">Klasör oluşturulamıyor, zaten var!</string>
   <string name="fail_to_rename">Dosya yeniden adlandırılamıyor, zaten var!</string>
   <string name="favorite_photo">Foto</string>
@@ -93,6 +98,7 @@
   <string name="file_loading">Yükleniyor...</string>
   <string name="file_too_large">"Dosya çok büyük, gönderilemiyor!</string>
   <string name="finished">Tamamlandı</string>
+  <string name="folder_exist">Klasör zaten var</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Click here&lt;/a&gt;to open cloud recycle bin</string>
   <string name="ftp_account_req_notice">Kullanıcı adı ve şifre, 4~16 karakter, rakamlar, alfabe, küçük harfe duyarlı</string>
   <string name="ftp_anonymous_login">Anonim FTP</string>
@@ -110,13 +116,14 @@ Artık dosya"</string>
   <string name="gbk_summary">Eğer GBK kodlama kullanıyorsanız, Windows Gezgininde bozuk Çince metinleri önlemek için bu kodlamayı tip seçin</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Temizleme iptal edildi</string>
-  <string name="header_text_cleaned">Silinen artıklar</string>
+  <string name="header_text_cleaned">Artık temizlendi</string>
   <string name="header_text_cleaning">Kalan artıklar temizleniyor</string>
   <string name="header_text_scanned">Artık dosyalar bulundu</string>
   <string name="header_text_scanning">Artık dosyalar aranıyor…</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin:</string>
   <string name="instruction_pre">Servis başlayınca FTP server kullanılabilir</string>
   <string name="item_name">Adsız</string>
+  <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">MiDrive alanınız var.</string>
   <string name="kuaipan_prompt">MiDrive yardım</string>
   <string name="kuaipan_prompt_message">"Sunucu kullanımda değil, daha sonra tekrar deneyin"</string>
@@ -147,6 +154,9 @@ Artık dosya"</string>
   <string name="no_app_cache_indication">Uygulama verisi yok</string>
   <string name="no_app_garbage_indication">Uygulama artıkları yok</string>
   <string name="no_empty_dir_indication">Boş klasör yok</string>
+  <string name="no_enough_space">Yeterli boş alan yok</string>
+  <string name="no_enough_storage_indication">Yeterli boş alan yok, gereksiz dosyaları sildikten sonra tekrar deneyin</string>
+  <string name="no_enough_storage_title">Yeterli boş alan yok</string> 
   <string name="no_file">Dosya yok</string>
   <string name="no_more_space">Yeterli alan yok</string>
   <string name="no_tasks">Görev yok</string>
@@ -254,6 +264,7 @@ Artık dosya"</string>
   <string name="ui_main_toast_favorite_removed">Favoriler kaldırıldı</string>
   <string name="ui_main_toast_operation_failed">Favorileri kaldırma hatası %1$s</string>
   <string name="uninstall_app_data">Uygulama ve verileri sil</string>
+  <string name="unmount_inform_text">USB depolama bağlantısı kesilecek.</string>
   <string name="upload_failed">Yükleme hatası!</string>
   <string name="upload_file_toolarge_message">"%1$d dosya 300MB'tan büyük olduğu için yüklenemedi"</string>
   <string name="uploading">Yükleniyor...</string>

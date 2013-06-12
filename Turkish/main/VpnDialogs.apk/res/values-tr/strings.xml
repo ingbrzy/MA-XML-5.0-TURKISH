@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s uygulaması VPN bağlantısı kurmaya çalışıyor.</string>
+    <string name="warning">Devam ederseniz uygulama tüm ağ trafiğini izleyecek. <b>Hayır, uygulamaya güvenmiyorum</b> Kötü amaçlı yazılım riski olsada çalıştır</string>
+    <string name="accept">Ben bu uygulama güveniyorum.</string>
+    <string name="legacy_title">VPN bir ağ bağlantısıdır.</string>
+    <string name="configure">Ayarlar</string>
+    <string name="disconnect">Bağlantıyı kes</string>
+    <string name="session">Oturum:</string>
+    <string name="duration">Süre:</string>
+    <string name="data_transmitted">Gönderilen:</string>
+    <string name="data_received">Alınan:</string>
+    <string name="data_value_format">%1$s bayt / %2$s paket</string>
+</resources>

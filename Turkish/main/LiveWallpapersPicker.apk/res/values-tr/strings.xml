@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="application_name">Canlı duvar kağıdı seçici</string>
+    <string name="live_wallpaper_picker_title">Canlı duvar kağıtları</string>
+    <string name="live_wallpaper_preview_title">Canlı duvar kağıdı önizlemesi</string>
+    <string name="configure_wallpaper">Ayarlar</string>
+    <string name="wallpaper_instructions">Duvar kağıdı seç</string>
+    <string name="live_wallpaper_empty">Canlı duvar kağıdı yok</string>
+    <string name="set_live_wallpaper">Duvar kağıdı seç</string>
+    <string name="wallpaper_title_and_author">%1$s yapımcı: %2$s</string>
+    <string name="live_wallpaper_loading">Canlı duvar kağıdı yükleniyor...</string>
+</resources>

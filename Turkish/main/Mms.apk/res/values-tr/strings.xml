@@ -247,6 +247,7 @@
   <string name="no_subject_view">(Konu yok)</string>
   <string name="non_english_subject_limit">İngilizce olmayan başlıklar için en fazla 13 karakter kullanılabilir</string>
   <string name="nosend_message">Gönderim başarısız</string>
+  <string name="number_add_hint">Özel kişileri de dahil etmek için numarasını girin</string> 
   <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
   <string name="notification_failed_multiple_title">İletiler gönderilmedi</string>
   <string name="notification_multiple">%s okunmamış ileti.</string>

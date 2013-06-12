@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="wallpapers">Canlı Duvar Kağıtları</string>
+    <string name="wallpaper_walkaround">Şeffaf</string>
+    <string name="wallpaper_walkaround_author">Google</string>
+    <string name="wallpaper_walkaround_desc">Telefonunuzun arkasını görün ve kaza riskine girmeden gezinin</string>
+    <string name="wallpaper_grass">Çimler</string>
+    <string name="wallpaper_grass_author">Google</string>
+    <string name="wallpaper_grass_desc">Çim yaprakları gündüz ve gece gökyüzünün önünde nazikçe dalgalanmakta</string>
+    <string name="wallpaper_galaxy">Galaksi</string>
+    <string name="wallpaper_galaxy_author">Google</string>
+    <string name="wallpaper_galaxy_desc">Yavaşça dönen yıldızlardan oluşan bir galaksi.</string>
+    <string name="wallpaper_fall">Su</string>
+    <string name="wallpaper_fall_author">Google</string>
+    <string name="wallpaper_fall_desc">Sonbahar yaprakları dalgalanan gölete düşüyor</string>
+    <string name="wallpaper_clock">Polar saat</string>
+    <string name="wallpaper_clock_author">Google</string>
+    <string name="wallpaper_clock_desc">Tarih ve saati ark şeklinde grafikler üzerinde gösterir: ay, gün, saat, dakika ve saniye</string>
+    <string name="wallpaper_nexus">Nexus</string>
+    <string name="wallpaper_nexus_author">Google</string>
+    <string name="wallpaper_nexus_desc">Sinir ağına bir bakış</string>
+    <string name="clock_settings">Polar saat ayarları</string>
+    <string name="show_seconds">Saniyeyi göster</string>
+    <string name="variable_line_width">Değişken halka kalınlıkları</string>
+    <string name="palette">Renk paleti</string>
+    <string name="palette_gray">Demir</string>
+    <string name="palette_violet">Gece yarısı</string>
+    <string name="palette_matrix">Yeşil Ekran</string>
+    <string name="palette_white_c">Kutup Ayısı (dinamik)</string>
+    <string name="palette_black_c">Kara Delik (dinamik)</string>
+    <string name="palette_halloween">Kabak Pastası</string>
+    <string name="palette_zenburn">Yaratık meyva salatası</string>
+    <string name="palette_oceanic">Mavi Lazer</string>
+</resources>

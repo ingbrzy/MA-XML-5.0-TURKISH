@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Sertifika yükleyici</string>
+    <string name="pick_file_title">Sertifika Seç</string>
+    <string name="pkcs12_password_dialog_title">PKCS12 keystore ayıklayın</string>
+    <string name="extracting_pkcs12">Ayıklanıyor ...</string>
+    <string name="pkcs12_file_password_dialog_title">%s konumundan Ayıkla</string>
+    <string name="name_credential_dialog_title">Sertifika Adı</string>
+    <string name="credential_name">Sertifika adı:</string>
+    <string name="credential_password">Sertifikaları ayıklamak için parolayı girin.</string>
+    <string name="credential_info">Paket içeriği:</string>
+    <string name="p12_description">PKCS12 deposunun sertifikaları.</string>
+    <string name="one_userkey">Bir kullanıcı anahtarı</string>
+    <string name="one_usercrt">Bir kullanıcı sertifikası</string>
+    <string name="one_cacrt">Bir CA sertifikası</string>
+    <string name="n_cacrts">%d CA sertifikaları</string>
+    <string name="password_error">Doğru parolayı girin.</string>
+    <string name="password_empty_error">Lütfen parolayı girin.</string>
+    <string name="name_empty_error">Lütfen bir ad girin.</string>
+    <string name="name_char_error">Lütfen yalnızca harf ve sayı içeren bir ad girin.</string>
+    <string name="storage_error">Sertifika kaydedilemiyor. Yeniden denemek için Tamam\'ı tıklatın.</string>
+    <string name="unable_to_save_cert">Sertifika kaydedilemiyor. Kimlik bilgisi depolama etkin değil veya düzgün başlatılamadı.</string>
+    <string name="cert_not_saved">Sertifika yüklü değil.</string>
+    <string name="no_cert_to_saved">Yüklemek için sertifika yok.</string>
+    <string name="intent_parse_error">Ayrıştırılamıyor: %s</string>
+    <string name="cert_is_added">%s yüklü.</string>
+    <string name="cert_too_large_error">Yükleme başarısız oldu. Sertifikanın boyutu çok büyük.</string>
+    <string name="cert_missing_error">Yükleme başarısız oldu. Sertifika dosyasını bulamıyor.</string>
+    <string name="cert_read_error">Yükleme başarısız oldu. Sertifika dosyasını okuyamıyor.</string>
+    <string name="no_cert_file_found">SD Kartta Sertifika dosyası bulunamadı.</string>
+    <string name="sdcard_not_present">SD kart mevcut değil.</string>
+</resources>
