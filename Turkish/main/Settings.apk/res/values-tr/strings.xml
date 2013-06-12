@@ -11,7 +11,8 @@
   <string name="accelerometer_title">Ekranı otomatik döndür</string>
   <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
   <string name="access_control_app_entry_single">Seçili uygulamayı aç</string>
-  <string name="access_control_need_password">"%s korunuyor"</string>
+  <string name="access_control_need_password">"%s korunuyor
+  "</string>
   <string name="access_control_need_to_unlock">Kilidi açmak için şifre gerekli</string>
   <string name="access_control_no_back_footer">Çıkmak için [icon] ikonuna tıklayın</string>
   <string name="access_control_password_title">Şifreyi aktif et</string>
@@ -35,6 +36,7 @@ Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebil
    <string name="accessibility_menu_item_settings">Ayarlar</string>
    <string name="accessibility_no_services_installed">Hiçbir hizmet yüklü değil</string>  
    <string name="accessibility_power_button_ends_call_title">Güç tuşu ile çağrıyı sonlandır</string>  
+   <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşuna basınca mevcut çağrıyı sonlandır</string>
    <string name="accessibility_screen_magnification_summary">"Bu özellik etkin olduğunda, yakınlaştırmak veya  uzaklaştırmak için üçlü dokunmayı kullanabilirsiniz.
 Yakınlaştırma sırasında, şunları yapabilirsiniz:
 "<li><ul>"İki veya daha fazla parmak ekran boyunca kaydırın.
@@ -612,6 +614,9 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="data_usage_pick_cycle_day">Ayın, veri kullanım döneminin sıfırlandığı günü:</string>
   <string name="data_usage_received_sent">%1$s alındı, %2$s gönderildi</string>
   <string name="data_usage_restrict_background">Arka plan mobil verilerini kısıtlarsanız, Kablosuz bir ağa bağlanmadığınız sürece bazı uygulamalar ve hizmetler çalışmaz.</string>
+  <string name="data_usage_restrict_background_multiuser">"Eğer Wi-Fi erişimi yoksa ve mobil veri hizmetleri kapatılmışsa, bazı uygulamalar ve hizmetler çalışmaz.
+
+Bu, telefondaki tüm kullanıcıları etkileyecek."</string>	
   <string name="data_usage_restrict_background_title">Arka plan verileri kısıtlansın mı?</string>
   <string name="data_usage_restrict_denied_dialog">"Moil veri limitini ayarladığınız zaman arkaplan verilerini kısıtlamak ümkün olur."</string>
   <string name="data_usage_summary_title">Veri kullanımı</string>
@@ -1170,7 +1175,7 @@ please follow the steps to complete installation"</string>
   <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="no">Hayır</string>
-  <string name="no_application">Hiçbir şey</string>
+  <string name="no_application">Hiçbir uygulama</string>
   <string name="no_applications">Uygulama yok</string>
   <string name="no_device_admins">Uygun cihaz yöneticisi yok</string>
   <string name="no_media_button_receiver">Hayır</string>
@@ -1204,7 +1209,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_check">Kotrol et</string>
   <string name="perm_clean">Temiz</string>
   <string name="perm_configuration">Ayarlar</string>
-  <string name="perm_copyright">Powered by LBE Privacy Guard</string>
+  <string name="perm_copyright">LBE Güvenlik Hizmetleri</string>
   <string name="perm_disable">Devre dışı</string>
   <string name="perm_enable">Yetki izlemeyi etkinleştir</string>
   <string name="perm_good">İyi</string>
@@ -1645,7 +1650,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_application">Uygulama seçin</string>
   <string name="select_device_admin_msg">Cihaz yöneticileri</string>
-    <string name="selinux_status">SELinux durumu</string>
+  <string name="select_subscription">Abonelik seç</string>  
+	<string name="selinux_status">SELinux durumu</string>
     <string name="selinux_status_disabled">Devre dışı</string>
     <string name="selinux_status_enforcing">Zorla</string>
     <string name="selinux_status_permissive">Serbest</string> 
