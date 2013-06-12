@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Jinshan Security Guard</string>
-  <string name="hello_world">Hello world!</string>
-  <string name="menu_settings">Settings</string>
-  <string name="title_activity_main">MainActivity</string>
+  <string name="app_name">Jinshan Güvenlik Hizmetleri</string>
+  <string name="hello_world">Merhaba Dünya!</string>
+  <string name="menu_settings">Ayarlar</string>
+  <string name="title_activity_main">Aktiviteler</string>
 </resources>

@@ -12,7 +12,7 @@
   <string name="cancel">İptal</string>
   <string name="dlg_app_replacement_statement">"Bu uygulama başka bir uygulamanın yerine geçecek ve eski kullanıcı verileri kaydedilecek."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü (%3$s) sürümünün yerine geçecek.  Verilerinizi muhafaza edilecektir. Devam etmek istiyor musunuz?"</string> 
-  <string name="dlg_app_replacement_title">Uygulamanın yerine geçecek</string>
+  <string name="dlg_app_replacement_title">Yüklü bir uygulamanın yerine geçecek!</string>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_sys_app_replacement_statement">"Sistem uygulamasının yerine geçecek ve eski veriler kaydedilecek."</string>
   <string name="done">Bitti</string>

@@ -278,8 +278,8 @@
   <string name="pref_data_preload_dialogtitle">Arama sonucunu önyükleme</string>
   <string name="pref_data_preload_summary">Tarayıcının yüksek güvenli arama sonuçlarını arka planda önyüklemesine izin ver</string>
   <string name="pref_data_preload_title">Arama sonucunu önyükleme</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
+  <string name="pref_data_preload_value_always">HERZAMAN</string>
+  <string name="pref_data_preload_value_never">ASLA</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_data_title">Bant genişliği yönetimi</string>
   <string name="pref_default_text_encoding">Metin kodlama</string>

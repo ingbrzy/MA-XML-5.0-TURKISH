@@ -117,11 +117,11 @@
   <string name="sdcard_status_changed_dialog_title">SD kart durumu değişti</string>
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_another_import_running">Başka bir içe aktarma işlemi çalışıyor, sonra tekrar deneyin.</string>
-  <string name="theme_batch_has_update_text">%1$d için güncelleme var</string>
+  <string name="theme_batch_has_update_text">%1$d tema için güncelleme var</string>
   <string name="theme_batch_update_all">Tümünü güncelle</string>
   <string name="theme_batch_update_dlg_content">Şimdi güncellemek istiyor musunuz?</string>
-  <string name="theme_batch_update_dlg_title">Güncelle</string>
-  <string name="theme_batch_updating_text">%1$d güncelleme tamamlandı</string> 
+  <string name="theme_batch_update_dlg_title">Temalar güncellenecek</string>
+  <string name="theme_batch_updating_text">%1$d tema güncellenecek, bekleyin..</string> 
   <string name="theme_changed_failed_message"> %1$s Teması uygulanamadı!</string>
   <string name="theme_changed_message"> %1$s Tema başarıyla uygulandı.</string>
   <string name="theme_changing_dialog_title">Tema uygulanırken bekleyin...</string>
@@ -184,11 +184,12 @@
   <string name="title_local">Yüklenenler</string>
   <string name="title_online">Tema Merkezi</string>
   <string name="title_system_resource">Sistem kaynakları</string>
+  <string name="wallpaper_crop">Kırp</string>
   <string name="wallpaper_decoded_error">Çözümleme başarısız!</string>
   <string name="wallpaper_loading_text">Yükleniyor…</string>
-  <string name="wallpaper_set_as_both">İkisine birden seç</string>
-  <string name="wallpaper_set_as_destop">Duvarkağıdı olarak seç</string>
-  <string name="wallpaper_set_as_lockscreen">Kilit ekranına arkaplan olarak seç</string>
+  <string name="wallpaper_set_as_both">İkisine birden yap</string>
+  <string name="wallpaper_set_as_destop">Duvar kağıdı yap</string>
+  <string name="wallpaper_set_as_lockscreen">Kilit ekranı arkaplanı yap</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
   <string name="wrong_title">Hata!</string>
 </resources>
