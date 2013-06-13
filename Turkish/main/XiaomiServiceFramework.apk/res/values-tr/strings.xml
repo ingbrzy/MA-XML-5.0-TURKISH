@@ -91,6 +91,7 @@
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
   <string name="forget_password"/>
   <string name="frozen">(Kilitlendi)</string>
+  <string name="get_back_pwd">Şifreyi kurtar</string> 
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>
   <string name="i_know">Tamam</string>
   <string name="imported_contacts"> %s kişi içe aktarıldı</string>
@@ -102,6 +103,7 @@
   <string name="label_order_price">Adet: </string>
   <string name="login">Oturum aç</string>
   <string name="login_failed">Oturum açma başarısız</string>
+  <string name="login_instead_reg">Telefon numaranız ile giriş yapın</string>
   <string name="login_notice">Oturum açılıyor...</string>
   <string name="memu_refresh">Yenile</string> 
   <string name="mibi_license_message">Xiaomi Mi kredi hizmeti. Tümünü kabul etmek için tıklayın  %1$s.</string>

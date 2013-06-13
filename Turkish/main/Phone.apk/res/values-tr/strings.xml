@@ -598,6 +598,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="name">Adı</string>
   <string name="national_disable">Haberler devre dışı</string>
   <string name="national_enable">Haberler etkin</string>
+  <string name="network_forbidden_miui">%s (yasaklanmış)</string> 
   <string name="network_manage_settings">Şebeke ayarları</string>
   <string name="network_message">Şebeke mesajı</string>
   <string name="network_query_error">Şebeke aranırken hata oluştu.</string>
@@ -879,6 +880,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="search_networks">Şebekeler aranıyor</string>
   <string name="selectContact">Kişi seç</string>
   <string name="select_automatically">Otomatik seç</string>
+  <string name="select_network_automatic_hint_miui">"Bu seçtiğiniz ağa kayıt olunamaz. Otomatik olarak tercih edilen bir ağ seçilsin mi??"</string>
   <string name="sendSms">SMS gönder</string>
   <string name="send_button">Gönder</string>
   <string name="send_keepalive">GönderCanlıTut</string>

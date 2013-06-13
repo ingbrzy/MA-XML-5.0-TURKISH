@@ -249,6 +249,12 @@
         <item>Systrace (grafik)</item>
         <item>glGetError çağrı yığını</item>
     </string-array> 
+	<string-array name="change_security_lock_picker">
+        <item>Yüz tanıma</item>
+        <item>Desen</item>
+        <item>Sayısal şifre</item>
+        <item>Karışık şifre</item>
+    </string-array> 
     <string-array name="app_process_limit_entries">
         <item>Standart sınır</item>
         <item>Arka planda işlem yok</item>

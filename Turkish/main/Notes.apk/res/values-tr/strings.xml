@@ -107,6 +107,8 @@
   <string name="time_picker_dialog_title">Hatırlatma zamanı ayarla</string>
   <string name="toast_message_add_image_fail">Resim eklenemedi!</string>
   <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız oldu!</string>
-   <string name="widget_havenot_content">Herhangi bir not yok, not oluşturmak için tıklayın.</string>
+  <string name="toast_reach_text_limit_attachment">Notun içeriği yeni ek eklemek için çok uzun.</string>
+  <string name="toast_reach_text_limit_truncate">"Notun içeriği kesildi çünkü çok uzun."</string>
+  <string name="widget_havenot_content">Herhangi bir not yok, not oluşturmak için tıklayın.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
 </resources>

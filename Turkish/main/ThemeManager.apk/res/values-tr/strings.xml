@@ -10,7 +10,7 @@
   <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvarkağıdı aktif olmayabilir.</string>
   <string name="apply_theme_no_select_message">Bileşenleri seç</string>
   <string name="backup_preference_title">Temayı yedekle</string>
-  <string name="backup_theme_dialog_message">"Geçerli temayı buraya yedekle: %1$s"</string>
+  <string name="backup_theme_dialog_message">"Geçerli temayı yedekle"</string>
   <string name="backup_theme_dialog_ok">Yedekle</string>
   <string name="backup_theme_name">Yedeğim</string>
   <string name="backup_theme_progress_message">Tema dosyaları yedekleniyor, lütfen bekleyin...</string>
@@ -147,8 +147,10 @@
   <string name="theme_component_title_ringtone">Zil Sesleri</string>
   <string name="theme_component_title_statusbar">Durum Çubuğu Stili</string>
   <string name="theme_component_title_wallpaper">Duvar Kağıtları</string>
+  <string name="theme_current_using_has_update">Mevcut tema güncellendi, uygulama için buraya dokunun</string> 
   <string name="theme_description_title_customized">Kullanıcı Tanımlı</string>
   <string name="theme_description_title_default">Varsayılan</string>
+  <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulansın mı?</string>
   <string name="theme_import_activity_label">Temayı güncelle</string>
   <string name="theme_import_data">Başlatılıyor. Lütfen bekleyin...</string>
   <string name="theme_import_fail"> %1$s İçe aktarılamadı!</string>
@@ -172,6 +174,7 @@
   <string name="theme_import_stoping">Durduruluyor...</string>
   <string name="theme_importing">Tema içe aktarılıyor...</string>
   <string name="theme_is_imported">Tema içe aktarıldı!</string>
+  <string name="theme_name">%1$s</string>
   <string name="theme_sdcard_importing">Tema içe aktarılıyor...</string>
   <string name="theme_select_others">Diğerleri</string>
   <string name="theme_upgrade_request_cancel">İptal</string>

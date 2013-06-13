@@ -492,6 +492,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="carrier_enabled_summaryOff">APN devre dışı</string>
   <string name="carrier_enabled_summaryOn">APN etkin</string>
   <string name="cdma_security_settings_summary">Konumum, ekran kilidi açma, kimlik bilgileri deposunun kilidi özelliklerini ayarla</string>
+  <string name="change_password">Şifreyi değiştir</string>
+  <string name="change_security_lock">Kilit açma şekli</string> 
   <string name="checkbox_notification_same_as_incoming_call">Bildirimlerde gelen çağrı ses düzeyini kullan</string>
   <string name="choose_timezone">Saat dilimini seçin</string>
   <string name="clear_activities">Varsayılanları temizle</string>
@@ -1009,6 +1011,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lock_intro_message">"Kendinize özel bir ekran kilidi açma deseni oluşturarak telefonunuzu yetkisiz kullanıma karşı koruyun. Bir sonraki ekranda parmağınızı kullanarak en az dört noktayı istediğiniz sırayla birleştirin. Başlamaya hazır mısınız? \"İleri\"ye dokunun."</string>
   <string name="lock_screen_unlock_show">Direkt olarak şifre giriciyi göster</string>
   <string name="lock_screen_unlock_show_summary">"Diğer kilit ekranlarını kullanma, doğrudan kilit açıcıya git"</string>
+  <string name="lock_settings_common_title">Kilit ayarları</string> 
   <string name="lock_settings_picker_settings">Ekran kilidini seç</string>
   <string name="lock_settings_picker_title">Ekran kilidini seç</string>
   <string name="lock_settings_title">Ekran güvenliği</string>
@@ -1899,6 +1902,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="tts_settings_changed_demo">Ayarlarınız değişti. Bu nasıl duyulacakları ile ilgili bir örnektir.</string>
   <string name="tts_settings_title">Metin-konuşma çıktısı</string>
   <string name="turn_off_radio">Radyoyu kapat</string>
+  <string name="turn_off_security_lock">Kilidi devre dışı bırak</string>
   <string name="turn_on_radio">Radyoyu aç</string>
   <string name="under_keyguard">Kilit ekranında</string>
     <string name="uninstall_all_users_text">Tüm kullanıcılar için kaldır</string>
@@ -2412,7 +2416,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wps_connect_summary">Yönlendiricinizin WPS desteklediğinden emin olun</string>
   <string name="wps_connect_title">WPS kullanarak bağlan</string>
   <string name="xiaomi_account">Xiaomi Hesabı</string>
-  <string name="xiaomi_cloud_service">Xiaomi Cloud Hizmeti</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">Mi Kredisi</string>  
   <string name="yes">TAMAM</string>
   <string name="zone_auto">Otomatik saat dilimi</string>
