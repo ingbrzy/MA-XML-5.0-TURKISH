@@ -132,8 +132,8 @@ Artık dosya"</string>
   <string name="loading">Yükleniyor…</string>
   <string name="local_cache">Yerel veriler</string>
   <string name="local_cache_size">Yerel veri boyutu: %s</string>
-  <string name="login_reg_content">MiDrive helps you store files and sync them between multiple devices.</string>
-  <string name="login_reg_content0">MiDrive is your Cloud storage drive</string>
+  <string name="login_reg_content">MiDrive dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmen,ze yardımcı olur.</string>
+  <string name="login_reg_content0">MiDrive Cloud Depolama Birimi</string>
   <string name="menu_item_cleanup">Dosyaları temizle</string>
   <string name="menu_item_ftp">FTP</string>
   <string name="menu_item_search">Ara</string>
@@ -147,8 +147,8 @@ Artık dosya"</string>
   <string name="move_failed">Taşınamadı</string>
   <string name="multi_select_title">Seçinlenler %1$s </string>
   <string name="name_illegal">Dosya ismi boş değil</string>
-  <string name="net_lose_connected">Ağ kullanılabilir değil</string>
-  <string name="networkView_notConnected">Ağ kullanılabilir</string>
+  <string name="net_lose_connected">Ağ bağlantısı yok, boyut alınamıyor!</string>
+  <string name="networkView_notConnected">Ağ bağlantısı yok!</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
   <string name="no_app_cache_indication">Uygulama verisi yok</string>

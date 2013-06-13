@@ -3,10 +3,10 @@
     <string-array name="transformation_entries">
         <item>Klasik</item>
         <item>Klasik(Sallantı yok)</item>
-        <item>Harmanla</item>
-        <item>Çevir</item>
+        <item>Soldur</item>
         <item>Yuvarlan</item>
         <item>Sayfa gibi çevir</item>
+        <item>Harmanla</item>
         <item>3D Döndür</item>
         <item>3D Küp</item>
     </string-array>
