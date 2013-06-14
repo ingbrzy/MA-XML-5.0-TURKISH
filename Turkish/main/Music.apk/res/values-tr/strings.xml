@@ -44,7 +44,7 @@
   <string name="correct_id3_not_support">ID3 doğrulama bu tür dosyaralda desteklenmiyor.</string>
   <string name="correct_id3_open_other_connect">Mobil internet ayarı kullanarak ID3 veri doğrulamayı açın</string>
   <string name="correct_id3_settings">ID3 doğrulama ayarları</string>
-  <string name="correct_id3_start">ID3 doğrulamayı başlat</string>
+  <string name="correct_id3_start">ID3 doğrulama başlatıldı</string>
   <string name="correct_id3_success">ID3 doğrulama başarılı</string>
   <string name="correct_id3_summary">Düzeltme yöntemi yüksek mobil veri ücretleri neden olabilir. Kullanımdan sonra açık bırakmayın</string>
   <string name="create_confirm">Onayla</string>
@@ -140,7 +140,7 @@
   <string name="mobile_connect_settings">Mobil şebeke</string>
   <string name="modify_id3_for_list">Şarkıların ID3 bilgi düzenlenebilir olacak</string>
   <string name="modify_id3_for_selected">Seçilen şarkının ID3 bilgileri düzenlendi</string>
-  <string name="modify_meta">Meta bilgisini düzenle</string>
+  <string name="modify_meta">Meta bilgilerini düzenle</string>
   <string name="modify_tracks_id3_background">Seçilen şarkıların ID3 bilgilerini arka planda değiştir</string>
   <string name="more">Daha</string>
   <string name="music_browser_label">Müzik</string>
