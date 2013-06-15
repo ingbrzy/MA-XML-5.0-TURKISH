@@ -41,12 +41,12 @@
   <string name="confirm">Onayla</string>
   <string name="correct_id3_by_internet">Mobil internet kullanarak ID3 doğrula</string>
   <string name="correct_id3_failed">ID3 veri doğrulama hata verdi!</string>
-  <string name="correct_id3_not_support">ID3 doğrulama bu tür dosyaralda desteklenmiyor.</string>
+  <string name="correct_id3_not_support">ID3 doğrulama bu tür dosyalarda desteklenmiyor.</string>
   <string name="correct_id3_open_other_connect">Mobil internet ayarı kullanarak ID3 veri doğrulamayı açın</string>
   <string name="correct_id3_settings">ID3 doğrulama ayarları</string>
   <string name="correct_id3_start">ID3 doğrulama başlatıldı</string>
   <string name="correct_id3_success">ID3 doğrulama başarılı</string>
-  <string name="correct_id3_summary">Düzeltme yöntemi yüksek mobil veri ücretleri neden olabilir. Kullanımdan sonra açık bırakmayın</string>
+  <string name="correct_id3_summary">Düzeltme yöntemi yüksek mobil veri ücretlerine neden olabilir. Kullanımdan sonra açık bırakmayın</string>
   <string name="create_confirm">Onayla</string>
   <string name="create_equalzier_create_text_prompt">Ekolayzır efekt adı</string>
   <string name="create_playlist_create_text_prompt">Çalma listesi adı</string>
@@ -116,7 +116,7 @@
   <string name="load_album_in_process">Albüm listesini yükle</string>
   <string name="load_artist_failed">Şarkıcı listesi yüklenemedi. Tekrar deneyin</string>
   <string name="load_artist_in_process">Şarkıcı listesini yükle</string>
-  <string name="load_audio_failed">Şarkı listesi yüklenemedi. Tekrar teneyin</string>
+  <string name="load_audio_failed">Şarkı listesi yüklenemedi. Tekrar deneyin</string>
   <string name="load_audio_in_process">Ses listesini yükle</string>
   <string name="load_bill_failed">Billboard listesi yüklenemedi, lütfen tekrar deneyin</string>
   <string name="load_bill_in_process">Billboard listesini yükle</string>
@@ -238,6 +238,6 @@
   <string name="tracks_title">Tüm şarkılar</string>
   <string name="unknown_album_name">Bilinmeyen albüm</string>
   <string name="unknown_artist_name">Bilinmeyen şarkıcı</string>
-  <string name="use_local_album">kayıtlı albüm kapağını kullan</string>
+  <string name="use_local_album">Kayıtlı albüm kapağını kullan</string>
   <string name="use_local_lyric">Kayıtlı şarkı sözlerini kullan</string>
 </resources>
