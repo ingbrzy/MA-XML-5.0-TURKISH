@@ -1040,8 +1040,8 @@ Kapatmak ister misiniz?"</string>
     <string name="extmedia_format_title">USB bellek biçimlendirilsin mi?</string>
     <string name="extmedia_format_message">USB belleğinizdeki tüm dosyalar silinecek. Bu işlem geri alınamaz!</string>
     <string name="extmedia_format_button_format">Biçimlendir</string>
-    <string name="adb_active_notification_title">USB hata ayıklaması bağlandı</string>
-    <string name="adb_active_notification_message">USB hata ayıklama özelliğini devre dışı bırakmak için dokunun.</string>
+    <string name="adb_active_notification_title">USB hata ayıklama ile bağlandı</string>
+    <string name="adb_active_notification_message">Devre dışı bırakmak için dokunun.</string>
     <string name="select_input_method">Giriş yöntemini seçin</string>
     <string name="configure_input_methods">Giriş yöntemlerini ayarla</string>
     <string name="use_physical_keyboard">Fiziksel klavye</string>

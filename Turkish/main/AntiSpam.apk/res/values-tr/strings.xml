@@ -42,7 +42,7 @@
   <string name="confirm">Tamam</string>
   <string name="confirm_clear_blacklist">Kara listeyi temizlemek istediğinizden emin misiniz?</string>
   <string name="confirm_clear_whitelist">Beyaz listeyi temizlemek istediğinizden emin misiniz?</string>
-  <string name="context_add_contact">Mevcut kişiye ekle</string>
+  <string name="context_add_contact">Kişilere ekle</string>
   <string name="context_call">Ara</string>
   <string name="context_ms">Mesaj gönder</string>
   <string name="context_new_contact">Yeni kişi</string>

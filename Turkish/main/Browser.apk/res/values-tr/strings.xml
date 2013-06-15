@@ -155,6 +155,7 @@
   <string name="file_picker_sdcard_not_found">SD kart bulunamadı, lütfen kontrol ediniz</string>
   <string name="filename_empty_alert_message">"Dosya adı boş olamaz"</string>
   <string name="filename_illegal_alert_message">Dosya adı geçersiz karakterler içeriyor, dosya otomatik olarak kaldırıldı.</string> 
+  <string name="find_on_page">Sayfada Bul</string>
   <string name="folder_name">Klasör ismi</string>
   <string name="forward">İleri</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
@@ -333,6 +334,8 @@
   <string name="pref_lab_quick_controls">Hızlı denetimler</string>
   <string name="pref_lab_quick_controls_summary">Hızlı denetimleri açmak, uygulama ve URL çubuklarını gizlemek için baş parmağınızı sol veya sağ kenara kaydırın.</string>
   <string name="pref_lab_title">Labs</string>
+  <string name="pref_link_prefetch_dialogtitle">Web sayfasını önyükleme</string>
+  <string name="pref_link_prefetch_summary">Tarayıcıya, arka planda bağlantılı web sayfaların önyüklemesine izin verir</string>
   <string name="pref_min_font_size">Minimum yazı tipi boyutu</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
   <string name="pref_privacy_clear_cache">Önbelleği temizle</string>
@@ -379,6 +382,12 @@
   <string name="pref_ua_title">Kullanıcı ajanı yönetimi</string>
   <string name="pref_use_instant_search">Google Anında Arama</string>
   <string name="pref_use_instant_search_summary">"Yazarken sonuçların görüntülenmesi için, Google Arama'yı kullanırken Google Anında Arama'dan yararlanın (veri kullanımını artırabilir)."</string>
+  <string name="pref_video_preload_dialogtitle">Video önyükleme...</string>
+  <string name="pref_video_preload_summary">Tarayıcıya, desteklenen sunuculardan video önyükleme izni verir</string>
+  <string name="pref_video_preload_title">Video önyükleme</string>
+  <string name="pref_video_preload_value_always">ALWAYS</string>
+  <string name="pref_video_preload_value_never">NEVER</string>
+  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Ses tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları için seçenekler</string>
   <string name="pref_zoom_on_double_tap">Hafifçe çift vurulduğunda yakınlaştır</string>

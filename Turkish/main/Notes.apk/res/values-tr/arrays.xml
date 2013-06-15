@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="format_for_exported_note">
+        <item>-%s</item>
+        <item>--%s</item>
+        <item>--%s</item>
+        <item>--%s</item>
+    </string-array>
+    <string-array name="menu_share_ways">
+        <item>Mesaj</item>
+        <item>E-posta</item>
+    </string-array>
+	<string-array name="contact_entries">
+        <item>Adı</item>
+        <item>Takma adı</item>
+        <item>Telefon</item>
+        <item>E-posta</item>
+        <item>Organizasyon</item>
+        <item>Sohbet</item>
+        <item>SIP Telefonu</item>
+        <item>Doğum tarihi</item>
+        <item>Web</item>
+        <item>Adresi</item>
+        <item>Not</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Küçük</item>
+        <item>Orta</item>
+        <item>Büyük</item>
+        <item>Dev</item>
+    </string-array>
+</resources>

@@ -55,7 +55,7 @@
   <string name="Generic_Update">Yazılımı Yükselt</string>
   <string name="Generic_UserApp">İndirilen Uygulamalar (%d)</string>
   <string name="Generic_Version">Sürüm: %1$s</string>
-  <string name="HIPS_Action_Accept">İzin</string>
+  <string name="HIPS_Action_Accept">İzin ver</string>
   <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
   <string name="HIPS_Action_Accept_Count">İzin verilen: %1$d</string>
   <string name="HIPS_Action_Prompt">Sor</string>
@@ -162,7 +162,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Donanımlara kalıcı zararlar verebilir!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step5">Dikkatli kullanın!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step6"> %1$s uygulamasına ROOT yetkisi verilsin mi?</string>
-  <string name="HIPS_SecurityPrompt_Reject">Reddedildi(%d)</string>
+  <string name="HIPS_SecurityPrompt_Reject">Reddet(%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Seçimi Hatırla</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s deneniyor %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d yetkiler</string>

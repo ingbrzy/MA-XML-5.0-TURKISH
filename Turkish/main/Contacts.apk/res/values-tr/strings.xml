@@ -290,7 +290,7 @@
   <string name="dirty_contacts_notification_title">Senkronize edilsin mi?</string>
   <string name="display_all_contacts">Tüm kişiler</string>
   <string name="display_more_groups">Diğer gruplar...</string>
-  <string name="display_only_phones">Sadece telefon numarası olan kişiler</string>
+  <string name="display_only_phones">Telefon numarası olan kişiler</string>
   <string name="display_options_sort_by_family_name">Soyadı</string>
   <string name="display_options_sort_by_given_name">Adı</string>
   <string name="display_options_sort_list_by">Listeyi şu ölçüte göre sırala:</string>

@@ -132,7 +132,7 @@ Artık dosya"</string>
   <string name="loading">Yükleniyor…</string>
   <string name="local_cache">Yerel veriler</string>
   <string name="local_cache_size">Yerel veri boyutu: %s</string>
-  <string name="login_reg_content">MiDrive dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmen,ze yardımcı olur.</string>
+  <string name="login_reg_content">MiDrive dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">MiDrive Cloud Depolama Birimi</string>
   <string name="menu_item_cleanup">Dosyaları temizle</string>
   <string name="menu_item_ftp">FTP</string>

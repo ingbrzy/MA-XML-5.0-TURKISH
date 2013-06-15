@@ -38,7 +38,7 @@
   <string name="cancel">İptal</string>
   <string name="cant_delete_system_album">%s sistem albümü, silinemez!</string>
   <string name="cleaning_cache">Önbellek temizleniyor...</string>
-  <string name="clear_thumbnail_cache">Önizleme belleği temizleniyor</string>
+  <string name="clear_thumbnail_cache">Önizleme belleğini temizle</string>
   <string name="clear_thumbnail_cache_confirm">Önizleme belleği temizlenecek. Galeri tüm medya dosyalarını tekrar tarayacak ve önizlemeleri tekrar oluşturacak .</string>
   <string name="clear_thumbnail_cache_summary">Galeri önizleme resimlerini oluşturacak. Daha fazla alan için önbelleği temizliyor.</string>
   <string name="click_to_enter_camera">Kamerayı aç</string>
@@ -66,7 +66,7 @@
   <string name="confirm_delete_pictures">%s resim</string>
   <string name="confirm_delete_system_album">%s sistem albümü, Silmek istiyor musunuz?</string>
   <string name="confirm_delete_videos">%s videolar</string>
-  <string name="contact_photo">Rehber fotosu</string>
+  <string name="contact_photo">Kişi fotosu yap</string>
   <string name="context_menu_add_contact">Rehbere ekle</string>
   <string name="context_menu_copy">Kopyala</string>
   <string name="context_menu_copy_notice">Seçim panoya kopyalandı</string>
