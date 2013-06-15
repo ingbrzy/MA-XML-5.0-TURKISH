@@ -38,7 +38,6 @@
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusu boş</string>
   <string name="cleanup_complete">Temizleme başarılı</string>
-  <string name="clear_cache">Verileri temizle</string>
   <string name="close">Kapat</string>
   <string name="compress_fail">Zip dosyası oluşturulamadı, zaten var!</string>
   <string name="compress_message">Sıkıştır:</string>
@@ -46,6 +45,7 @@
   <string name="confirm">TAMAM</string>
   <string name="confirm_know">TAMAM</string>
   <string name="copy_failed">Kopyalama hatası</string>
+  <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string> 
   <string name="create_new_folder_desctiption">Yeni klasör oluşturuluyor...</string>
   <string name="create_new_folder_failed">Klasör oluşturulamadı%1$s</string>
   <string name="create_share_link_description">Paylaşım linki oluşturuluyor…</string>
@@ -130,7 +130,6 @@ Artık dosya"</string>
   <string name="kuaipan_tech_support">Teknik destek Xiaomi</string>
   <string name="load_err">Yüklenemedi!</string>
   <string name="loading">Yükleniyor…</string>
-  <string name="local_cache">Yerel veriler</string>
   <string name="local_cache_size">Yerel veri boyutu: %s</string>
   <string name="login_reg_content">MiDrive dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">MiDrive Cloud Depolama Birimi</string>
@@ -211,7 +210,7 @@ Artık dosya"</string>
   <string name="rename_description">Adlandırılıyor, lütfen bekleyin…</string>
   <string name="rename_failed">Tekrar adlandırılan《%1$s》hatası</string>
   <string name="restart_cleaning">Tekrar başlat</string>
-  <string name="scanning">Taranıyor...</string>
+  <string name="scanning" formatted="false"> %d uygulama taranıyor ... (toplam %d uygulama)</string>
   <string name="scanning_on_going">Taranıyor...</string>
   <string name="sd_card_available">Kullanılabilir alan:%1$s</string>
   <string name="sd_card_size">SD Kart:%1$s</string>

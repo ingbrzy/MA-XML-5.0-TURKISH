@@ -700,6 +700,8 @@ Favoriler listenize kişi eklemek için:
   <string name="recent_contacts_label">En Son</string>
   <string name="recent_number">En Son</string>
   <string name="recent_updates">En Son</string>
+  <string name="redirect_calls_to_vm_confirm_message">Eğer bu eylem operatörünüz için uygulanabilir değilse etkinleştirmeyiniz. Aksi takdirde, bu kişiden gelen aramaları almanız mümkün olmayabilir.</string>
+  <string name="redirect_calls_to_vm_confirm_text">Etkinleştir</string> 
   <string name="relationLabelsGroup">İlişki</string>
   <string name="remind_btn_ignore">Yoksay</string>
   <string name="remind_btn_sync_now">Şimdi Eşitle</string>
