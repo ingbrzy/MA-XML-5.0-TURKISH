@@ -3,7 +3,7 @@
   <string name="about_settings">Telefon hakkında</string>
   <string name="about_settings_summary">Yasal bilgileri, durumlar, yazılım sürümünü görüntüle</string>
   <string name="ac_enable_title">Erişim kontrolünü aç</string>
-  <string name="ac_privacy_mode_sum">orumalı modu kapatmak için Erişim Kontrol şifrenizi girin</string>
+  <string name="ac_privacy_mode_sum">Korumalı modu kapatmak için Erişim Kontrol şifrenizi girin</string>
   <string name="ac_privacy_mode_title">Şifreleri etkinleştir</string>
   <string name="ac_set_apps_title">Uygulamaları koru</string>
   <string name="accelerometer_summary_off">Telefonu döndürürken yönü otomatik değiştir</string>
@@ -27,7 +27,7 @@ Adım 1: Bir uyarı sesi veya titreşim duyana kadar Açık düğmesine basın v
 
 Adım 2: İki parmakla ekrana dokunun ve bir onay sesi duyana kadar basılı tutun.
 
-Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebilir, cihaz kilidini izini için bu kısayolu kullanabilirsiniz."</string>
+Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebilir, cihaz kilidini açmak için bu kısayolu kullanabilirsiniz."</string>
   <string name="accessibility_global_gesture_preference_summary_off">Kapalı</string>
    <string name="accessibility_global_gesture_preference_summary_on">Açık</string>
    <string name="accessibility_global_gesture_preference_title">Basit erişebilirlik kısayolu</string>
@@ -39,10 +39,10 @@ Cihazda birden fazla kullanıcı varsa, geçici olarak kilit ekranı erişilebil
    <string name="accessibility_power_button_ends_call_prerefence_title">Güç tuşuna basınca mevcut çağrıyı sonlandır</string>
    <string name="accessibility_screen_magnification_summary">"Bu özellik etkin olduğunda, yakınlaştırmak veya  uzaklaştırmak için üçlü dokunmayı kullanabilirsiniz.
 Yakınlaştırma sırasında, şunları yapabilirsiniz:
-"<li><ul>"İki veya daha fazla parmak ekran boyunca kaydırın.
-"<li>yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin.</li></ul></li>"
+"<li><ul>"İki veya daha fazla parmağınızı ekran boyunca kaydırın.
+"<li>Yakınlaştırma seviyesini ayarlayın: Iki veya daha fazla parmakla büyütün ya da ayrı çekin.</li></ul></li>"
 
-Parmağınızı altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
+Parmağınızın altındaki içeriği, aynı zamanda geçici olarak üçlü tıklayıp yakınlaştırabilir ve tutabilirsiniz.
 
 Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her yerde çalışır."</string>    
    <string name="accessibility_screen_magnification_title">Yakınlaştırma hareketi</string>
@@ -140,7 +140,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="app_disable_dlg_text">Yerleşik bir uygulamayı devre dışı bırakırsanız bu, diğer uygulamaların hatalı davranmasına neden olabilir. Emin misiniz?</string>
   <string name="app_disable_dlg_title">Yerleşik uygulama devre dışı bırakılsın mı?</string>
   <string name="app_disable_notifications_dlg_text">Bu uygulama için bildirimleri kapatırsanız, güncelleme ve önemli uyarıları alaazsınız.</string>
-  <string name="app_disable_notifications_dlg_title">Bidrimler kapatılsın mı?</string>
+  <string name="app_disable_notifications_dlg_title">Bidirimler kapatılsın mı?</string>
   <string name="app_factory_reset">Güncellemeleri kaldır</string>
   <string name="app_factory_reset_dlg_text">Bu Android sistem uygulaması ile ilgili tüm güncellemeler kaldırılacak.</string>
   <string name="app_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
@@ -369,8 +369,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazına bağlı</string>
   <string name="bluetooth_hid_profile_summary_use_for">Giriş için kullan</string>
   <string name="bluetooth_incoming_pairing_msg">Kaynak:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu cihaz ile eşleştirilsin mi?</string>
-  <string name="bluetooth_is_discoverable">Ykndki tüm Bluetooth chzlr trfndan görlblir (%1$s)</string>
-  <string name="bluetooth_is_discoverable_always">Yakındki tüm Bluetooth cihazlrı trfndan görüleblir</string>
+  <string name="bluetooth_is_discoverable">Tüm Bluetooth cihazlar tarafından görülebilir (%1$s)</string>
+  <string name="bluetooth_is_discoverable_always">Tüm Bluetooth cihazlar tarafından her zaman görülebilir</string>
   <string name="bluetooth_lock_voice_dialing">Sesli aramayı kilitle</string>
   <string name="bluetooth_lock_voice_dialing_summary">Ekran kilitliyken blutooth çeviricinin kullanımını engelle</string>
   <string name="bluetooth_map_connection_permission_request">Map connection request</string>
@@ -386,7 +386,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_notif_ticker">Bluetooth eşleşme isteği</string>
   <string name="bluetooth_notif_title">Eşleşme isteği</string>
   <string name="bluetooth_on_time">Zamnnd kablsz</string>
-  <string name="bluetooth_only_visible_to_paired_devices">Sadece eşleştirilmiş chzlar tarafından görülebilir</string>
+  <string name="bluetooth_only_visible_to_paired_devices">Sadece eşleştirilmiş cihazlar tarafından görülebilir</string>
   <string name="bluetooth_opp_profile_summary_connected">Dosya aktarım sunucusuna bağlandı</string>
   <string name="bluetooth_opp_profile_summary_not_connected">Dosya aktarım sunucusuna bağlanmadı</string>
   <string name="bluetooth_opp_profile_summary_use_for">Dosya aktarımı için kullan</string>
@@ -574,7 +574,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="data_usage_auto_sync_off_dialog_title">Oto-veri senkronize kapatılsın mı?</string>
   <string name="data_usage_auto_sync_on_dialog">"Web üzerinden yaptığınız tüm değişiklikler otomatik olarak telefonunuza kopyalanır.
 
-Bazı hesaplar da otomatik olarak  telefonda yaptığınız değişiklikleri web\'e kopyalayalar. Google Hesabı bu şekilde çalışır.
+Bazı hesaplar da otomatik olarak  telefonda yaptığınız değişiklikleri web\'e kopyalar. Google Hesabı bu şekilde çalışır.
 
 Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara bakınız"</string>
   <string name="data_usage_auto_sync_on_dialog_title">Oto-veri senkronize açılsın mı?</string>
@@ -775,7 +775,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="drive_mode_auto_reply">Otomatik cevapla</string>
   <string name="drive_mode_auto_sms_reply_content">Şu an araba kullanıyorum.</string>
   <string name="drive_mode_auto_sms_reply_content_title">SMS cevap içeriği</string>
-  <string name="drive_mode_calling_auto_sms_reply">SMS ile otomatik cevap aramnıyor</string>
+  <string name="drive_mode_calling_auto_sms_reply">Sürüş modunda çağrıyı SMS ile otomatik cevaplama</string>
   <string name="drive_mode_invert_stop_report">Rapor durdurmak için çevirin</string>
   <string name="drive_mode_only_contact_reply">Sadece kişi listenizde olanları cevapla</string>
   <string name="drive_mode_phone_report">Rapor aranıyor</string>
@@ -1188,7 +1188,7 @@ please follow the steps to complete installation"</string>
   <string name="notification_sound_title">Varsayılan bildirim</string>
   <string name="notification_vibrate_abbreviation">Bildirim</string>
   <string name="notification_volume_title">Bildirim</string>
-  <string name="nsd_quick_toggle_summary">Diğer cihazlardaki uygulamaların bu cihazdaki uygulamaları keşfetmesine için izin ver</string>
+  <string name="nsd_quick_toggle_summary">Diğer cihazlardaki uygulamaların bu cihazdaki uygulamaları keşfetmesine izin ver</string>
   <string name="nsd_quick_toggle_title">Şebeke servisi keşfi</string>
   <string name="oem_radio_info_label">"OEM\'e Özgü Bilgiler, Ayarlar"</string>
   <string name="onscreen_keyboard_settings_summary">Ekran klavyesi ayarları</string>
@@ -1228,7 +1228,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_cancel_missed_calls">Cevapsız çağrı kayıtlarını temizleme</string>
   <string name="perm_hips_contact_access">Kişi listenizi okuma</string>
   <string name="perm_hips_desc"> %1$d uygulama güvenlik için izleniyor</string>
-  <string name="perm_hips_desc1">Güvenlik ve gizlilik için uygulamalar İzleme</string>
+  <string name="perm_hips_desc1">Güvenlik ve gizlilik için uygulamaları izleme</string>
   <string name="perm_hips_desc2">%1$d uygulama güvenlik için izleniyor</string>
   <string name="perm_hips_disable_content">"Kapatılırsa MIUI güvenlik ve gizlilik için izleme yapmayı durduracak, kapatmak istiyor musunuz?"</string>
   <string name="perm_hips_disable_title">Yetki İzleme</string>
@@ -1242,7 +1242,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_group_pim">Kişisel bilgiler</string>
   <string name="perm_hips_group_root">ROOT</string>
   <string name="perm_hips_listen_call_state">Çağrı durumu izleme</string>
-  <string name="perm_hips_location_access">bulunduğunuz konumu alma</string>
+  <string name="perm_hips_location_access">Bulunduğunuz konumu alma</string>
   <string name="perm_hips_location_cell_location">Hücresel konumunuzu alma</string>
   <string name="perm_hips_location_cellinfo">Hücresel konumunuzu alma</string>
   <string name="perm_hips_location_monitor">Konumunuzu izleme</string>
@@ -1251,7 +1251,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_location_source_network">Kaynak: Şebeke</string>
   <string name="perm_hips_mobile_network">Mobil Şebeke</string>
   <string name="perm_hips_mobile_network_desc">Mobil Şebeke</string>
-  <string name="perm_hips_mobile_network_hint">%1$s mobil ağ üzerinden Internet\'e erişmek için izin veridi</string>
+  <string name="perm_hips_mobile_network_hint">%1$s mobil ağ üzerinden Internet\'e erişmek için izin verildi</string>
   <string name="perm_hips_network_accept"> %1$s bağlantısını kabul etme</string>
   <string name="perm_hips_network_connect"> %1$s bağlanma</string>
   <string name="perm_hips_network_listen"> %1$s port dinleme</string>
@@ -1305,7 +1305,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_loading">Yükleniyor...</string>
   <string name="perm_log">Günlükler</string>
   <string name="perm_log_clear_content">Tüm kayıtlar silinecektir. Bunu etkinleştirmek ister misiniz?</string>
-  <string name="perm_log_clear_title">Günlükleri temizletemizle</string>
+  <string name="perm_log_clear_title">Günlükleri temizle</string>
   <string name="perm_monitored_app">İzlenen uygulamalar (%1$d)</string>
   <string name="perm_notice">Güvenlik Uyarısı</string>
   <string name="perm_operating">Uygulanıyor...</string>
@@ -1348,7 +1348,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_sysopt_boost_boot">Boot</string>
   <string name="perm_sysopt_boost_receiver">Arka plan</string>
   <string name="perm_system_app">Sistem Uygulamaları (%d)</string>
-  <string name="perm_system_app_label">[Sisyem uyg]</string>
+  <string name="perm_system_app_label">[Sistem uyg]</string>
   <string name="perm_trusted_app">Güvenilir uygulamalar (%1$d)</string>
   <string name="perm_update">Yazılımı güncelle</string>
   <string name="perm_user_app">İndirilen uygulamalar (%d)</string>
@@ -1376,7 +1376,7 @@ please follow the steps to complete installation"</string>
   <string name="pointer_settings_category">Fare/dokunmatik alan</string>
   <string name="pointer_speed">İşaretçi hızı</string>
   <string name="power_bluetooth">Bluetooth</string>
-  <string name="power_cell">Telefon beklemesi</string>
+  <string name="power_cell">Telefon beklemede</string>
   <string name="power_idle">Telefon boşta</string>
   <string name="power_phone">Sesli aramalar</string>
   <string name="power_mode">Güç modu</string>
@@ -1461,13 +1461,13 @@ please follow the steps to complete installation"</string>
   <string name="radioInfo_phone_idle">Boşta</string>
   <string name="radioInfo_phone_offhook">Çağrı sürüyor</string>
   <string name="radioInfo_phone_ringing">Çalıyor</string>
-  <string name="radioInfo_roaming_in">Dolaşım</string>
+  <string name="radioInfo_roaming_in">Dolaşımda</string>
   <string name="radioInfo_roaming_not">Dolaşımda değil</string>
   <string name="radioInfo_service_emergency">Yalnızca acil çağrılar için</string>
   <string name="radioInfo_service_in">Hizmette</string>
   <string name="radioInfo_service_off">Radyo kapalı</string>
   <string name="radioInfo_service_out">Hizmet dışı</string>
-  <string name="radioInfo_unknown">bilinmiyor</string>
+  <string name="radioInfo_unknown">Bilinmiyor</string>
   <string name="radio_controls_summary">Kablosuz, Bluetooth, uçak modu, mobil ağ ve VPN özelliklerini yönet</string>
   <string name="radio_controls_title">Diğer…</string>
   <string name="radio_info_band_mode_label">Radyo bandını seç</string>
@@ -1530,7 +1530,7 @@ please follow the steps to complete installation"</string>
   <string name="roaming_reenable_title">Dikkat</string>
   <string name="roaming_turn_it_on_button">Açın</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Kayda değer dolaşım ücretleri ödeyebilirsiniz!</string>
-    <string name="roaming_warning_multiuser">"Veri dolaşımına izin verdiğinizde, size önemli dolaşım ücretlerine neden olabilir!
+    <string name="roaming_warning_multiuser">"Veri dolaşımına izin vermeniz, size önemli dolaşım ücretlerine neden olabilir!
 
 Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="rssi_label">RSSI:</string>
@@ -1749,7 +1749,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="sms_over_ims_on">"IMS üzerinden SMS'i aç"</string>
   <string name="sms_received_sound_dialog_title">SMS alındı bildirimi sesini seçin</string>
   <string name="sms_received_sound_title">SMS Alındı bildirimi sesi</string>
-  <string name="sms_summary">SMS göndermek içinabonelik seçin</string>
+  <string name="sms_summary">SMS göndermek için abonelik seçin</string>
   <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Ada göre sırala</string>
   <string name="sort_order_size">Boyuta göre sırala</string>
@@ -1782,7 +1782,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="status_operator">Ağ</string>
   <string name="status_prl_version">PRL Sürümü</string>
   <string name="status_roaming">Dolaşım</string>
-  <string name="status_serial_number">Seri numara</string>
+  <string name="status_serial_number">Seri numarası</string>
   <string name="status_service_state">Hizmet durumu</string>
   <string name="status_signal_strength">Sinyal gücü</string>
   <string name="status_unavailable">Kullanılamıyor</string>
@@ -2133,7 +2133,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="vpn_not_used">(kullanılmıyor)</string>
   <string name="vpn_password">Şifre</string>
   <string name="vpn_routes">Rotalar yönlendiriliyor (ör. 10.0.0.0/8)</string>
-  <string name="vpn_safe">Güenlik</string>
+  <string name="vpn_safe">Güvenlik</string>
   <string name="vpn_save">Kaydet</string>
   <string name="vpn_save_login">Hesap bilgilerini kaydet</string>
   <string name="vpn_search_domains">DNS arama alan adları</string>
@@ -2388,7 +2388,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_wapi_cert_uninstall">WAPI Sertifikasını Kaldır</string>
   <string name="wifi_wapi_cert_uninstall_button">Uninstall</string>
   <string name="wifi_wapi_certification_dont_exist">The network password you entered is not correct. Please try again.</string>
-  <string name="wifi_wapi_user_cert">Kullanıcı serifikası</string>
+  <string name="wifi_wapi_user_cert">Kullanıcı serftikası</string>
   <string name="wifi_wps_available_first_item">Korumalı ağ kullanılabilir</string>
   <string name="wifi_wps_available_second_item">" (korumalı ağ kullanılabilir)"</string>
   <string name="wifi_wps_complete">WPS başarılı. Ağa bağlanıyor...</string>
