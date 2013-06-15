@@ -77,7 +77,7 @@
   <string name="crop">Kırp</string>
   <string name="crop_fail_to_load_image">Kırpma işlemi için resim yükleme başarısız!</string>
   <string name="crop_label">Resmi Kırp</string>
-  <string name="crop_save_text">Kırp</string>
+  <string name="crop_save_text">Kaydet</string>
   <string name="crop_tooltip">Fotoyu kırpmak için işaretçileri sürükleyin</string>
   <string name="crossprocess">Çapraz işlem</string>
   <string name="cut">Kırp</string>
@@ -260,7 +260,7 @@
   <string name="set_lock_or_wallpaper">Duvar kağıdı yap</string>
   <string name="set_lockscreen">Kilit ekranı duvar kağıdı yap</string>
   <string name="set_recent_album">Sık kullanılan albüm yap</string>
-  <string name="set_wallpaper">Masaüstü duvar kağıdı olarak ayarla</string>
+  <string name="set_wallpaper">Duvar kağıdı uygulanıyor...</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_i_xiaomi_com">i.xiaomi.com\'a giriş yaparak Cloud deponuzu yönetibilirsiniz</string>
   <string name="shadow">Gölgeler</string>
