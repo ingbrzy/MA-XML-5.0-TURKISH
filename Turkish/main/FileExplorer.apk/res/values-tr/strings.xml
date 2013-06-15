@@ -144,7 +144,7 @@ Artık dosya"</string>
   <string name="migrate_announcement_msg">Eğer hesabınız varsa, tercih ve ayarları bağlayabilirsiniz</string>
   <string name="migrate_announcement_title">Hesap taşıma</string>
   <string name="move_failed">Taşınamadı</string>
-  <string name="multi_select_title">Seçinlenler %1$s </string>
+  <string name="multi_select_title">Seçilenler %1$s </string>
   <string name="name_illegal">Dosya ismi boş değil</string>
   <string name="net_lose_connected">Ağ bağlantısı yok, boyut alınamıyor!</string>
   <string name="networkView_notConnected">Ağ bağlantısı yok!</string>
@@ -186,7 +186,7 @@ Artık dosya"</string>
   <string name="operation_deleting_detail">Dosyalar siliniyor (%1$d/%2$d)</string>
   <string name="operation_download_link">İndirme linki oluştur</string>
   <string name="operation_favorite">Favorilere ekle</string>
-  <string name="operation_hide_sys">dosyaları gizle</string>
+  <string name="operation_hide_sys">Dosyaları gizle</string>
   <string name="operation_info">Detaylar</string>
   <string name="operation_move">Taşı</string>
   <string name="operation_moving">Taşınıyor...</string>
@@ -246,8 +246,8 @@ Artık dosya"</string>
   <string name="temp_file_title">Çerez dosyaları</string>
   <string name="thumbnail_cleanup_indication">%s önizlemeler</string>
   <string name="thumbnail_title">Önizleme dosyaları</string>
-  <string name="toast_file_not_can_read">Dosya pkunamıyor ya da bozuk.</string>
-  <string name="trans_task">Network transfer</string>
+  <string name="toast_file_not_can_read">Dosya okunamıyor ya da bozuk.</string>
+  <string name="trans_task">Ağ transferi</string>
   <string name="trans_task_delete_confirm_message">Seçilen %1$d görev silinsin mi?</string>
   <string name="transing">Transfer ediliyor...</string>
   <string name="trash_box_capacity">Çöp alanı: %1$s</string>
@@ -269,7 +269,7 @@ Artık dosya"</string>
   <string name="uploading">Yükleniyor...</string>
   <string name="used">Kullanılan</string>
   <string name="user_guide">Kullanım kılavuzu</string>
-  <string name="user_guide_download_other_version">"PC veya MAC için MiDriveindir"</string>
+  <string name="user_guide_download_other_version">"PC veya MAC için MiDrive indir"</string>
   <string name="user_guide_kuaipan_copy">"MiDrive kullanarak dosyalarını paylaş"</string>
   <string name="user_guide_other_version">MiDrive\'ı indir</string>
   <string name="user_guide_summary">MiDrive nasıl kullanılır</string>
