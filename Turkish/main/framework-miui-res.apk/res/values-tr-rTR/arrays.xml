@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="mobile_operator_display_names">
-        <item>TURKCELL TR</item>
-        <item>VODAFONE TR</item>
-        <item>AVEA TR</item>
-    </string-array>
-    <string-array name="mobile_operator_numeric_values">
-        <item>28601</item>
-        <item>28602</item>
-        <item>28603</item>
-    </string-array>
-    <string-array name="mobile_operator_numeric_equivalencies">
-        <item>28601</item>
-        <item>28602</item>
-        <item>28603</item>
-    </string-array>
-    <string-array name="alarm_in_future">
+     <string-array name="alarm_in_future">
         <item>Bir dakikadan daha az</item>
         <item>Yaklaşık %1$s</item>
         <item>Yaklaşık %2$s</item>
