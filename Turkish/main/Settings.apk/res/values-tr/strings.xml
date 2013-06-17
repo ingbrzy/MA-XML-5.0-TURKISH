@@ -1939,8 +1939,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="unlock_set_unlock_summary">Şifre koruma için bir ekran şifresi belirleyin</string>
   <string name="unmount_inform_text">SD kart bağlantısı kesilecek.</string>
   <string name="untitled_apn">Başlıksız</string>
-  <string name="upload_debug_log_summary">Upload debug log only when WLAN connection available to help MIUI team develop a more stable ROM.</string>
-  <string name="upload_debug_log_title">Upload debug log</string>
+  <string name="upload_debug_log_summary">Xiaomi\'ye tanı ve kullanım verilerini göndererek, daha stabil ROM geliştirilmesine yardımcı olursunuz</string>
+  <string name="upload_debug_log_title">Hata ayıklama kaydı gönder</string>
   <string name="usage_log">Uygulama kullanım istatistikleri</string>
   <string name="usage_name_percent">%1$s - %2$s%%</string>
   <string name="usage_stats_label">Kullanım istatistikleri</string>

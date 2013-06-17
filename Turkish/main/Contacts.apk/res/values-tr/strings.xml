@@ -41,7 +41,7 @@
   <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
   <string name="blurbJoinContactDataWith">%s ile birleştirmek istediğiniz kişiyi seçin:</string>
   <string name="btn_delete_multi_contacts">%d kişiyi sil</string>
-  <string name="btn_delete_one_contact">Kişi sil</string>
+  <string name="btn_delete_one_contact">Kişiyi sil</string>
   <string name="btn_rotation">Döndürme</string>
   <string name="btn_split_contact">Farklı kişi</string>
   <string name="button_cancel_scan">Durdur</string>
