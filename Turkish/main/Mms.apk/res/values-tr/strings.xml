@@ -443,6 +443,7 @@
   <string name="too_many_recipients">Bu mesajın çok fazla alıcısı var (%1$s). En fazla %2$s alıcı olabilir.</string>
   <string name="too_many_unsent_mms">Mesaj şu anda gönderilemiyor. Gönderilmemiş çok fazla multimedya mesajı var.</string>
   <string name="try_to_send">Göndermeyi dene</string>
+  <string name="type_attachment">ek</string> 
   <string name="type_audio">ses</string>
   <string name="type_picture">resim</string>
   <string name="type_to_compose_text_enter_to_send">Mesaj yazın</string>

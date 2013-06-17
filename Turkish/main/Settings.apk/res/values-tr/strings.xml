@@ -2412,6 +2412,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wps_connect_summary">Yönlendiricinizin WPS desteklediğinden emin olun</string>
   <string name="wps_connect_title">WPS kullanarak bağlan</string>
   <string name="xiaomi_account">Xiaomi Hesabı</string>
+  <string name="xiaomi_cloud_service">Xiaomi Cloud Hizmeti</string> 
   <string name="yes">TAMAM</string>
   <string name="zone_auto">Otomatik saat dilimi</string>
   <string name="zone_auto_summaryOff">Ağ tarafından sağlanan saat dilimini kullan</string>
