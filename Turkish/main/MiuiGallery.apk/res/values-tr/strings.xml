@@ -48,7 +48,7 @@
   <string name="cloud_albums">Cloud Albümleri</string>
   <string name="cloud_camera_display_name">Kritersiz</string>
   <string name="cloud_gallery_no_pictures">MiCloud da resim bulunamadı</string>
-  <string name="cloud_gallery_recyclebin_full">Cloud çöp kutusu doldu, i.xiaomi.com\'i ziyaret ederek boş çöp kutusu lütfen.</string>
+  <string name="cloud_gallery_recyclebin_full">Cloud çöp kutusu doldu, i.xiaomi.com\'u ziyaret ederek çop kutunuzu boşaltın.</string>
   <string name="cloud_gallery_space_full">Yükleme başarısız!, Cloud galerisi tamamen dolu!</string>
   <string name="cloud_media_set_set">Cloud Albümleri</string>
   <string name="cloud_screenshots_display_name">Ekran Görüntüleri</string>
@@ -57,7 +57,7 @@
   <string name="cloud_tab_locations">Konumlar</string>
   <string name="cloudfolder_already_exists">Cloud klasörü zaten var</string>
   <string name="confirm_delete">Sil</string>
-  <string name="confirm_delete_album" formatted="false"> %s bu albüm silinsin mi ( %s öğe içeriyor)?</string>
+  <string name="confirm_delete_album" formatted="false"> %s albümü silinsin mi ( %s öğe içeriyor)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s resim  %s albüm, Silmek istiyor musunuz?</string>
   <string name="confirm_delete_folders_and_pictures">Silmek istiyor musunuz %s?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s klasör (içeriyor %s)</string>
@@ -131,7 +131,7 @@
   <string name="frame_white">Beyaz</string>
   <string name="gallery_cloud_provider_name">Galeri</string>
   <string name="global_setting">Ayarlar</string>
-  <string name="grain">Film tanes,</string>
+  <string name="grain">Film tanesi</string>
   <string name="grayscale">B&amp;W</string>
   <string name="group_by">Gruba göre</string>
   <string name="group_by_album">Albüme göre</string>
@@ -141,12 +141,12 @@
   <string name="group_by_time">Süreye göre</string>
   <string name="height">Yükseklik</string>
   <string name="highlight">Önemli</string>
-  <string name="home_my_captured_items">toplam foto</string>
+  <string name="home_my_captured_items">Toplam foto</string>
   <string name="how_many_pics">%d foto</string>
   <string name="how_many_sub_folders">%d klasör</string>
   <string name="how_many_videos">%d Video</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
-  <string name="import_complete">İçe aktarım tamamlandı</string>
+  <string name="import_complete">İçe aktarma tamamlandı</string>
   <string name="import_fail">İçe aktarma başarısız!</string>
   <string name="initial_cloud_button_text">MiCloud\'u kullanmaya başlayın</string>
   <string name="initial_cloud_text">Her zaman ve her yerde, fotolarınızı düzenleyebilir ve görüntüleyebilirsiniz</string>
@@ -205,7 +205,7 @@
   <string name="not_show_hidden_albums">Gizli albümleri gösterme</string>
   <string name="open">Senkronizeyi Aç</string>
   <string name="open_single_image_failure">Resim dosyası açılamadı!</string>
-  <string name="open_sync_title">Senkronize gerekiyor!</string>
+  <string name="open_sync_title">Senkronize etmeniz gerekiyor!</string>
   <string name="operation_refresh">Yenile</string>
   <string name="operation_rename">Adlandır</string>
   <string name="orientation">Yönlendirme</string>

@@ -21,7 +21,7 @@
   <string name="accessibility_state_incognito">Gizli sayfa</string>
   <string name="accessibility_transition_navscreen">Sekme yönetimi</string>
   <string name="account">Hesap</string>
-  <string name="account_chooser_dialog_title">Hesap seçin</string>
+  <string name="account_chooser_dialog_title">Hesabı seçin</string>
   <string name="action">Oturum açın</string>
   <string name="add_bookmark">Yerimi Ekle</string>
   <string name="add_bookmark_short">Ekle</string>
@@ -99,7 +99,7 @@
   <string name="contextheader_folder_empty">Boş klasör</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
-  <string name="contextmenu_copylink">"Bağlantı URL'sini kopyala"</string>
+  <string name="contextmenu_copylink">"Bağlantı URL\'sini kopyala"</string>
   <string name="contextmenu_dial_dot">Ara...</string>
   <string name="contextmenu_download_image">Görseli kaydet</string>
   <string name="contextmenu_download_image_as">Görseli farklı kaydet</string>
@@ -113,7 +113,7 @@
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_view_image">Görseli görüntüle</string>
   <string name="copy_page_url">"Sayfa URL'sini kopyala"</string>
-  <string name="crash_recovcery_message">Browser exited abnormally. Do you want to recover last browser session?</string>
+  <string name="crash_recovcery_message">Tarayıcıdan anormal olarak çıkıldı. En son tarayıcı oturumunu kurtarmak istiyor musunuz?</string>
   <string name="create_shortcut_bookmark">Ana ekrana kısayol ekle</string>
   <string name="current_page">"kaynak: "</string>
   <string name="defaultBookmarksUpButton">Yer işaretleri</string>
@@ -200,12 +200,12 @@
   <string name="importing_favorite_files">Veri alınıyor ...</string>
   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Anında Arama ile Google (Labs)</string>
-  <string name="is_first_history_item">İlk geçmişi öğesi zaten</string>
-  <string name="is_first_tab">Ilk sekme zaten</string>
-  <string name="is_last_history_item">Son geçmişi öğesi zaten</string>
-  <string name="is_last_tab">Son sekme zaten</string>
-  <string name="is_page_bottom">Zaten sayfa altındaki</string>
-  <string name="is_page_top">Zaten sayfa üstündeki</string>
+  <string name="is_first_history_item">İlk geçmiş öğesi </string>
+  <string name="is_first_tab">Ilk sekme </string>
+  <string name="is_last_history_item">Son geçmiş öğesi </string>
+  <string name="is_last_tab">Son sekme </string>
+  <string name="is_page_bottom">Sayfanın altındaki</string>
+  <string name="is_page_top">Sayfanın üstündeki</string>
   <string name="js_engine_flags">JS bayrağını ayarla</string>
   <string name="loadSuspended">Tarayıcı, internet bağlantısı olmadığı için bu sayfayı yükleyemiyor.</string>
   <string name="loadSuspendedTitle">Bağlantı yok</string>
@@ -218,7 +218,7 @@
   <string name="menu_enable_night_mode">Gece modunu aç</string>
   <string name="menu_exit">Çıkış</string>
   <string name="menu_preferences">Ayarlar</string>
-  <string name="menu_save_snapshot">Çevrimdışı okuma için kaydet</string>
+  <string name="menu_save_snapshot">Çevrimdışı okumak için kaydet</string>
   <string name="menu_share_url">Paylaş</string>
   <string name="menu_view_download">İndirme işlemleri</string>
   <string name="miui_yellowpage_category">Kategori</string>
@@ -261,9 +261,9 @@
   <string name="pref_confirm_for_exit">Çıkarken onay iste</string>
   <string name="pref_content_autofit">Sayfaları otomatik sığdır</string>
   <string name="pref_content_autofit_summary">Web sayfalarını ekrana sığacak şekilde biçimlendir</string>
-  <string name="pref_content_block_popups">"Pop-up'ları engelle"</string>
+  <string name="pref_content_block_popups">"Pop-up\'ları engelle"</string>
   <string name="pref_content_homepage">Ana sayfayı ayarla</string>
-  <string name="pref_content_javascript">"JavaScript'i etkinleştir"</string>
+  <string name="pref_content_javascript">"JavaScript\'i etkinleştir"</string>
   <string name="pref_content_load_images">Görselleri yükle</string>
   <string name="pref_content_load_images_summary">Web sayfalarındaki görselleri görüntüle</string>
   <string name="pref_content_load_page">Sayfaları genel görünümde aç</string>
@@ -272,8 +272,8 @@
   <string name="pref_content_open_in_background">Arka planda aç</string>
   <string name="pref_content_open_in_background_summary">Yeni sekmeleri mevcut sekmenin arkasında aç</string>
   <string name="pref_content_plugins">Eklentileri etkinleştir</string>
-  <string name="pref_content_search_engine">Arama motoru ayarlayın</string>
-  <string name="pref_content_search_engine_summary">Arama motoru seçin</string>
+  <string name="pref_content_search_engine">Arama motorunu ayarlayın</string>
+  <string name="pref_content_search_engine_summary">Arama motorunu seçin</string>
   <string name="pref_content_title">Sayfa içeriği</string>
   <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Arama sonucunu önyükleme</string>
@@ -301,12 +301,12 @@
   <string name="pref_development_title">Hata ayıklama</string>
   <string name="pref_development_trace">İzleri etkinleştir</string>
   <string name="pref_development_uastring">UAString</string>
-  <string name="pref_development_viewport">Geniş görünümü kullanın</string>
-  <string name="pref_development_visual_indicator">Görsel Göstergeyi etkinleştir</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_summary">Aktif ederseniz son sekme kapandığından tarayıcıdan çıkılır</string>
+  <string name="pref_development_viewport">Geniş görünümü kullan</string>
+  <string name="pref_development_visual_indicator">Görsel göstergeyi etkinleştir</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_summary">Etkinleştirirseniz son sekme kapandığında tarayıcıdan otomatik olarak çıkılır</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Son sekme kapanınca çıkış</string>
-  <string name="pref_extras_reset_default">Varsayılana sıfırla</string>
-  <string name="pref_extras_reset_default_dlg">Ayarlar, varsayılan değerlere geri döndürülsün mü?</string>
+  <string name="pref_extras_reset_default">Varsayılan ayarlara sıfırla</string>
+  <string name="pref_extras_reset_default_dlg">Ayarlar, varsayılan değerlere geri yüklensin mi?</string>
   <string name="pref_extras_reset_default_summary">Varsayılan ayarları geri yükle</string>
   <string name="pref_extras_reset_default_title">Varsayılanları sıfırla</string>
   <string name="pref_extras_title">Gelişmiş</string>
@@ -474,7 +474,7 @@
   <string name="webstorage_clear_data_dialog_message">Bu web sitesi tarafından depolanan tüm veriler silinsin mi?</string>
   <string name="webstorage_clear_data_dialog_ok_button">Tamam</string>
   <string name="webstorage_clear_data_title">Depolanmış verileri temizle</string>
-  <string name="webstorage_origin_summary_mb_stored">Telefonunuzda depolanan MB</string>
-  <string name="webstorage_outofspace_notification_text">Yer boşaltmak için dokunun.</string>
+  <string name="webstorage_origin_summary_mb_stored">MB Telefonunuzda depolama verileri bulunuyor</string>
+  <string name="webstorage_outofspace_notification_text">Yer açmak için dokunun.</string>
   <string name="webstorage_outofspace_notification_title">Tarayıcı deposu dolu</string>
 </resources>

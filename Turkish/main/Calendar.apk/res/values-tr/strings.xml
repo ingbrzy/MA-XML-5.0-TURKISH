@@ -143,8 +143,8 @@
   <string name="preferences_reminder_title">Hatırlatıcı ayarları</string>
   <string name="preferences_show_week_num_title">Hafta sayısını göster</string>
   <string name="preferences_title">Ayarlar</string>
-  <string name="preferences_use_home_tz_descrip">Displays calendars and event times in your home time zone when traveling</string>
-  <string name="preferences_use_home_tz_title">Use home time zone</string>
+  <string name="preferences_use_home_tz_descrip">Kendi zaman diliminizde seyahat ederken, takvim ve olayları görüntüler</string>
+  <string name="preferences_use_home_tz_title">Zaman dilimini kullan</string>
   <string name="preferences_week_start_day_default">-1</string>
   <string name="preferences_week_start_day_dialog">Hafta şu günde başlar</string>
   <string name="preferences_week_start_day_title">Hafta şu günde başlar</string>

@@ -23,7 +23,7 @@
     <string name="cancel_download_buton_text">Vazgeç</string>
     <string name="check_update">Güncellemeri kontrol et</string>
     <string name="check_update_policy">Güncellemeleri Kontrol et</string>
-    <string name="check_update_when_wifi_available">Sadece Wi-fi ile</string>
+    <string name="check_update_when_wifi_available">Sadece Wi-Fi ile</string>
     <string name="checking_for_updates">Güncellemeler kontrol ediliyor...</string>
     <string name="choose_recommend">Tavsiye isteyip istemediğinizi seçiniz</string>
     <string name="confirm_download_cancelation_dialog_message">Geçerli İndirmeyi iptal etmek istediğinize emin misiniz?</string>
@@ -39,14 +39,14 @@
     <string name="download_whole_rom">FULL ROM\'u indir (%s)</string>
     <string name="downloading_description">İndiriliyor...</string>
     <string name="emegency_build">Yapım:</string>
-    <string name="exception_while_downloading">Güncelleme indirilirken Hata oluştu</string>
+    <string name="exception_while_downloading">Güncelleme indirilirken hata oluştu</string>
     <string name="expect">4. Beklentiler</string>
     <string name="experimental_build">Deneysel Yapı</string>
     <string name="file_not_found_error_message">İstenilen dosya sunucuda bulunamadı</string>
     <string name="finish">Bitti</string>
     <string name="finish_download">İndirme tamamlandı</string>
     <string name="get_update_error">Güncelleme bilgilerini alma başarısız oldu</string>
-    <string name="install_email">E-mail uygulamasını kur</string>
+    <string name="install_email">E-posta uygulamasını kur</string>
     <string name="install_file_explorer">Lütfen dosya yönetici kurun</string>
     <string name="install_qq">QQ uygulamasını kur</string>
     <string name="install_rom_from_sd">Kurulum paketini seçin</string>
@@ -61,9 +61,9 @@
     <string name="mione_update_fail_title">Güncelleme başarısız</string>
     <string name="mione_update_success_title">Güncelleme tamamlandı</string>
     <string name="monthly_build">Aylık yapı</string>
-    <string name="move_data_to_sdcard_not_enough_space_message">seçilen %dMB veriyi taşımak için SD card da yeterli boşluk yok</string>
-    <string name="move_data_to_sdcard_title">Veriyi SD card\'a taşı</string>
-    <string name="moving_data_to_sdcard_message">"Veri SD karta aktarılıyor, Lütfen USB modunu açmayınız veya SD card'ı çıkartmayınız."</string>
+    <string name="move_data_to_sdcard_not_enough_space_message">Seçilen %dMB veriyi taşımak için SD kartta yeterli boş alan yok</string>
+    <string name="move_data_to_sdcard_title">Veriyi SD karta taşı</string>
+    <string name="moving_data_to_sdcard_message">"Veri SD karta aktarılıyor, Lütfen USB modunu açmayınız veya SD kartı çıkartmayınız."</string>
     <string name="moving_data_to_sdcard_progress_format">%2$dKb da %1$ddKb aktarıldı</string>
     <string name="my_best_update">En iyi gücellemem</string>
     <string name="my_expect_update">Beklenen güncelemem</string>
@@ -74,7 +74,7 @@
     <string name="new_update_content_title">Yeni versiyon Mevcut</string>
     <string name="new_update_download_complete_body">Güncellenebilir yeni sürüm:%s</string>
     <string name="new_update_downloading_body">Yeni versiyon indiriliyor:%s</string>
-    <string name="new_updates_found_notification_title">System güncellemesi mevcut!</string>
+    <string name="new_updates_found_notification_title">Sistem güncellemesi mevcut!</string>
     <string name="new_updates_found_title">Güncelleme kullanılabilir</string>
     <string name="next">İleri</string>
     <string name="no_proper_updates">Şuanda yüklü olan versiyon için güncelleme bulunamadı</string>
@@ -84,7 +84,7 @@
     <string name="no_updates_warning2">Uygulama ileride güncellemeleri size bildirir</string>
     <string name="not_recommend">"Önerilmez"</string>
     <string name="paused_queued_for_network">Ağ bağlantısı için bekleniyor</string>
-    <string name="paused_queued_for_wifi">Wi-Fi için bekleniyor</string>
+    <string name="paused_queued_for_wifi">Wi-Fi bağlantısı bekleniyor</string>
     <string name="previous">Önceki</string>
     <string name="reboot_later">Daha sonra yeniden başlat</string>
     <string name="reboot_now">Şimdi yeniden başlat</string>
@@ -93,10 +93,10 @@
     <string name="recommend_comment_hint">Sebep (Tercihe bağlı)</string>
     <string name="recommend_vote_title">MIUI Beta Takım Anketi</string>
     <string name="refuse_recommend_reason">Lütfen sebebinizi yazın</string>
-    <string name="sdcard_has_no_space_dialog_body">SD cardda yeterli alan yok,bu işlem için daha fazla alana ihtiyac var</string>
-    <string name="sdcard_has_no_space_dialog_title">Sd cardda yetersiz alan</string>
-    <string name="sdcard_is_not_present_dialog_body">Sd card takılı değil veya okunabilir değil,Lütfen tekrar deneyin</string>
-    <string name="sdcard_is_not_present_dialog_title">SD card bulunamadı</string>
+    <string name="sdcard_has_no_space_dialog_body">SD kartta yeterli alan yok,bu işlem için daha fazla alana ihtiyac var</string>
+    <string name="sdcard_has_no_space_dialog_title">Sd kartta yetersiz alan</string>
+    <string name="sdcard_is_not_present_dialog_body">Sd kart takılı değil veya okunabilir değil,Lütfen tekrar deneyin</string>
+    <string name="sdcard_is_not_present_dialog_title">SD kart bulunamadı</string>
     <string name="send_install_log">Hata günlüğü gönder</string>
     <string name="send_install_log_error">Hata günlüğü gönderme başarısız</string>
     <string name="share">Paylaş</string>
@@ -139,13 +139,13 @@
     <string name="update_success_title">Tebrikler.Güncelleme tamamlandı</string>
     <string name="upgrade_close">Kapat</string>
     <string name="upgrade_kernel">Kernelinizi güncelleniz gerekiyor</string>
-    <string name="upgrade_kernel_msg">"Kernel versiyonunuz MIUI ROM ile eşleşmiyor. Manuel olarak kerneli güncellemeliyiniz. Lütfen yükseltmeyi öğrenmek için izleyin:"</string>
+    <string name="upgrade_kernel_msg">"Kernel versiyonunuz MIUI ROM ile eşleşmiyor. Manuel olarak kerneli güncellemelisiniz. Lütfen yükseltmeyi öğrenmek için izleyin:"</string>
     <string name="verify_and_apply_dialog_message">MD5 karşılaştırması doğrulanıyor ...</string>
     <string name="verify_and_apply_dialog_title">Dosya bütünlüğünü kontrol edin</string>
     <string name="view_install_log">Hata günlüğünü görüntüle</string>
     <string name="view_upgrade_tutorial">Öğreticiyi görüntüle</string>
     <string name="weekly_build">Haftalık yapı</string>
     <string name="wifi_not_available_body">Bu dosya boyutları büyük olabilir.Güncellemeleri indirmek için Wi-Fi kullanımı tavsiye edilir.Şuanda Wi-Fi kullanmıyorsunuz, Devam etmek istiyormusunuz?</string>
-    <string name="wifi_not_available_title">Wi-Fi bağlanmadı</string>
+    <string name="wifi_not_available_title">Wi-Fi bağlantısı yok</string>
     <string name="worst_update">3. En kötü güncelleme</string>
 </resources>

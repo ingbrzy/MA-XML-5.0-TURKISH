@@ -533,7 +533,7 @@
   <string name="nicknameLabelsGroup">Takma ad</string>
   <string name="nickname_picker_name_column">Kişi adı</string>
   <string name="nickname_picker_nickname_column">Başlık</string>
-  <string name="noAccounts">Grup oluşturmanız için hesap gerekir.</string>
+  <string name="noAccounts">Grup oluşturmanız için hesabınız olması gerekir.</string>
   <string name="noContactHelpTextAccountsInfo">Google ile eşitleyin, kişilerinizi görüntüleyin.</string>
   <string name="noContactHelpTextImportXiaomiAccountInfo">MiTalk ve Xiaomi hesabına yedeklenmiş bilgiyi geri yükle</string>
   <string name="noContacts">Hiçbir kişi yok.</string>
@@ -606,7 +606,7 @@ Favoriler listenize kişi eklemek için:
   <string name="pick_recent_contacts_list_title">%1$d toplam sık arananlar</string>
   <string name="pick_recent_list_title">%1$d toplam sık aranan numaraları</string>
   <string name="pickerNewContactHeader">Yeni kişi oluştur</string>
-  <string name="pickerNewContactText">yeni kişi oluştur</string>
+  <string name="pickerNewContactText">Yeni kişi oluştur</string>
   <string name="picker_all_list_empty">Kişi yok</string>
   <string name="picker_contact_title">Lütfen Bir kişi seçin</string>
   <string name="picker_email_title">Lütfen bir Eposta seçin</string>
@@ -646,8 +646,8 @@ Favoriler listenize kişi eklemek için:
   <string name="preference_dial_pad_touch_tone_piano">Piyano sesi</string>
   <string name="preference_dial_pad_touch_tone_switch">Tuş takımı dokunma sesleri</string>
   <string name="preference_dial_pad_touch_tone_title">Tuş takımı dokunma sesleri</string>
-  <string name="preference_display">Ekran</string>
-  <string name="preference_displayOptions">Ekran ayarları</string>
+  <string name="preference_display">Görünüm</string>
+  <string name="preference_displayOptions">Görünüm ayarları</string>
   <string name="preference_export">Dışa aktar</string>
   <string name="preference_import">İçe aktar</string>
   <string name="preference_import_export">İçe / Dışa aktar</string>
@@ -737,7 +737,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_price_unit">MI kredi</string>
   <string name="resource_ringtone_default">Zil sesleri</string>
   <string name="resource_see_more">Daha fazla</string>
-  <string name="resource_select">seç</string>
+  <string name="resource_select">Seç</string>
   <string name="resource_server_out_of_service">Sunucu kullanımda değil, daha sonra tekrar deneyin.</string>
   <string name="resource_switch_account">Geçiş yap</string>
   <string name="resource_system_title">Sistem kaynakları</string>
@@ -773,7 +773,7 @@ Favoriler listenize kişi eklemek için:
   <string name="select_none">Hiçbirşey seçilmedi, işlem hatalı</string>
   <string name="select_photo_from_photo_package">Paketten bir fotoğraf seç</string>
   <string name="select_show_contacts">Kişiyi göster</string>
-  <string name="select_vcard_title">vCard dosyası seçin</string>
+  <string name="select_vcard_title">vCard dosyasını seçin</string>
   <string name="send_contact_shortcut_todesktop_success">Kişi başarıyla ev ekranına eklendi</string>
   <string name="send_to_voicemail_checkbox">Sesli mesajlara doğrudan çağrı gönder</string>
   <string name="separatorJoinAggregateAll">Tüm kişiler</string>
@@ -869,7 +869,7 @@ Favoriler listenize kişi eklemek için:
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_contact_name">Bilinmeyen kişi</string>
   <string name="unkown_location">Bilinmeyen bölge</string>
-  <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
+  <string name="upgrade_in_progress">Kişi listesi güncelleniyor...</string>
   <string name="upgrade_out_of_memory_retry">Yeni sürüme geçmeyi tekrar dene</string>
   <string name="upgrade_out_of_memory_uninstall">Bazı uygulamaları kaldırın</string>
   <string name="use_photo_as_primary">Bu fotoğrafı kullan</string>
@@ -881,11 +881,11 @@ Favoriler listenize kişi eklemek için:
   <string name="vcard_import_will_start_message">%s Kısa zamanda içe aktarılacak.</string>
   <string name="vcard_import_request_rejected_message">"vCard'ı içe aktarma isteği reddedildi. Daha sonra tekrar deneyin."</string>
   <string name="vcard_import_will_start_message_with_default_name">Dosya kısa bir süre sonra içe aktarılacaktır.</string>
-  <string name="vcard_unknown_filename">kişi</string>
+  <string name="vcard_unknown_filename">Kişi</string>
   <string name="video_chat">Görüntülü sohbet</string>
   <string name="viewContactDesription">Kişiyi görüntüle</string>
   <string name="viewContactTitle">Kişi ayrıntıları</string>
-  <string name="view_updates_from_group">Gncellmlri görüntüle</string>
+  <string name="view_updates_from_group">Güncellemeleri görüntüle</string>
   <string name="voicemail">Sesli Mesaj</string>
   <string name="voicemail_buffering">Arabelleğe alınıyor...</string>
   <string name="voicemail_fetching_content">Sesli mesaj getiriliyor...</string>

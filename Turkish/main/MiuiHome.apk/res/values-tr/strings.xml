@@ -33,11 +33,11 @@
   <string name="failed_to_drop_widget_nospace">Ekranda yeteri kadar boşluk yok!</string>
   <string name="folder_name">Klasör</string>
   <string name="frame_load_failed">Geçersiz foto çerçevesi, çerçeve yüklenemedi!</string>
-  <string name="free_style_apps_title">Uygulama seç</string>
+  <string name="free_style_apps_title">Uygulamayı seç</string>
   <string name="free_style_drawer_title">Tüm uygulamalar</string>
   <string name="free_style_edit_app">Uygulama</string>
   <string name="free_style_edit_bar_empty">Boş</string>
-  <string name="free_style_edit_bar_select_app">Uygulama seç</string>
+  <string name="free_style_edit_bar_select_app">Uygulamayı seç</string>
   <string name="free_style_edit_bottom_empty_tip">Değiştirmek için dikdörtgene dokunun</string>
   <string name="free_style_edit_drawer">Çekmece</string>
   <string name="free_style_edit_move_tip">Taşımak için basılı tutun</string>
@@ -78,8 +78,8 @@
   <string name="guide_tips_editing_mode">Ekrana eklemek için tıklayıp basılı tutarak ekrana sürükleyin</string>
   <string name="home_indicator">bottom_point</string>
   <string name="install">Yükle</string>
-  <string name="invalid_contact_shortcut">Geçersiz Kişi kısayolu!</string>
-  <string name="loading_desktop">Başlatıcı yüklenirken bekleyin...</string>
+  <string name="invalid_contact_shortcut">Geçersiz kişi kısayolu!</string>
+  <string name="loading_desktop">Başlatıcı yükleniyor...</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_back_desktop">Geri dön</string>
   <string name="menu_edit">Widget\'leri Düzenle</string>
