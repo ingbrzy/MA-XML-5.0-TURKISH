@@ -140,7 +140,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="app_disable_dlg_text">Yerleşik bir uygulamayı devre dışı bırakırsanız bu, diğer uygulamaların hatalı davranmasına neden olabilir. Emin misiniz?</string>
   <string name="app_disable_dlg_title">Yerleşik uygulama devre dışı bırakılsın mı?</string>
   <string name="app_disable_notifications_dlg_text">Bu uygulama için bildirimleri kapatırsanız, güncelleme ve önemli uyarıları alaazsınız.</string>
-  <string name="app_disable_notifications_dlg_title">Bidirimler kapatılsın mı?</string>
+  <string name="app_disable_notifications_dlg_title">Bildirimler kapatılsın mı?</string>
   <string name="app_factory_reset">Güncellemeleri kaldır</string>
   <string name="app_factory_reset_dlg_text">Bu Android sistem uygulaması ile ilgili tüm güncellemeler kaldırılacak.</string>
   <string name="app_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
@@ -2388,7 +2388,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_wapi_cert_uninstall">WAPI Sertifikasını Kaldır</string>
   <string name="wifi_wapi_cert_uninstall_button">Uninstall</string>
   <string name="wifi_wapi_certification_dont_exist">The network password you entered is not correct. Please try again.</string>
-  <string name="wifi_wapi_user_cert">Kullanıcı serftikası</string>
+  <string name="wifi_wapi_user_cert">Kullanıcı sertifikası</string>
   <string name="wifi_wps_available_first_item">Korumalı ağ kullanılabilir</string>
   <string name="wifi_wps_available_second_item">" (korumalı ağ kullanılabilir)"</string>
   <string name="wifi_wps_complete">WPS başarılı. Ağa bağlanıyor...</string>
