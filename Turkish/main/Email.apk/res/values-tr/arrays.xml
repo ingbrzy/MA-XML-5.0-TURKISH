@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Çok küçük yazı tipi</item>
+        <item>Küçük yazı tipi</item>
+        <item>Norml yazı tipi</item>
+        <item>Büyük yazı tipi</item>
+        <item>Çok büyük yazı tipi</item>
+    </string-array>
+	<string-array name="general_preference_auto_advance_summary_array">
+        <item>"Mesajları temizledikten sonra en son mesajları göster"</item>
+        <item>"Mesajları temizledikten sonra daha eski mesajları göster"</item>
+        <item>"Mesajları temizledikten sonra daha eski mesajları göster"</item>
+    </string-array>
+</resources>
