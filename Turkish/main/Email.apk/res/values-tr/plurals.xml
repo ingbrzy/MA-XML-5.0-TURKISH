@@ -34,7 +34,7 @@
         <item quantity="one">Mesaj silinsin mi?</item>
     </plurals>
     <plurals name="message_deleted_toast">
-        <it<item quantity="other">Mesajlar silindi.</item>
+        <item quantity="other">Mesajlar silindi.</item>
         <item quantity="one">Mesaj silindi.</item>>
     </plurals>
     <plurals name="message_moved_toast">
@@ -58,7 +58,7 @@
         <item quantity="one">%d GB</item>
     </plurals>
     <plurals name="gal_completed_fmt">
-        <i <item quantity="other">%2$s öğesinden %1$d sonuç</item>
+        <item quantity="other">%2$s öğesinden %1$d sonuç</item>
         <item quantity="one">%2$s öğesinden %1$d sonuç</item>
     </plurals>
 </resources>
