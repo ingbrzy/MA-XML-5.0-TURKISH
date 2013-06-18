@@ -11,7 +11,7 @@
   <string name="caller_app">Yükleme İsteği: %1$s</string>
   <string name="cancel">İptal</string>
   <string name="dlg_app_replacement_statement">"Bu uygulama başka bir uygulamanın yerine geçecek ve eski kullanıcı verileri kaydedilecek."</string>
-  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü (%3$s) sürümünün yerine geçecek.  Verilerinizi muhafaza edilecektir. Devam etmek istiyor musunuz?"</string> 
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) güncel sürümü, (%3$s) sürümünün yerine geçecek.  Verilerinizi muhafaza edilecektir. Devam etmek istiyor musunuz?"</string> 
   <string name="dlg_app_replacement_title">Yüklü bir uygulamanın yerine geçecek!</string>
   <string name="dlg_ok">Tamam</string>
   <string name="dlg_sys_app_replacement_statement">"Sistem uygulamasının yerine geçecek ve eski veriler kaydedilecek."</string>
@@ -21,12 +21,12 @@
   <string name="install_confirm_question">Uygulama yüklensin mi?</string>
   <string name="install_done">Yüklendi</string>
   <string name="install_failed">Yükleme başarısız!</string>
-  <string name="install_failed_cpu_abi_incompatible">"Uygulama telefonunuzun CPU\'su ile uyumlu değil!"</string>
+  <string name="install_failed_cpu_abi_incompatible">"Uygulama telefonunuzun İşlemcisi ile uyumlu değil!"</string>
   <string name="install_failed_file_not_found">Yüklemenin tamamlanması için belirtilen paket silindi!</string>
-  <string name="install_failed_inconsistent_certificates">Aynı ad ve imzalı bir uygulama zaten yüklenmiş!</string>
+  <string name="install_failed_inconsistent_certificates">Aynı ad ve imzaya sahip bir uygulama zaten yüklenmiş. Mevcut uygulamayı kaldırıp tekrar deneyin!</string>
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor!</string>
   <string name="install_failed_msg">%1$s yüklenemedi!</string>
-  <string name="install_failed_older_sdk">Paket eski sadece android sürümlerinde çalışır!</string>
+  <string name="install_failed_older_sdk">Paket sadece eski Android sürümlerinde çalışır!</string>
   <string name="install_failed_verify_failed">Paket doğrulanamadı, yükleme işlemi iptal edildi!</string>
   <string name="install_failed_verify_timeout">Bu paketi doğrulanırken zaman aşımına uğradı. Daha sonra yeniden deneyin!</string>
   <string name="installing">Yükleniyor...</string>

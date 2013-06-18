@@ -74,10 +74,10 @@
   <string name="auto_country_code_miui">Ülke kodunu otomatik ekle</string>
   <string name="auto_country_code_sum_miui">Bilinen kişilerin telefon numarasından önce ülke kodu ekleyin.</string>
   <string name="auto_ip_add_exception_numbers_miui">Numara ekle</string>
-  <string name="auto_ip_exception_miui">"IP öneki gerektirmeyen Numaralar"</string>
+  <string name="auto_ip_exception_miui">"IP öneki gerektirmeyen numaralar"</string>
   <string name="auto_ip_exception_summary_miui">%d toplam</string>
   <string name="auto_ip_exception_summary_more_miui">,... %d toplam</string>
-  <string name="auto_ip_no_exceptions_miui">"IP öneki gerektirmeyen numaralar ekle"</string>
+  <string name="auto_ip_no_exceptions_miui">"IP öneki gerektirmeyen numara ekle"</string>
   <string name="auto_ip_remove_exception_numbers_confirm_miui">%d numaralar silinsin mi?</string>
   <string name="auto_ip_setting_miui">Otomatik IP ön eki ayarları</string>
   <string name="auto_ip_summary_not_enabled">Etkin değil</string>
@@ -97,7 +97,7 @@
   <string name="auto_retry_mode_summary_miui">Tekrar arama modu açık</string>
   <string name="auto_retry_mode_title">Tekrar ara</string>
   <string name="auto_retry_mode_title_miui">Tekrar ara</string>
-  <string name="autoip_miui">Oto IP Arama</string>
+  <string name="autoip_miui">Otomatik IP Arama</string>
   <string name="autoip_sum_miui">Yabancı bir numaraya IP ön eki ekleyin. Aşağıdaki mevcut alan kodunu girin.</string>
   <string name="back_miui">Geri</string>
   <string name="badPin">Girilen eski PIN kodu doğru değil.</string>
@@ -124,13 +124,13 @@
   <string name="callFailed_outOfService">Kapsama alanı dışında</string>
   <string name="callFailed_out_of_network">Kapsama alanı dışındaki çağrılar</string>
   <string name="callFailed_powerOff">Radyo kapalı</string>
-  <string name="callFailed_server_error">Sunucu hatası tekrar deneyin.</string>
+  <string name="callFailed_server_error">Sunucu hatası tekrar deneyin!</string>
   <string name="callFailed_server_unreachable">Sunucuya ulaşılamıyor!</string>
   <string name="callFailed_simError">SIM kart yok, veya SIM kart hatası!</string>
   <string name="callFailed_timedOut">Zaman aşımına uğradı. Yanıt yok!</string>
-  <string name="callFailed_unobtainable_number">Geçersiz numara</string>
+  <string name="callFailed_unobtainable_number">Geçersiz numara!</string>
   <string name="callFailed_userBusy">Hat meşgul!</string>
-  <string name="callUnanswered_forwarded">Çağrı Cevaplanamadı ve Yönlendirildi</string>
+  <string name="callUnanswered_forwarded">Çağrı cevaplanamadı ve yönlendirildi</string>
   <string name="call_assistant_miui">Arama asistanı</string>
   <string name="call_forwarding_number_hint_miui">Numara gir ve yönlendir</string>
   <string name="call_forwarding_settings">Çağrı yönlendirme ayarları</string>
@@ -198,7 +198,7 @@
   <string name="card_title_in_progress">Geçerli çağrı</string>
   <string name="card_title_incoming_barred">Gelen çağrılar engellendi</string>
   <string name="card_title_incoming_call">Gelen çağrılar</string>
-  <string name="card_title_multipartycall">Çok taraflı arama</string>
+  <string name="card_title_multipartycall">Çok yönlü arama</string>
   <string name="card_title_my_phone_number">Numaram %s</string>
   <string name="card_title_on_hold">Bekleyen</string>
   <string name="card_title_outgoing_barred">Giden çağrılar engellendi</string>
@@ -500,7 +500,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="incall_error_supp_service_switch">Çağrılar arasında geçiş yapılamıyor!</string>
   <string name="incall_error_supp_service_transfer">Çağrı transfer edilemiyor!</string>
   <string name="incall_error_supp_service_unknown">Desteklenmiyor!</string>
-  <string name="incall_screen_background_summary_miui">"Bir avatar olmadığı zaman kilit ekranı duvar kağıdını kullanın"</string>
+  <string name="incall_screen_background_summary_miui">"Kişi fotoğrafı olmadığı zaman kilit ekranı duvar kağıdını kullanın"</string>
   <string name="incall_screen_background_title_miui">Çağrı sırasındaki arka plan resmi</string>
   <string name="incall_status_dialed_mmi">MMI dizi başlatılıyor…</string>
   <string name="international_disable">Yabancı haberler devre dışı</string>
@@ -695,7 +695,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ota_listen">Bu aktivasyon tamamlanana kadar sözlü talimatları izleyin.</string>
   <string name="ota_next">Sonraki</string>
   <string name="ota_progress">Programlama başlarken bekleyin.</string>
-  <string name="ota_skip_activation_dialog_message">"Eğer aktivasyonu atlarsanız, aramaları veya mobil veri ağları (Wi-Fi ağları bağlanabilir olsa da) bağlanamaz. Telefonunuzu etkinleştirene kadar, her zaman etkinleştirme için istenir."</string>
+  <string name="ota_skip_activation_dialog_message">"Eğer aktivasyonu atlarsanız, aramaları veya mobil veri ağları (Wi-Fi ağları bağlanabilir olsa da) bağlanamaz. Telefonunuzu etkinleştirene kadar, sürekli etkinleştirmeniz istenir."</string>
   <string name="ota_skip_activation_dialog_skip_label">Atla</string>
   <string name="ota_skip_activation_dialog_title">Aktivasyon atlansın mı?</string>
   <string name="ota_spc_failure">SPC HATALARI</string>
@@ -991,7 +991,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="sum_fdn_manage_list">Telefon numaralarını yönet</string>
   <string name="sum_gsm_call_settings">Ek sadece GSM çağrı ayarları</string>
   <string name="sum_hide_caller_id">Giden çağrılarda numara gizlendi</string>
-  <string name="sum_loading_settings">Yükleme ayarları…</string>
+  <string name="sum_loading_settings">Ayarlar yükleniyor...</string>
   <string name="sum_search_networks">Kullanılabilir şebekeleri ara</string>
   <string name="sum_select_automatically">Öncelikli şebekeyi otomatik seç</string>
   <string name="sum_select_automatically_option_miui">Öncelikli şebekeyi otomatik seç, %s</string>
