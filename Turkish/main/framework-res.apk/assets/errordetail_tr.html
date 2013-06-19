@@ -1,0 +1,113 @@
+<!DOCTYPE html >
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' />
+		<title>Error details</title>
+		<style>
+*{background-repeat:no-repeat;}
+body, div, dl, dt, dd, ul, ol, li,h1, h2, h3, h4, h5, h6, pre, code,form, fieldset, legend, input, button,textarea, p, blockquote, th, td { margin: 0;padding: 0;color:#000000;}
+fieldset, img {border: 0;}
+:focus {outline: 0;}
+address, caption, cite, code, dfn,em, strong, th, var, optgroup {font-style: normal;font-weight: normal;}
+h1, h2, h3, h4, h5, h6 {font-size: 100%;font-weight: normal;}
+abbr, acronym { border: 0;font-variant: normal;}
+#main{ width: 100%; }
+h2{ font-size: 18px; color: #5a6066; border-bottom: 1px solid #c4c4c4; line-height: 34px; margin-bottom: 4px; font-weight: bold; }
+p{ color: #989898; font-size: 16px; line-height: 24px; }
+.red_span{ color: #ff7200; }
+.item{ padding: 10px; }
+		</style>
+	</head>
+		<body>
+			<div id="main">
+			</div>
+		<script type="text/javascript">
+		var request = {
+
+  			QueryString : function(val) {
+
+  				var uri = window.location.search;
+
+  				var re = new RegExp("" +val+ "=([^&?]*)", "ig");
+
+  				return ((uri.match(re))?(uri.match(re)[0].substr(val.length+1)):null);
+
+  			}
+
+ 		}
+		var json = new Array();
+                var jsonTemp = new Array();
+		jsonTemp[0] = request.QueryString("var");
+		jsonTemp[1] = request.QueryString("var1");
+		jsonTemp[2] = request.QueryString("var2");
+		jsonTemp[3] = request.QueryString("var3");
+		jsonTemp[4] = request.QueryString("var4");
+		jsonTemp[5] = request.QueryString("var5");
+		switch(parseInt(jsonTemp[0])) {
+		    case -2:
+		    case -3:
+		    case -4:
+		    case -5:
+		    case -6:
+		    case -7:
+		    case -9:
+		    case -11:
+		        jsonTemp[1] = "Ağ ayarlarınızı kontrol edin";
+		        break;
+		    case -10:
+		    case -12:
+		    case -13:
+		    case -14:
+		        jsonTemp[1] = "Girilen URL\'yi kontrol edin";
+		        break;
+		    default:
+		        jsonTemp[1] = "Bağlantıyı yenileyip tekrar deneyin";
+		        break;
+		}
+		if( !jsonTemp[0] ) { json[0] = "Ayarlı değil";} else { json[0] = jsonTemp[0];}
+		if( !jsonTemp[1] ) { json[1] = "Ayarlı değil";} else { json[1] = jsonTemp[1];}
+		if( !jsonTemp[2] ) { json[2] = "Ayarlı değil";} else { json[2] = jsonTemp[2];}
+		if( jsonTemp[2] != "" ) { json[3] = "1";} else { json[3] = "0";}
+		switch( parseInt(jsonTemp[3])) { 
+                     case 0:
+                       json[4] = "Ayarlı değil";
+ 		       break;
+                     case 1:
+                       json[4] = "Etkin";
+                       json[1] = "Girilen URL\'yi kontrol edin";
+                       break;
+                     default:
+		       json[4] = "Devre dışı";
+                       break;
+		}
+		json[5] = "Ayarlı değil";
+		if( !jsonTemp[4] ) { json[6] = "Ayarlı değil";} else { json[6] = jsonTemp[4];}
+		if( !jsonTemp[5] ) { json[7] = "Ayarlı değil";} else { json[7] = jsonTemp[5];}
+		var main = document.getElementById("main");
+		var str = new Array();
+		var str1 = '<div class="item">', str2 = '</div>';
+		str[0] = str1;
+		str[1] = '<h2>Hata Detayları</h2>';
+		str[2] = '<p>' + json[0] + '</p>';
+		str[3] = str2;
+		str[4] = str1;
+		str[5] = '<h2>Önerilen eylemler</h2>';
+		str[6] = '<p><span class="red_span">' + json[1] + '</span></p>';
+		str[7] = str2;
+		str[8] = str1;
+		str[9] = '<h2>DNS ile ilgili bilgiler</h2>';
+		str[10] = '<p>IP adresi:' + json[2] + '</p>';
+		str[11] = '<p>IP adresi:' + json[3] + '</p>';
+		str[12] = str2;
+		str[13] = str1;
+		str[14] = '<h2>Net bilgisi</h2>';
+		str[15] = '<p>WiFi durumu:<span class="red_span">' + json[4] + '</span></p>';
+		str[16] = '<p>Varsayılan Ağ Geçidi:' + json[5] + '</p>';
+		str[17] = '<p>Erişim noktası adı:' + json[6] + '</p>';
+		str[18] = '<p>Ağ Geçidi Kullanımı:' + json[7] + '</p>';
+		str[19] = str2;
+		main.innerHTML = str.join("");
+		</script>
+	</body>
+</html>
