@@ -11,6 +11,8 @@
   <string name="app_name">Dosyalarım</string>
   <string name="application_size_label">Uygulama</string>
   <string name="background">İndirme işlemi arkaplanda</string>
+  <string name="big5_summary">Geleneksel Çin dili için varsayılan Windows kodlaması</string> 
+  <string name="big5_title">BIG5</string>
   <string name="bind_account">MiDrive hesabını bağla</string>
   <string name="bind_account_summary">Eğer bir MiDrive hesabınız varsa, kişisel verileri almak için ekleyebilirsiniz</string>
   <string name="binded_accout_description">Hesaplar birleştirilir, giriş için Xiaomi hesabı veya MiDrive hesabı kullanabilirsiniz</string>
@@ -113,7 +115,7 @@
   <string name="garbage_item_path_format" formatted="false">%s %s</string>
   <string name="garbage_size_metric">"%s
 Artık dosya"</string>
-  <string name="gbk_summary">Eğer GBK kodlama kullanıyorsanız, Windows Gezgininde bozuk Çince metinleri önlemek için bu kodlamayı tip seçin</string>
+  <string name="gbk_summary">Geleneksel Çin dili için varsayılan Windows kodlaması</string>
   <string name="gbk_title">GBK</string>
   <string name="give_up_cleaning">Temizleme iptal edildi</string>
   <string name="header_text_cleaned">Artık temizlendi</string>
@@ -123,9 +125,9 @@ Artık dosya"</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin:</string>
   <string name="instruction_pre">Servis başlayınca FTP server kullanılabilir</string>
   <string name="item_name">Adsız</string>
+  <string name="kuaipan_label">Kuaipan</string>
   <string name="kuaipan_label">MiDrive</string>
-  <string name="kuaipan_over_space">MiDrive alanınız var.</string>
-  <string name="kuaipan_prompt">MiDrive yardım</string>
+  <string name="kuaipan_over_space">MiDrive alanınız doldu.</string>
   <string name="kuaipan_prompt_message">"Sunucu kullanımda değil, daha sonra tekrar deneyin"</string>
   <string name="kuaipan_tech_support">Teknik destek Xiaomi</string>
   <string name="load_err">Yüklenemedi!</string>

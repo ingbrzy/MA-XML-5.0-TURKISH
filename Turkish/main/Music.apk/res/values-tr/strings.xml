@@ -196,6 +196,7 @@
   <string name="rename_playlist_menu">Adlandır</string>
   <string name="retry">Tekrar Dene</string>
   <string name="ringtone_menu">Telefon zil sesi yap</string>
+  <string name="ringtone_not_support">Zil sesi formatı desteklenmiyor</string>
   <string name="ringtone_set">\"%s\" Zil sesi olarak ayarla.</string>
   <string name="save">Kaydet</string>
   <string name="scanning">SD kart taranıyor...</string>

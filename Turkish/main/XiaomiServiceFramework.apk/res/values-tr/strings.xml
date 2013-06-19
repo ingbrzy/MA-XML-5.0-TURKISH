@@ -103,6 +103,7 @@
   <string name="login">Oturum aç</string>
   <string name="login_failed">Oturum açma başarısız</string>
   <string name="login_notice">Oturum açılıyor...</string>
+  <string name="memu_refresh">Yenile</string> 
   <string name="mibi_license_message">Xiaomi Mi kredi hizmeti. Tümünü kabul etmek için tıklayın  %1$s.</string>
   <string name="mibi_license_message_span">Mi kredi sözleşmesi</string>
   <string name="mibi_license_title">Mi kredi sözleşmesi</string>

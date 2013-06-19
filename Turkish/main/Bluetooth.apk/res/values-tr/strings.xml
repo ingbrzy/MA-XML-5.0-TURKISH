@@ -70,7 +70,9 @@
   <string name="incoming_file_confirm_Notification_caption">Gelen dosya alınsın mı?</string>
   <string name="incoming_file_confirm_Notification_title">Bluetooth: Gelen dosya</string>
   <string name="incoming_file_confirm_cancel">İptal</string>
-  <string name="incoming_file_confirm_content">"\"%1$s\" kaynağı size %2$s göndermek istiyor (%3$s). Onaylıyor musunuz?"</string>
+  <string name="incoming_file_confirm_content">"\"%1$s\" kaynağı size %2$s göndermek istiyor (%3$s). 
+  
+  Onaylıyor musunuz?"</string>
   <string name="incoming_file_confirm_ok">Tamam</string>
   <string name="incoming_file_confirm_timeout_content">\"%1$s\" hedefi ile kurulacak bağlantıda zaman aşımı oluştu.</string>
   <string name="incoming_file_confirm_timeout_ok">Tamam</string>
@@ -88,6 +90,9 @@
   <string name="map_notif_title">MAP bağlantı şifresi isteniyor</string>
   <string name="map_session_key_dialog_header">Bluetooth bağlantı şifrei gerekli</string>
   <string name="map_session_key_dialog_title">%1$s kaynağının bağlantı şifresini girin</string>
+  <string name="miui_transfer_history_title">Bluetooth trasfer geçmişi</string>
+  <string name="miui_transfer_inbound_title">Gelenler</string>
+  <string name="miui_transfer_outbound_title">Gidenler</string> 
   <string name="no_transfers">Transfer geçmişi boş.</string>
   <string name="not_exist_file">Dosya yok</string>
   <string name="not_exist_file_desc">"Böyle bir dosya mevcut değil."</string>

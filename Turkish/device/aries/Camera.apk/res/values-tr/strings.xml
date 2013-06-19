@@ -52,6 +52,7 @@
   <string name="dialog_ok">Tamam</string>
   <string name="disable_video_snapshot_hint">Özel efektler açıkken videodan resim alınamaz.</string>
   <string name="download_by_browser">Bir web tarayıcısı indir</string> 
+  <string name="download_wechat">WeChat\'i indir</string> 
   <string name="duration">Süre</string>
   <string name="edit">Düzenle</string>
   <string name="effect_backdropper_disco">Disko</string>
@@ -79,6 +80,7 @@
   <string name="find_mecard_qrcode">Kart QR kodu bul</string>
   <string name="find_other_qrcode">QR kodu bul</string>
   <string name="find_web_qrcode">Web QR kodu bul</string>
+  <string name="find_wechat_qrcode">WeChat QR kodu bul</string>
   <string name="find_weixin_qrcode">Weixin QR kodu bul</string> 
   <string name="flash">Flaş</string>
   <string name="flash_off">Flaş kapalı</string>
@@ -103,6 +105,7 @@
   <string name="import_fail">İçe aktarmada başarısız</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Google Play\'i başlat</string>
+  <string name="launch_wechat">WeChat\'i başlat</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_video">Video yükleniyor...</string>
   <string name="location">Konum</string>
@@ -422,6 +425,7 @@
   <string name="web_url_apk_warning">Seçilen QR kodu verilerinizi tehlikeye sokabilecek uygulama içeriyor. Güvenliği doğrulamak için, Google Play Store uygulama bulmalısınız..</string>
   <string name="web_url_warning">QR kodu Web sitesi verilerinizi tehlikeye sokabilir,  MIUI tarayıcı bu QR kodunu kontrol edecektir.</string>
   <string name="website_details">"Web Sitesi:: "</string>
+  <string name="wechat_details">WeChat detayları:</string>
   <string name="weixin_details">"Weixin: "</string> 
   <string name="white_balance">Beyaz Dengesi</string>
   <string name="width">Genişlik</string>
