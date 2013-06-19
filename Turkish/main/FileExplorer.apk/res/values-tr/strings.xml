@@ -126,7 +126,6 @@ Artık dosya"</string>
   <string name="instruction_pre">Servis başlayınca FTP server kullanılabilir</string>
   <string name="item_name">Adsız</string>
   <string name="kuaipan_label">Kuaipan</string>
-  <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">MiDrive alanınız doldu.</string>
   <string name="kuaipan_prompt_message">"Sunucu kullanımda değil, daha sonra tekrar deneyin"</string>
   <string name="kuaipan_tech_support">Teknik destek Xiaomi</string>
