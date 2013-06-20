@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_to_receive">Dosya(ları) almak üzere</string>
-  <string name="about_to_send">Dosya(lar) gönder</string>
+  <string name="about_to_receive">Dosyaları almak üzere</string>
+  <string name="about_to_send">Dosya gönder</string>
   <string name="app_name">Transfer</string>
   <string name="button_last">Şimdi başlat</string>
   <string name="button_next">İleri</string>
@@ -14,7 +14,7 @@
   <string name="connect_confirm">%1$s bağlantı talep ediyor</string>
   <string name="connecting">Bağlanıyor</string>
   <string name="continue_to_send">Göndermeye devam et</string>
-  <string name="device_default_name">Xiaomi phone</string>
+  <string name="device_default_name">Xiaomi MI2</string>
   <string name="device_name">Cihaz adı</string>
   <string name="device_name_tip">Telefon bilgisi için Git\'e basın, daha sonra aygıt adını düzenleyin.</string>
   <string name="editmode_menu_delete">Sil</string>
@@ -38,11 +38,11 @@
   <string name="no_content">İçerik yok</string>
   <string name="no_selected">Dosya seçilmedi</string>
   <string name="no_transfer_history">Transfer geçmişi yok</string>
-  <string name="noti_completed">Tamamlandı, %1$d/%2$d dosya(lar) transfer edildi</string>
-  <string name="noti_receiving">%1$s: %2$d/%3$d dosya(lar) alınıyor</string>
-  <string name="noti_sending">%1$s: %2$d/%3$d dosya(lar) gönderiliyor</string>
-  <string name="noti_wait_receive">Dosyayı(ları) almak için bekliyor</string>
-  <string name="noti_wait_send">"Dosyayı(ları) almak için bekliyor, lütfen göndericinin bağlantıyı açtığını ve dosya gönderebildiğini kontrol edin. "</string>
+  <string name="noti_completed">Tamamlandı, %1$d/%2$d dosya transfer edildi</string>
+  <string name="noti_receiving">%1$s: %2$d/%3$d dosya alınıyor</string>
+  <string name="noti_sending">%1$s: %2$d/%3$d dosya gönderiliyor</string>
+  <string name="noti_wait_receive">Dosyaları almak için bekliyor</string>
+  <string name="noti_wait_send">"Dosyaları almak için bekliyor, lütfen göndericinin bağlantıyı açtığını ve dosya gönderebildiğini kontrol edin. "</string>
   <string name="ok">Tamam</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_goto_folder">Klasöre git</string>
@@ -54,9 +54,9 @@
   <string name="receive_cancel_tip2">Almayı iptal et. %1$d / %2$d dosya(lar) alındı</string>
   <string name="receive_canceled">İptal edildi</string>
   <string name="receive_cannot_created_file">Dosya oluşturma başarısız oldu</string>
-  <string name="receive_files">Dosyayı(ları) al</string>
+  <string name="receive_files">Dosyaları al</string>
   <string name="receive_finish">Alma işlemi tamamlandı</string>
-  <string name="receive_finish_tip">$1%d dosya(lar) alındı:</string>
+  <string name="receive_finish_tip">$1%d dosya alındı:</string>
   <string name="receive_from">Şurdan alınıyor:</string>
   <string name="receive_store">Dosyayı şuraya kaydet:</string>
   <string name="receive_tip">Hızlı eşleştirme ve iletim sırası almak için.</string>
@@ -65,7 +65,7 @@
   <string name="resend">Tekrar gönder</string>
   <string name="scan_tip">lütfen alıcının bağlantıyı açtığını ve dosya alabildiğini kontrol edin.</string>
   <string name="scanning">Taranıyor...</string>
-  <string name="sdcard_unavailable">SD card is unavailable</string>
+  <string name="sdcard_unavailable">SD kart kullanılabilir değil</string>
   <string name="send">Send</string>
   <string name="send_cancel_tip">Transfer tamamlanmadı. Transferi durdurup çıkış yapmak istediğinizden emin misiniz?</string>
   <string name="send_cancel_tip2">Gönderme iptal edildi. %1$d / %2$d dosya(lar) gönderildi</string>
@@ -84,13 +84,13 @@
   <string name="settings_photo_camera">Yeni fotoğraf çek</string>
   <string name="settings_photo_pick">Galeriden seç</string>
   <string name="settings_photo_remove">Avatar\'ı sil</string>
-  <string name="settings_receive_confirm_summary">Dosya transfer isteğini(lerini) onayla</string>
+  <string name="settings_receive_confirm_summary">Dosya transfer isteğini onayla</string>
   <string name="settings_receive_confirm_title">Alma onayı</string>
   <string name="share">Paylaş</string>
   <string name="share_text">MIUI V5 mobil veri kullanmadan dosya transferini destekler. MIUI V5 kullanıcısı olmayanlar lütfen indirin: %1$s</string>
   <string name="summary_step_one">Resim, müzik, kişiler ve çeşitli diğer dosyaları gönder</string>
   <string name="summary_step_two">Arkadaşlarını MiShare yüklemeleri için davet et</string>
-  <string name="support_tip">MiShare yönergeler sağlayacak</string>
+  <string name="support_tip">MiShare yönergelerini izleyin</string>
   <string name="title_step_one">1. Mobil veri kullanmadan dosyalar hızlıca gönderilebilir</string>
   <string name="title_step_three">3. Dosyaları arkadaşlarınla paylaş</string>
   <string name="title_step_two">2. MiShare evrensel bir dosya transfer protokolüdür</string>
