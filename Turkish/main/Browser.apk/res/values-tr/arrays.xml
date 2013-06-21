@@ -53,4 +53,13 @@
         <item>Sayfa ileri/geri</item>
         <item>Sayfayı Değiştir</item>
     </string-array>
+	<string-array name="pref_fling_on_border_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="pref_images_preload_choices">
+        <item>Asla</item>
+        <item>Sadece Wi-Fi ile</item>
+        <item>Herzaman</item>
+    </string-array>
 </resources>

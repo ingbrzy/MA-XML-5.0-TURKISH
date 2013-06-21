@@ -34,6 +34,8 @@
   <string name="added_to_bookmarks">Yer işaretlerine eklendi.</string>
   <string name="alert_tips">Bu sayfa, güvenlik ve gizliliği tehlikeye atabilir, dikkatli olun!</string> 
   <string name="allow">İzin Ver</string>
+  <string name="app_new_version">Son sürüm zaten indirilmiş</string> 
+  <string name="app_update_install">Son sürüm indirildi ve yüklemeye hazır</string>
   <string name="application_name">İnternet</string>
   <string name="autofill_profile_editor_address_line_1">Adres satırı 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Sokak adresi, posta kutusu, alıcı</string>
@@ -92,6 +94,7 @@
   <string name="clear">Temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="clear_history_group">Geçmişi temizle</string>
+  <string name="clip_dialog_title">Kopyalanan link açılsın mı?</string>
   <string name="close_all_tab_alert_message">Tüm kartları kapatmak istediğinizden emin misiniz?</string>
   <string name="close_all_tab_alert_title">Tüm kartları kapat</string>
   <string name="containing_folder">Şu klasöre ekle</string>
@@ -123,6 +126,8 @@
   <string name="delete_multi_bookmarks_alert_title">%1$s öğeyi silmek istediğinize emin misiniz?</string>
   <string name="disable_autofill">Otomatik doldurmayı devre dışı bırak</string>
   <string name="do_not_save">İptal</string>
+  <string name="download_complete">İndirme tamamlandı</string>
+  <string name="download_failed">İndirme başarısız</string> 
   <string name="download_no_sdcard_dlg_msg" formatted="false"> %s indirilmesi için USB depolama gerekiyor.</string>
   <string name="download_no_sdcard_dlg_title">SD kart yok</string>
   <string name="download_pending">İndirme işlemi başlatılıyor…</string>
@@ -272,6 +277,7 @@
   <string name="pref_content_open_in_background">Arka planda aç</string>
   <string name="pref_content_open_in_background_summary">Yeni sekmeleri mevcut sekmenin arkasında aç</string>
   <string name="pref_content_plugins">Eklentileri etkinleştir</string>
+  <string name="pref_content_preload_title">Önyükleme içeriği</string> 
   <string name="pref_content_search_engine">Arama motorunu ayarlayın</string>
   <string name="pref_content_search_engine_summary">Arama motorunu seçin</string>
   <string name="pref_content_title">Sayfa içeriği</string>
@@ -279,6 +285,7 @@
   <string name="pref_data_preload_dialogtitle">Arama sonucunu önyükleme</string>
   <string name="pref_data_preload_summary">Tarayıcının yüksek güvenli arama sonuçlarını arka planda önyüklemesine izin ver</string>
   <string name="pref_data_preload_title">Arama sonucunu önyükleme</string>
+   <string name="pref_data_preload_value_never_summary">Tarayıcıya arka planda hassas sonuçları açması için izin vermeyin</string>
   <string name="pref_data_preload_value_always">ALWAYS</string>
   <string name="pref_data_preload_value_never">NEVER</string>
   <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
@@ -322,6 +329,13 @@
   <string name="pref_general_exit_setting_title">Çıkış ayarları</string>
   <string name="pref_general_sync_title">Senkronizasyon</string>
   <string name="pref_general_title">Genel</string>
+  <string name="pref_image_display_control">Resim görüntüleme kontrolü</string> 
+  <string name="pref_images_preload_dialogtitle">Resimler yükleniyor...</string>
+  <string name="pref_images_preload_summary">" Sunucusu tarafından desteklenen önyükleme görüntülerine izin ver"</string> 
+  <string name="pref_images_preload_title">Resim önyükleme</string> 
+  <string name="pref_images_preload_value_always_summary">Sunucusu tarafından desteklenen önyükleme görüntülerine herzaman izin ver</string>
+  <string name="pref_images_preload_value_never_summary">Önyükleme görüntülerine asla izin verme</string> 
+  <string name="pref_images_preload_value_wifi_only_summary">Önyükleme görüntülerini sadece Wi-Fi kullanılırken göster</string> 
   <string name="pref_gesture_title">El hareketi seçenekleri</string>
   <string name="pref_inverted">Ters renklerle oluşturma</string>
   <string name="pref_inverted_category">Ters renklerle ekran oluşturma</string>
@@ -336,6 +350,7 @@
   <string name="pref_lab_title">Labs</string>
   <string name="pref_link_prefetch_dialogtitle">Web sayfasını önyükleme</string>
   <string name="pref_link_prefetch_summary">Tarayıcıya, arka planda bağlantılı web sayfaların önyüklemesine izin verir</string>
+  <string name="pref_link_prefetch_value_never_summary">Arka planda önyükleme bağlantılı web sayfalarına asla izin verme</string> 
   <string name="pref_min_font_size">Minimum yazı tipi boyutu</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
   <string name="pref_privacy_clear_cache">Önbelleği temizle</string>
@@ -387,6 +402,7 @@
   <string name="pref_video_preload_title">Video önyükleme</string>
   <string name="pref_video_preload_value_always">ALWAYS</string>
   <string name="pref_video_preload_value_never">NEVER</string>
+  <string name="pref_video_preload_value_never_summary">Önyükleme videolarına asla izin verme</string> 
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Ses tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları için seçenekler</string>
