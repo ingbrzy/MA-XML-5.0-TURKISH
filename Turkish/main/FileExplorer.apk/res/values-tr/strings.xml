@@ -271,13 +271,13 @@ Artık dosya"</string>
   <string name="used">Kullanılan</string>
   <string name="user_guide">Kullanım kılavuzu</string>
   <string name="user_guide_download_other_version">"PC veya MAC için MiDrive indir"</string>
-  <string name="user_guide_kuaipan_copy">"MiDrive kullanarak dosyalarını paylaş"</string>
+  <string name="user_guide_kuaipan_copy">"MiDrive kullanarak dosyalarınızı paylaşın"</string>
   <string name="user_guide_other_version">MiDrive\'ı indir</string>
-  <string name="user_guide_summary">MiDrive nasıl kullanılır</string>
-  <string name="user_guide_upload_to_kuaipan">"dosyaları MiDrive'a kopyala ve yapıştır"</string>
+  <string name="user_guide_summary">MiDrive nasıl kullanılır?</string>
+  <string name="user_guide_upload_to_kuaipan">"Dosyaları MiDrive'a kopyalayıp yapıştırın"</string>
   <string name="utf8_summary">Geçerli kodlama türü</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="version_text">version %1$s</string>
+  <string name="version_text">Versiyon %1$s</string>
   <string name="wait_net">Ağ bekleniyor</string>
   <string name="wait_sdcard">SD Kartın takılması bekleniyor</string>
   <string name="wait_wifi">Wi-Fi bağlantısı için bekliyor</string>

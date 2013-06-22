@@ -437,11 +437,11 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_settings_summary">Bağlantıları yönet, cihaz adını gir ve keşfedilebilirlik ayarını yap</string>
   <string name="bluetooth_settings_title">Bluetooth Ayarları</string>
   <string name="bluetooth_show_received_files">Alınan dosyaları göster</string>
-  <string name="bluetooth_tether_checkbox_text">Bluetooth internet paylşm</string>
+  <string name="bluetooth_tether_checkbox_text">Bluetooth internet paylaşımı</string>
   <string name="bluetooth_tethering_available_subtext">Bu telefonun İnternet bağlantısı paylaşılıyor</string>
   <string name="bluetooth_tethering_device_connected_subtext">Bu telefonun İnternet bağlantısını 1 cihaz paylaşıyor</string>
   <string name="bluetooth_tethering_devices_connected_subtext">Bu telefonun İnternet bağlantısını %1$d cihaz paylaşıyor</string>
-  <string name="bluetooth_tethering_errored_subtext">Tethering yapılmadı</string>
+  <string name="bluetooth_tethering_errored_subtext">Tethering yapılamadı</string>
   <string name="bluetooth_tethering_off_subtext">Bu telefonun İnternet bağlantısı paylaşılmıyor</string>
   <string name="bluetooth_tethering_overflow_error">En çok %1$d cihaz için tethering yapılabilir.</string>
   <string name="bluetooth_turning_off">Bluetooth kapatılıyor...</string>
@@ -1385,7 +1385,7 @@ please follow the steps to complete installation"</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">Pil kullanma verisi mevcut değil</string>
   <string name="power_usage_summary">Pili ne kullanıyor?</string>
-  <string name="power_usage_summary_title">Pil</string>
+  <string name="power_usage_summary_title">Pil bilgileri</string>
   <string name="power_wifi">Kablosuz</string>
   <string name="pref_button_light">Tuş ışıkları</string>
   <string name="pref_button_light_summary">Menü, Ev ve Geri tuşu ışıkları</string>
@@ -1561,7 +1561,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="screen_on_proximity_sensor_title">Kötü kullanımı önle</string>
   <string name="screen_saturation_adjust">Renk doygunluğunu ayarla</string>
   <string name="screen_timeout">Uyku Modu Süresi</string>
-  <string name="screen_timeout_summary">%1$s işlem yapılmamasından sonra</string>
+  <string name="screen_timeout_summary">%1$s sonra ekranı kapatır</string>
   <string name="screen_timeout_title">Uyku Modu Süresi</string>
   <string name="screensaver_activate_on_dock_title">Yuvasına yerleştirildiğinde de başlat</string>
   <string name="screensaver_component_title">Seçilen şeker</string>
@@ -1798,7 +1798,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="storage_title_usb">USB bilgisayar bağlantısı</string>
   <string name="storageuse_settings_summary">Uygulamalar tarafından kullanılan depolama alanını görüntüle</string>
   <string name="storageuse_settings_title">Depolama kullanımı</string>
-  <string name="strict_mode">Yüksek düzey modu etkin</string>
+  <string name="strict_mode">Yüksek düzey modu</string>
   <string name="strict_mode_summary">Uzun işlem yaparken flash ekranı</string>
   <string name="subscription_01_summary">SUB1 için şebeke ayarları</string>
   <string name="subscription_01_title">SUB 1</string>
@@ -1836,11 +1836,11 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="testing_sim_toolkit">SIM Aracı</string>
   <string name="testing_usage_stats">Kullanım istatistikleri</string>
   <string name="testing_wifi_info">Wi-Fi Bilgileri</string>
-  <string name="tether_settings_title_all">Tethering ve taşınabilir hotspot</string>
+  <string name="tether_settings_title_all">İnternet paylaşımı</string>
   <string name="tether_settings_title_bluetooth">Bluetooth internet paylaşımı</string>
   <string name="tether_settings_title_usb">USB internet paylaşımı</string>
-  <string name="tether_settings_title_usb_bluetooth">İnternet paylşm oluşturma</string>
-  <string name="tether_settings_title_wifi">Taşınabilir ortak erişim noktası</string>
+  <string name="tether_settings_title_usb_bluetooth">İnternet paylaşım ayarları</string>
+  <string name="tether_settings_title_wifi">Taşınabilir kablosuz paylaşımı</string>
   <string name="tethering_help_button_text">Yardım</string>
   <string name="time_picker_title">Saat</string>
   <string name="time_zone_auto_stub">Saat dilimini seç</string>
@@ -2357,8 +2357,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_stopping">Kablosuz kapatılıyor…</string>
    <string name="wifi_suspend_optimizations">WLAN Optimizasyonu</string>
    <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirmek için kullanın</string> 
-  <string name="wifi_tether_checkbox_text">Taşınabilir kablosuz ortak erişim noktası</string>
-  <string name="wifi_tether_configure_ap_text">Kablosuz ortak erişim noktası yapılandır</string>
+  <string name="wifi_tether_checkbox_text">Taşınabilir Hotspot</string>
+  <string name="wifi_tether_configure_ap_text">Taşınabilir Hotspot ayarları</string>
   <string name="wifi_tether_configure_ssid_default">Android Ortak Erişim Noktası</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s taşınabilir kablosuz ortak erişim noktası</string>
   <string name="wifi_tether_enabled_subtext">Taşınabilir ortak erişim noktası %1$s etkin</string>

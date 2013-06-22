@@ -118,7 +118,7 @@
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_another_import_running">Başka bir içe aktarma işlemi çalışıyor, sonra tekrar deneyin.</string>
   <string name="theme_batch_has_update_text">%1$d tema için güncelleme var</string>
-  <string name="theme_batch_update_all">Tümünü güncelle</string>
+  <string name="theme_batch_update_all">Güncelle</string>
   <string name="theme_batch_update_dlg_content">Şimdi güncellemek istiyor musunuz?</string>
   <string name="theme_batch_update_dlg_title">Temalar güncellenecek</string>
   <string name="theme_batch_updating_text">%1$d tema güncellenecek, bekleyin..</string> 
