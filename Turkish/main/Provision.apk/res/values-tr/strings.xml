@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="continues">Devam</string>
-  <string name="data_usage_summary">Bir veri planı uygulanmaz ise, mobil veriyi kapatmanız tavsiye edilir. Aksi takdirde, taşıyıcı ek ücret talep edebilir.</string>
-  <string name="default_gprs_sim_name">Giriniz \"%s\" veri aşım limiti</string>
+  <string name="data_usage_summary">Bir veri planı uygulanmaz ise, mobil veriyi kapatmanız tavsiye edilir. Aksi takdirde, taşıyıcınız ek ücretler talep edebilir.</string>
+  <string name="default_gprs_sim_name">Veri kullanım limitini giriniz \"%s\"</string>
   <string name="input_method">Giriş yöntemi</string>
   <string name="input_method_category">Giriş yöntemini seç</string>
   <string name="next">Sonraki</string>
   <string name="other_service_google_location">Google konum hizmeti</string>
   <string name="other_service_google_location_use">Konum &amp; Google arama</string>
-  <string name="other_service_google_location_use_help">"Google'ın konum hizmetine anonim konum veri toplamak için izin. Hiçbir uygulamanın çalışmadığından bile Koleksiyon oluşacak. Ddüzenlemek için, Ayarlara &gt; Konum hizmetleri"</string>
-  <string name="other_service_google_location_use_summary">Google arama sonuçları ve diğer hizmetler geliştirmek için konumunuzu kullanalım</string>
+  <string name="other_service_google_location_use_help">"Google\'ın konum hizmetlerine veri toplaması için izin verir. Hiçbir uygulama çalışmadığından bile veriler toplanır. Düzenlemek için, Ayarlara &gt; Konum hizmetleri"</string>
+  <string name="other_service_google_location_use_summary">Google arama sonuçları ve diğer hizmetleri geliştirmek için konumunuzu kullanır</string>
   <string name="other_service_label">Diğer hizmetler</string>
   <string name="other_service_location">Konum hizmetleri</string>
-  <string name="other_service_location_summary">Konum servisleri haritalar ve diğer uygulamaların GPS\'i kullanarak konum bilgileri almasını sağlar</string>
+  <string name="other_service_location_summary">Konum servisleri, haritalar ve diğer uygulamaların GPS\'i kullanarak konum bilgileri almasını sağlar</string>
   <string name="other_service_permission_manager">Uygulama izinlerini yönet</string>
   <string name="other_service_permission_manager_summary">Güvenlik için uygulamaları izle</string>
   <string name="other_service_user_experience">Kullanıcı deneyimi programına katılın</string>
@@ -20,10 +20,10 @@
   <string name="other_service_user_experience_summary1">Teşekkürler MIUI</string>
   <string name="setup_complete_info">Telefonu ilk kez kullandığınızda aktif hale gelecektir</string>
   <string name="setup_complete_label">Ayarlamalar bitti</string>
-  <string name="setup_complete_start">Telefonu kallanabilirsiniz</string>
+  <string name="setup_complete_start">Telefonu kullanabilirsiniz</string>
   <string name="setup_complete_summary">Ayarlamalar bitti! Merhaba MIUI!</string>
   <string name="shutdown">Kapat</string>
-  <string name="sim_card_detection_dialog_message">SIM kart buluyor, bekelyin...</string>
+  <string name="sim_card_detection_dialog_message">SIM kart buluyor, bekleyin...</string>
   <string name="sim_card_detection_info">"SIM kart olmadan Xiaomi hesabı kurulumu yapılamıyor. Hesap senkronizesi ve telefon kullanımı için SIM kart gerekiyor."</string>
   <string name="sim_card_detection_label">SIM kart bulundu</string>
   <string name="sim_card_detection_status_absent">SIM kart bulunamadı!</string>
