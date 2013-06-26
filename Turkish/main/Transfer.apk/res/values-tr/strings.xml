@@ -10,7 +10,6 @@
   <string name="cancel_receive">İptal</string>
   <string name="cancel_send">İptal</string>
   <string name="canceling">İptal ediliyor</string>
-  <string name="choose_title">Dosyayı seçin</string>
   <string name="choose_title">Dosya seç</string>
   <string name="connect_confirm">%1$s bağlantı talep ediyor</string>
   <string name="connecting">Bağlanıyor</string>
