@@ -179,6 +179,8 @@
   <string name="playlist_renamed_message">Çalma listesi adlandırıldı.</string>
   <string name="playlists_title">Çalma listesi</string>
   <string name="powered_by">Powered by</string>
+  <string name="project_device">Xiaomi Box</string>
+  <string name="project_device_mobile">Mobil telefon</string>
   <string name="queue">Geçerli çalma listesi</string>
   <string name="quit_player">Çıkış</string>
   <string name="quit_warining">Oynatıcı %d dakika sonra duracak</string>
