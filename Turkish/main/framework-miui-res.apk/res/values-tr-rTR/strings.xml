@@ -120,8 +120,7 @@
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Bellek zaten temiz</string>
-  <string name="memory_clear_result">"%1$s Başarıyla temizlendi 
-  %2$s Kullanılabilir hafıza"</string>
+  <string name="memory_clear_result">"%1$s Başarıyla temizlendi \n%2$s Kullanılabilir hafıza"</string>
   <string name="minutes">%d dakika</string>
   <string name="miui_copyright_title">Telif hakkı</string>
   <string name="miui_device_name">Android</string>

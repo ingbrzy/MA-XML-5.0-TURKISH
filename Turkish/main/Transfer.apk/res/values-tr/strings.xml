@@ -32,7 +32,7 @@
   <string name="fail">Başarısız</string>
   <string name="failed">Başarısız</string>
   <string name="finish">Tamamlandı</string>
-  <string name="first_in_tip">İlk kez Transfer\'i kullanıyorsunuz</string>
+  <string name="first_in_tip">Transfer\'i ilk kez kullanıyorsunuz</string>
   <string name="goback">Geri git</string>
   <string name="guide_label">Transfer kılavuzu</string>
   <string name="history">Transfer geçmişi</string>
@@ -49,7 +49,7 @@
   <string name="noti_receiving">%1$s: %2$d/%3$d dosya alınıyor</string>
   <string name="noti_sending">%1$s: %2$d/%3$d dosya gönderiliyor</string>
   <string name="noti_wait_receive">Dosyaları almak için bekliyor</string>
-  <string name="noti_wait_send">"Dosyaları almak için bekliyor, lütfen göndericinin bağlantıyı açtığını ve dosya gönderebildiğini kontrol edin. "</string>
+  <string name="noti_wait_send">"Dosyaları almak için bekliyor, göndericinin bağlantıyı açtığını ve dosya gönderebilirliğini kontrol edin"</string>
   <string name="ok">Tamam</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_goto_folder">Klasöre git</string>
@@ -60,7 +60,7 @@
   <string name="receive_cancel_tip">Alma işlemi tamamlanmadı. Transferi durdurup çıkış yapmak istediğinizden emin misiniz?</string>
   <string name="receive_cancel_tip2">Almayı iptal et. %1$d / %2$d dosya(lar) alındı</string>
   <string name="receive_canceled">İptal edildi</string>
-  <string name="receive_cannot_created_file">Dosya oluşturma başarısız oldu</string>
+  <string name="receive_cannot_created_file">Dosya oluşturma başarısız</string>
   <string name="receive_files">Dosyaları al</string>
   <string name="receive_finish">Alma işlemi tamamlandı</string>
   <string name="receive_finish_tip">$1%d dosya alındı:</string>
@@ -79,13 +79,13 @@
   <string name="send">Send</string>
   <string name="send_2d_code">QR kodu ile gönder</string>
   <string name="send_cancel_tip">Transfer tamamlanmadı. Transferi durdurup çıkış yapmak istediğinizden emin misiniz?</string>
-  <string name="send_cancel_tip2">Gönderme iptal edildi. %1$d / %2$d dosya(lar) gönderildi</string>
+  <string name="send_cancel_tip2">Gönderme iptal edildi. %1$d / %2$d dosya gönderildi</string>
   <string name="send_files">%1$d dosya(lar) gönderiliyor</string>
   <string name="send_finish">Dosya gönderildi!</string>
   <string name="send_finish_tip">%1$d dosyayı(ları) şuraya gönder:</string>
    <string name="send_nfc">NFC ile gönder</string>
    <string name="send_sound">Ses ile gönder</string>
-  <string name="send_tip">Resim, müzik, kişiler ve çeşitli diğer dosyaları toplu gönder.</string>
+  <string name="send_tip">Resim, müzik, kişiler ve çeşitli diğer dosyaları toplu olarak gönder.</string>
   <string name="send_to">Şuraya gönder:</string>
   <string name="send_uncompleted">Gönderme tamamlanmadı</string>
   <string name="sent">Gönderildi</string>

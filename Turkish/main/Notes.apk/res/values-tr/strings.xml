@@ -38,10 +38,10 @@
   <string name="image_edit_action_replace">Değiştir</string>
   <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
   <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
-  <string name="image_edit_action_replace_menu_title">Replace item</string>
+  <string name="image_edit_action_replace_menu_title">Öğeyi değiştir</string>
   <string name="image_edit_action_view">Görüntüle</string>
   <string name="info_note_enter_desktop">Not ana ekrana eklendi</string>
-  <string name="menu_create_folder">Yeni Klasör</string>
+  <string name="menu_create_folder">Yeni klasör</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_deselect_all">Seçimi kaldır</string>
   <string name="menu_edit">Düzenle</string>
@@ -64,7 +64,7 @@
   <string name="note_alert_expired">Süresi bitti</string>
   <string name="note_link_email">E-posta gönder</string>
   <string name="note_link_other">Haritayı aç</string>
-  <string name="note_link_select">Select link text</string>
+  <string name="note_link_select">Linki seç</string>
   <string name="note_link_tel">Çagrı yap</string>
   <string name="note_link_web">İnternete gözat</string>
   <string name="notealert_enter">Gözat</string>
@@ -90,8 +90,8 @@
   <string name="preferences_toast_cannot_change_account">Bir eşitleme sırada olduğu için hesap değiştirilemiyor</string>
   <string name="preferences_toast_success_set_accout">%1$s eşitleme hesabı olarak seçildi</string>
   <string name="search">Notlar</string>
-  <string name="search_hint">Notlarda Ara</string>
-  <string name="search_label">Notlarda Arama</string>
+  <string name="search_hint">Notlarda ara</string>
+  <string name="search_label">Notlarda arama</string>
   <string name="search_setting_description">Notlardaki yazılar</string>
   <string name="snippet_image_stub">[Image]</string>
   <string name="set_remind_time_message">Hatırlatıcı ekle</string>
@@ -99,14 +99,14 @@
   <string name="success_sync_account">%1$s hesabıyla eşitleme tamamlandı</string>
   <string name="sync_progress_init_list">Not listesi alınıyor..</string>
   <string name="sync_progress_login">Oturum açılıyor %1$s...</string>
-  <string name="sync_progress_syncing">Yerel notları Google Yapılacaklarla eşitle...</string>
+  <string name="sync_progress_syncing">Yerel notları Google Yapılacaklarla eşitleniyor...</string>
   <string name="ticker_cancel">Eşitleme iptal edildi</string>
   <string name="ticker_fail">Eşitleme hatası</string>
   <string name="ticker_success">Eşitleme tamamlandı</string>
-  <string name="ticker_syncing">Notları eşitleniyor...</string>
+  <string name="ticker_syncing">Notlar eşitleniyor...</string>
   <string name="time_picker_dialog_title">Hatırlatma zamanı ayarla</string>
-  <string name="toast_message_add_image_fail">Failed to insert image!</string>
+  <string name="toast_message_add_image_fail">Resim eklenemedi!</string>
   <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız oldu!</string>
-   <string name="widget_havenot_content">Herhangi bir not yok, not oluşturmak için tıkla.</string>
+   <string name="widget_havenot_content">Herhangi bir not yok, not oluşturmak için tıklayın.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
 </resources>

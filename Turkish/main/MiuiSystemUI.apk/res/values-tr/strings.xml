@@ -186,7 +186,7 @@ Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="settings_toggle_position_divider_page">%1$d Bar üzerine yerleştirilen geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="share">Paylaş</string>
-  <string name="status_bar_date_format">d.MMMM yyyy</string>
+  <string name="status_bar_date_format">d. MMMM EEEE</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarla</string>
   <string name="status_bar_network_flow">Bugün: %1$s Kalan: %2$s Kota: %3$s</string>

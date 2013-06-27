@@ -69,7 +69,7 @@
   <string name="uninstall_update_title">Güncellemeyi kaldır</string>
   <string name="uninstalling">Kaldırılıyor...</string>
   <string name="unknown">Bilinmeyen</string>
-  <string name="unknown_apps_dlg_text">"Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir.Ayarlar-&gt;Güvenlik-&gt;Bilinmeyen kaynaklar."</string>
+  <string name="unknown_apps_dlg_text">"Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir. Kaldırmak için; Ayarlar-&gt;Güvenlik-&gt;Bilinmeyen kaynaklar."</string>
   <string name="unknown_apps_dlg_title">Yükleme durduruldu!</string>
   <string name="unknown_installer">Bilinmeyen yükleyici!</string>
 </resources>
