@@ -75,5 +75,8 @@
     <plurals name="NTrackstoDownload">
         <item quantity="other">%d şarkı indirilecek.</item>
         <item quantity="one">1 şarkı indirilecek.</item>
-    </plurals>
+	<plurals name="Nhot_tracks_total">
+        <item quantity="other">Hit: %d</item>
+        <item quantity="one">%d hit</item>
+    </plurals> 
 </resources>
