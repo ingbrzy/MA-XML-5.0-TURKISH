@@ -61,7 +61,7 @@
   <string name="decompress_to">Çıkart:</string>
   <string name="decompress_to_here">Buraya çıkart</string>
   <string name="delete_failed">Silinemedi</string>
-  <string name="delete_file">Sil?</string>
+  <string name="delete_file">Silinsin mi?</string>
   <string name="delete_files">İşaretli %1$d dosya silinsin mi?</string>
   <string name="delete_files_and_folders">Seçilen %1$d dosya ve %2$d klasör silinsin mi?</string>
   <string name="delete_folder">Bu klasör silinsin mi?</string>
@@ -77,7 +77,7 @@
   <string name="directory_info_divider">"  |  "</string> 
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">İndirme hatası!</string>
-  <string name="download_link_completed">MiDrive ile %1$s paylaşıldı. Görmek için linke tıklayın: </string>
+  <string name="download_link_completed">%1$s MiDrive ile paylaşıldı. Görmek için linke tıklayın: </string>
   <string name="downloading">İndiriliyor...</string>
   <string name="empty_dir_cleanup_indication">%s artık dosya</string>
   <string name="empty_dir_title">Boş klasörler</string>
@@ -85,7 +85,7 @@
   <string name="error_filename_too_long">Dosya adı çok uzun</string> 
   <string name="error_info_cant_send_folder">Klasör gönderilemiyor</string>
   <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı!</string> 
-  <string name="fail_to_create_folder_unknown">Bir klasör oluşturmak mümkün değildir</string> 
+  <string name="fail_to_create_folder_unknown">Bir klasör oluşturmak mümkün değil</string> 
   <string name="fail_to_create_folder">Klasör oluşturulamıyor, zaten var!</string>
   <string name="fail_to_rename">Dosya yeniden adlandırılamıyor, zaten var!</string>
   <string name="favorite_photo">Foto</string>
@@ -181,7 +181,7 @@ Artık dosya"</string>
   <string name="operation_create_folder_message">Klasör adını girin</string>
   <string name="operation_decompressing">Çıkartılıyor...</string>
   <string name="operation_delete">Sil</string>
-  <string name="operation_delete_confirm_message">Silme işlemini onayla?</string>
+  <string name="operation_delete_confirm_message">Silme işlemini onaylayın!</string>
   <string name="operation_delete_confirm_message_folder">"Klasördeki tüm dosyalar silinecek."</string>
   <string name="operation_deleting">Siliniyor...</string>
   <string name="operation_deleting_detail">Dosyalar siliniyor (%1$d/%2$d)</string>
