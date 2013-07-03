@@ -88,7 +88,7 @@
     <string name="previous">Önceki</string>
     <string name="reboot_later">Daha sonra</string>
     <string name="reboot_now">Şimdi tekrar başlat</string>
-    <string name="reboot_to_new_system">Yeniden sürüm için tekrar başlat</string>
+    <string name="reboot_to_new_system">Yeni sürüm için tekrar başlat</string>
     <string name="recommend">Önerilir</string>
     <string name="recommend_comment_hint">Sebep (Tercihe bağlı)</string>
     <string name="recommend_vote_title">MIUI Beta Takım Anketi</string>
