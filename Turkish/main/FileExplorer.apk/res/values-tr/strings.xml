@@ -20,6 +20,7 @@
   <string name="cache_size_label">Veri</string>
   <string name="cancel">İptal</string>
   <string name="cancel_app_garbage_cleanup">Uygulama temizlemeyi iptal et</string>
+  <string name="cancel_with_count_down">(%d) iptal et</string>
   <string name="category_all">Hepsi</string>
   <string name="category_apk">APK\'lar</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -39,6 +40,9 @@
   <string name="clean_message">Siliniyor %1$s</string>
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusu boş</string>
+  <string name="cleaning">Temizleniyor...</string>
+  <string name="cleaned">Temizleme bitti</string>
+  <string name="cleanup_stopped">Temizleme durduruldu</string> 
   <string name="cleanup_complete">Temizleme başarılı</string>
   <string name="close">Kapat</string>
   <string name="compress_fail">Zip dosyası oluşturulamadı, zaten var!</string>
@@ -47,6 +51,7 @@
   <string name="confirm">TAMAM</string>
   <string name="confirm_know">TAMAM</string>
   <string name="copy_failed">Kopyalama hatası</string>
+  <string name="count_down_time"> %d saniye sonra başlayacak</string> 
   <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string> 
   <string name="create_new_folder_desctiption">Yeni klasör oluşturuluyor...</string>
   <string name="create_new_folder_failed">Klasör oluşturulamadı%1$s</string>
@@ -91,6 +96,7 @@
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Zil sesi</string>
   <string name="favorite_screen_cap">Ekran görüntüsü</string>
+  <string name="file_cleanup">Dosyaları temizle</string> 
   <string name="file_info_canread">Okunabilir:</string>
   <string name="file_info_canwrite">Yazılabilir:</string>
   <string name="file_info_ishidden">Gizli:</string>
@@ -213,6 +219,7 @@ Artık dosya"</string>
   <string name="restart_cleaning">Tekrar başlat</string>
   <string name="scanning" formatted="false"> %d uygulama taranıyor ... (toplam %d uygulama)</string>
   <string name="scanning_on_going">Taranıyor...</string>
+  <string name="scanned">Tarama tamamlandı</string>
   <string name="sd_card_available">Kullanılabilir alan:%1$s</string>
   <string name="sd_card_size">SD Kart:%1$s</string>
   <string name="sd_full">SD kart dolu</string>

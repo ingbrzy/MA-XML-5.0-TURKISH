@@ -86,9 +86,9 @@
     <string name="paused_queued_for_network">Ağ bağlantısı için bekleniyor</string>
     <string name="paused_queued_for_wifi">Wi-Fi bağlantısı bekleniyor</string>
     <string name="previous">Önceki</string>
-    <string name="reboot_later">Daha sonra yeniden başlat</string>
-    <string name="reboot_now">Şimdi yeniden başlat</string>
-    <string name="reboot_to_new_system">Yeniden sürüm için yeniden başlat</string>
+    <string name="reboot_later">Daha sonra</string>
+    <string name="reboot_now">Şimdi tekrar başlat</string>
+    <string name="reboot_to_new_system">Yeniden sürüm için tekrar başlat</string>
     <string name="recommend">Önerilir</string>
     <string name="recommend_comment_hint">Sebep (Tercihe bağlı)</string>
     <string name="recommend_vote_title">MIUI Beta Takım Anketi</string>
@@ -108,8 +108,8 @@
     <string name="sign_in_add_account">Xiaomi hesabını etkinleştir</string>
     <string name="sign_in_add_account_helper">Telefonun aktif MIUI hesabına sahip değil , eklemek için kullanıcı puanları al</string>
     <string name="sign_in_info">"Telefonun güncelleme sıralaması %1$s MIUI %3$s için %2$s kullancı kayıtlı"</string>
-    <string name="sign_in_info_rank_more">"Güncelleme sıralaman %1$s den fazla.MIUI %3$s için %2$s kullancı kayıtlı"</string>
-    <string name="sign_in_info_total_more">"Güncelleme sıralaman %1$s den fazla.MIUI %3$s için %2$s kullancı kayıtlı"</string>
+    <string name="sign_in_info_rank_more"/>
+    <string name="sign_in_info_total_more"/>
     <string name="stable_build">Stabil yapı</string>
     <string name="start_update">Gücellemeye başla</string>
     <string name="submit">Gönder</string>

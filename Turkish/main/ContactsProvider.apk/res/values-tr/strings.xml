@@ -2,9 +2,16 @@
 <resources>
   <string name="app_label">Kişiler Deposu</string>
   <string name="call_log_provider_label">Arama Kaydı</string>
+   <string name="debug_dump_title">Kişiler veritabanını kopyala</string>
+   <string name="debug_dump_database_message">Eğer yapacaksanız 1)Kişiler ve bilgilerini, arama günlüklerini dahili telefon hafızasına kopyalar 2) Bu yedekleme hemen telefondan silinir. Güvenliğiniz için bir doğrulama gönderin ve e-posta göndermeyi unutmayın.</string>
+   <string name="debug_dump_delete_button">Sil</string>
+   <string name="debug_dump_start_button">Başlat</string>
+   <string name="debug_dump_email_sender_picker">Gönder</string>
+   <string name="debug_dump_email_subject">Kişiler veritabanı bağlandığında</string>
+   <string name="debug_dump_email_body">Ek bütün bir Kişiler veritabanı ve onlar hakkında bilgi içerir.</string> 
   <string name="create_contact">Yeni Kişi</string>
   <string name="default_directory">Kişiler</string>
-  <string name="edit_contact">Kişiye Ekle</string>
+  <string name="edit_contact">Kişilere Ekle</string>
   <string name="local_invisible_directory">Diğer</string>
   <string name="pound_search_tip">Kişi aramak için \"#\" karakterinden sonra numarayı yazınız.</string>
   <string name="provider_label">Kişiler</string>
@@ -12,7 +19,7 @@
   <string name="read_write_all_voicemail_label">Tüm Sesli Mesajlara Erişim</string>
   <string name="send_sms">Mesaj gönder</string>
   <string name="sharedUserLabel">Android sistem uygulamaları</string>
-  <string name="upgrade_msg">Kişiler veritabanı yükeltiliyor.</string>
+  <string name="upgrade_msg">Kişiler veritabanı yükseltiliyor...</string>
   <string name="upgrade_out_of_memory_notification_text">Yükseltmeyi tamamlamak için seçin.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Kişi güncelleme için daha fazla boş alan gerekiyor</string>
   <string name="upgrade_out_of_memory_notification_title">Kişi veritabanı yükseltiliyor</string>

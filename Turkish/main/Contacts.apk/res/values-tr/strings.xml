@@ -32,6 +32,8 @@
   <string name="aggregation_suggestion_join_dialog_title">Kişileri birleştir</string>
   <string name="all_list_empty">Kişi yok</string>
   <string name="all_resources">Tümü</string>
+  <string name="antispam_mark_my_contribution">Benim belirlediğim</string>
+  <string name="antispam_provider_format">%s gösterilen</string> 
   <string name="attach_photo_dialog_title">Kişi fotoğrafı</string>
   <string name="audio_chat">Sesli sohbet</string>
   <string name="auto_nickname">Otomatik</string>
@@ -147,8 +149,6 @@
   <string name="config_export_file_extension">vcf</string>
   <string name="config_export_file_prefix" />
   <string name="config_export_file_suffix" />
-  <string name="config_export_vcard_type">varsayılan</string>
-  <string name="config_import_vcard_type">varsayılan</string>
   <string name="config_prohibited_phone_number_regexp" />
   <string name="confirm_delete_contact_all_call_logs">" %s's Çağrı günlüğü silinsin mi?"</string>
   <string name="confirm_delete_selected_all_call_logs">"Çağrı günlükleri silinsin mi?"</string>
@@ -171,6 +171,7 @@
   <string name="contact_edit_title_readonly">Sadece okunabilir kişi</string>
   <string name="contact_editor_prompt_multiple_accounts">Yeni kişinizi aşağıdaki hesaplardan biriyle senkronize edebilirsiniz. Hangisini kullanmak istersiniz?</string>
   <string name="contact_editor_prompt_zero_accounts">Yeni kişiniz yedeklenmeyecek. Kişileri çevrimiçi olarak yedekleyen bir hesap eklensin mi?</string>
+  <string name="contact_is_readOnly">Kişi değiştirilemez</string>
   <string name="contact_list_loading">Yükleniyor...</string>
   <string name="contact_pick_photo">Foto</string>
   <string name="contact_read_only">Bu uygulamadan düzenlenemez.</string>
@@ -401,10 +402,15 @@
   <string name="import_to_xiaomi_account_progress_title">Kişileri Xiaomi hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Aşağıdaki kayıtları Xiaomi hesabına aktarmak istediğinizden emin misiniz?</string>
   <string name="import_vcard_description">Kişileri SD kart\'tan aktar</string>
-  <string name="import_weibo_dialog_title">Import Sina weibo contacts</string>
-  <string name="import_weibo_fetch_followers">Retrieving Sina Weibo followers…</string>
-  <string name="import_weibo_notification_title">Importing Sina weibo contacts…</string>
-  <string name="import_weibo_notification_title_done">Import complete</string>
+   <string name="import_weibo_error_no_xiaomi_phone">Kişileri güncelleme bitti: Xiaomi hesabında telefon numarası bulunamadı</string>
+   <string name="import_weibo_error_no_matched_contacts">Kişileri güncelleme bitti: Eşleşen kişiler yok</string>
+   <string name="import_weibo_error_no_network">Kişileri güncelleme bitti: Ağ hatası</string>
+   <string name="import_weibo_error_user_cancel">Kişileri güncelleme bitti: Kullanıcı iptal etti</string>
+   <string name="import_weibo_error_unknown">Kişileri güncelleme bitti: Bilinmeyen hata</string>
+  <string name="import_weibo_dialog_title">Sina weibo kişilerini içe aktar</string>
+  <string name="import_weibo_fetch_followers">Sina Weibo takipçileri alınıyor…</string>
+  <string name="import_weibo_notification_title">Sina weibo kişilerini içe aktarılıyor…</string>
+  <string name="import_weibo_notification_title_done">İçe aktarma tamamlandı</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_vcard_canceled_title">İçe aktarma %s iptal edildi</string>
@@ -462,6 +468,7 @@
   <string name="menu_bar_group_delete">Sil</string>
   <string name="menu_bar_group_rename">Adlandır</string>
   <string name="menu_bar_group_ringtone">Gup Zilsesi</string>
+  <string name="menu_bar_group_ringtone_largeui">Zilsesi</string> 
   <string name="menu_bar_group_sms">Grup SMS</string>
   <string name="menu_batch_delete">Kişileri toplu sil</string>
   <string name="menu_call">Çağrı yap</string>
@@ -678,6 +685,7 @@ Favoriler listenize kişi eklemek için:
   <string name="private_num">Özel numara</string>
   <string name="processing">İşlem yapılıyor...</string>
   <string name="profile_display_name">Profilimi ayarla</string>
+  <string name="profile_name">Profil adı</string>
   <string name="progress_notifier_message" formatted="false">İçe aktarılıyor %s/%s: %s</string>
   <string name="quickcontact_missing_app">Bu işlemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="quit_dialog_confirm_title">Kişi birleştirmeden çıkmak istediğinize emin misiniz?</string>

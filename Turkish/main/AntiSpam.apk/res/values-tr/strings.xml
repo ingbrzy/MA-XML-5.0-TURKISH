@@ -46,7 +46,6 @@
   <string name="context_call">Ara</string>
   <string name="context_ms">Mesaj gönder</string>
   <string name="context_new_contact">Yeni kişi</string>
-  <string name="custom_mark_category">Özel</string>
   <string name="edit_blacklist">Düzenle</string>
   <string name="edit_whitelist">Düzenle</string>
   <string name="emptylist_fwlog_call">Tüm engellenen aramalar buraya kaydedilecek.</string>
@@ -109,8 +108,6 @@
   <string name="fw_whitelist">Beyaz liste</string>
   <string name="fw_whitelist_hint">Beyaz listeye klenmiş kişiler engellenmeyecektir</string>
   <string name="log_count">(%d)</string>
-  <string name="mark_number_dialog_maintitle">Bilinmeyen numarayı işaretle ve kaydet</string>
-  <string name="mark_number_dialog_subtitle">Sogou ile geliştirilmiştir.</string>
   <string name="member_firewall_log" formatted="false">Engellendi: Numara %d Ayrıntılar %d</string>
   <string name="menu_edit">Düzenle</string>
   <string name="mms_log_tab_title">SMS</string>
@@ -133,10 +130,5 @@
   <string name="save_button">Kaydet</string>
   <string name="show_firewall_notification">Güvenlik duvarı uyarılarını göster</string>
   <string name="show_notification">Bildirimleri göster</string>
-  <string name="smart_antispam">Akıllı Anti-Spam</string>
-  <string name="turn_on_smart_antispam_hint">Etkinleştirildikten sonra kimlik tespiti yapılacak, numaralar etiketlenecek ve sahte aralamalar belirlencek.</string>
-  <string name="turn_on_smart_antispam_summary_off">Yerel numara veritabanını sorgula</string>
-  <string name="turn_on_smart_antispam_summary_on">Sadece Wi-Fi ve 3G de çalış</string>
-  <string name="turn_on_smart_antispam_title">Bilinmeyen numaralara kimlik tespiti yap</string>
   <string name="whitelist_tab_title">Beyaz liste</string>
 </resources>
