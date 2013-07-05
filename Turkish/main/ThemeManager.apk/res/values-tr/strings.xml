@@ -63,7 +63,7 @@
   <string name="resource_comment_edit_comment_waiting">Kullanmış olup olmadığını kontrol ediyor</string>
   <string name="resource_comment_edit_text_default">Yorum yaz</string>
   <string name="resource_comment_edit_title">Yorumu düzenle: %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s inceleme, tıkla ve gör</string>
+  <string name="resource_comment_entry_tips">%1$s inceleme, tıkla ve bak</string>
   <string name="resource_comment_expand_full_text">Tam metine genişletin</string>
   <string name="resource_comment_invalid">Yıldıza basarak oylayın</string>
   <string name="resource_comment_name_default">Kullanıcı %1$s</string>
@@ -102,7 +102,7 @@
   <string name="resource_price_free">Ücretsiz</string>
   <string name="resource_price_unit">MI Kredisi</string>
   <string name="resource_ringtone_default">Zil Sesleri</string>
-  <string name="resource_see_more">Daha fazla gör</string>
+  <string name="resource_see_more">Daha fazla</string>
   <string name="resource_select">Seç</string>
   <string name="resource_server_out_of_service">Sunucu kullanılamaz, daha sonra tekrar deneyin.</string>
   <string name="resource_switch_account">Değiştir</string>

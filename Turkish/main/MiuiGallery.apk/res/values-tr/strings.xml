@@ -142,13 +142,13 @@
   <string name="group_by_time">Süreye göre</string>
   <string name="height">Yükseklik</string>
   <string name="highlight">Önemli</string>
-  <string name="home_my_captured_items">Toplam foto</string>
+  <string name="home_my_captured_items">Foto</string>
   <string name="how_many_pics">%d foto</string>
   <string name="how_many_sub_folders">%d klasör</string>
   <string name="how_many_videos">%d Video</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="import_complete">İçe aktarma tamamlandı</string>
-  <string name="import_fail">İçe aktarma başarısız!</string>
+  <string name="import_fail">İçe aktarım başarısız!</string>
   <string name="initial_cloud_button_text">MiCloud\'u kullanmaya başlayın</string>
   <string name="initial_cloud_text">Her zaman ve her yerde, fotolarınızı düzenleyebilir ve görüntüleyebilirsiniz</string>
   <string name="input_cloudfolder_name">Cloud klasör adı</string>

@@ -77,7 +77,7 @@
   <string name="dialog_type_image">Resim</string>
   <string name="dialog_type_text">Yazı</string>
   <string name="dialog_type_video">Video</string>
-  <string name="directory_no_item">Boş klasör</string>
+  <string name="directory_no_item">Klasör boş</string>
   <string name="dlg_error_unmount_text">"USB depolama kaldırılamaz, tekrar deneyin!"</string> 
   <string name="directory_info_divider">"  |  "</string> 
   <string name="download_current_progress">%1$d/100</string>
@@ -126,7 +126,7 @@ Artık dosya"</string>
   <string name="give_up_cleaning">Temizleme iptal edildi</string>
   <string name="header_text_cleaned">Artık temizlendi</string>
   <string name="header_text_cleaning">Kalan artıklar temizleniyor</string>
-  <string name="header_text_scanned">Artık dosyalar bulundu</string>
+  <string name="header_text_scanned">Artık dosya bulundu</string>
   <string name="header_text_scanning">Artık dosyalar aranıyor…</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin:</string>
   <string name="instruction_pre">Servis başlayınca FTP server kullanılabilir</string>

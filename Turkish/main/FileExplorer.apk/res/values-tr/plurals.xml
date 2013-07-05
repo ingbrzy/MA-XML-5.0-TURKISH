@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="directory_item_count">
+        <item quantity="other">%d öğe</item>
+        <item quantity="one">1 öğe</item>
+    </plurals>
+</resources>
