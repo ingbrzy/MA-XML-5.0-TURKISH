@@ -1,10 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Giriş engellendi</string>
+  <string name="access_token_expired_warning">Weibo hesabınızın süresi doldu, lütfen tekrar bağlayın</string>
+  <string name="access_token_invalid_warning">Weibo hesabınız geçersiz, lütfen tekrar bağlayın</string>
   <string name="account">Hesap</string>
-  <string name="account_dspt">"Xiaomi hesabı mesaj, kişiler, resimler , vb. bilgilerinizi yedekler"</string>
+   <string name="account_detail">"Xiaomi hesabı: 
++%1$s"</string>
+  <string name="account_dspt">"Xiaomi hesabı mesaj, kişiler, resimler , 
+  vb. bilgilerinizi yedekler"</string>
   <string name="account_hint_text">E-mail/Telefon numarası</string>
   <string name="account_name">Hesap: %1$s</string>
+  <string name="activate_phone_failed_notif_title">MiCloud hizmeti etkinleştirilemedi</string>
+  <string name="activate_phone_send_sms_fail">Aktivasyon mesajı gönderilemedi, senkronize hizmetini açın</string>
+  <string name="activate_phone_send_sms_failed_notif">Aktivasyon mesajı gönderilemedi</string>
+  <string name="activate_phone_server_error">Sunucu hatası, senkronize hizmeti kullanılamıyor</string>
+  <string name="activate_phone_server_error_notif">Sunucu hatası</string>
   <string name="available_functionality">Mevcut Hizmetler</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="add_weibo_account">Hesap ekle</string>
@@ -44,10 +54,12 @@
   <string name="data_sync_notice">Xiaomi hesabı kullanarak verilerinizi senk edin</string>
   <string name="data_wipe_from_phone">Cihazımdan sil</string>
   <string name="disable_find_device_error">%1$s, Cihaz bulma devre dışı bırakılamadı</string>
+  <string name="disable_micloud">&lt;u&gt;MiCloud\'u etkinleştirmeyin&lt;/u&gt;</string> 
   <string name="enable_micloud">Cloud hizmetlerine izin ver</string> 
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
   <string name="enable_find_device_error">%1$s, Cihaz bulma etkinleştirilemedi</string>
-  <string name="error_account_changed_summary">Sizin Xiaomi hesabınız güncellendi. Bilgilerinizi kontrol edin ve tekrar deneyin</string>
+  <string name="error_account_changed_summary">Sizin Xiaomi hesabınız güncellendi. 
+  Bilgilerinizi kontrol edin ve tekrar deneyin</string>
   <string name="error_account_changed_title">Hesabınız güncellendi</string>
   <string name="error_auth_summary">Hesap doğrulama hatası oluştu, lütfen tekrar deneyin</string>
   <string name="error_auth_title">Hesap hatası</string>
@@ -89,7 +101,7 @@
   <string name="find_device_notice_p3">Bul, Kilitle, yada verileri sil</string>
   <string name="find_device_success_title">Cihaz bulma etkin</string>
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
-  <string name="forget_password"/>
+  <string name="forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string> 
   <string name="frozen">(Kilitlendi)</string>
   <string name="get_back_pwd">Şifreyi kurtar</string> 
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>
@@ -113,10 +125,20 @@
   <string name="micloud_account_label">Hesap: %1$s</string>
   <string name="micloud_account_name">Xiaomi Hesabı</string>
   <string name="micloud_account_not_actived">Hesap etkin değil</string>
+  <string name="micloud_activate_account_fail_notify_title">Xiaomi hesap aktivasyonu başarısız!</string> 
+  <string name="micloud_activate_account_success_notify_title">Xiaomi hesap aktivasyonu başarılı</string>
+  <string name="micloud_activate_back_btn">İptal</string>
+  <string name="micloud_activate_retry_btn">Tekrar dene</string> 
+  <string name="micloud_activating_account_notify_info">Xiaomi hesap aktivasyonu yapıyorsunuz</string>
+  <string name="micloud_activating_account_notify_title">Xiaomi hesap aktivasyonu yapılıyor...</string>
+ <string name="micloud_active_alert_title">Hesap aktivasyonu</string>  
   <string name="micloud_active_email_sent_1">E-postanıza  aktivasyon linki gönderildi:</string>
   <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Ziyaret et %s</string>
   <string name="micloud_activing_account">Hesap etkinleştiriliyor...</string>
+  <string name="micloud_activing_account_delayed">"Aktivasyon işlemi 30 saniye içinde tamamlanacak.
+  Lütfen bekleyin..."</string> 
+  <string name="micloud_activing_account_failed">Aktivasyon başarısız!</string> 
   <string name="micloud_click_email">Xiaomi Hesabınızı etkinleştirmek için e-postadaki bağlantıyı tıklayın</string>
   <string name="micloud_click_email_to_valid">Mesaj kutunuzdaki aktivasyon postasına tıklayın</string>
   <string name="micloud_delete_account">Hesabı sil</string>
@@ -138,14 +160,15 @@
   <string name="micloud_password_confirm_hint">Şifrenizi onaylayın</string>
   <string name="micloud_password_error_inconsistent">Şifre hatalı</string>
   <string name="micloud_password_req_notice">8~16 karakter, rakamlar, alfabe harfleri, küçük harfe duyarlı</string>
-  <string name="micloud_reg_new">Yeni oluştur</string>
+  <string name="micloud_proceed">Devam et</string> 
+  <string name="micloud_reg_new">Yeni</string>
   <string name="micloud_resend_active_email">Aktivasyon E-postasını tekrar gönder</string>
   <string name="micloud_summary">Bağlantıları, fotoğrafları ve diğer birçok özellikleri senkronize etmek için Xiaomi hesabınız ile oturum açın.</string> 
   <string name="micloud_use_existing">Mevcut</string>
   <string name="micloud_val_sms_alert">SMS, telefon numaranızı doğrulamak için gönderilecektir, devam edilsin mi?</string>
   <string name="micloud_via_int_sms_alert">SMS operatörünüzün mesajlaşma durumuna göre cihazınıza gönderilecektir. Devam etmek istediğinizden emin misiniz?</string>
   <string name="micloud_via_sms_alert">SMS telefon numaranızı doğrulamak için gönderilir. Devam etmek istediğinizden emin misiniz?</string>
-  <string name="micloud_welcome_skip_login">Kayıt işlemini atla</string>
+  <string name="micloud_welcome_skip_login">&lt;u&gt;Bu adımı atla&lt;/u&gt;</string>
   <string name="mili_center">Mi Kredisi</string>
   <string name="my_xiaomi_account">Xiaomi Hesabım</string>
   <string name="next">Sonraki</string>
@@ -218,7 +241,8 @@
    1. Ilgili müşteri hizmetleri: %1$s
    2. Seri numarası: %2$s"</string>
   <string name="progress_warning_waiting">Kullanıcı bilgileriniz güncellenirken lütfen bekleyiniz.</string>
-  <string name="quick_login_title">Kimlik doğrulama gerekiyor, lütfen şifrenizi giriniz</string>
+  <string name="quick_login_title">Kimlik doğrulama gerekiyor,
+  lütfen şifrenizi giriniz</string>
   <string name="recharge_alipay_summary">Alipay kredisi</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>
@@ -235,6 +259,8 @@
   <string name="recharge_voucher_title">Mi Kredi Kuponları</string>
   <string name="reg_by_email_failure">Kayıt başarısız oldu: %1$s</string>
   <string name="reg_failed">Kayıt başarısız oldu</string>
+  <string name="reg_success">Kayıt işlemi başarılı</string> 
+   <string name="reg_success_summary">Cep telefonu numaranız %1$s . Oturum açmak, MiLock ve şifre kurtarmak için zaten bir şifre alınmış.</string>
   <string name="reg_type_email">E-posta ile kaydol</string>
   <string name="reg_type_phone">Telefon ile kaydol (önerilen)</string>
   <string name="reging">Kaydoluyor, lütfen bekleyin…</string>
@@ -246,6 +272,8 @@
   <string name="send_int_sms_for_sync_notice">Cihazınıza aktivasyon SMS\'i gönderildi. Devam edilsin mi?</string>
   <string name="send_sms_for_sync_notice">Aktivasyon SMS\'i gönderildi. Devam edilsin mi</string>
   <string name="send_sms_for_sync_title">Senk hizmetleri etkin değil</string>
+  <string name="service_error">Hizmet hatası</string>
+  <string name="show_password">Şifreyi göster</string>   
   <string name="sim_changed_notification_content">SIM kart etkin değil, tekrar etkinleştirin</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip login</string>
