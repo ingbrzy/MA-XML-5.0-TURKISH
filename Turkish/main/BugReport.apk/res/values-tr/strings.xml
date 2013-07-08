@@ -31,7 +31,7 @@
   <string name="section_screenshot">Ekran görüntüsü</string>
   <string name="status_msg_collecting_log">Kayıtlar toplanıyor...</string>
   <string name="status_msg_pending_upload">%d geri bildirimi upload ediliyor...</string>
-  <string name="toast_description_required">DGöndermeden önce tanımlama gerekli</string>
+  <string name="toast_description_required">Göndermeden önce tanımlama gerekiyor</string>
   <string name="toast_feedback_pending_wlan">Kablosuz ağ etkin olduğunda rapor gönderilecek.</string>
   <string name="toast_feedback_submitted">Geri bildirim başarıyla gönderildi.</string>
   <string name="toast_pending_log_collection">Kayıtlar toplanıyor. Lütfen bekleyin...</string>

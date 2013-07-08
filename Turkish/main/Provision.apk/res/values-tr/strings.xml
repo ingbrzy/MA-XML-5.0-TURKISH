@@ -4,7 +4,7 @@
   <string name="data_usage_summary">Bir veri planı uygulanmaz ise, mobil veriyi kapatmanız tavsiye edilir. Aksi takdirde, taşıyıcınız ek ücretler talep edebilir.</string>
   <string name="default_gprs_sim_name">Veri kullanım limitini giriniz \"%s\"</string>
   <string name="input_method">Giriş yöntemi</string>
-  <string name="input_method_category">Giriş yöntemini seç</string>
+  <string name="input_method_category">Giriş yöntemini seçin</string>
   <string name="next">Sonraki</string>
   <string name="other_service_google_location">Google konum hizmeti</string>
   <string name="other_service_google_location_use">Konum &amp; Google arama</string>
@@ -23,7 +23,7 @@
   <string name="setup_complete_start">Telefonu kullanabilirsiniz</string>
   <string name="setup_complete_summary">Ayarlamalar bitti! Merhaba MIUI!</string>
   <string name="shutdown">Kapat</string>
-  <string name="sim_card_detection_dialog_message">SIM kart buluyor, bekleyin...</string>
+  <string name="sim_card_detection_dialog_message">SIM kart bulunuyor, bekleyin...</string>
   <string name="sim_card_detection_info">"SIM kart olmadan Xiaomi hesabı kurulumu yapılamıyor. Hesap senkronizesi ve telefon kullanımı için SIM kart gerekiyor."</string>
   <string name="sim_card_detection_label">SIM kart bulundu</string>
   <string name="sim_card_detection_status_absent">SIM kart bulunamadı!</string>

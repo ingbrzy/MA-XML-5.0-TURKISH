@@ -95,8 +95,8 @@
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>Düğme</item>
-        <item>"Eş cihazın PIN'i"</item>
-        <item>"Bu cihazın PIN'i"</item>
+        <item>"Eş cihazın PIN kodu"</item>
+        <item>"Bu cihazın PIN kodu"</item>
     </string-array>
     <string-array name="wifi_p2p_status">
         <item>Bağlı</item>
@@ -152,8 +152,8 @@
     <string-array name="wifi_network_setup">
         <item>Kapalı</item>
         <item>Düğme</item>
-        <item>"Erişim noktası PIN'i"</item>
-        <item>"Bu cihazın PIN'i"</item>
+        <item>"Erişim noktası PIN kodu"</item>
+        <item>"Bu cihazın PIN kodu"</item>
     </string-array>
     <string-array name="wifi_ip_settings">
         <item>DHCP</item>
@@ -287,7 +287,7 @@
     <string-array name="battery_indicator_style_entries">
         <item>Grafiksel</item>
         <item>Yüzde</item>
-        <item>Üst-Bar</item>
+        <item>Yatay çizgi</item>
     </string-array>
     <string-array name="usb_connection_mode_entries">
         <item>Bağlanırken sor</item>

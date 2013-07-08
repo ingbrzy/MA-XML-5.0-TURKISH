@@ -42,7 +42,7 @@
   <string name="Generic_Loading">Yükleniyor...</string>
   <string name="Generic_MonitoredApp">İzlenen uygulamalar (%1$d)</string>
   <string name="Generic_Operating">İşleniyor...</string>
-  <string name="Generic_Optimize">Optimize</string>
+  <string name="Generic_Optimize">Optimize et</string>
   <string name="Generic_Service_Disabled">Servis kapatıldı</string>
   <string name="Generic_Service_Enabled">Servis etkin</string>
   <string name="Generic_Shortcut">İçerik menüsü</string>
@@ -52,7 +52,7 @@
   <string name="Generic_SystemApp">Sistem uygulaması (%d)</string>
   <string name="Generic_SystemApp_Label">[Sistem uygulaması]</string>
   <string name="Generic_TrustedApp">Güvenilir Uygulamalar (%1$d)</string>
-  <string name="Generic_Update">Yazılımı Yükselt</string>
+  <string name="Generic_Update">Yazılımı güncelle</string>
   <string name="Generic_UserApp">İndirilen Uygulamalar (%d)</string>
   <string name="Generic_Version">Sürüm: %1$s</string>
   <string name="HIPS_Action_Accept">İzin ver</string>
@@ -66,7 +66,7 @@
   <string name="HIPS_Group_DataPrivacy">Gizlilik</string>
   <string name="HIPS_Group_Expense">Güvenlik</string>
   <string name="HIPS_Group_Internet">Internet erişimi</string>
-  <string name="HIPS_Group_Location">konumlama</string>
+  <string name="HIPS_Group_Location">Konumlama</string>
   <string name="HIPS_Group_PIM">Kişisel bilgi</string>
   <string name="HIPS_Group_PhoneID">Telefon bilgileri</string>
   <string name="HIPS_Group_ROOT">ROOT</string>
@@ -156,7 +156,7 @@
   <string name="HIPS_SecurityPrompt_Caption">Güvenlik Uyarısı !</string>
   <string name="HIPS_SecurityPrompt_Next">Sonraki</string>
   <string name="HIPS_SecurityPrompt_ROOT_Caption">Önemli Uyarı !</string>
-  <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s uygulamasına ROOT yetkisi verilsin mi?</string>
+  <string name="HIPS_SecurityPrompt_ROOT_Step1">%1$s uygulamasına ROOT yetkisi verilecek!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step2">ROOT Yetkileri sistem kararlılığını bozabilir!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step3">Hesaplarınızı, şifrelerinizi, mesajlarınızı, gizliliğinizi ve verileri tehlikeye atabilir!</string>
   <string name="HIPS_SecurityPrompt_ROOT_Step4">Donanımlara kalıcı zararlar verebilir!</string>

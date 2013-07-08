@@ -179,7 +179,7 @@
   <string name="transformation_type_stack">Kart Yığını</string>
   <string name="uninstall">Kaldır</string>
   <string name="uninstall_dialog_message">Tüm veriler silinecek!</string>
-  <string name="uninstall_dialog_title_format">\"%s\" uygulamasını kaldır!</string>
+  <string name="uninstall_dialog_title_format">\"%s\" Kaldır!</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Başlıksız</string>
   <string name="wallpaper_scrolling">tümü</string>

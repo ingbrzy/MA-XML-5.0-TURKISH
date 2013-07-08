@@ -9,16 +9,16 @@
   <string name="act_action_reject_accept">Aramaları izle</string>
   <string name="act_action_reject_mute">Aramaları sustur ve mesajları izle</string>
   <string name="act_action_reject_reject">Gelen aramaları ve mesajları izle</string>
-  <string name="act_call">Aramaların kaydını tut</string>
+  <string name="act_call">Arama kaydını tut</string>
   <string name="act_del_ms">Gösterme</string>
   <string name="act_del_ms_summary">Reddedilmiş mesajlar gösterilmeyecek</string>
   <string name="act_hangup_call">Hemen kapat</string>
   <string name="act_hangup_call_summary">Reddedilmiş aramalar kayıtlarda gösterilmeyecek</string>
-  <string name="act_ignore_call">Aramaların kaydını tutma</string>
+  <string name="act_ignore_call">Arama kaydını tutma</string>
   <string name="act_ignore_ms">Bildirimleri yoksay</string>
   <string name="act_ms">Mesajları kayıt altına al</string>
   <string name="act_mute_call">Aramaları sustur</string>
-  <string name="act_mute_call_summary">Arama bildirimleri gösterilmeyecek ancak kayıt altına alınmaya devam edecek</string>
+  <string name="act_mute_call_summary">Arama bildirimleri gösterilmeyecek ancak kayıt altına alınmaya devam edilecek</string>
   <string name="act_mute_ms">Bildirimleri sustur</string>
   <string name="act_mute_ms_summary">Bildirimler devre dışı bırakıldı ancak mesajlara bakılabilir</string>
   <string name="add_blacklist">Kara listeye ekle</string>
@@ -58,7 +58,7 @@
   <string name="fw_action_settings">Güvenlik duvarı ayarları</string>
   <string name="fw_add_keyword">Add keywords to monitor</string>
   <string name="fw_add_keyword_existing" formatted="false">Anahtar: %s zaten var</string>
-  <string name="fw_add_list_title">Telefon jumarasını girin</string>
+  <string name="fw_add_list_title">Telefon numarasını girin</string>
   <string name="fw_advanced_settings">Gelişmiş Ayarlar</string>
   <string name="fw_all_day">Günlük</string>
   <string name="fw_blacklist">Kara liste</string>
@@ -106,7 +106,7 @@
   <string name="fw_start_time">Başlama zamanı</string>
   <string name="fw_time_settings">Engelleme takvimi</string>
   <string name="fw_whitelist">Beyaz liste</string>
-  <string name="fw_whitelist_hint">Beyaz listeye klenmiş kişiler engellenmeyecektir</string>
+  <string name="fw_whitelist_hint">Beyaz listeye eklenmiş kişiler engellenmez</string>
   <string name="log_count">(%d)</string>
   <string name="member_firewall_log" formatted="false">Engellendi: Numara %d Ayrıntılar %d</string>
   <string name="menu_edit">Düzenle</string>
@@ -118,10 +118,10 @@
   <string name="opt_reject_all">Tümünü reddet</string>
   <string name="opt_reject_blacklist">Kara listedekileri reddet</string>
   <string name="opt_reject_blacklist_stranger">Bilinmeyen numaraları reddet</string>
-  <string name="opt_reject_blacklist_stranger_summary">Kara listedekiler reddedilecek, beyaz listedekilere izin verilecek</string>
+  <string name="opt_reject_blacklist_stranger_summary">Kara listedekiler reddedilir, beyaz listedekilere izin verilir</string>
   <string name="remove">Kaldır</string>
   <string name="remove_all_keywords">Tüm anahtar kelimeleri silmek istediğinizden emin misiniz?</string>
-  <string name="remove_call_log">Tüm arama kaydını silinsin mi?</string>
+  <string name="remove_call_log">Tüm arama kaydı silinsin mi?</string>
   <string name="remove_contact">Seçili kişi silinsin mi?</string>
   <string name="remove_delete">Sil</string>
   <string name="remove_inf">Seçili bilgi silinsin mi?</string>
