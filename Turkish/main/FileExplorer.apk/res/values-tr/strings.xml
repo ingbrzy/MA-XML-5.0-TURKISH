@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_bind_prompt">"Geçiş kullanıcı verileri, hesabınız geçici olarak kilitlenir, lütfen bekleyin ....."</string>
+  <string name="account_bind_prompt">"Kullanıcı verileri işleniyor, 
+  hesabınız geçici olarak kilitlenir, lütfen bekleyin ....."</string>
   <string name="add_task">Görev ekle</string>
   <string name="adding_upload_tasks">Yükleme görevleri ekleniyor.</string>
   <string name="app_cache_cleanup_indication">%s veri</string>
@@ -14,13 +15,13 @@
   <string name="big5_summary">Geleneksel Çin dili için varsayılan Windows kodlaması</string> 
   <string name="big5_title">BIG5</string>
   <string name="bind_account">MiDrive hesabını bağla</string>
-  <string name="bind_account_summary">Eğer bir MiDrive hesabınız varsa, kişisel verileri almak için ekleyebilirsiniz</string>
-  <string name="binded_accout_description">Hesaplar birleştirilir, giriş için Xiaomi hesabı veya MiDrive hesabı kullanabilirsiniz</string>
+  <string name="bind_account_summary">Eğer bir MiDrive hesabınız varsa, kişisel verilerinizi almak için ekleyebilirsiniz</string>
+  <string name="binded_accout_description">Hesaplar birleştirilir, giriş için Xiaomi hesabı veya MiDrive hesabınızı kullanabilirsiniz</string>
   <string name="binded_accout_title">MiDrive Hesabı</string>
   <string name="cache_size_label">Veri</string>
   <string name="cancel">İptal</string>
   <string name="cancel_app_garbage_cleanup">Uygulama temizlemeyi iptal et</string>
-  <string name="cancel_with_count_down">(%d) iptal et</string>
+  <string name="cancel_with_count_down">(%d) İptal et</string>
   <string name="category_all">Hepsi</string>
   <string name="category_apk">APK\'lar</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -138,7 +139,7 @@ Artık dosya"</string>
   <string name="load_err">Yüklenemedi!</string>
   <string name="loading">Yükleniyor…</string>
   <string name="local_cache_size">Yerel veri boyutu: %s</string>
-  <string name="login_reg_content">MiDrive dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
+  <string name="login_reg_content">MiDrive; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">MiDrive Cloud Depolama Birimi</string>
   <string name="menu_item_cleanup">Dosyaları temizle</string>
   <string name="menu_item_ftp">FTP</string>
@@ -152,13 +153,13 @@ Artık dosya"</string>
   <string name="migrate_announcement_title">Hesap taşıma</string>
   <string name="move_failed">Taşınamadı</string>
   <string name="multi_select_title">Seçilenler %1$s </string>
-  <string name="name_illegal">Dosya ismi boş değil</string>
+  <string name="name_illegal">Dosya ismi geçersiz</string>
   <string name="net_lose_connected">Ağ bağlantısı yok, boyut alınamıyor!</string>
   <string name="networkView_notConnected">Ağ bağlantısı yok!</string>
   <string name="new_folder_name">Yeni klasör</string>
   <string name="no">Hayır</string>
   <string name="no_app_cache_indication">Uygulama verisi yok</string>
-  <string name="no_app_garbage_indication">Uygulama artıkları yok</string>
+  <string name="no_app_garbage_indication">Uygulama artığı yok</string>
   <string name="no_empty_dir_indication">Boş klasör yok</string>
   <string name="no_enough_space">Yeterli boş alan yok</string>
   <string name="no_enough_storage_indication">Yeterli boş alan yok, gereksiz dosyaları sildikten sonra tekrar deneyin</string>
@@ -166,9 +167,9 @@ Artık dosya"</string>
   <string name="no_file">Dosya yok</string>
   <string name="no_more_space">Yeterli alan yok</string>
   <string name="no_tasks">Görev yok</string>
-  <string name="no_temp_file_indication">Çerez dosyaları yok</string>
-  <string name="no_thumbnail_indication">Önizleme dosyaları yok</string>
-  <string name="no_wifi"> Wi-Fi ağı yok</string>
+  <string name="no_temp_file_indication">Çerez dosyası yok</string>
+  <string name="no_thumbnail_indication">Ön izleme dosyası yok</string>
+  <string name="no_wifi"> Wi-Fi bağlantısı yok</string>
   <string name="no_wifi_hint">Wi-Fi bağlantısı bulunamadı</string>
   <string name="notif_server_starting">FTP Server başladı</string>
   <string name="notif_title">FTP Server</string>
@@ -199,7 +200,7 @@ Artık dosya"</string>
   <string name="operation_moving">Taşınıyor...</string>
   <string name="operation_moving_detail">Taşınan dosyalar(%1$d/%2$d)</string>
   <string name="operation_paste">Yapıştır</string>
-  <string name="operation_pasting">Yapıştırıyor...</string>
+  <string name="operation_pasting">Yapıştırılıyor...</string>
   <string name="operation_pause">Duraklat</string>
   <string name="operation_pause_all">Tümünü duraklat</string>
   <string name="operation_refresh">Yenile</string>
@@ -214,9 +215,9 @@ Artık dosya"</string>
   <string name="paused">Duraklatıldı</string>
   <string name="query_bind_state">Bağlama durumu sorgulanıyor, lütfen bekleyin...</string>
   <string name="release_space_indication">Artık dosya bulundu</string>
-  <string name="rename_description">Adlandırılıyor, lütfen bekleyin…</string>
-  <string name="rename_failed">Tekrar adlandırılan《%1$s》hatası</string>
-  <string name="restart_cleaning">Tekrar başlat</string>
+  <string name="rename_description">Yeniden adlandırılıyor, lütfen bekleyin…</string>
+  <string name="rename_failed">《%1$s》 Yeniden adlandırılamadı</string>
+  <string name="restart_cleaning">Yeniden başlat</string>
   <string name="scanning" formatted="false"> %d uygulama taranıyor ... (toplam %d uygulama)</string>
   <string name="scanning_on_going">Taranıyor...</string>
   <string name="scanned">Tarama tamamlandı</string>
@@ -235,7 +236,7 @@ Artık dosya"</string>
   <string name="show_message">İndirme yapılırken dosya açılamaz</string>
   <string name="space_info">Network alanı: %1$s kullanılabilir，toplam: %2$s</string>
   <string name="space_usage">Kullanım</string>
-  <string name="start_cleanup">Temizlemeyi başlat</string>
+  <string name="start_cleanup">Temizliği başlat</string>
   <string name="start_server">Servisi başlat</string>
   <string name="start_use_xiaomi_account">Giriş yap</string>
   <string name="stay_awake_summary">FTP kullanırken ekranı uyanık tutar</string>
@@ -252,14 +253,14 @@ Artık dosya"</string>
   <string name="tab_phone">Telefon</string>
   <string name="temp_file_cleanup_indication">%s çerez dosyaları</string>
   <string name="temp_file_title">Çerez dosyaları</string>
-  <string name="thumbnail_cleanup_indication">%s önizlemeler</string>
-  <string name="thumbnail_title">Önizleme dosyaları</string>
+  <string name="thumbnail_cleanup_indication">%s ön izleme</string>
+  <string name="thumbnail_title">Ön izleme dosyaları</string>
   <string name="toast_file_not_can_read">Dosya okunamıyor ya da bozuk.</string>
   <string name="trans_task">Ağ transferi</string>
   <string name="trans_task_delete_confirm_message">Seçilen %1$d görev silinsin mi?</string>
   <string name="transing">Transfer ediliyor...</string>
   <string name="trash_box_capacity">Çöp alanı: %1$s</string>
-  <string name="trash_box_link">ziyaret et: pan.xiaomi.com </string>
+  <string name="trash_box_link">Ziyaret edin: pan.xiaomi.com </string>
   <string name="trash_box_message1">"Boş alan kazanmak için gereksiz dosyaları sil"</string>
   <string name="trash_box_message2">"Boş alan kazanmak için artık dosyaları sil"</string>
   <string name="ui_bar_txt_download_progress">İndiriliyor...</string>
@@ -270,10 +271,10 @@ Artık dosya"</string>
   <string name="ui_main_progress_txt_open_file">İndiriliyor...</string>
   <string name="ui_main_toast_favorite_removed">Favoriler kaldırıldı</string>
   <string name="ui_main_toast_operation_failed">Favorileri kaldırma hatası %1$s</string>
-  <string name="uninstall_app_data">Uygulama ve verileri sil</string>
+  <string name="uninstall_app_data">Uygulama ve verilerini sil</string>
   <string name="unmount_inform_text">USB depolama bağlantısı kesilecek.</string>
   <string name="upload_failed">Yükleme hatası!</string>
-  <string name="upload_file_toolarge_message">"%1$d dosya 300MB'tan büyük olduğu için yüklenemedi"</string>
+  <string name="upload_file_toolarge_message">"%1$d dosya 300MB\'tan büyük olduğu için yüklenemedi"</string>
   <string name="uploading">Yükleniyor...</string>
   <string name="used">Kullanılan</string>
   <string name="user_guide">Kullanım kılavuzu</string>
@@ -291,7 +292,7 @@ Artık dosya"</string>
   <string name="waiting">Bekliyor...</string>
   <string name="waiting_for_cleaning">Temizlik için bekliyor</string>
   <string name="waiting_for_scanning">Taramak için bekliyor</string>
-  <string name="wangpan_root_path">My Drive</string>
+  <string name="wangpan_root_path">Diskim</string>
   <string name="wifi_state">Wi-Fi durumu</string>
   <string name="xiaomi_account">Xiaomi hesabı</string>
   <string name="yes">evet</string>
