@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
+  <string name="MIUI_startpage">Açılış sayfası</string>
   <string name="accessibility_button_addbookmark">Sayfayı favorilere ekle</string>
   <string name="accessibility_button_back">Geri</string>
-  <string name="accessibility_button_bookmarks">Yer işaretleri</string>
+  <string name="accessibility_button_bookmark">yer imi</string>
+  <string name="accessibility_button_bookmarks">Yer imleri</string>
   <string name="accessibility_button_clear">Girdiyi temizle</string>
   <string name="accessibility_button_closetab">Sekmeyi kapat</string>
   <string name="accessibility_button_forward">İlerle</string>
   <string name="accessibility_button_go">Git</string>
   <string name="accessibility_button_goto">Git</string>
+  <string name="accessibility_button_larger">Daha geniş</string>
   <string name="accessibility_button_more">Diğer seçenekler</string>
   <string name="accessibility_button_navscreen">Sayfa yöneticisi</string>
   <string name="accessibility_button_newincognitotab">Yeni gizli sekme aç</string>
   <string name="accessibility_button_newtab">Yeni sekme aç</string>
   <string name="accessibility_button_refresh">Sayfayı yenile</string>
   <string name="accessibility_button_search">Arama yap</string>
+  <string name="accessibility_button_smaller">Daha ufak</string>
   <string name="accessibility_button_stop">Sayfa yüklemeyi durdur</string>
+  <string name="accessibility_button_tabs">Sekmeler</string>
   <string name="accessibility_button_uaswitch">Kullanıcı ajanını değiştir</string>
   <string name="accessibility_button_voice">Sesli arama başlat</string>
   <string name="accessibility_state_frozen">Kayıtlı sayfa</string>
@@ -65,7 +70,6 @@
   <string name="block">Engelle</string>
   <string name="bookmark_add_to">Ekle</string>
   <string name="bookmark_cannot_save_url">Bu URL yer işareti olarak eklenemez.</string>
-  <string name="bookmarks_content_is_null">Yer imi yok</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Favorinin bir adı olmalıdır.</string>
   <string name="bookmark_needs_url">Favorinin bir konumu olmalıdır.</string>
@@ -73,11 +77,15 @@
   <string name="bookmark_page">Son görüntülenen sayfayı favori olarak işaretle</string>
   <string name="bookmark_saved">Favorilere kaydedildi.</string>
   <string name="bookmark_this_page">Bu sayfaya yer işareti koy</string>
+  <string name="bookmark_this_page_to_readmodelist">Sayfayı okuma listesine ekle</string>
   <string name="bookmark_thumbnail_view">Küçük resimler</string>
   <string name="bookmark_title">Başlık</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Okuma listesine kaydedilemedi."</string>
+  <string name="bookmark_to_readmodelist_saved">Okuma listesine kaydedildi.</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">Bu URL geçersiz.</string>
   <string name="bookmarks">Yer imleri</string>
+  <string name="bookmarks_content_is_null">Yer imi yok</string>
   <string name="bookmarks_management">Yer imleri</string>
   <string name="bookmarks_root_folder">Ana klasör</string>
   <string name="bookmarks_search">Tarayıcı</string>
@@ -178,6 +186,7 @@
   <string name="go_home">Ana Sayfa</string>
   <string name="google_bookmarks">"Google: "</string>
   <string name="goto_dot">Git</string>
+  <string name="have_sent_bookmark_to_home_screen">Yer imi ana ekrana gönderildi</string>
   <string name="history">Geçmiş</string>
   <string name="history_browsed">Tarama geçmişi</string>
   <string name="history_most_visited">En çok ziyaret edilenler</string>
@@ -255,7 +264,8 @@
   <string name="please_select_a_file_to_import">Lütfen dosya seçin</string>
   <string name="popup_window_attempt">Bu sitenin pop-up pencere açmasına izin verilsin mi?</string>
   <string name="pref_accessibility_title">Erişilebilirlik</string>
-  <string name="pref_autofill_enabled">Formu otomatik doldur</string>
+ <string name="pref_allow_apptabs">Uygulama başına birden fazla sekmeye izin ver</string>
+ <string name="pref_autofill_enabled">Formu otomatik doldur</string>
   <string name="pref_autofill_enabled_summary">Web formlarını tek bir dokunmayla doldurun</string>
   <string name="pref_autofill_profile_editor">Otomatik doldurma metni</string>
   <string name="pref_autofill_profile_editor_summary">Web formlarına otomatik girilecek metni ayarlayın</string>
