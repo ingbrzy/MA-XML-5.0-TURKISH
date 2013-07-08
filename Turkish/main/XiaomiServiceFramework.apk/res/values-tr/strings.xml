@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="access_denied">Giriş engellendi</string>
-  <string name="access_token_expired_warning">Weibo hesabınızın süresi doldu, lütfen tekrar bağlayın</string>
-  <string name="access_token_invalid_warning">Weibo hesabınız geçersiz, lütfen tekrar bağlayın</string>
+  <string name="access_token_expired_warning">Weibo hesabınızın süresi doldu, lütfen tekrar bağlanın</string>
+  <string name="access_token_invalid_warning">Weibo hesabınız geçersiz, lütfen tekrar bağlanın</string>
   <string name="account">Hesap</string>
-   <string name="account_detail">"Xiaomi hesabı: 
-+%1$s"</string>
+   <string name="account_detail">"Xiaomi hesabı: +%1$s"</string>
   <string name="account_dspt">"Xiaomi hesabı mesaj, kişiler, resimler , 
   vb. bilgilerinizi yedekler"</string>
   <string name="account_hint_text">E-mail/Telefon numarası</string>
@@ -101,7 +100,7 @@
   <string name="find_device_notice_p3">Bul, Kilitle, yada verileri sil</string>
   <string name="find_device_success_title">Cihaz bulma etkin</string>
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
-  <string name="forget_password">&lt;u&gt;Şifremi unuttum&lt;/u&gt;</string> 
+  <string name="forget_password"/>
   <string name="frozen">(Kilitlendi)</string>
   <string name="get_back_pwd">Şifreyi kurtar</string> 
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>
@@ -168,7 +167,7 @@
   <string name="micloud_val_sms_alert">SMS, telefon numaranızı doğrulamak için gönderilecektir, devam edilsin mi?</string>
   <string name="micloud_via_int_sms_alert">SMS operatörünüzün mesajlaşma durumuna göre cihazınıza gönderilecektir. Devam etmek istediğinizden emin misiniz?</string>
   <string name="micloud_via_sms_alert">SMS telefon numaranızı doğrulamak için gönderilir. Devam etmek istediğinizden emin misiniz?</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;Bu adımı atla&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">Kayıt işlemini atla</string>
   <string name="mili_center">Mi Kredisi</string>
   <string name="my_xiaomi_account">Xiaomi Hesabım</string>
   <string name="next">Sonraki</string>
@@ -241,8 +240,7 @@
    1. Ilgili müşteri hizmetleri: %1$s
    2. Seri numarası: %2$s"</string>
   <string name="progress_warning_waiting">Kullanıcı bilgileriniz güncellenirken lütfen bekleyiniz.</string>
-  <string name="quick_login_title">Kimlik doğrulama gerekiyor,
-  lütfen şifrenizi giriniz</string>
+  <string name="quick_login_title">Kimlik doğrulama gerekiyor, lütfen şifrenizi giriniz</string>
   <string name="recharge_alipay_summary">Alipay kredisi</string>
   <string name="recharge_alipay_title">Alipay</string>
   <string name="recharge_denomination">%1$s RMB</string>
@@ -258,7 +256,7 @@
   <string name="recharge_voucher_summary">Mi kredisi yükleme desteği</string>
   <string name="recharge_voucher_title">Mi Kredi Kuponları</string>
   <string name="reg_by_email_failure">Kayıt başarısız oldu: %1$s</string>
-  <string name="reg_failed">Kayıt başarısız oldu</string>
+  <string name="reg_failed">Kayıt işlemi başarısız </string>
   <string name="reg_success">Kayıt işlemi başarılı</string> 
    <string name="reg_success_summary">Cep telefonu numaranız %1$s . Oturum açmak, MiLock ve şifre kurtarmak için zaten bir şifre alınmış.</string>
   <string name="reg_type_email">E-posta ile kaydol</string>
@@ -274,7 +272,7 @@
   <string name="send_sms_for_sync_title">Senk hizmetleri etkin değil</string>
   <string name="service_error">Hizmet hatası</string>
   <string name="show_password">Şifreyi göster</string>   
-  <string name="sim_changed_notification_content">SIM kart etkin değil, tekrar etkinleştirin</string>
+  <string name="sim_changed_notification_content">SIM kart etkin değil, lütfen tekrar etkinleştirin</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Skip login</string>
   <string name="skip_setup_account_msg">Xiaomi Hesabınızı kullanarak, SMS, Rehber, fotoğraflar, notlar, vs senkronize ve yedekleme yapabilirsiniz.  Devam edip daha sonra kurulsun mu?</string>
@@ -307,6 +305,7 @@
   <string name="voucher_edit_hint">Şifre:</string>
   <string name="voucher_edit_limit">Sınırı düzenle</string>
   <string name="voucher_error_code">Mi Kredi kupon kodu hatası</string>
+  <string name="voucher_input_password_prompt">Şifreyi girin</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
 </resources>
