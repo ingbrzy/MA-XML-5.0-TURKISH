@@ -9,10 +9,10 @@
     <string name="allow_restore_button_label">Verileri geri yükle</string>
     <string name="deny_restore_button_label">Geri Yükleme</string>
     <string name="current_password_text">Yedekleme için bir parola girin:</string>
-    <string name="device_encryption_restore_text">Cihaz parolası girin</string>
-    <string name="device_encryption_backup_text">Cihaz parolası girin. Ayrıca, yedeklemeyi şifrelemek için kullanılır.</string>
+    <string name="device_encryption_restore_text">Cihaz parolasını girin</string>
+    <string name="device_encryption_backup_text">Cihaz parolasını girin. Ayrıca, yedeklemeyi şifrelemek için kullanılır.</string>
     <string name="backup_enc_password_text">Tam veri yedeklemeyi şifrelemek için şifrenizi girin:</string>
-    <string name="backup_enc_password_optional">Tam yedeklemeyi kodlamak isterseniz, parolayı yazın:</string>
+    <string name="backup_enc_password_optional">Tam yedeklemeyi şifrelemek isterseniz, şifreyi yazın:</string>
     <string name="restore_enc_password_text">Bu veriler şifrelenmiş olup geri yüklenecektir, Varsa şifre girin:</string>
     <string name="toast_backup_started">Yedekleniyor...</string>
     <string name="toast_backup_ended">Yedekleme tamamlandı</string>
