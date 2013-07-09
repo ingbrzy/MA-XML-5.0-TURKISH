@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_set">
+        <item>Alarma 1 dakikadan daha az kaldı.</item>
+        <item>Alarma %1$s kaldı.</item>
+        <item>Alarma %2$s kaldı.</item>
+        <item>Alarma %1$s  %2$s kaldı.</item>
+        <item>Alarma %3$s kaldı.</item>
+        <item>Alarma %1$s  %3$s kaldı.</item>
+        <item>Alarma %2$s  %3$s kaldı.</item>
+        <item>Alarma %1$s, %2$s,  %3$s kaldı.</item>
+    </string-array>
+    <string-array name="volume_button_setting_entries">
+        <item>Eylem yok</item>
+        <item>Geciktir</item>
+        <item>Durdur</item>
+    </string-array>
+    <string-array name="alarm_in_furture">
+        <item>Alarma 1 dakikadan daha az kaldı</item>
+        <item>Alarma %1$s</item>
+        <item>Alarma %2$s</item>
+        <item>Alarma %1$s %2$s</item>
+        <item>Alarma %3$s</item>
+        <item>Alarma %1$s %3$s</item>
+        <item>Alarma %2$s %3$s</item>
+        <item>Alarma %1$s %2$s %3$s</item>
+    </string-array>
+    <string-array name="days">
+        <item>Dün</item>
+        <item>Bugün</item>
+        <item>Yarın</item>
+	</string-array>
+    <string-array name="alarm_count_entries">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>Pasif</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Bir kez</item>
+        <item>Günlük</item>
+        <item>İş günleri</item>
+        <item>Pazartesiden Cumaya</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="snooze_duration_entries">
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakikat</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+    <string-array name="auto_silence_entries">
+        <item>Kapalı</item>
+        <item>1 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>15 dakika</item>
+        <item>20 dakika</item>
+        <item>25 dakika</item>
+        <item>30 dakika</item>
+    </string-array>
+</resources>
