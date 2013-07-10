@@ -332,9 +332,8 @@
   <string name="pref_video_continuous_focus">Otomatik odaklama</string>
   <string name="pref_video_continuous_focus_entry_off">Açık</string>
   <string name="pref_video_continuous_focus_entry_on">Kapalı</string>
-  <string name="pref_video_effect_default">Yok</string>
   <string name="pref_video_focusmode_entry_auto">Dokunun</string>
-  <string name="pref_video_focusmode_entry_continuous">CAF</string>
+  <string name="pref_video_focusmode_entry_continuous">Sürekli Odaklama</string>
   <string name="pref_video_focusmode_title">Odaklama Modu</string> 
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD 480P</string>
