@@ -20,6 +20,7 @@
   <string name="dialog_warning">Dikkat</string>
   <string name="error_app_internal">Iç uygulama hatası</string>
   <string name="error_app_internal_title">Ses kaydedici hatası</string>
+  <string name="error_filename_too_long">Dosya adı çok uzun</string>
   <string name="error_mediadb_new_record">Ses verisi kayıt edilemedi</string>
   <string name="error_sdcard_access">Harici ve dahili depolama alanına erişilemiyor</string>
   <string name="fm_record">Radyo kayıt (%d)</string>

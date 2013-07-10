@@ -100,7 +100,7 @@
   <string name="find_device_notice_p3">Bul, Kilitle, yada verileri sil</string>
   <string name="find_device_success_title">Cihaz bulma etkin</string>
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
-  <string name="forget_password"/>
+  <string name="forget_password">Şifremi unuttum</string> 
   <string name="frozen">(Kilitlendi)</string>
   <string name="get_back_pwd">Şifreyi kurtar</string> 
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>

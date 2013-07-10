@@ -492,8 +492,10 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="carrier_enabled_summaryOff">APN devre dışı</string>
   <string name="carrier_enabled_summaryOn">APN etkin</string>
   <string name="cdma_security_settings_summary">Konumum, ekran kilidi açma, kimlik bilgileri deposunun kilidi özelliklerini ayarla</string>
+  <string name="cell_broadcast_settings">Hücre yayınları</string>
+  <string name="cell_broadcast_settings_summary">Görüntülenecek acil uyarı türlerini seçin.</string> 
   <string name="change_password">Şifreyi değiştir</string>
-  <string name="change_security_lock">Kilit açma şekli</string> 
+  <string name="change_security_lock">Diğer yöntemlerle kilidi aç</string>
   <string name="checkbox_notification_same_as_incoming_call">Bildirimlerde gelen çağrı ses düzeyini kullan</string>
   <string name="choose_timezone">Saat dilimini seçin</string>
   <string name="clear_activities">Varsayılanları temizle</string>
@@ -1128,6 +1130,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="memory_media_usage">Medya</string>
   <string name="memory_music_usage">Ses (müzik, zil sesleri, oynatıcı yayın abonelği vb.)</string>
   <string name="memory_size">Toplam alan</string>
+  <string name="memory_title">Kullanılabilir %1$s\u0009\u0009Toplam %2$s</string> 
   <string name="menu_cancel">Sil</string>
   <string name="menu_delete">"APN\'i sil"</string>
   <string name="menu_key">Menü tuşu</string>
@@ -2279,6 +2282,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_password">Şifre</string>
   <string name="wifi_poor_network_detection">Kötü bağlantılardan korun</string>
   <string name="wifi_poor_network_detection_summary">"İnternet bağlantısı iyi olmadıkça kablosuzu kullanmaz."</string>
+    <string name="wifi_priority_settings_label">Öncelik ayarları</string>
   <string name="wifi_quick_toggle_summary">Kablosuzu aç</string>
   <string name="wifi_quick_toggle_title">Kablosuz</string>
   <string name="wifi_remembered">Kaydedildi</string>
@@ -2418,7 +2422,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wps_connect_title">WPS kullanarak bağlan</string>
   <string name="xiaomi_account">Xiaomi Hesabı</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="xiaomi_money_service">Mi Kredisi</string>  
+  <string name="xiaomi_money_service">Mi Kredisi Merkezi</string>  
   <string name="yes">TAMAM</string>
   <string name="zone_auto">Otomatik saat dilimi</string>
   <string name="zone_auto_summaryOff">Ağ tarafından sağlanan saat dilimini kullan</string>

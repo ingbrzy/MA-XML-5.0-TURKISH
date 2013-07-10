@@ -125,6 +125,7 @@
     <string name="system_backup_helper">Sistem güncellemeleri kullanıcı verilerini temizlemez. Fakat,güncelleme öncesi verilerinizi yedeklemeniz önerilir.</string>
     <string name="system_backup_ok_text">Yedekle</string>
     <string name="top_secret_build">Gizli yapı</string>
+	<string name="unstable_build">Stabil olmayan yapı</string>
     <string name="update_comment_hint">(İsteğe bağlı)</string>
     <string name="update_comment_title">Yorumların</string>
     <string name="update_feedback">Güncelleme hakkındaki önerileriniz</string>
