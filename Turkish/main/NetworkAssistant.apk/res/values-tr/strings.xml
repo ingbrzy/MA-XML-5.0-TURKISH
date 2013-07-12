@@ -2,8 +2,8 @@
 <resources>
   <string name="about">Hakkında</string>
   <string name="adjust_no_network_update_data_fail">Veri güncelleme başarısız, ağ bağlantılarını kontrol edin ve tekrar deneyin.</string> 
-  <string name="adjust_traffic_auto_adjust_hint">Sistem sorular ve operatörleri düzenli olarak veri ayarlar. Operatör bilgsinii ayarlamanız gerekir</string>
-  <string name="adjust_traffic_auto_adjust_open_hint">Otomatik ayar etkinleştirildiğinde, trafik verileri düzenli olarak otomatik ayarlanır</string>
+  <string name="adjust_traffic_auto_adjust_hint">Sistem sorgular ve operatörden düzenli olarak veri ayarlar. Operatör bilgisini ayarlamanız gerekir</string>
+  <string name="adjust_traffic_auto_adjust_open_hint">Otomatik ayar etkinleştirildiğinde, trafik verileri otomatik olarak düzenli bir şekilde ayarlanır</string>
   <string name="adjust_traffic_auto_adjust_title">Oto trafiği ayarla</string>
   <string name="adjust_traffic_carrier_adjust">Operatörden al</string>
   <string name="adjust_traffic_carrier_adjusting">Trafik ayarlanıyor…</string>
@@ -61,12 +61,12 @@
   <string name="dialog_button_adjust">Ayarla</string>
   <string name="disable_background_connect_warning">Arka plan verileri sınırlanınca, bazı uygulamalar veya hizmetler 2G/3G ile çalıştırılmayabilir. kapatmak istediğinizden emin misiniz?</string>
   <string name="disable_background_mobile_connect">Arkaplan veri bağlantısı devre dışı</string>
-  <string name="edit_frame_free_traffic_title">Trafik parasını düzenle</string>
+  <string name="edit_frame_free_traffic_title">Kota limitini düzenle</string>
   <string name="edit_frame_month_start_title">Fatura başlangıç tarihi</string>
   <string name="edit_frame_warning_title">Uyarı eşiği</string>
   <string name="empty"/>
   <string name="finish_traffic_settings_hint">Ayarlar kaydedildi!</string>
-  <string name="finish_traffic_settings_message">"Kullanılan trafik %s. Veri doğrumu? Değilse tekrar ayarlayın."</string>
+  <string name="finish_traffic_settings_message">"Kullanılan trafik %s. Veri doğru mu? Değilse tekrar ayarlayın."</string>
   <string name="finish_traffic_settings_title">Trafik verilerini ayarla</string>
   <string name="fire_rule_program_list">Uygulama listesi</string>
   <string name="fire_rule_title_bar">fire_rule_title_bar</string>
@@ -108,7 +108,7 @@
   <string name="pref_category_adjust_traffic">Trafik ayarlarını düzenle</string>
   <string name="pref_connect_settings_enable_backgroung">Arkaplan servisleri etkin</string>
   <string name="pref_connect_settings_enable_backgroung_hint">Uygulama arka planda çalışırken otomatik ağ bağlantısı sağlar</string>
-  <string name="pref_connect_settings_exceed_limit">Veri kapalı</string>
+  <string name="pref_connect_settings_exceed_limit">Veri hizmetini kapat</string>
   <string name="pref_connect_settings_exceed_limit_hint">Aylık trafik limiti aşıldığında İnterneti bağlantısını kes ve beni uyar</string>
   <string name="pref_connect_settings_notify_in_statusbar">Bildirim çubuğunda göster</string>
   <string name="pref_connect_settings_title">Ağ izleme ayarları</string>
@@ -136,7 +136,7 @@
   <string name="sync_traffic_fail_message">Operatör ile senkronize başarısız, sunucu meşgul. Yardım için %s arayın ya da tekrar deneyin</string>
   <string name="sync_traffic_fail_title">Senkronize başarısız</string>
   <string name="sync_traffic_ing">Operatör ile senkronize oluyor, bekleyin...</string>
-  <string name="sync_traffic_no_cmd_detail">"Submit your City, Province and ICC's brand and carrier to the following thread on the forums: http://www.miui.com/forum-172-1.html. Thank you."</string>
+  <string name="sync_traffic_no_cmd_detail">"Aşağıdaki forumu takip ederek ülke şehir ve taşıyıcı bilgilerini gönderin http://www.miui.com/forum-172-1.html. Teşekkürler."</string>
   <string name="sync_traffic_no_cmd_title">SMS şablonu yok</string>
   <string name="sync_traffic_no_cmd_detail_custom_config">"Kullanmak istediğiniz değeri elle ayarlayabilirsiniz"</string> 
   <string name="sync_traffic_success">"Operatör verileri senkronize edildi, trafik başarıyla ayarlandı"</string>
@@ -151,11 +151,11 @@
   <string name="traffic_total">Toplam: %s</string>
   <string name="traffic_used_status">Kullanılan: %s</string>
   <string name="unknown">Bilinmeyen</string>
-  <string name="unknown_free_traffic_hint">"Eğer trafik parası bilmiyorsanız, yardım için cep telefonu operatörü ile görüşün"</string>
-  <string name="unknown_free_traffic_text">"Ben trafik paramı bilmiyorum?"</string>
-  <string name="unknown_free_traffic_title">bilinmeyen ücretsiz trafik</string>
+  <string name="unknown_free_traffic_hint">"Eğer trafik kotanızı bilmiyorsanız, yardım için şebeke operatörünüz ile görüşün"</string>
+  <string name="unknown_free_traffic_text">"Trafik kotamı bilmiyorum?"</string>
+  <string name="unknown_free_traffic_title">Bilinmeyen trafik kotası</string>
   <string name="unknown_location">Bilinmeyen bölge</string>
-  <string name="unknown_traffic_hint">Bilinmeyen trafik parası, Şimdi ayarlansın mı?</string>
+  <string name="unknown_traffic_hint">Trafik kotası bilinmiyor, şimdi ayarlansın mı?</string>
   <string name="unknown_version">Bilinmeyen sürüm</string>
   <string name="update_fail">Güncelleme başarısız</string>
   <string name="update_no_network">Güncelleme başarısız, ağ ayarlarını kontrol edin.</string>

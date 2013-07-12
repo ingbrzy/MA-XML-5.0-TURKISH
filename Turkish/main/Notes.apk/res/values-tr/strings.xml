@@ -5,8 +5,8 @@
   <string name="alert_edit_action_update">Güncelle</string>
   <string name="alert_message_delete_folder">Klasör ve içerisindeki notlar silinecek, onaylıyor musunuz?</string>
   <string name="alert_message_delete_note">Bu notu silmeyi onaylıyor musunuz?</string>
-  <string name="alert_message_delete_notes">%d seçili notu silmeyi onaylıyor musunuz?</string>
-  <string name="alert_title_delete">Seçili notları sil</string>
+  <string name="alert_message_delete_notes">Seçilen %d notu silmeyi onaylıyor musunuz?</string>
+  <string name="alert_title_delete">Seçilen notlar silinecek!</string>
   <string name="app_name">Notlar</string>
   <string name="app_widget2x2">Notlar 2x2 </string>
   <string name="app_widget4x4">Notlar 4x4</string>
@@ -19,7 +19,7 @@
   <string name="error_note_empty_for_clock">Üzgünüm, boş nota saat ayarı yapılamaz</string>
   <string name="error_note_empty_for_send_to_desktop">Üzgünüm, ana ekrana boş not gönderilemez</string>
   <string name="error_note_not_exist">Böyle bir not yok</string>
-  <string name="error_sdcard_export">Aktarma hatası, lütfen Hafıza kartını kontrol edin</string>
+  <string name="error_sdcard_export">Aktarım hatası, lütfen hafıza kartını kontrol edin</string>
   <string name="error_sdcard_unmounted">Hafıza kartı meşgul, şimdi kullanılamaz</string>
   <string name="error_sync_cancelled">Eşitleme iptal edildi</string>
   <string name="error_sync_internal">Eşitleme hatası, iç hata oluştu</string>
@@ -30,7 +30,7 @@
   <string name="folder_exist">%1$s adlı klasör zaten var, lütfen başka isim girin</string>
   <string name="format_date_ymd">yyyyMMdd</string>
   <string name="format_datetime_mdhm">MMMd kk:mm</string>
-  <string name="format_exported_file_location">(%1$s) yazı dosyasını SD Kart üzerinde (%2$s) dizinine çıkarıldı.</string>
+  <string name="format_exported_file_location">(%1$s) yazı dosyası SD Kart üzerinde (%2$s) dizinine çıkarıldı.</string>
   <string name="format_folder_files_count">(%d)</string>
   <string name="format_move_notes_to_folder">%1$d notu %2$s klasörüne taşındı</string>
   <string name="hint_foler_name">Giriş Adı</string>
@@ -45,7 +45,7 @@
   <string name="menu_delete">Sil</string>
   <string name="menu_deselect_all">Seçimi kaldır</string>
   <string name="menu_edit">Düzenle</string>
-  <string name="menu_export_text">Metin aktar</string>
+  <string name="menu_export_text">Metni aktar</string>
   <string name="menu_folder_change_name">Klasör adını degiştir</string>
   <string name="menu_font_large">Büyük</string>
   <string name="menu_font_normal">Orta</string>
@@ -55,7 +55,7 @@
   <string name="menu_move">Klasöre taşı</string>
   <string name="menu_move_parent_folder">Alt klasör</string>
   <string name="menu_select_all">Hepsini seç</string>
-  <string name="menu_select_none">Hiçbirşey seçilmedi, eylem hatalı!</string>
+  <string name="menu_select_none">Hiçbir şey seçilmedi, eylem hatalı!</string>
   <string name="menu_search">Ara</string>
   <string name="menu_send_to_desktop">Ana ekrana gönder</string>
   <string name="menu_setting">Ayarlar</string>
@@ -99,16 +99,16 @@
   <string name="success_sync_account">%1$s hesabıyla eşitleme tamamlandı</string>
   <string name="sync_progress_init_list">Not listesi alınıyor..</string>
   <string name="sync_progress_login">Oturum açılıyor %1$s...</string>
-  <string name="sync_progress_syncing">Yerel notları Google Yapılacaklarla eşitleniyor...</string>
+  <string name="sync_progress_syncing">Yerel notlar Google Yapılacaklarla eşitleniyor...</string>
   <string name="ticker_cancel">Eşitleme iptal edildi</string>
   <string name="ticker_fail">Eşitleme hatası</string>
   <string name="ticker_success">Eşitleme tamamlandı</string>
   <string name="ticker_syncing">Notlar eşitleniyor...</string>
   <string name="time_picker_dialog_title">Hatırlatma zamanı ayarla</string>
   <string name="toast_message_add_image_fail">Resim eklenemedi!</string>
-  <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız oldu!</string>
+  <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız!</string>
   <string name="toast_reach_text_limit_attachment">Notun içeriği yeni ek eklemek için çok uzun.</string>
   <string name="toast_reach_text_limit_truncate">"Notun içeriği kesildi çünkü çok uzun."</string>
-  <string name="widget_havenot_content">Herhangi bir not yok, not oluşturmak için tıklayın.</string>
+  <string name="widget_havenot_content">Herhangi bir not yok, oluşturmak için tıklayın.</string>
   <string name="widget_under_visit_mode">Gizli mod, not içeriği gösterilemiyor</string>
 </resources>
