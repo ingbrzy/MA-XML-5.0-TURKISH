@@ -28,7 +28,7 @@
   <string name="anti_private_title">Özel numaraları engelle</string>
   <string name="anti_stranger_summary">Adres defterinde olmayan numaralar filtrelendi.</string>
   <string name="anti_stranger_title">Yabancı engelleme modu</string>
-  <string name="app_name">Güvenlik</string>
+  <string name="app_name">Anti-Spam</string>
   <string name="black_white_list_tab_title">Listeler</string>
   <string name="blacklist_tab_title">Kara liste</string>
   <string name="call_log_tab_title">Aramalar</string>
