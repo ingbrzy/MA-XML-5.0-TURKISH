@@ -30,7 +30,7 @@
   <string name="failed_to_delete_temporary">Silme işleminde hata, lütfen tekrar deneyin!</string>
   <string name="failed_to_drop">İkon taşınamadı, eski konumuna geri yüklendi!</string>
   <string name="failed_to_drop_widget_invalid">Araç Hatalı!</string>
-  <string name="failed_to_drop_widget_nospace">Ekranda yeteri kadar boşluk yok!</string>
+  <string name="failed_to_drop_widget_nospace">Ekranda yeteri kadar boş alan yok!</string>
   <string name="folder_name">Klasör</string>
   <string name="frame_load_failed">Geçersiz foto çerçevesi, çerçeve yüklenemedi!</string>
   <string name="free_style_apps_title">Uygulamayı seç</string>
@@ -44,8 +44,8 @@
   <string name="free_style_edit_tab_free_component">Serbest bileşenler</string>
   <string name="free_style_edit_tab_shortcut">Kısayollar</string>
   <string name="free_style_edit_tab_widget">Widget\'lar</string>
-  <string name="free_style_enter_tip">MiSpace\'e geçmek için iki parmağınızla aşağıya kaydırın</string>
-  <string name="free_style_exit_tip">MiSpace\'den çıkmak için iki parmağınızla yukarıya kaydırın</string>
+  <string name="free_style_enter_tip">MiSpace\'e geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
+  <string name="free_style_exit_tip">MiSpace\'den çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
   <string name="free_style_londing_text">MiSpace hazırlanıyor...</string>
   <string name="gadget_clear_button_label">Görev Temizleyici</string>
   <string name="gadget_clock_12_label">1x2 Saat</string>
@@ -179,7 +179,7 @@
   <string name="transformation_type_stack">Kart Yığını</string>
   <string name="uninstall">Kaldır</string>
   <string name="uninstall_dialog_message">Tüm veriler silinecek!</string>
-  <string name="uninstall_dialog_title_format">\"%s\" Kaldır!</string>
+  <string name="uninstall_dialog_title_format"> Kaldır: \"%s\"</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Başlıksız</string>
   <string name="wallpaper_scrolling">tümü</string>

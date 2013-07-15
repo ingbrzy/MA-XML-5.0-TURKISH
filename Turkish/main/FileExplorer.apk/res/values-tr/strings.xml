@@ -21,7 +21,7 @@
   <string name="cache_size_label">Veri</string>
   <string name="cancel">İptal</string>
   <string name="cancel_app_garbage_cleanup">Uygulama temizlemeyi iptal et</string>
-  <string name="cancel_with_count_down">(%d) İptal et</string>
+  <string name="cancel_with_count_down">İptal(%d)</string>
   <string name="category_all">Hepsi</string>
   <string name="category_apk">APK\'lar</string>
   <string name="category_bluetooth">Bluetooth</string>
@@ -38,7 +38,7 @@
   <string name="choose_send_type">Gönderim tipini seçin</string>
   <string name="choose_upload_location">Yükleme yerini seçin</string>
   <string name="clean_app_garbage">Silinenler %d(s)</string>
-  <string name="clean_message">Siliniyor %1$s</string>
+  <string name="clean_message">%1$s Siliniyor...</string>
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusu boş</string>
   <string name="cleaning">Temizleniyor...</string>
@@ -67,11 +67,11 @@
   <string name="decompress_to">Çıkart:</string>
   <string name="decompress_to_here">Buraya çıkart</string>
   <string name="delete_failed">Silinemedi</string>
-  <string name="delete_file">Silinsin mi?</string>
-  <string name="delete_files">İşaretli %1$d dosya silinsin mi?</string>
-  <string name="delete_files_and_folders">Seçilen %1$d dosya ve %2$d klasör silinsin mi?</string>
-  <string name="delete_folder">Bu klasör silinsin mi?</string>
-  <string name="delete_folders">Seçilen %1$d klasör silinsin mi?</string>
+  <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
+  <string name="delete_files">Seçilen %1$d dosyayı silmek istiyor musunuz?</string>
+  <string name="delete_files_and_folders">Seçilen %1$d dosya ve %2$d klasörü silmek istiyor musunuz?</string>
+  <string name="delete_folder">Bu klasörü silmek istiyor musunuz?</string>
+  <string name="delete_folders">Seçilen %1$d klasörü silmek istiyor musunuz?</string>
   <string name="des_running_trans">Aktarılması gereken %1$d dosya var</string>
   <string name="dialog_select_type">Dosya tipini seçin</string>
   <string name="dialog_type_audio">Ses</string>
@@ -206,7 +206,7 @@ Artık dosya"</string>
   <string name="operation_refresh">Yenile</string>
   <string name="operation_rename">Yeniden adlandır</string>
   <string name="operation_rename_message">Yeni adı gir</string>
-  <string name="operation_resume">Devam et</string>
+  <string name="operation_resume">Devam</string>
   <string name="operation_resume_all">Tümünü devam ettir</string>
   <string name="operation_send">Gönder</string>
   <string name="operation_show_sys">Gizli dosyaları göster</string>
@@ -286,7 +286,7 @@ Artık dosya"</string>
   <string name="utf8_summary">Geçerli kodlama türü</string>
   <string name="utf8_title">UTF-8</string>
   <string name="version_text">Versiyon %1$s</string>
-  <string name="wait_net">Ağ bekleniyor</string>
+  <string name="wait_net">Ağ bağlantısı bekleniyor</string>
   <string name="wait_sdcard">SD Kartın takılması bekleniyor</string>
   <string name="wait_wifi">Wi-Fi bağlantısı için bekliyor</string>
   <string name="waiting">Bekliyor...</string>
