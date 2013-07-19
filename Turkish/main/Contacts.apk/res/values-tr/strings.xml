@@ -8,6 +8,7 @@
   <string name="account_type_format">%1$s kişi</string>
   <string name="actionIncomingCall">Gelen Çağrılar</string>
   <string name="action_menu_overflow_description">Daha çok ayar</string>
+  <string name="activity_not_found_uri">Desteklenen uygulama bulunamadı!</string> 
   <string name="activity_title_confirm_add_detail">Kişilere ekle</string>
   <string name="activity_title_contacts_filter">Görüntülenecek rehber</string>
   <string name="activity_title_settings">Ayarlar</string>
@@ -206,7 +207,11 @@
   <string name="delete_duplicate_message">"Birleştiriliyor ... "</string>
   <string name="delete_group_dialog_message"> \"%1$s\" grubunu sil, kişilerin kendilerini silinmez.</string>
   <string name="delete_group_dialog_title">Grubu sil</string>
+  <string name="delete_selected_sim_entry_miui">Seçilen kişiler silinsin mi?</string>
+  <string name="delete_sim_entries_finish">SIM kişileri başarıyla silindi</string>
+  <string name="delete_sim_entry_miui">SIM kişilerini sil</string>
   <string name="delete_unknown_contact_calllog_title">"Bilinmeyen kişinin arama kayıtlarını silmek istiyor musunuz?"</string>
+  <string name="deleting_sim_entry_miui">SIM kişilerini sil</string>
   <string name="description_add_contact">Kişi ekle</string>
   <string name="description_author">Yazar:</string>
   <string name="description_call">Çağrı %1$s</string>
@@ -386,6 +391,7 @@
   <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="import_all_sim_entries_miui">Tüm kişileri içe aktar</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_button">İçe aktar</string>
   <string name="import_failure_no_vcard_file">SD kartta hiç vCard dosyası bulunamadı.</string>
@@ -396,6 +402,9 @@
   <string name="import_name">adı</string>
   <string name="import_one_vcard_string">Bir vCard dosyasını içe aktar</string>
   <string name="import_percent">0%</string>
+  <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
+  <string name="import_sim_entries_finish">SIM kişileri başarıyla içe aktarıldı</string>
+  <string name="import_sim_entry_miui">SIM karttan içe aktar</string> 
   <string name="import_to_xiaomi_account_confirm">İçe aktar</string>
   <string name="import_to_xiaomi_account_progress_finish">Aktarım tamamlandı</string>
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
@@ -413,6 +422,7 @@
   <string name="import_weibo_notification_title_done">İçe aktarım tamamlandı</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
+  <string name="importing_sim_contacts_miui">SIM kişileri içe aktarılıyor...</string>
   <string name="importing_vcard_canceled_title">%s İçe aktarım iptal edildi</string>
   <string name="importing_vcard_description"> %s İçe aktarılıyor</string>
   <string name="importing_vcard_finished_title">%s cart\'ı içe aktarma tamamlandı </string>
@@ -686,12 +696,14 @@ Favoriler listenize kişi eklemek için:
   <string name="processing">İşlem yapılıyor...</string>
   <string name="profile_display_name">Profilimi ayarla</string>
   <string name="profile_name">Profil adı</string>
+  <string name="profile_name_photo">Ben</string>
   <string name="progress_notifier_message" formatted="false">İçe aktarılıyor %s/%s: %s</string>
   <string name="quickcontact_missing_app">Bu işlemi gerçekleştirecek uygulama bulunamadı.</string>
   <string name="quit_dialog_confirm_title">Kişi birleştirmeden çıkmak istediğinize emin misiniz?</string>
   <string name="readOnlyContactDeleteConfirmation">Bu kişi birden fazla hesaptan bilgiler içeriyor. Salt okunur hesaplardaki bilgiler silinmez, kişiler listelerinizde gizlenir.</string>
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" Birden fazla hesap bilgileri içerir. Salt okunur hesaplardan bilgi silinmez, kişiler listeleri gizli olacak.</string>
   <string name="readOnlyContactWarning">Kişileri salt okunur hesaplardan silemezsiniz, ancak bu kişileri kişiler listenizde gizleyebilirsiniz.</string>
+  <string name="readingSimContacts">SIM kart bilgileri okunuyor...</string>
   <string name="reading_vcard_canceled_title">Vcard okunması ipdal edildi</string>
   <string name="reading_vcard_failed_title">vCard verileri okunamadı</string>
   <string name="rebuild_t9_index_dialog_message">T9 indeks verileri yapılandırılıyor…</string>
@@ -797,10 +809,14 @@ Favoriler listenize kişi eklemek için:
   <string name="shortcutDialContact">Doğrudan çevirme</string>
   <string name="shortcutMessageContact">Doğrudan ileti</string>
   <string name="showAllContactsJoinItem">Tüm kişileri göster</string>
+  <string name="simContacts_airplaneMode">SIM kişilerini aktarmak için lütfen uçak modunu kapatın.</string>
+  <string name="simContacts_empty">SIM kartta kişi bulunamadı.</string>
   <string name="simContacts_emptyLoading">SIM karttan yükleniyor...</string>
   <string name="simContacts_title">SIM kart kişileri</string>
   <string name="sim_card_no_free_space_message">SIm kartınız dolu, yeni kişiler eklenemiyor.Lütfen SIM kartınızda yer açtıktan sonra tekrar deneyin</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
+  <string name="sim_contact_dropdown_menu_deselect_all_miui">Tüm seçimi iptal et</string>
++  <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>
   <string name="sim_contact_search_error">SIM Kart içerisinde kişi aranırken sorun oluştu</string>
   <string name="sim_contacts">SIM Kişileri</string>
   <string name="sim_export_loading">SIM kart bilgisi okunuyor. Bu işlem birkaç dakika sürebilir, lütfen bekleyiniz.</string>
@@ -862,6 +878,8 @@ Favoriler listenize kişi eklemek için:
   <string name="title_other_devices">Diğer kullanılabilir cihazlar</string>
   <string name="title_paired_devices">Eşleştirilmiş cihazlar</string>
   <string name="toast_call_detail_error">İstenen çağrı için ayrıntılar okunamadı.</string>
+  <string name="toast_copy_done">Kopyalama tamamlandı</string>
+  <string name="toast_copying">Kopyalanıyor...</string>
   <string name="toast_displaying_all_contacts">Tüm kişileri göster</string>
   <string name="toast_finish_delete_call_log">Arama kaydı silindi</string>
   <string name="toast_for_failed_saving_nickname">Rumuz kaydedilemedi!</string>

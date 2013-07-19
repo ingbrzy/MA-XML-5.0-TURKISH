@@ -72,6 +72,7 @@
   <string name="error_has_bought_title">Tekrar satın al</string>
   <string name="error_illegal_order_summary">Bir hata oluştu, lütfen tekrar deneyiniz</string>
   <string name="error_illegal_order_title">Satın alma hatası!</string>
+  <string name="error_invalid_dev_id">Geçersiz cihaz kimliği!</string>
   <string name="error_mili_title">Yetersiz Mi Kredisi</string>
   <string name="error_network">ağ hatası</string>
   <string name="error_network_summary">Bir ağ hatası oluştu, ağ aktif olup olmadığını kontrol edin ve tekrar deneyin</string>

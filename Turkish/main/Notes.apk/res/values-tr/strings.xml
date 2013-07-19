@@ -16,6 +16,8 @@
   <string name="button_new_note">Yeni not</string>
   <string name="call_record_folder_name">Çağrı Notları</string>
   <string name="default_folder_name">Notlar</string>
+  <string name="dlg_desc_confirm_alarm_silent">Kapatıldığında alarm ve notlar sessiz modda çalmaz.</string>
+  <string name="dlg_title_confirm_alarm_silent">Sessiz modda alarmı susturmak istiyor musunuz?</string>
   <string name="error_note_empty_for_clock">Üzgünüm, boş nota saat ayarı yapılamaz</string>
   <string name="error_note_empty_for_send_to_desktop">Üzgünüm, ana ekrana boş not gönderilemez</string>
   <string name="error_note_not_exist">Böyle bir not yok</string>
@@ -71,6 +73,12 @@
   <string name="notealert_ok">Al</string>
   <string name="notelist_menu_new">Not ekle</string>
   <string name="notelist_string_info">...</string>
+  <string name="notify_alarm_action_mute">Sessiz</string>
+   <string name="notify_alarm_action_view">Bak</string>
+   <string name="notify_alarm_title">Alarm hatırlatıcı</string>
+  <string name="pref_desc_alarm_when_silent">Alarm sessiz modda ses çıkarır</string>
+   <string name="pref_title_alarm_when_silent">Alarm sessiz modda</string>
+  <string name="pref_title_common">Genel ayarlar</string>
   <string name="preferences_account_summary">Notları Google Yapılacaklarla eşitler</string>
   <string name="preferences_account_title">Eşitleme Hesabı</string>
   <string name="preferences_add_account">Hesap ekle</string>

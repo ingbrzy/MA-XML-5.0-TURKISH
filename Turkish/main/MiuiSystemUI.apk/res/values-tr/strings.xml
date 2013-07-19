@@ -104,6 +104,9 @@
   <string name="ext_media_unmountable_notification_title">Damaged SD card storage</string>
   <string name="gps_notification_found_text">Konum GPS ile belirlendi</string>
   <string name="gps_notification_searching_text">GPS aranıyor..</string>
+  <string name="headset_custom">Özelleştir</string>
+  <string name="headset_info">Tuş fonksiyonlarını özelleştir</string>
+  <string name="headset_settings">Kulaklık bağlandı</string>
   <string name="invalid_charger">"USB üzerinden şarj desteklenmiyor. Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="key_position_custom">Özel tuş konumu</string>
   <string name="label_view">Görüntüle</string>

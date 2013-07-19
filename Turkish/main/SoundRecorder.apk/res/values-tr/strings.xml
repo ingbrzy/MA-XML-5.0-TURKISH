@@ -18,6 +18,9 @@
   <string name="dialog_send">Gönder</string>
   <string name="dialog_title_storage_full">Depolama alanı dolu</string>
   <string name="dialog_warning">Dikkat</string>
+  <string name="duration_format_hour">%sh</string>
+  <string name="duration_format_minute">%sm</string>
+  <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Iç uygulama hatası</string>
   <string name="error_app_internal_title">Ses kaydedici hatası</string>
   <string name="error_filename_too_long">Dosya adı çok uzun</string>
@@ -33,6 +36,7 @@
   <string name="max_length_reached">Maksimum uzunluğa ulaştı</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_view_record_list">Kayıtları görüntüle</string>
+  <string name="message_file_size_error">Kayıt için desteklenen maksimum süreye ulaşıldı %s</string>
   <string name="minute" Format="false">%d Dakika</string>
   <string name="no_file">Kayıt yok</string>
   <string name="notification_playback">Kayıt oynatma…</string>
@@ -79,5 +83,6 @@
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
+  <string name="toast_max_record_time">Uyg: %1$s azami kayıt süresi %2$s</string>
   <string name="unknown_caller">Unknown caller</string>
 </resources>

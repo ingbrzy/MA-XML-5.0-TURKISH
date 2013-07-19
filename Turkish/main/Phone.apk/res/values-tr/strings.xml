@@ -778,6 +778,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Sadece 2G (Pil tasarrufu sağlar)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Sadece 3G Şebekesi</string>
+  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">2G/3G Şebeke Ayarları</string>
   <string name="primary_account_summary_with">Birincil hesap. %s</string>
   <string name="private_num">Gizli numara</string>
