@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">% s dakika boyunca veri bağlantısı yok</item>
-        <item quantity="one">% s dakika boyunca veri bağlantısı yok</item>
+        <item quantity="other">%s dakika boyunca veri bağlantısı yok</item>
+        <item quantity="one">%s dakika boyunca veri bağlantısı yok</item>
     </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">Telefon %s dakika boyunca acil arama modunda olacaktır. Artık ayrılmak istiyor musunuz?</item>
