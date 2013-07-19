@@ -883,7 +883,6 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="select_network_automatic_hint_miui">"Bu seçtiğiniz ağa kayıt olunamaz. Otomatik olarak tercih edilen bir ağ seçilsin mi??"</string>
   <string name="sendSms">SMS gönder</string>
   <string name="send_button">Gönder</string>
-  <string name="send_keepalive">GönderCanlıTut</string>
   <string name="send_keepalive_title">Gönder canlı tut</string>
   <string name="separate_from_conference_miui">Tek çağrı</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Tercih edilen şebeke, veri hizmeti kapatılınca çalışır</string>
