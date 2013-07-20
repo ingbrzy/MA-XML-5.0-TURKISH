@@ -816,7 +816,7 @@ Favoriler listenize kişi eklemek için:
   <string name="sim_card_no_free_space_message">SIm kartınız dolu, yeni kişiler eklenemiyor.Lütfen SIM kartınızda yer açtıktan sonra tekrar deneyin</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tüm seçimi iptal et</string>
-+  <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>
+  <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>
   <string name="sim_contact_search_error">SIM Kart içerisinde kişi aranırken sorun oluştu</string>
   <string name="sim_contacts">SIM Kişileri</string>
   <string name="sim_export_loading">SIM kart bilgisi okunuyor. Bu işlem birkaç dakika sürebilir, lütfen bekleyiniz.</string>
