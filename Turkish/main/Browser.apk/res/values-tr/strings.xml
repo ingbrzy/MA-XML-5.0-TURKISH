@@ -105,7 +105,7 @@
   <string name="clip_dialog_title">Kopyalanan link açılsın mı?</string>
   <string name="close_all_tab_alert_message">Tüm kartları kapatmak istediğinizden emin misiniz?</string>
   <string name="close_all_tab_alert_title">Tüm kartları kapat</string>
-  <string name="common_use_phrase_bottom_bar_cn_txt">.cn</string>
+  <string name="common_use_phrase_bottom_bar_cn_txt">.tr</string>
   <string name="common_use_phrase_bottom_bar_com_txt">.com</string>
   <string name="common_use_phrase_bottom_bar_https_txt">https://</string>
   <string name="common_use_phrase_bottom_bar_net_txt">.net</string>
@@ -278,6 +278,7 @@
   <string name="open_bookmark">Aç</string>
   <string name="open_history_group_in_new_window">Tüm  %s geçmiş öğelerini yeni pencerede aç</string>
   <string name="open_history_most_visited_group_in_new_window">Tüm sık ziyaret edilen sayfaları aç</string> 
+  <string name="other_bookmarks">Diğer yer imleri</string>
   <string name="page_info">Sayfa bilgileri</string>
   <string name="page_info_address">Adres:</string>
   <string name="page_info_view">Sayfa bilgilerini görüntüle</string>
@@ -390,6 +391,7 @@
   <string name="pref_link_prefetch_dialogtitle">Web sayfasını önyükleme</string>
   <string name="pref_link_prefetch_summary">Tarayıcıya, arka planda bağlantılı web sayfaların önyüklemesine izin verir</string>
   <string name="pref_link_prefetch_value_never_summary">Arka planda önyükleme bağlantılı web sayfalarına asla izin verme</string> 
+  <string name="pref_link_prefetch_title">Web sayfasını önyükleme</string>
   <string name="pref_min_font_size">Minimum yazı tipi boyutu</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
   <string name="pref_privacy_clear_cache">Önbelleği temizle</string>

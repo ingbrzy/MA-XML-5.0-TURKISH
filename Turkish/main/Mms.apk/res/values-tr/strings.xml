@@ -237,13 +237,13 @@
   <string name="mx_enable">Cloud mesajlaşmayı etkinleştir</string>
   <string name="mx_enable_int_popup_msg">Cloud Mesajlaşma MIUI kullanıcıları arasında mesaj göndermenizi sağlar. Etkinleştirmek için, uluslararası bir SMS gönderilecektir. Taşıyıcı mesajlaşma fiyatları geçerli olabilir.</string>
   <string name="mx_enable_popup_msg">Cloud mesajlaşma MIUI aracılığıyla mesaj göndermenizi sağlar. Normal bir SMS hizmetini etkinleştirmek, ek taşıyıcı ücretine tabi olabilir. Şimdi etkinleştirmek istiyor musunuz?</string>
-  <string name="mx_int_warning_notice">Cloud mesajlaşmayı etkinleştirmek için SMS gönderecek. Normal taşıyıcı veri ücretleri uygulanabilir</string>
+  <string name="mx_int_warning_notice">Cloud mesajlaşmanın etkinleştirilmesi için uluslar arası SMS gönderilmesi gerekiyor. Operatörünüzün normal veri ücretleri uygulanabilir!</string>
   <string name="mx_msg">Cloud Mesajlaşma</string>
   <string name="mx_offline">Offline</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Cloud mesajlaşmayı tekrar etkinleştir</string>
   <string name="mx_recommend_msg">Ücretsiz mesaj göndererek tekrar etkinleştirin</string>
-  <string name="mx_warning_notice">Cloud mesajlaşmayı etkinleştirmek için SMS gönderecek. Normal taşıyıcı veri ücretleri uygulanabilir</string>
+  <string name="mx_warning_notice">Cloud mesajlaşmanın etkinleştirilmesi için uluslar arası SMS gönderilmesi gerekiyor. Operatörünüzün normal veri ücretleri uygulanabilir!</string>
   <string name="need_download">Senkronize için bekliyor...</string>
   <string name="new_message">Yeni ileti</string>
   <string name="new_message_arrived">Yeni mesaj alındı</string>
