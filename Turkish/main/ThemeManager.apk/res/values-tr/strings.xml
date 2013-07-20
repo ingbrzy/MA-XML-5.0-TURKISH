@@ -46,8 +46,6 @@
   <string name="long_ringtone_resource">Uzun</string>
   <string name="menu_refresh">Yenile</string>
   <string name="mi_wallpaper">Mi Duvar Kağıtları</string>
-  <string name="mi_wallpaper_loading">Duvar kağıdı yükleniyor...</string>
-  <string name="mi_wallpaper_title">Mi Duvar Kağıtları</string>
   <string name="online_no_network">Ağ bağlantısı yok!</string>
   <string name="online_search_hint">Çevrimiçi kaynakları ara</string>
   <string name="processing">İşlem Yapılıyor ...</string>

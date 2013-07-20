@@ -295,8 +295,8 @@
   <string name="custom_location_location_no_item_miui">"Öğe eklemek için ekleye tıklayın"</string>
   <string name="custom_location_number_hint_miui">Alan kodu bu gibi 010, grup numarası bu gibi 68#####</string>
   <string name="cw_title_miui">Çağrı bekletme</string>
-  <string name="data_enable_summary">Mobil şebekede veri kullanımı etkin</string>
-  <string name="data_enabled">Veri etkin</string>
+  <string name="data_enable_summary">Mobil şebekede veri kullanımını etkinleştirir</string>
+  <string name="data_enabled">Veriyi etkinleştir</string>
   <string name="deact_all_sub_not_supported">Abonelikler desteklenmiyor.</string>
   <string name="default_contacts_countrycode_hint_miui">Örneğin: 90</string>
   <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
