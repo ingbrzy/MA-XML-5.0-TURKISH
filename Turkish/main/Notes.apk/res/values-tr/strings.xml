@@ -18,6 +18,9 @@
   <string name="default_folder_name">Notlar</string>
   <string name="dlg_desc_confirm_alarm_silent">Kapatıldığında alarm ve notlar sessiz modda çalmaz.</string>
   <string name="dlg_title_confirm_alarm_silent">Sessiz modda alarmı susturmak istiyor musunuz?</string>
+  <string name="enable_sync">Senkronize</string>
+   <string name="enable_sync_desc">Notlar %1$s Xiaomi hesabınız ile senkronize edilsin mi?</string>
+  <string name="error_contact_not_exist">Kişi mevcut değil</string>
   <string name="error_note_empty_for_clock">Üzgünüm, boş nota saat ayarı yapılamaz</string>
   <string name="error_note_empty_for_send_to_desktop">Üzgünüm, ana ekrana boş not gönderilemez</string>
   <string name="error_note_not_exist">Böyle bir not yok</string>

@@ -28,6 +28,7 @@
   <string name="confirm_location_message">Kamera, çekilen fotoğraflara konum bilgisi ekleyebilir. Bu özellik şimdi etkinleştirilsin mi?</string>
   <string name="confirm_restore_message">Kamera ayarları sıfırlansın mı?</string>
   <string name="confirm_restore_title">Ayarları sıfırla</string>
+  <string name="connect_wifi">Bu Wi-Fi ağına bağlan</string>
   <string name="contact_address">Adres</string>
   <string name="contact_birthday">Doğum tarihi</string>
   <string name="contact_company">Şirket</string>
@@ -52,6 +53,7 @@
   <string name="dialog_ok">Tamam</string>
   <string name="disable_video_snapshot_hint">Özel efektler açıkken videodan resim alınamaz.</string>
   <string name="download_by_browser">Bir web tarayıcısı indir</string> 
+  <string name="download_qq">QQ\'yu İndir</string>
   <string name="download_wechat">WeChat\'i indir</string> 
   <string name="duration">Süre</string>
   <string name="edit">Düzenle</string>
@@ -79,9 +81,11 @@
   <string name="find_market_qrcode">İşletme QR kodunu bul</string>
   <string name="find_mecard_qrcode">Kart QR kodunu bul</string>
   <string name="find_other_qrcode">QR kodunu bul</string>
+  <string name="find_qq_qrcode">QQ QR kodunu bul</string>
   <string name="find_web_qrcode">Web QR kodunu bul</string>
   <string name="find_wechat_qrcode">WeChat QR kodunu bul</string>
   <string name="find_weixin_qrcode">Weixin QR kodunu bul</string> 
+  <string name="find_wifi_qrcode">Wi-Fi QR kodunu bul</string>
   <string name="flash">Flaş</string>
   <string name="flash_off">Flaş kapalı</string>
   <string name="flash_on">Flash açık</string>
@@ -105,6 +109,7 @@
   <string name="import_fail">İçe aktarma başarısız</string>
   <string name="iso">ISO</string>
   <string name="launch_market">Google Play\'i başlat</string>
+  <string name="launch_qq">QQ\'yu çalıştır</string>
   <string name="launch_wechat">WeChat\'i başlat</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_video">Video yükleniyor...</string>
@@ -364,6 +369,7 @@
   <string name="pref_video_time_lapse_frame_interval_title">Video atlatma zamanlaması</string>
   <string name="preference_simple_mode_title">Basit mod</string>
   <string name="preparing_sd">Dahili hafıza hazırlanıyor...</string>
+  <string name="qq_details">QQ detayları:</string> 
   <string name="qr_code_details">"QR kodu: "</string> 
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar basın</string>
   <string name="resume_playing_message">%s den oynatmaya devam ediyor</string>
@@ -436,4 +442,13 @@
   <string name="weixin_details">"Weixin: "</string> 
   <string name="white_balance">Beyaz Dengesi</string>
   <string name="width">Genişlik</string>
+  <string name="wifi_connect_fail">Wi-Fi ağı ile bağlantı başarısız!</string>
+  <string name="wifi_connect_success">Wi-Fi ağına başarıyla bağlandı</string>
+  <string name="wifi_connecting">Wi-Fi bağlanıyor...</string>
+  <string name="wifi_details">Wi-Fi ağı detayları:</string>
+  <string name="wifi_open_fail">Wi-Fi ağı açılamıyor</string>
+  <string name="wifi_pwd">Şifre:</string>
+  <string name="wifi_security">Güvenlik:</string>
+  <string name="wifi_ssid">SSID:</string>
+  <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin!</string> 
 </resources>

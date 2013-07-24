@@ -4,6 +4,7 @@
   hesabınız geçici olarak kilitlenir, lütfen bekleyin ....."</string>
   <string name="add_task">Görev ekle</string>
   <string name="adding_upload_tasks">Yükleme görevleri ekleniyor.</string>
+  <string name="already_signin_description">Zaten oturum açmış durumdasınız!</string>
   <string name="app_cache_cleanup_indication">%s veri</string>
   <string name="app_cache_title">Uygulama verileri</string>
   <string name="app_garbage_cleanup_indication">%s Uygulama artıkları</string>
@@ -213,7 +214,9 @@ Artık dosya"</string>
   <string name="operation_unfavorite">Favorilerden kaldır</string>
   <string name="pan_settting">MiDrive ayarları</string>
   <string name="paused">Duraklatıldı</string>
+   <string name="pull_to_signin">Oturum açmak ve boş disk alanı almak için aşağı doğru sürükleyin</string>
   <string name="query_bind_state">Bağlama durumu sorgulanıyor, lütfen bekleyin...</string>
+  <string name="release_to_signin">Oturum açmak için serbest bırakın</string>
   <string name="release_space_indication">Artık dosya bulundu</string>
   <string name="rename_description">Yeniden adlandırılıyor, lütfen bekleyin…</string>
   <string name="rename_failed">《%1$s》 Yeniden adlandırılamadı</string>
@@ -234,6 +237,10 @@ Artık dosya"</string>
   <string name="server_control_settings">Sunucu ayarları</string>
   <string name="share_link_failed">Klasör oluşturma hatası!</string>
   <string name="show_message">İndirme yapılırken dosya açılamaz</string>
+  <string name="sign_description">Oturum açılıyor...</string>
+  <string name="signin_error">Kullanılabilir ağ yok, daha sonra tekrar deneyin!</string>
+  <string name="signin_success">"Başarıyla oturum açıldı!
+Boş alanınız %1$s"</string> 
   <string name="space_info">Network alanı: %1$s kullanılabilir，toplam: %2$s</string>
   <string name="space_usage">Kullanım</string>
   <string name="start_cleanup">Temizliği başlat</string>
@@ -267,6 +274,7 @@ Artık dosya"</string>
   <string name="ui_bar_txt_upload_progress">Yükleniyor...</string>
   <string name="ui_filechange_btn_download">Dosya indir</string>
   <string name="ui_filechange_btn_upload">Dosya yükle</string>
+  <string name="ui_main_menu_option_sign_in">Oturum aç</string>
   <string name="ui_main_menu_option_task_manage">Transfer yönetimi</string>
   <string name="ui_main_progress_txt_open_file">İndiriliyor...</string>
   <string name="ui_main_toast_favorite_removed">Favoriler kaldırıldı</string>

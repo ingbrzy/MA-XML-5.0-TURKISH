@@ -307,6 +307,7 @@
   <string name="display_ungrouped">Diğer tüm kişiler</string>
   <string name="download_failed">İndirme başarısız!</string>
   <string name="download_preview_failed">Önizleme yüklenemedi!</string>
+  <string name="duplicate_group_name">Grup adı zaten var!</string>
   <string name="editContactDescription">Kişiyi düzenle</string>
   <string name="edit_contact">Kişiyi düzenle</string>
   <string name="edit_contact_card_title">Kişi kartını düzenle</string>

@@ -13,6 +13,8 @@
   <string name="check_network">Ağ ayarlarına bak</string>
   <string name="confirm_delete_all_call_log_title">Tüm arama kayıtları silinsin mi?</string>
   <string name="confirm_delete_call_log_title">Arama kayıtları silinsin mi?</string>
+  <string name="contact_detail_calllog_call_note_tips">Arama notları</string>
+  <string name="contact_detail_calllog_call_record_tips">Arama kayıtları</string>
   <string name="custom_mark_category">Özel</string>
   <string name="data_error">Üzgünüm, geçerli hizmet kullanılamaz, lütfen daha sonra tekrar deneyin</string>
   <string name="delete">Sil</string>
