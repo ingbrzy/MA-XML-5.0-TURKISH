@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Dashboard_App">Uygulamalar</string>
-  <string name="Dashboard_HIPS_Disable_Content">MIUI uygulama istekleri takibini durduracak. Güvenlik ve gizlilik korunacak. Bunu devre dışı bırakmak istediğinize emin misiniz?</string>
+  <string name="Dashboard_HIPS_Disable_Content">MIUI uygulama isteklerini gözetlemeyi durduracak ve artık güvenlik ve gizliliğinizi korumayacak. Bunu devre dışı bırakmak istediğinize emin misiniz?</string>
   <string name="Dashboard_HIPS_Disable_Title">LBE Koruma</string>
   <string name="Dashboard_Log">Günlükler</string>
   <string name="Dashboard_Log_Clear_Content">Tüm günlükler silinecek, emin misiniz?</string>
