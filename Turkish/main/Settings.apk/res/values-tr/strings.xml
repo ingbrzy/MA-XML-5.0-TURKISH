@@ -1874,7 +1874,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="time_picker_title">Saat</string>
   <string name="time_zone_auto_stub">Saat dilimini seç</string>
   <string name="timezone_settings">Saat Dilimi</string>
-  <string name="title_dolby_control">Dolby Efekt Kontrolleri</string>
+  <string name="title_dolby_control">Dolby Digital Plus Ayarları</string>
   <string name="title_font_size">Yazı boyutu</string>
   <string name="total_size">%s (toplam)</string>
   <string name="total_size_label">Toplam</string>

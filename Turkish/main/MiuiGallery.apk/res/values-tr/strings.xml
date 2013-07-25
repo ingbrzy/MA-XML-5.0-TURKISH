@@ -10,7 +10,17 @@
   <string name="add_to_cloud_folder">Cloud klasörüne ekle</string>
   <string name="adding_recipients">Alıcılar ekleniyor...</string>
   <string name="album_name">Albüm adı</string>
+  <string name="album_quota_fulfiled">"Yeni albüm açılamadı çünkü albüm sınırı aşıldı"</string>
+  <string name="album_share_kicked">Alınan albüm: %1$s</string>
   <string name="album_share_stat_content">Yeni Albüm paylaşım davetiyeleri</string>
+  <string name="album_share_subtitle_accepting">%1$s paylaşım kabul ediliyor...</string>
+  <string name="album_share_subtitle_denying">%1$s paylaşım reddediliyor...</string>
+  <string name="album_share_subtitle_invited">Paylaşılan %1$s, kabul ya da reddedilsin mi?</string>
+  <string name="album_share_subtitle_normal">%1$s paylaşıldı</string>
+  <string name="album_share_subtitle_not_ready">Albüm bilgisi mevcut değil. Almak için tıklayın.</string>
+  <string name="album_share_subtitle_quitting">%1$s paylaşım iptal ediliyor ...</string>
+  <string name="album_share_subtitle_requesting">Albüm bilgileri indiriliyor...</string>
+  <string name="album_share_title_new_album">Yeni Albüm</string> 
   <string name="albums">Albümler</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Bildirim</string>
@@ -103,8 +113,11 @@
   <string name="edited_photo_bucket_name">Düzenlendi</string>
   <string name="email_picker_title">Paylaşılan E-posta ekle</string>
   <string name="empty_album">O resim/video kullanılabilir.</string>
+  <string name="error_invalid_link">Bu bağlantı geçersiz. Yeni bir bağlantı oluşturmak için sahibinden isteyin!</string>
+  <string name="error_repeat_apply">Bu albüm zaten paylaşılmaktadır!</string>
   <string name="error_should_not_select_image">Uyarı: lütfen resim dosyası seçmeyin.</string>
   <string name="error_should_not_select_video">Uyarı: lütfen video dosyası seçmeyin.</string>
+  <string name="error_socket_timeout">Ağ hatası. Daha sonra tekrar deneyiniz!</string>
   <string name="exit_share">Albümden çık</string>
   <string name="exit_share_failed">%1$s albümünden çıkma başarısız</string>
   <string name="exit_share_in_process">Tekrar çıkmayı deniyor...</string>
@@ -131,6 +144,7 @@
   <string name="frame_semicircle">Yarım daire</string>
   <string name="frame_white">Beyaz</string>
   <string name="gallery_cloud_provider_name">Galeri</string>
+  <string name="gallery_setting">Ayarlar</string>
   <string name="global_setting">Ayarlar</string>
   <string name="grain">Film tanesi</string>
   <string name="grayscale">B&amp;W</string>
@@ -146,6 +160,7 @@
   <string name="how_many_pics">%d foto</string>
   <string name="how_many_sub_folders">%d klasör</string>
   <string name="how_many_videos">%d Video</string>
+  <string name="image_quota_fulfiled">"Dosya oluşturulamıyor, görüntü sayısı sınırı aşıldı!"</string>
   <string name="hue_polymorphism">photoeditor_effect_hue</string>
   <string name="import_complete">İçe aktarma tamamlandı</string>
   <string name="import_fail">İçe aktarım başarısız!</string>
@@ -159,6 +174,7 @@
   <string name="kick_sharer">Paylaşımcıyı kaldır</string>
   <string name="kick_sharer_failed">Paylaşımcı kaldırılamadı</string>
   <string name="kick_sharer_successfully">Paylaşımcı başarıyla kaldırıldı</string>
+  <string name="landscape_mode">Manzara modunu etkinleştir</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_failure">Foto yüklenemedi!</string>
   <string name="loading_thumbnail">Önizleme resimleri yükleniyor...</string>
@@ -273,6 +289,7 @@
   <string name="share_by_email_start">%1$s arka planda paylaşmak için çalışıyor</string>
   <string name="share_by_email_successfully">%1$s E-posta ile başarıyla paylaşıldı</string>
   <string name="share_user_name">Adı</string>
+  <string name="sharer_quota_fulfiled">"Bu albümün paylaşılan kişi sayısı sınırı aşıldı!"</string>
   <string name="sharer_status_accepted">Kabul edilen</string>
   <string name="sharer_status_refused">Reddedilen</string>
   <string name="sharer_status_waiting">Bekliyor</string>
