@@ -441,10 +441,7 @@
   <string name="pref_video_preload_dialogtitle">Video önyükleme...</string>
   <string name="pref_video_preload_summary">Tarayıcıya, desteklenen sunuculardan video önyükleme izni verir</string>
   <string name="pref_video_preload_title">Video önyükleme</string>
-  <string name="pref_video_preload_value_always">ALWAYS</string>
-  <string name="pref_video_preload_value_never">NEVER</string>
   <string name="pref_video_preload_value_never_summary">Önyükleme videolarına asla izin verme</string> 
-  <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Ses tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları için seçenekler</string>
   <string name="pref_zoom_on_double_tap">Hafifçe çift dokunmada yakınlaştır</string>
