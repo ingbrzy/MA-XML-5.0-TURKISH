@@ -89,10 +89,10 @@
   <string name="bookmarks_management">Yer imleri</string>
   <string name="bookmarks_root_folder">Ana klasör</string>
   <string name="bookmarks_search">Tarayıcı</string>
-  <string name="browserFrameFileErrorLabel">Dosya sorunu</string>
+  <string name="browserFrameFileErrorLabel">Dosya hatası</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfa zaten gönderilmiş veriler (\"POSTDATA\") içeriyor. Verileri tekrar gönderirseniz sayfa üzerinde yapılmış tüm işlemler (arama veya çevrimiçi satın alma gibi) tekrarlanacaktır.</string>
-  <string name="browserFrameNetworkErrorLabel">Bağlantı sorunu</string>
+  <string name="browserFrameNetworkErrorLabel">Bağlantı hatası</string>
   <string name="browser_bookmarks_page_bookmarks_text">Favoriler</string>
   <string name="browser_history">Son ziyaret edilen sayfalar</string>
   <string name="cancel">İptal</string>
@@ -135,7 +135,7 @@
   <string name="contextmenu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_view_image">Görseli görüntüle</string>
-  <string name="copy_page_url">"Sayfa URL'sini kopyala"</string>
+  <string name="copy_page_url">"Sayfa URL\'sini kopyala"</string>
   <string name="crash_recovcery_message">Tarayıcıdan anormal olarak çıkıldı. En son tarayıcı oturumunu kurtarmak istiyor musunuz?</string>
   <string name="create_shortcut_bookmark">Ana ekrana kısayol ekle</string>
   <string name="current_page">"kaynak: "</string>
@@ -151,7 +151,7 @@
   <string name="do_not_save">İptal</string>
   <string name="download">İndir</string>
   <string name="download_complete">İndirme tamamlandı</string>
-  <string name="download_default_path_txt">Varsayılan indirme yolu olarak ayarlayın, indirme klasör yolu tekrar sorulmaz</string> 
+  <string name="download_default_path_txt">Varsayılan indirme klasörü yolu olarak ayarlayın, tekrar uyarı yapılmaz.</string> 
   <string name="download_failed">İndirme başarısız</string> 
   <string name="download_no_sdcard_dlg_msg" formatted="false"> %s indirilmesi için USB depolama gerekiyor.</string>
   <string name="download_no_sdcard_dlg_title">SD kart yok</string>
@@ -447,7 +447,7 @@
   <string name="pref_video_preload_value_wifi_only">WIFI_ONLY</string>
   <string name="pref_volume_key_enabled">Ses tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları için seçenekler</string>
-  <string name="pref_zoom_on_double_tap">Hafifçe çift vurulduğunda yakınlaştır</string>
+  <string name="pref_zoom_on_double_tap">Hafifçe çift dokunmada yakınlaştır</string>
   <string name="preview">Önizleme</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="quicklinks_management">Hızlı linkler</string> 

@@ -192,7 +192,7 @@
   <string name="select">Seç</string>
   <string name="select_all">Tümünü seç</string>
   <string name="send">Gönder</string>
-  <string name="send_sms_for_sync_notice">Sistem aktivasyon SMS\'i gönderecek, devam edilsin mi?</string>
+  <string name="send_sms_for_sync_notice">Sistem aktivasyon mesajı(SMS) gönderecek, devam etmek istiyor musunuz?</string>
   <string name="send_sms_for_sync_title">Senkronizasyonu etkinleştirmek için SMS gönderin</string>
   <string name="share">Paylaş</string>
   <string name="short_pincode_error_msg">Lütfen 4-8 karakter girin</string>
@@ -254,7 +254,7 @@
   <string name="volume_icon_description_media">Medya</string>
   <string name="volume_icon_description_notification">Bildirim</string>
   <string name="volume_icon_description_ringer">Zilsesi</string>
-  <string name="wake_alarm_message">Alarm duraklatıldı. %s sonra tekrar hatırlat</string>
+  <string name="wake_alarm_message">Telefon kapatılınca alarm duraklatılacak. %s sonra tekrar hatırlat!</string>
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />

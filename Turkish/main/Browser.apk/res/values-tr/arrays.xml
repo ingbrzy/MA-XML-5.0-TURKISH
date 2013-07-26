@@ -9,7 +9,7 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
     <string-array name="pref_content_plugins_choices">
-        <item>Herzaman Açık</item>
+        <item>Her zaman Açık</item>
         <item>Talep Ediliyor</item>
         <item>Kapalı</item>
     </string-array>
@@ -31,19 +31,19 @@
         <item>Geniş</item>
     </string-array>
     <string-array name="pref_data_preload_choices">
-        <item>Hiçbir zaman</item>
+        <item>Asla</item>
         <item>Sadece Wİ-Fİ</item>
-        <item>Herzaman</item>
+        <item>Her zaman</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
-        <item>Hiçbirzaman</item>
+        <item>Asla</item>
         <item>Sadece Wİ-Fİ</item>
-        <item>Herzaman</item>
+        <item>Her zaman</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
-        <item>Hiçbirzaman</item>
+        <item>Asla</item>
         <item>Sadece Wİ-Fİ</item>
-        <item>Herzaman</item>
+        <item>Her zaman</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
         <item>Sayfa yukarı/aşağı</item>
@@ -56,6 +56,6 @@
     <string-array name="pref_images_preload_choices">
         <item>Asla</item>
         <item>Sadece Wi-Fi ile</item>
-        <item>Herzaman</item>
+        <item>Her zaman</item>
     </string-array>
 </resources>
