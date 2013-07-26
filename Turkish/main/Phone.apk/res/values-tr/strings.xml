@@ -696,7 +696,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="ota_listen">Bu aktivasyon tamamlanana kadar sözlü talimatları izleyin.</string>
   <string name="ota_next">Sonraki</string>
   <string name="ota_progress">Programlama başlarken bekleyin.</string>
-  <string name="ota_skip_activation_dialog_message">"Eğer aktivasyonu atlarsanız, aramaları veya mobil veri ağları (Wi-Fi ağları bağlanabilir olsa da) bağlanamaz. Telefonunuzu etkinleştirene kadar, sürekli etkinleştirmeniz istenir."</string>
+  <string name="ota_skip_activation_dialog_message">"Eğer aktivasyonu atlarsanız, aramaları veya mobil veri ağları kullanamazsınız.Aktivasyon yapılana kadar, her açılışta uyarı mesajı görüntülenir."</string>
   <string name="ota_skip_activation_dialog_skip_label">Atla</string>
   <string name="ota_skip_activation_dialog_title">Aktivasyon atlansın mı?</string>
   <string name="ota_spc_failure">SPC HATALARI</string>
