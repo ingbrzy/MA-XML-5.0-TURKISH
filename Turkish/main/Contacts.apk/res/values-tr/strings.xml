@@ -121,7 +121,7 @@
   <string name="cancel_export_confirmation_title">vCard dışa aktarmayı iptal etme</string>
   <string name="cancel_import_confirmation_title">vCard içe aktarmayı iptal etme</string>
   <string name="cancel_vcard_import_or_export_failed">İçe/dışa aktrım işlemi iptal edilemedi</string>
-  <string name="chat">Sohbet</string>
+  <string name="chat">Chat</string>
   <string name="chat_aim">AIM kullanarak sohbet et</string>
   <string name="chat_gtalk">Google Talk kullanarak sohbet et</string>
   <string name="chat_icq">ICQ kullanarak sohbet et</string>
@@ -141,7 +141,7 @@
   <string name="clear_default">Varsayılanları temizle</string>
   <string name="click_close">Kapatmak için tıklayın</string>
   <string name="cloud_antispam_mark">Spam</string>
-  <string name="cloud_antispam_title">Cloud Koruma</string>
+  <string name="cloud_antispam_title">Anti-Spam</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgileri alınamadı.</string>
   <string name="composer_has_no_exportable_contact">Dışa aktarabilir kişi yok. Telefonunuzda kişileriniz varsa, bazı veri sağlayıcıları kişilerin telefondan dışa aktarılmasına izin vermeyebilir.</string>
   <string name="composer_not_initialized">vCard oluşturucu düzgün başlamadı.</string>
@@ -267,7 +267,7 @@
   <string name="device_import_progress_end_message">İçe aktarım tamamlandı!</string>
   <string name="device_import_progress_message">İçe aktarılıyor...</string>
   <string name="device_import_progress_toast">%1$d kişi içe aktarıldı</string>
-  <string name="device_import_title">İçe aktarım işlemi</string>
+  <string name="device_import_title">İçe aktar</string>
   <string name="device_list_title">ile eşleştirmek için telefonu seçin</string>
   <string name="device_other_guide">Telefonunuz üretici listesinde yok, aşağıdaki yardımı kullanmayı deneyin</string>
   <string name="device_other_title">diğer telefon</string>
@@ -335,7 +335,7 @@
   <string name="exporting_contact_failed_title">Dışa aktarılamadı</string>
   <string name="exporting_contact_list_message">Rehber aktarılıyor: %s.</string>
   <string name="exporting_contact_list_progress" formatted="false">%s de %s kişi</string>
-  <string name="exporting_contact_list_title">Kişi verileri dışa aktarılıyor</string>
+  <string name="exporting_contact_list_title">Kişi listesi dışa aktarılıyor...</string>
   <string name="exporting_vcard_finished_title">Aktarım tamamlandı %s.</string>
   <string name="external_profile_title"> %1$s profilim</string>
   <string name="fail_reason_could_not_initialize_exporter">"Aktarıcı başlatılamadı: \"%s\"."</string>
@@ -484,7 +484,7 @@
   <string name="menu_batch_delete">Bir çok kişiyi sil</string>
   <string name="menu_call">Çağrı yap</string>
   <string name="menu_callNumber">Ara %s</string>
-  <string name="menu_call_ip_number"> IP Çağrısı Yap (dial %s)</string>
+  <string name="menu_call_ip_number"> IP Çağrısı Yap (%s)</string>
   <string name="menu_clear_frequents">Temizleme sıklığı</string>
   <string name="menu_copy">Kopyala</string>
   <string name="menu_contacts_filter">Görüntülenecek rehber</string>
@@ -836,7 +836,7 @@ Favoriler listenize kişi eklemek için:
   <string name="smart_group_loading">Akıllı gruplar yükleniyor…</string>
   <string name="smart_group_location_label">Konuma göre</string>
   <string name="smart_group_location_unavailable">Adres yok</string>
-  <string name="sms">Kısa mesaj</string>
+  <string name="sms">SMS</string>
   <string name="sms_assistant">Yazı %s</string>
   <string name="sms_callback">SMS Gönder (geri arama)</string>
   <string name="sms_car">SMS gönder (araç)</string>
@@ -850,7 +850,7 @@ Favoriler listenize kişi eklemek için:
   <string name="sms_main">SMS Gönder (ana hat)</string>
   <string name="sms_mms">SMS Gönder (MMS)</string>
   <string name="sms_mobile">SMS Gönder (mobil)</string>
-  <string name="sms_other">SMS Gönder ()</string>
+  <string name="sms_other">SMS</string>
   <string name="sms_other_fax">Faksa SMS gönder</string>
   <string name="sms_pager">SMS gönder (çağrı cihazı)</string>
   <string name="sms_radio">SMS gönder (telsiz)</string>
@@ -909,7 +909,7 @@ Favoriler listenize kişi eklemek için:
   <string name="vcard_import_request_rejected_message">"vCard\'ı içe aktarma isteği reddedildi. Daha sonra tekrar deneyin."</string>
   <string name="vcard_import_will_start_message_with_default_name">Dosya kısa bir süre sonra içe aktarılacaktır.</string>
   <string name="vcard_unknown_filename">Kişi</string>
-  <string name="video_chat">Görüntülü sohbet</string>
+  <string name="video_chat">Video chat</string>
   <string name="viewContactDesription">Kişiyi görüntüle</string>
   <string name="viewContactTitle">Kişi ayrıntıları</string>
   <string name="view_updates_from_group">Güncellemeleri görüntüle</string>
