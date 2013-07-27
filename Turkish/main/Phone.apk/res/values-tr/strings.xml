@@ -362,8 +362,8 @@
   <string name="display_name">Ad</string>
   <string name="display_name_summary">&lt;Kullanıcı adı aynı&gt;</string>
   <string name="display_name_title">Ad</string>
-  <string name="domain_address">Etki alanı</string>
-  <string name="domain_address_title">Sunucu</string>
+  <string name="domain_address">SipDomain</string>
+  <string name="domain_address_title">Server</string>
   <string name="doneButton">Tamam</string>
   <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
   <string name="dtmf_tone_entries_long_miui">Uzun</string>
@@ -934,7 +934,7 @@ Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="sip_add_account_tip_text">Internet çağrısı kullanmak için SIP hesabı ekleyin</string>
   <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
   <string name="sip_always">SIP_ALWAYS</string>
-  <string name="sip_always_send_keepalive">Her zaman gönder</string>
+  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Veri ağı kullanılabilir olduğunda tüm aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet çağrıları</string>
