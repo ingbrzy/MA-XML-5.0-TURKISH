@@ -140,7 +140,7 @@
   <string name="people">İnsanlar</string>
   <string name="pref_advanced_functions">Gelişmiş Özellikler</string>
   <string name="pref_advanced_settings">Gelişmiş</string>
-  <string name="pref_camcorder_settings_category">Video kaydetme ayarları</string>
+  <string name="pref_camcorder_settings_category">Video ayarları</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE ayarı</string>
   <string name="pref_camera_ae_bracket_hdr_entry_hdr">HDR</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Kapalı</string>
@@ -156,7 +156,7 @@
   <string name="pref_camera_autoexposure_entry_centerweighted">Orta-ağırlıklı</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Matris</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spot</string>
-  <string name="pref_camera_autoexposure_title">Otomatik pozlama modunu seçin</string>
+  <string name="pref_camera_autoexposure_title">Otomatik pozlama modu</string>
   <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
   <string name="pref_camera_coloreffect_entry_mono">Mono</string>
   <string name="pref_camera_coloreffect_entry_negative">Negatif</string>
@@ -214,7 +214,7 @@
   <string name="pref_camera_jpegquality_entry_normal">Normal</string>
   <string name="pref_camera_jpegquality_entry_superfine">Çok iyi</string>
   <string name="pref_camera_jpegquality_title">Fotoğraf kalitesi</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Odaklama</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_off">Odakla</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Seri çekim</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Deklanşör tuşu işlevi</string>
   <string name="pref_camera_movie_solid_entry_off">Kapalı</string>
@@ -321,7 +321,7 @@
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
   <string name="pref_camera_zsl_title">ZSL</string>
-  <string name="pref_camera_watermark_title">Zaman filigranı</string>
+  <string name="pref_camera_watermark_title">Tarih etiketi</string>
   <string name="pref_camera_watermark_entry_off">Kapalı</string>
   <string name="pref_camera_watermark_entry_on">Açık</string>
   <string name="pref_captrue_mirror_entry_off">Kapalı</string>
@@ -334,11 +334,11 @@
   <string name="pref_grp_restore_settings">Ayarları Sıfırla</string>
   <string name="pref_settings_mode">Kamera modu</string>
   <string name="pref_video_captrue_ability_title">Video çekebilme</string>
-  <string name="pref_video_continuous_focus">Otomatik odaklama</string>
+  <string name="pref_video_continuous_focus">Otomatik odakla</string>
   <string name="pref_video_continuous_focus_entry_off">Açık</string>
   <string name="pref_video_continuous_focus_entry_on">Kapalı</string>
   <string name="pref_video_focusmode_entry_auto">Dokunun</string>
-  <string name="pref_video_focusmode_entry_continuous">Sürekli Odaklama</string>
+  <string name="pref_video_focusmode_entry_continuous">Sürekli Odakla</string>
   <string name="pref_video_focusmode_title">Odaklama Modu</string> 
   <string name="pref_video_quality_entry_1080p">FULL HD</string>
   <string name="pref_video_quality_entry_480p">SD 480P</string>
