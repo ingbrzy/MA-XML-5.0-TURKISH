@@ -119,9 +119,6 @@
   <string name="no_syncable_calendars">Takvim yok</string>
   <string name="no_title_label">(Başlık yok)</string>
   <string name="not_synced">Eşitlenmedi</string>
-  <string name="prefDefault_alerts_vibrateWhen">Asla</string>
-  <string name="prefDefault_alerts_vibrate_false">Asla</string>
-  <string name="prefDefault_alerts_vibrate_true">Daima</string>
   <string name="prefDialogTitle_vibrateWhen">Titret</string>
   <string name="preferences_about_title">Hakkında</string>
   <string name="preferences_alerts_popup_title">Açılır pencere bildirimi</string>
