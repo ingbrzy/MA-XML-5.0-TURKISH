@@ -685,7 +685,7 @@
   <string name="onscreen_swap_calls_text_miui">Karşılıklı değiştir</string>
   <string name="onscreen_tools_off_miui">Araçlar</string>
   <string name="onscreen_tools_on_miui">Araçlar</string>
-  <string name="optional_summary">&lt;Opsiyon></string>
+  <string name="optional_summary">&lt;Opsiyon&gt;</string>
   <string name="ota_activate">Etkinleştir</string>
   <string name="ota_call_end">Geri</string>
   <string name="ota_failure">Programlama başarısız</string>
