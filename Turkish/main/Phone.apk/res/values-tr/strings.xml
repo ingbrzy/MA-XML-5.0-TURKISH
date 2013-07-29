@@ -927,10 +927,7 @@
   <string name="sip_accounts">Internet çağrısı (SIP) hesapları</string>
   <string name="sip_accounts_title">Hesaplar</string>
   <string name="sip_add_account_tip_text">Internet çağrısı kullanmak için SIP hesabı ekleyin</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Always send</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Veri ağı kullanılabilir olduğunda tüm aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet çağrıları</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
