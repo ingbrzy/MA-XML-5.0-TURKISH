@@ -34,7 +34,7 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">Doğum gününe 3 gün kaldı (%3$s)</string>
+  <string name="birthday_notification_text_three_days_later">(%3$s) Doğum gününe 3 gün kaldı </string>
   <string name="birthday_notification_text_today">İyi ki doğdun demeyi unutma!"</string>
   <string name="birthday_notification_title_three_days_later">%1$s adlı kişinin doğum günü yaklaşıyor</string>
   <string name="birthday_notification_title_today">%1$s adlı kişinin doğum günü</string>
@@ -44,17 +44,14 @@
   <string name="copy_db">Veri tabanını gönder</string>
   <string name="copy_email">E-posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
-  <string name="create_an_account_desc">"Takvim, bir Google hesabı ile daha düzgün çalışır.
-
-• Herhangi bir web tarayıcısından takviminize ulaşmanızı sağlar.
-• Etkinliklerinizi güvenli bir şekilde yedekler."</string>
+  <string name="create_an_account_desc">"Takvim, bir Google hesabı ile daha düzgün çalışır. \n• Herhangi bir web tarayıcısından takviminize ulaşmanızı sağlar. \n• Etkinliklerinizi güvenli bir şekilde yedekler."</string>
   <string name="creating_event">Etkinlik oluşturuldu.</string>
   <string name="creating_event_with_guest">Davetiyeler gönderilecek.</string>
-  <string name="custom">"Özel (telefondan değiştirilemez)"</string>
+  <string name="custom">Özel (telefondan değiştirilemez)</string>
   <string name="daily">Günlük</string>
-  <string name="date_time_fmt" formatted="false">%s, %s</string>
-  <string name="day_view">Day</string>
-  <string name="day_view_new_event_hint">+ Yeni etkinlik</string>
+   <string name="date_time_fmt" formatted="false">%s, %s</string>
+  <string name="day_view">Gün</string>
+  <string name="day_view_new_event_hint">Yeni etkinlik</string>
   <string name="delete_label">Sil</string>
   <string name="delete_recurring_event_title">Sil %s?</string>
   <string name="delete_this_event_title">Bu etkinlik silinsin mi?</string>
@@ -111,7 +108,7 @@
   <string name="month_view">Ay</string>
   <string name="monthly">Aylık</string>
   <string name="monthly_on_day">Aylık (%s günüde)</string>
-  <string name="monthly_on_day_count">Aylık (her %1$s %2$s)</string>
+   <string name="monthly_on_day_count" formatted="false">Aylık (her %1$s %2$s)</string>
   <string name="more_string">%1$s daha...</string>
   <string name="new_event_dialog_label">Yeni etkinlik</string>
   <string name="new_event_dialog_option">Yeni etkinlik</string>
@@ -176,7 +173,7 @@
   <string name="snooze_label">Ertele</string>
   <string name="synced">Eşitlendi</string>
   <string name="tardis">TARDIS</string>
-  <string name="template_announce_item_index">Event %1$s of %2$s.</string>
+   <string name="template_announce_item_index" formatted="false">Event %1$s of %2$s.</string>
   <string name="timezone_label">Zaman dilimi</string>
   <string name="today">Bugün</string>
   <string name="today_at_time_fmt">Bugün şu zamanda %s</string>

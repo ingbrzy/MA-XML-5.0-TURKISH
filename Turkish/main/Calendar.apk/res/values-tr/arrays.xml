@@ -142,11 +142,11 @@
         <item>Genel</item>
     </string-array>
 	<string-array name="ordinal_labels">
-        <item>ilk</item>
-        <item>ikinci</item>
-        <item>üçüncü</item>
-        <item>dördüncü</item>
-        <item>son</item>
+        <item>1.</item>
+        <item>2.</item>
+        <item>3.</item>
+        <item>4.</item>
+        <item>Son</item>
     </string-array>
 	<string-array name="response_labels1">
         <item>(Cevap yok)</item>
