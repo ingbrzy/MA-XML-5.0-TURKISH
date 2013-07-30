@@ -7,6 +7,7 @@
         <item>Alarm</item>
     </string-array> 
     <string-array name="reminder_minutes_labels">
+        <item>0 minutes</item>
         <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -24,6 +25,8 @@
         <item>1 hafta</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
+        <item>None</item>
+        <item>0 minutes</item>
         <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -63,7 +66,8 @@
         <item>Bogota</item>
         <item>Eastern Time</item>
         <item>Venezuela</item>
-        <item>Atlantic Time</item>
+        <item>Atlantic Time (Barbados)</item>
+        <item>Atlantic Time (Canada)</item>
         <item>Manaus</item>
         <item>Santiago</item>
         <item>Newfoundland</item>
@@ -80,7 +84,6 @@
         <item>Belgrade</item>
         <item>Brussels</item>
         <item>Sarajevo</item>
-        <item>Paris</item>
         <item>Windhoek</item>
         <item>W. Africa Time</item>
         <item>Amman, Jordan</item>
@@ -135,6 +138,7 @@
 	<string-array name="availability">
         <item>Meşgul</item>
         <item>Uygun</item>
+        <item>Tentative</item>
     </string-array>
     <string-array name="visibility">
         <item>Varsayılan</item>
