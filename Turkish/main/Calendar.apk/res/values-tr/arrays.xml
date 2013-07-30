@@ -7,7 +7,7 @@
         <item>Alarm</item>
     </string-array> 
     <string-array name="reminder_minutes_labels">
-        <item>0 minutes</item>
+        <item>0 dakika</item>
         <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -26,7 +26,7 @@
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>None</item>
-        <item>0 minutes</item>
+        <item>0 dakika</item>
         <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
@@ -138,7 +138,7 @@
 	<string-array name="availability">
         <item>Meşgul</item>
         <item>Uygun</item>
-        <item>Tentative</item>
+        <item>Belirsiz</item>
     </string-array>
     <string-array name="visibility">
         <item>Varsayılan</item>
@@ -184,7 +184,7 @@
         <item>"Üzgünüm, yetişemedim başka bir zaman artık."</item>
     </string-array> 
     <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Herzaman</item>
+        <item>Her zaman</item>
         <item>Sadece sessizde</item>
         <item>Asla</item>
     </string-array>
