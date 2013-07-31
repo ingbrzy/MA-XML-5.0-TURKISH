@@ -166,10 +166,8 @@
   <string name="caller_manage_manage_done_text_miui">Aramaya dön</string>
   <string name="callind">Çağrı özellikleri</string>
   <string name="callind_multi_sim">Abonelik seçin</string>
-  <string name="calling_via_template">"Çağrı ^1
-"</string>
-  <string name="calling_via_template_miui">"Çağrı ^1
-"</string>
+  <string name="calling_via_template">Çağrı %s</string>
+  <string name="calling_via_template_miui">"Çağrı ^1"</string>
   <string name="cancel">İptal</string>
   <string name="cancel_call">İptal</string>
   <string name="card_01">Kart 1</string>
@@ -187,7 +185,6 @@
     <string name="card_title_clir_suppression_rejected">CLIR Suppression Rejected</string>
     <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
   <string name="card_title_conf_call">Konferans çağrısı</string>
-  <string name="card_title_cugcall">CUG Call</string>
   <string name="card_title_deflectedcall">Reddedilmiş çağrılar</string>
   <string name="card_title_dialing">Numara Aranıyor..</string>
   <string name="card_title_forwardcheckreceived">Alınan çağrıları kontrol et</string>
@@ -301,9 +298,7 @@
   <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
   <string name="default_contacts_countrycode_sum_miui">Kişinin ülke kodunu seçin</string>
    <string name="default_notification_description">Varsayılan Zilsesi (%1$s)</string>
-  <string name="default_port">5060</string>
-  <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
-  <string name="default_transport">UDP</string>
+   <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kayıtlarını sil</string>
   <string name="deleteSimContacts">SIM kayıtları siliniyor...</string>
@@ -361,8 +356,6 @@
   <string name="display_name">Ad</string>
   <string name="display_name_summary">&lt;Kullanıcı adı aynı&gt;</string>
   <string name="display_name_title">Ad</string>
-  <string name="domain_address">SipDomain</string>
-  <string name="domain_address_title">server</string>
   <string name="doneButton">Tamam</string>
   <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
   <string name="dtmf_tone_entries_long_miui">Uzun</string>
@@ -371,7 +364,6 @@
   <string name="dtmf_tones_summary_miui">DTMF ses uzunluğunu ayarla</string>
   <string name="dtmf_tones_title">DTMF sesleri</string>
   <string name="dtmf_tones_title_miui">DTMF sesleri</string>
-  <string name="ecm_exit_dialog">EcmExitDialog</string>
   <string name="editContact">Düzenle</string>
   <string name="edit_custom_location_title_miui">Bölgesel ve rakam özellikleri, jokerler # destekleniyor</string>
   <string name="edit_fdn_contact">Sabit arama numarasını düzenle</string>
@@ -739,10 +731,6 @@
   <string name="pin_progress_set_fdn_lock_miui">FDN kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_set_icc_lock_miui">icc kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_unlock_icc_miui">SIM kilidi açılıyor…</string>
-  <string name="place_a_call1">Subscription 1</string>
-  <string name="place_a_call2">Subscription 2</string>
-  <string name="port">Port</string>
-  <string name="port_title">Port numarası</string>
   <string name="pref_custom_location_summary_miui">Bölge ve numara özelliklerini değiştir</string>
   <string name="pref_custom_location_title_miui">Özellikleri değiştir</string>
   <string name="prefer_2g">Sadece 2G şebekesini kullan</string>
@@ -780,9 +768,6 @@
   <string name="private_num">Gizli numara</string>
   <string name="proceed">Devam et</string>
   <string name="progress_dialog_exiting_ecm">Acil çağrı modundan çıkış yapılıyor</string>
-  <string name="prompt">Prompt</string>
-  <string name="prompt_user">Prompt User</string>
-  <string name="proxy_address">ProxyAdresi</string>
   <string name="proxy_address_title">Giden proxy adresi</string>
   <string name="pstn_phone">Cep telefonu çağrısı</string>
   <string name="puk2_blocked">PUK2 kodu kalıcı olarak bloke oldu.</string>
@@ -880,7 +865,6 @@
   <string name="select_network_automatic_hint_miui">"Bu seçtiğiniz ağa kayıt olunamaz. Otomatik olarak tercih edilen bir ağ seçilsin mi??"</string>
   <string name="sendSms">SMS gönder</string>
   <string name="send_button">Gönder</string>
-  <string name="send_keepalive">sendKeepAlive</string>
   <string name="send_keepalive_title">Send keep-alive</string>
   <string name="separate_from_conference_miui">Tek çağrı</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Tercih edilen şebeke, veri hizmeti kapatılınca çalışır</string>
@@ -890,8 +874,6 @@
   <string name="set_smsc_address_error_miui">SMS merkezi numarası ayarlanamadı, tekrar deneyin.</string>
   <string name="set_smsc_address_timeout_miui">SMS merkezi numarası ayarlanırken süre aşımı, tekrar deneyin.</string>
   <string name="set_smsc_address_title_miui">SMS merkezi numarasını ayarla</string>
-  <string name="set_sub_1">Subscription 1:</string>
-  <string name="set_sub_2">Subscription 2:</string>
   <string name="set_sub_activate_failed">Activate failed</string>
   <string name="set_sub_activate_not_supported">Activate not supported</string>
   <string name="set_sub_activate_success">Activate success</string>
@@ -927,7 +909,6 @@
   <string name="sip_accounts">Internet çağrısı (SIP) hesapları</string>
   <string name="sip_accounts_title">Hesaplar</string>
   <string name="sip_add_account_tip_text">Internet çağrısı kullanmak için SIP hesabı ekleyin</string>
-  <string name="sip_always_send_keepalive">Always send</string>
   <string name="sip_call_options_entry_1">Veri ağı kullanılabilir olduğunda tüm aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet çağrıları</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
@@ -957,14 +938,6 @@
   <string name="stk_cc_ss_to_ussd_error">SS request modified to USSD request.</string>
   <string name="stock_quotes_disable">Hisse Senedi Fiyatları devre dışı</string>
   <string name="stock_quotes_enable">Hisse Senedi Fiyatları etkin</string>
-  <string name="sub1LineNumber">Sub1 Number :</string>
-  <string name="sub2LineNumber">Sub2 Number :</string>
-  <string name="sub_1">SUB 1</string>
-  <string name="sub_2">SUB 2</string>
-  <string name="sub_one">Manage Subscription 1</string>
-  <string name="sub_two">Manage Subscription 2</string>
-  <string name="subone">Subscription 1</string>
-  <string name="subtwo">Subscription 2</string>
   <string name="sum_carrier_select">Şebeke operatörünü seçin</string>
   <string name="sum_cdma_call_settings">İlave sadece CDMA çağrı ayarları</string>
   <string name="sum_cfb_disabled">Devre dışı</string>
@@ -1019,7 +992,6 @@
   <string name="throttle_time_frame">Veri kullanım dönemi</string>
   <string name="throttle_time_frame_subtext">"%1$d٪ geçen döngü. sonraki dönem %2$d gün (%3$s) içinde başlayacak"</string>
   <string name="title_data_settings">Veri ayarları</string>
-  <string name="transport">Protocol</string>
   <string name="transport_title">Aktarım türü</string>
   <string name="tty_mode_entries_full_miui">TTY Full</string>
   <string name="tty_mode_entries_hco_miui">TTY HCO</string>
