@@ -13,8 +13,8 @@
         <item quantity="one">Seçilen eylem acil arama modunda kullanılamaz. Telefon %s dakika boyunca bu modda olacak. Artık ayrılmak istiyor musunuz?</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
-        <item quantity="other">" %1$d seçilen öğeler"</item>
-        <item quantity="zero">%1$d seçilen öğeler</item>
+        <item quantity="other">" %1$d seçilen öğe"</item>
+        <item quantity="zero">%1$d seçilen öğe</item>
         <item quantity="one">%1$d seçilen öğe</item>
     </plurals>
 </resources>
