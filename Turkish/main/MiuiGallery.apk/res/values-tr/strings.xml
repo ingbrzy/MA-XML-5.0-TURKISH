@@ -97,13 +97,17 @@
   <string name="defalt_local_mobile">mobil</string>
   <string name="delete">Sil</string>
   <string name="delete_fail_too_many_items">Silme işlemi başarısız, çok fazla öğe seçilmiş!</string>
+  <string name="delete_file">Seçilen %1$d dosyayı silmek istiyor musunuz?</string>
+  <string name="delete_files_and_folders">Seçilen %1$d dosya ve %2$d klasörü silmek istiyor musunuz?</string>
+  <string name="delete_folder">Seçilen %1$d klasörü silmek istiyor musunuz?</string>
   <string name="deleting_files">Dosyalar siliniyor...</string>
   <string name="demo_video_folder_display_name">Demo video</string>
   <string name="description">Tanımlama</string>
   <string name="details">Detaylar</string>
   <string name="details_hms">%1$d:%2$02d:%3$02d</string>
   <string name="details_ms">%1$02d:%2$02d</string>
-  <string name="details_title">%1$d of %2$d öğe:</string>
+  <string name="details_title">%1$d / %2$d öğe:</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Belgesel</string>
   <string name="done">Tamam</string>
   <string name="doodle">Karalama</string>
@@ -167,6 +171,7 @@
   <string name="import_fail">İçe aktarım başarısız!</string>
   <string name="initial_cloud_button_text">MiCloud\'u kullanmaya başlayın</string>
   <string name="initial_cloud_text">Her zaman ve her yerde, fotolarınızı düzenleyebilir ve görüntüleyebilirsiniz</string>
+  <string name="initializing_cloud">Cloud Albümü Başlatılıyor...</string>
   <string name="input_cloudfolder_name">Cloud klasör adı</string>
   <string name="internal_camera_folder_display_name">Dahili kamera fotoları</string>
   <string name="internal_miui_capture_screen_folder_display_name">Dahili ekran görüntüleri</string>
@@ -225,6 +230,8 @@
   <string name="open">Senkronizeyi Aç</string>
   <string name="open_single_image_failure">Resim dosyası açılamadı!</string>
   <string name="open_sync_title">Senkronize etmeniz gerekiyor!</string>
+  <string name="operation_delete_confirm_message_folder">"Klasörler ve dosyalar aynı zamanda silinecektir.
+  "</string>
   <string name="operation_refresh">Yenile</string>
   <string name="operation_rename">Adlandır</string>
   <string name="orientation">Yönlendirme</string>

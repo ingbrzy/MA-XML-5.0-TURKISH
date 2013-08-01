@@ -378,6 +378,8 @@
   <string name="empty_alert">%s gerekli, boş olamaz</string>
   <string name="empty_networks_list">Şebeke bulunamadı.</string>
   <string name="enable">Etkin</string>
+  <string name="enable_antispam_strange_summary">&gt;Bilinmeyen bir numaradan gelen ilk çağrıyı sessize al</string>
+  <string name="enable_antispam_strange_title">Yabancı çağrıları engelle</string> 
   <string name="enable_disable_administrative">Yönetim</string>
   <string name="enable_disable_advertisements">Reklamlar</string>
   <string name="enable_disable_atr">Alan trafik raporları</string>
@@ -709,6 +711,7 @@
   <string name="phone_entered_ecm_text">Girilen Acil Geri Arama Modu</string>
   <string name="phone_in_ecm_call_notification_text">Veri bağlantısı devre dışı</string>
   <string name="phone_in_ecm_notification_title">Acil Geri Arama Modu</string>
+  <string name="phone_info_divider">"  |  "</string> 
   <string name="phone_numbers">Telefon numaralarını girin</string>
   <string name="pick_outgoing_call_phone_type">Çağrıyı yerleştir</string>
   <string name="pick_outgoing_sip_phone">İnternet çağrı hesabını kullan:</string>

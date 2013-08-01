@@ -64,7 +64,11 @@
   <string name="confirm_delete_message">Mesaj silinecek.</string>
   <string name="confirm_dialog_locked_title">Favori mesajları sil ?</string>
   <string name="confirm_dialog_title">Sil</string>
+  <string name="confirm_no_block_positive">"Engelleme ve kurtarma yapma"</string>
+  <string name="confirm_no_block_title">"Mesajlara engelleme ve Kurtarma yapma?"</string> 
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
+  <string name="confirm_restore_positive">Kurtar</string>
+  <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string> 
   <string name="context_menu_add_contact">Kişilere ekle</string>
   <string name="context_menu_browse_web">Tarayıcı</string>
   <string name="context_menu_contact">Kişi: %1$s</string>
@@ -251,6 +255,7 @@
   <string name="new_phrase_hint">Şablon ekle</string>
   <string name="nickname_placeholder">Ara</string>
   <string name="no">İptal</string>
+  <string name="no_block_button_msg">"Bu numaranın mesajlarını engelleme"</string>
   <string name="no_conversations">Mesaj dizisi yok.</string>
   <string name="no_sim">SIM Kullanılamaz , Cloud mesajlaşma kullanılamaz</string>
   <string name="no_subject">(Konu yok)</string>
@@ -375,7 +380,8 @@
   <string name="resent_message">Tekrar gönder</string>
   <string name="resize_image_error_information">Bu resim, yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük.</string>
   <string name="restore_default">Varsayılan ayarları geri yükle</string>
- <string name="save">Kaydet</string>
+  <string name="restore_blocked_message">Engellenen mesajları kurtar</string> 
+  <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>
   <string name="save_to_sim">SIM\'e kaydet</string>
   <string name="saved_label">"Kaydedildi: "</string>

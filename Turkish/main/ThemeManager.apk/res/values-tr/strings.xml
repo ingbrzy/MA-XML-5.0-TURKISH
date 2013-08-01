@@ -28,6 +28,7 @@
   <string name="component_screen_title">Seçili olanı dahil et</string>
   <string name="component_select_title">%1$s Bileşen seçildi</string>
   <string name="component_settings_title">Kişiselleştir</string>
+  <string name="deleting">Siliniyor...</string>
   <string name="description_author">Yazar:</string>
   <string name="description_designer">Tasarımcı:</string>
   <string name="description_download">İndir:</string>
@@ -79,6 +80,8 @@
   <string name="resource_default_name">Kaynak</string>
   <string name="resource_delete_all">Seçilen %1$d kaynak silinsin mi?</string>
   <string name="resource_delete_confirm">Bu kaynaklar silinsin mi?</string>
+  <string name="resource_delta_update_failed">Yama güncelleme başarısız!</string>
+  <string name="resource_delta_update_successful">Yama güncelleme başarılı, %1$s kaydediliyor.</string>
   <string name="resource_detail">Detaylar</string>
   <string name="resource_download">İndir</string>
   <string name="resource_downloaded_title">İndirilen kaynaklar</string>
@@ -88,6 +91,7 @@
   <string name="resource_get_auth_exceed_max_limit_title">Yetkilendirme sınırına ulaşıldı!</string>
   <string name="resource_get_auth_missing">Tema buradan indirilemiyor, lütfen resmi marketten indirin.</string>
   <string name="resource_get_auth_retrieving">Yetki alınıyor...</string>
+  <string name="resource_import_successful">İndirme tamamlandı</string>
   <string name="resource_importing">Kaynak içe aktarılıyor</string>
   <string name="resource_list_title">Son seçilen</string>
   <string name="resource_local">Yerel %1$s</string>

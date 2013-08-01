@@ -284,6 +284,7 @@
   <string name="sync_on">Açık</string>
   <string name="sync_sub_dspt">Hizmeti etkinleştirmeniz için aktivasyon SMS\'i gönderildi</string>
   <string name="sync_sub_int_dspt">Uluslararası bir SMS, hizmeti etkinleştirmek için gönderilebilir</string>
+  <string name="title">başlık</string>
   <string name="title_mili_center">Mi kredi merkezi</string>
   <string name="title_pay">Mi Kredisi ile ödeme</string>
   <string name="title_pay_record">%1$s ödeme geçmişi öğeleri</string>
@@ -303,6 +304,7 @@
   <string name="user_agreement_p3"> ve </string>
   <string name="user_agreement_p4">Gizlilik Politikası</string>
   <string name="user_agreement_p5">"Kayıt ederek, kabul etmiş oluyorsunuz "</string>
+  <string name="value">Değer</string> 
   <string name="voucher_edit_hint">Şifre:</string>
   <string name="voucher_edit_limit">Sınırı düzenle</string>
   <string name="voucher_error_code">Mi Kredi kupon kodu hatası</string>

@@ -198,6 +198,7 @@
   <string name="date_year_toggle">Yıl girin</string>
   <string name="default_ringtone">Varsayılan zil sesi</string>
   <string name="delete">Sil</string>
+  <string name="deleting">Siliniyor...</string>
   <string name="deleteConfirmation">Bu kişi silinecek.</string>
   <string name="deleteConfirmationDetail">\"%s\" silinecek.</string>
   <string name="deleteConfirmation_title">Kişi silinsin mi?</string>
@@ -305,6 +306,9 @@
   <string name="display_options_view_names_as">Kişi adlarını görüntüleme şekli:</string>
   <string name="display_sim_contacts">SIM kayıtlarını göster</string>
   <string name="display_ungrouped">Diğer tüm kişiler</string>
+  <string name="display_warn_remove_ungrouped">\"%s\" senkronize ile gruplandırılmamış kişilerden kaldırılıyor.</string> 
+  <string name="dlg_add_blacklist">Seçilen numara kara listeye eklensin mi?</string>
+  <string name="dlg_remove_blacklist">Seçilen numara kara listeden kaldırılsın mı?</string>
   <string name="download_failed">İndirme başarısız!</string>
   <string name="download_preview_failed">Önizleme yüklenemedi!</string>
   <string name="duplicate_group_name">Grup adı zaten var!</string>
@@ -727,6 +731,7 @@ Favoriler listenize kişi eklemek için:
   <string name="remind_btn_ignore">Yoksay</string>
   <string name="remind_btn_sync_now">Şimdi Eşitle</string>
   <string name="removePhoto">Fotoğrafı kaldır</string>
+  <string name="remove_blacklist">Kara listeden kaldır</string>
   <string name="remove_duplicate">"MIUI çift kişileri bulmanıza yardım edecek. Kişiler otomatik birleştirilemez, elle yapmanız gerekir"</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Kaynak tarayıcı</string>
@@ -737,6 +742,8 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_default_name">Kaynak</string>
   <string name="resource_delete_all">Seçilen %1$d kaynak silinsin mi?</string>
   <string name="resource_delete_confirm">Bu kaynak silinsin mi?</string>
+  <string name="resource_delta_update_failed">Yama güncellemesi başarısız!Tam kaynak şimdi indirilecek!</string>
+  <string name="resource_delta_update_successful">Yama güncellemesi başarılı， %1$s kaydediliyor .</string>
   <string name="resource_detail">Detaylar</string>
   <string name="resource_download">İndir</string>
   <string name="resource_downloaded_title">İndirilen kaynaklar</string>
@@ -747,6 +754,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
   <string name="resource_get_auth_retrieving">Yetki alınıyor...</string>
   <string name="resource_importing">İçe aktarılıyor...</string>
+  <string name="resource_import_successful">İndirme tamamlandı</string>
   <string name="resource_list_title">En son</string>
   <string name="resource_local">Yerel %1$s</string>
   <string name="resource_mute">Yok</string>

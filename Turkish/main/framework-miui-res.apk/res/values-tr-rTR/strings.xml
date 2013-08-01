@@ -23,6 +23,11 @@
   <string name="contact_carrier_message">Sorularınız için operatörünüzü arayın</string>
   <string name="day_of_month">" %d"</string>
   <string name="days">gün</string>
+  <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
+  <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
+  <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
+  <string name="def_sms_delivered_sound">/system/media/audio/ui/MessageComplete.ogg</string>
+  <string name="def_sms_received_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="delete">Sil</string>
   <string name="deprecated_alarm_message_12_hour_formate"/>
   <string name="device_hongmi">Hongmi Telefon</string>
@@ -90,6 +95,9 @@
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
   <string name="lockscreen_access_pattern_start">Desen başladı</string>
   <string name="lockscreen_emergency_call">Acil çağrılar</string>
+  <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"Şifrenizi %d kez yanlış girdiniz. Başarısız %d denemeden sonra, hesap bilgilerinizi kullanarak telefonunuzun kilidini açmanız istenecektir.
+
+ %d saniye içinde tekrar deneyin."</string>
   <string name="lockscreen_forgot_pattern_button_text">Deseni unuttunuz mu?</string>
   <string name="lockscreen_pattern_instructions">Kilidi açmak için deseni çizin</string>
   <string name="lockscreen_pattern_wrong">Desen yanlış! Tekrar deneyin</string>
