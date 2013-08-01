@@ -39,8 +39,8 @@
   <string name="menu_add_into_contact">Mevcut kişilere ekle</string>
   <string name="menu_add_new_contact">Yeni kişi</string>
   <string name="menu_add_vip_custom">Beyaz liste üyelerine ekle</string>
-  <string name="menu_bl_add_contact">Sık aranan kişiler</string>
-  <string name="menu_bl_add_manual">Manuel ekle</string>
+  <string name="menu_bl_add_contact">Kişiler</string>
+  <string name="menu_bl_add_manual">Ekle</string>
   <string name="menu_bl_call_log">Engelleme günlüğünü kontrol et</string>
   <string name="menu_bl_clear">Kara listeyi temizle</string>
   <string name="menu_bl_remove">Kara listeden kaldır</string>
@@ -93,7 +93,7 @@
   <string name="st_block_title">Engelle ve log tut</string>
   <string name="st_call_group">Çağrı</string>
   <string name="st_common_setting_group">Hızlı bakış</string>
-  <string name="st_filter_keywords_setting_summary1">Aşağıdaki sözcükleri içeren bilinmeyen kişilerden gelen mesajlar bloke edilir.</string>
+  <string name="st_filter_keywords_setting_summary1">Bilinmeyen kişilerden gelen mesajlar bloke edilir.</string>
   <string name="st_filter_keywords_setting_summary2">Virgül kullanarak birden fazla anahtar kelime ekleyebilirsinbiz.</string>
   <string name="st_filter_keywords_setting_title">Anahtar kelimeyi ayarla</string>
   <string name="st_filter_keywords_title">Mesajlar için anahtar kelime</string>
