@@ -10,7 +10,7 @@
     </string-array>
     <string-array name="pref_content_plugins_choices">
         <item>Her zaman Açık</item>
-        <item>Talep Ediliyor</item>
+        <item>İsteğe göre</item>
         <item>Kapalı</item>
     </string-array>
     <string-array name="pref_homepage_choices">
@@ -22,8 +22,8 @@
         <item>Çok Küçük</item>
         <item>Küçük</item>
         <item>Normal</item>
-        <item>Geniş</item>
-        <item>Devasa</item>
+        <item>Büyük</item>
+        <item>Çok Büyük</item>
     </string-array>
     <string-array name="pref_default_zoom_choices">
         <item>Küçük</item>
@@ -32,17 +32,17 @@
     </string-array>
     <string-array name="pref_data_preload_choices">
         <item>Asla</item>
-        <item>Sadece Wİ-Fİ</item>
+        <item>Sadece Wi-Fi</item>
         <item>Her zaman</item>
     </string-array>
     <string-array name="pref_link_prefetch_choices">
         <item>Asla</item>
-        <item>Sadece Wİ-Fİ</item>
+        <item>Sadece Wi-Fi</item>
         <item>Her zaman</item>
     </string-array>
     <string-array name="pref_video_preload_choices">
         <item>Asla</item>
-        <item>Sadece Wİ-Fİ</item>
+        <item>Sadece Wi-Fi</item>
         <item>Her zaman</item>
     </string-array>
     <string-array name="pref_volume_key_choices">
@@ -57,5 +57,14 @@
         <item>Asla</item>
         <item>Sadece Wi-Fi ile</item>
         <item>Her zaman</item>
+    </string-array>
+	<string-array name="menu_theme_setting">
+        <item>Beyaz</item>
+        <item>Sarı</item>
+        <item>Gri</item>
+        <item>Kahve</item>
+        <item>Yeşil</item>
+        <item>Mavi</item>
+        <item>Koyu</item>
     </string-array>
 </resources>
