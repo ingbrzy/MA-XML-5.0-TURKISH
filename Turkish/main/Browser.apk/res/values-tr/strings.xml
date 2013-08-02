@@ -28,19 +28,19 @@
   <string name="account">Hesap</string>
   <string name="account_chooser_dialog_title">Hesabı seçin</string>
   <string name="action">Oturum açın</string>
-  <string name="add_bookmark">Yerimi Ekle</string>
+  <string name="add_bookmark">Yer imi ekle</string>
   <string name="add_bookmark_short">Ekle</string>
   <string name="add_folder">Klasör ekle</string>
-  <string name="add_new_bookmark">Yer işareti</string>
-  <string name="add_to_bookmarks_menu_option">Yer işaretleri</string>
+  <string name="add_new_bookmark">Yer imi ekle</string>
+  <string name="add_to_bookmarks_menu_option">Yer imleri</string>
   <string name="add_to_homescreen_menu_option">Ana ekran</string>
   <string name="add_to_other_folder_menu_option">Diğer klasör</string>
   <string name="add_xiaomi_account_warning">Önce Xiaomi hesabınız ile giriş yapın.</string>
-  <string name="added_to_bookmarks">Yer işaretlerine eklendi.</string>
+  <string name="added_to_bookmarks">Yer imlerine eklendi.</string>
   <string name="alert_tips">Bu sayfa, güvenlik ve gizliliği tehlikeye atabilir, dikkatli olun!</string> 
   <string name="allow">İzin Ver</string>
   <string name="app_new_version">Son sürüm zaten indirilmiş</string> 
-  <string name="app_update_install">Son sürüm indirildi ve yüklemeye hazır</string>
+  <string name="app_update_install">Son sürüm indirildi ve yüklenmeye hazır</string>
   <string name="application_name">İnternet</string>
   <string name="autofill_profile_editor_address_line_1">Adres satırı 1:</string>
   <string name="autofill_profile_editor_address_line_1_hint">Sokak adresi, posta kutusu, alıcı</string>
@@ -69,14 +69,14 @@
   <string name="back">Geri</string>
   <string name="block">Engelle</string>
   <string name="bookmark_add_to">Ekle</string>
-  <string name="bookmark_cannot_save_url">Bu URL yer işareti olarak eklenemez.</string>
+  <string name="bookmark_cannot_save_url">Bu URL yer imi olarak eklenemez.</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Favorinin bir adı olmalıdır.</string>
   <string name="bookmark_needs_url">Favorinin bir konumu olmalıdır.</string>
-  <string name="bookmark_not_saved">Yer işareti kaydedilemedi.</string>
+  <string name="bookmark_not_saved">Yer imi kaydedilemedi.</string>
   <string name="bookmark_page">Son görüntülenen sayfayı favori olarak işaretle</string>
   <string name="bookmark_saved">Favorilere kaydedildi.</string>
-  <string name="bookmark_this_page">Bu sayfaya yer işareti koy</string>
+  <string name="bookmark_this_page">Bu sayfayı yer imlerine ekle</string>
   <string name="bookmark_this_page_to_readmodelist">Sayfayı okuma listesine ekle</string>
   <string name="bookmark_thumbnail_view">Küçük resimler</string>
   <string name="bookmark_title">Başlık</string>
@@ -139,13 +139,13 @@
   <string name="copy_page_url">"Sayfa URL\'sini kopyala"</string>
   <string name="crash_recovcery_message">Tarayıcıdan anormal olarak çıkıldı. En son tarayıcı oturumunu kurtarmak istiyor musunuz?</string>
   <string name="create_shortcut_bookmark">Ana ekrana kısayol ekle</string>
-  <string name="current_page">"kaynak: "</string>
-  <string name="defaultBookmarksUpButton">Yer işaretleri</string>
+  <string name="current_page">"Kaynak: "</string>
+  <string name="defaultBookmarksUpButton">Yer imleri</string>
   <string name="delete">Sil</string>
   <string name="delete_bookmark">Yer imini sil</string> 
   <string name="delete_bookmark_warning" formatted="false">Yer imi silinsin mi \"%s\"?</string>
   <string name="delete_folder">Klasörü sil</string>
-  <string name="delete_multi_bookmarks_alert_title">%1$s öğeyi silmek istediğinize emin misiniz?</string>
+  <string name="delete_multi_bookmarks_alert_title">%1$s öğeyi silmek istiyor musunuz?</string>
   <string name="disable_autofill">Otomatik doldurmayı devre dışı bırak</string>
   <string name="disk_space_available">%1$s kullanılabilir</string>
   <string name="disk_space_selected">%1$s seçilen</string>
@@ -184,7 +184,7 @@
   <string name="error_console_header_text_maximized">JavaScript konsolu</string>
   <string name="error_console_header_text_minimized">JavaScript konsolunu göster</string>
   <string name="exit_browser_warning">Tarayıcıdan çıkılsın mı?</string>
-  <string name="export_bookmark">Yerimlerini dışarı aktar</string>
+  <string name="export_bookmark">Yerimlerini dışa aktar</string>
   <string name="export_bookmark_failure">Yerimlerini dışarı aktarma başarısız!</string>
   <string name="export_bookmark_sucess">Yerimleri başarıyla SD karta çıkarıldı!</string>
   <string name="exported_bookmark_file_name">Favorilerim</string>
@@ -222,10 +222,10 @@
   <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Ana sayfa ayarlandı.</string>
   <string name="http">http://</string>
-  <string name="import_bookmark">Yerimlerini içe aktar</string>
-  <string name="import_bookmark_failure">Yerimleri içe aktarımı başarısız!</string>
-  <string name="import_bookmark_sucess">Yerimlerini içeri aktarma başarıyla tamamlandı</string>
-  <string name="import_bookmarks_dialog_add">Yer işaretlerini Google hesabına ekle</string>
+  <string name="import_bookmark">Yer imlerini içe aktar</string>
+  <string name="import_bookmark_failure">Yer imleri içe aktarma başarısız!</string>
+  <string name="import_bookmark_sucess">Yer imlerini içe aktarma başarıyla tamamlandı</string>
+  <string name="import_bookmarks_dialog_add">Yer imlerini Google hesabına ekle</string>
   <string name="import_bookmarks_dialog_confirm_add" formatted="false">Bu cihazda yer imleri ekleyip, %s ile yer imleri eşitleme başlasın mı?</string>
   <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Bu cihazda yer imleri silinip, %s ile yer imleri eşitleme başlasın mı?</string>
   <string name="import_bookmarks_dialog_delete_select_account">Bu cihazdaki mevcut yer işaretlerini silin ve Google hesabı ile senkronize etmeye başlayın</string>
@@ -457,7 +457,7 @@
   <string name="pref_volume_key_enabled">Ses tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları için seçenekler</string>
   <string name="pref_zoom_on_double_tap">Hafifçe çift dokunmada yakınlaştır</string>
-  <string name="preview">Önizleme</string>
+  <string name="preview">Ön izleme</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
   <string name="quicklinks_management">Hızlı linkler</string> 
   <string name="readmode_already_add_to_bookshelf">Kitaplığa eklendi</string>
@@ -469,6 +469,7 @@
   <string name="readmode_reach_last_page">Son sayfaya ulaşıldı</string>
   <string name="readmode_recommend">Önerilenlere bak</string>
   <string name="readmode_recommend_message">"Bu kitabın tüm bölümlerini okudunuz. Başka bir kitap seçiniz"</string>
+  <string name="readmode_refresh">Yenile</string>
   <string name="readmode_pay_message">Daha sonraki bölümlerde okumayı etkinleştirmek için önce giriş yapmanız gerekir.</string>
   <string name="readmodelist_bookmarks_to_show">Okuma listesi</string>
   <string name="recover">Kurtar</string>
@@ -486,11 +487,11 @@
   <string name="same_bookmarks_warning">Bu yer imi zaten var</string>
   <string name="same_folder_name_warning">Bu klasör zaten var</string>
   <string name="save">Tamam</string>
-  <string name="save_bookmark">yer imini kaydet</string>
+  <string name="save_bookmark">Yer imini kaydet</string>
   <string name="save_dialog_title">Kaydet</string>
   <string name="save_file_already_exist_alert_message">Dosya zaten var, üzerine yazılsın mı?</string>
-  <string name="save_file_already_exist_alert_title">Dosya var!</string> 
-  <string name="save_to_bookmarks">Yer işaretlerine kaydet</string>
+  <string name="save_file_already_exist_alert_title">Dosya zaten var!</string> 
+  <string name="save_to_bookmarks">Yer imlerine kaydet</string>
   <string name="saving_snapshot">Kaydediliyor…</string>
   <string name="search">Ara</string> 
   <string name="search_139">Ara 139</string>
@@ -517,10 +518,10 @@
   <string name="selection_all">Tümünü seç</string>
   <string name="send_to_desktop">Masa üstüne gönder</string>
   <string name="set_as_homepage">Ana sayfa olarak ayarla</string>
-  <string name="share_link">Linki Paylaş</string>
+  <string name="share_link">Linki paylaş</string>
   <string name="share_page">Sayfayı paylaş</string>
-  <string name="shortcut_bookmark">Favori</string>
-  <string name="shortcut_bookmark_title">Bir yer işareti seçin</string>
+  <string name="shortcut_bookmark">Yer imi</string>
+  <string name="shortcut_bookmark_title">Bir yer imi seçin</string>
   <string name="sign_in_to" formatted="false">Giriş yapın %s1 \"%s2\"</string>
   <string name="snapshot_failed">Çevrimdışı okuma için kaydedilemedi.</string>
   <string name="snapshot_go_live">Yayına al</string>
