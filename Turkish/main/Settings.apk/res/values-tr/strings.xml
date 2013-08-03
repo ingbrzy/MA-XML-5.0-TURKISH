@@ -2212,7 +2212,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_disabled_network_failure">Kötü İnternet bağlantısından kaçınıldı</string>
     <string name="wifi_display_available_devices">Kullanılabilir cihazlar</string>
     <string name="wifi_display_details">Gösterim ayarları</string>
-    <string name="wifi_display_disconnect_text">Bu bağlantı ile sona erecek:&lt;br>&lt;b>%1$s&lt;/b></string>
+    <string name="wifi_display_disconnect_text">Bu bağlantı ile sona erecek::&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
     <string name="wifi_display_disconnect_title">Bağlantı kesilsin mi?</string>
     <string name="wifi_display_no_devices_found">Yakınlarda Wi-Fi ağı bulunamadı.</string>
     <string name="wifi_display_options_done">Tamam</string>

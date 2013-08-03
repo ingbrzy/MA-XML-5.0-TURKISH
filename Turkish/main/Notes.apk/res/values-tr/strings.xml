@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
   <string name="alert_action_edit_anyway">Devam et</string>
+  <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
   <string name="alert_edit_action_delete">Sil</string>
   <string name="alert_edit_action_update">Güncelle</string>
   <string name="alert_message_delete_folder">Klasör ve içerisindeki notlar silinecek, onaylıyor musunuz?</string>
