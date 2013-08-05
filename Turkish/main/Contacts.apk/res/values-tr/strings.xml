@@ -343,7 +343,7 @@
   <string name="exporting_vcard_finished_title">Aktarım tamamlandı %s.</string>
   <string name="external_profile_title"> %1$s profilim</string>
   <string name="fail_reason_could_not_initialize_exporter">"Aktarıcı başlatılamadı: \"%s\"."</string>
-  <string name="fail_reason_could_not_open_file" formatted="false">"Açılamamadı \"%s\": %s."</string>
+  <string name="fail_reason_could_not_open_file" formatted="false">"Açılamadı \"%s\": %s."</string>
   <string name="fail_reason_error_occurred_during_export">Aktarım sırasında hata oluştu: \"%s\".</string>
   <string name="fail_reason_failed_to_collect_vcard_meta_info">"vCard dosyasına meta bilgileri toplanamadı."</string>
   <string name="fail_reason_failed_to_read_files">"Dosyalar içe aktarılamadı (%s)."</string>
@@ -709,7 +709,7 @@ Favoriler listenize kişi eklemek için:
   <string name="readOnlyContactDeleteConfirmationDetail">\"%s\" Birden fazla hesap bilgileri içerir. Salt okunur hesaplardan bilgi silinmez, kişiler listeleri gizli olacak.</string>
   <string name="readOnlyContactWarning">Kişileri salt okunur hesaplardan silemezsiniz, ancak bu kişileri kişiler listenizde gizleyebilirsiniz.</string>
   <string name="readingSimContacts">SIM kart bilgileri okunuyor...</string>
-  <string name="reading_vcard_canceled_title">Vcard okunması ipdal edildi</string>
+  <string name="reading_vcard_canceled_title">Vcard okunması iptal edildi</string>
   <string name="reading_vcard_failed_title">vCard verileri okunamadı</string>
   <string name="rebuild_t9_index_dialog_message">T9 indeks verileri yapılandırılıyor…</string>
   <string name="recent">En son</string>
@@ -719,7 +719,7 @@ Favoriler listenize kişi eklemek için:
   <string name="recentCalls_deleteAll">Çağrı kayıtlarını temizle</string>
   <string name="recentCalls_editNumberBeforeCall">Önce numarayı düzenle</string>
   <string name="recentCalls_empty">Çağrı kaydı listesi boş.</string>
-  <string name="recentCalls_removeFromRecentList">Çağrı kaydın listesinden kaldır</string>
+  <string name="recentCalls_removeFromRecentList">Çağrı kaydı listesinden kaldır</string>
   <string name="recentCalls_shareVoicemail">Sesli mesajı paylaş</string>
   <string name="recentCalls_trashVoicemail">Sesli mesajı sil</string>
   <string name="recent_contacts_label">En Son</string>
@@ -750,7 +750,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_downloading">İndiriliyor...</string>
   <string name="resource_get_auth_checking">Kimlik doğrulanıyor...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema bu cihazda çalışmaz, başka cihaz ile tekrar deneyin</string>
-  <string name="resource_get_auth_exceed_max_limit_title">yetki limiti aşıldı</string>
+  <string name="resource_get_auth_exceed_max_limit_title">Yetki limiti aşıldı</string>
   <string name="resource_get_auth_missing">The theme is not downloaded from official market, please download similar ones from official market.</string>
   <string name="resource_get_auth_retrieving">Yetki alınıyor...</string>
   <string name="resource_importing">İçe aktarılıyor...</string>
