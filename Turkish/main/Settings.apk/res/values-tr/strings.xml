@@ -50,12 +50,12 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="accessibility_script_injection_button_allow">İzin ver</string>
   <string name="accessibility_script_injection_button_disallow">İzin verme</string>
   <string name="accessibility_script_injection_disallowed">İzin verilmiyor</string>
-  <string name="accessibility_script_injection_security_warning_summary">"Uygulamaların Google'dan web içeriklerini daha erişilebilir hale getirecek komut dosyaları yüklemesini istiyor musunuz?"</string>
+  <string name="accessibility_script_injection_security_warning_summary">"Uygulamaların Google\'dan web içeriklerini daha erişilebilir hale getirecek komut dosyaları yüklemesini istiyor musunuz?"</string>
   <string name="accessibility_script_injection_title">Web komut dosyalarını yükle</string>
   <string name="accessibility_service_default_description">Hiçbir açıklama sağlanmadı.</string>
   <string name="accessibility_service_disable_warning_summary">"Tamam\'a dokunulduğunda %1$s durdurulur."</string>
   <string name="accessibility_service_disable_warning_title">%1$s durdurulsun mu?</string>
-  <string name="accessibility_service_no_apps_message">"TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Android Market'ten ücretsiz olarak yüklemek ister misiniz?"</string>
+  <string name="accessibility_service_no_apps_message">"TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Android Market\'ten ücretsiz olarak yüklemek ister misiniz?"</string>
   <string name="accessibility_service_no_apps_title">Ekran okuyucusuna ihtiyacınız var mı?</string>
   <string name="accessibility_service_security_warning_summary">%1$s şifreler dışında yazdığınız tüm metinleri toplayabilir. Buna kredi kartı numaraları gibi kişisel veriler de dahildir. Ayrıca, telefon ile etkileşimleriniz hakkında da bilgi toplayabilir.</string>
   <string name="accessibility_service_security_warning_title">%1$s kullanılsın mı?</string>
@@ -145,8 +145,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="app_factory_reset">Güncellemeleri kaldır</string>
   <string name="app_factory_reset_dlg_text">Bu Android sistem uygulaması ile ilgili tüm güncellemeler kaldırılacak.</string>
   <string name="app_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
-  <string name="app_floating_window_dlg_disable">"Disabling %1$s's floating window settings will stop the app forcibly. Are you sure you want to disable?"</string>
-  <string name="app_floating_window_dlg_enable">"Enabling %1$s's floating window settings requires app to restart. Are you sure you want to enable?"</string>
+  <string name="app_floating_window_dlg_disable">"%1$ kayan pencere ayarlarını devre dışı bırakmak için uygulamayı zorla durdurulacak. Devre dışı bırakmak istiyor musunuz?"</string>
+  <string name="app_floating_window_dlg_enable">"%1$ kayan pencere ayarlarını etkinleştirmek için uygulama tekrar başlatılacak. Etkinleştirmek istiyor musunuz?"</string>
   <string name="app_forward_locked">Uygulama, kopyalamaya karşı korumalı.</string>
   <string name="app_install_location_summary">Yeni uygulamalar için tercih edilen yükleme konumunu değiştir</string>
   <string name="app_install_location_title">Tercih edilen yükleme konumu</string>
@@ -297,8 +297,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_advanced_titlebar">Gelişmiş Bluetooth</string>
   <string name="bluetooth_ask_discovery">Telefonunuzdaki bir uygulama, telefonunuzu %1$d saniye boyunca diğer Bluetooth cihazları tarafından bulunabilir duruma getirmek için izin istiyor. Buna izin veriyor musunuz?</string>
   <string name="bluetooth_ask_enablement">"Telefonunuzdaki bir uygulama, Bluetooth\'u açmak istiyor. İzin veriyor musunuz?"</string>
-  <string name="bluetooth_ask_enablement_and_discovery">"Telefonunuzdaki bir uygulama, Bluetooth'u açmak ve %1$d saniye boyunca telefonunuzu diğer cihazlar tarafından bulunabilir duruma getirmek istiyor. İzin veriyor musunuz?"</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery">"Telefonunuzdaki bir uygulama, Bluetooth'u açmak ve telefonunuzu diğer cihazlar tarafından bulunabilir duruma getirmek istiyor. İzin veriyor musunuz?"</string>
+  <string name="bluetooth_ask_enablement_and_discovery">"Telefonunuzdaki bir uygulama, Bluetooth\'u açmak ve %1$d saniye boyunca telefonunuzu diğer cihazlar tarafından bulunabilir duruma getirmek istiyor. İzin veriyor musunuz?"</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery">"Telefonunuzdaki bir uygulama, Bluetooth\'u açmak ve telefonunuzu diğer cihazlar tarafından bulunabilir duruma getirmek istiyor. İzin veriyor musunuz?"</string>
   <string name="bluetooth_ask_lasting_discovery">Telefonunuzdaki bir uygulama, telefonunuzu diğer Bluetooth cihazları tarafından \"her zaman bulunabilir\" duruma getirmek için izin istiyor. Buna izin veriyor musunuz?</string>
   <string name="bluetooth_auto_connect">Otomatik bağlan</string>
   <string name="bluetooth_confirm_passkey_msg">Şu cihazla eşleştirmek için:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Şu passkey kodunun göründüğünden emin olun:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
@@ -358,9 +358,9 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_enable_alphanumeric_pin">PIN, harfler veya simgeler içerir</string>
   <string name="bluetooth_enter_passkey_msg">&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen passkey kodunu yazın:</string>
   <string name="bluetooth_enter_passkey_other_device">Bu passkey kodunu diğer cihazda da girmeniz gerekebilir.</string>
-  <string name="bluetooth_enter_pin_msg">"&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen PIN'ini yazın:"</string>
+  <string name="bluetooth_enter_pin_msg">"&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen PIN\'ini yazın:"</string>
   <string name="bluetooth_enter_pin_msg_hs">"Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"</string>
-  <string name="bluetooth_enter_pin_other_device">"Bu PIN'i diğer cihazda da girmeniz gerekebilir."</string>
+  <string name="bluetooth_enter_pin_other_device">"Bu PIN\'i diğer cihazda da girmeniz gerekebilir."</string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
   <string name="bluetooth_ftp_connection_permission_request">Ftp connection request</string>
   <string name="bluetooth_ftp_remember_choice">"Don\'t ask again"</string>
@@ -546,7 +546,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="crypt_keeper_desc">"Hesaplarınızı, ayarlarınızı, indirilen uygulamalarınızı ve bunlara ait verileri, medyaları ve diğer dosyaları şifreleyebilirsiniz. Telefonunuzu şifreledikten sonra, cihazı her açtığınızda şifresini açmak için sayısal bir PIN veya şifre girmeniz gerekir: telefonunuzdaki tüm verileri silen fabrika verilerine sıfırlama işlemi yapmadan şifrelemeyi kaldıramazsınız.
 
 Şifreleme işlemi bir saat kadar sürer. İşlemi, dolu bir pille başlatmalı ve şifreleme tamamlanana kadar tabletinizi fişe takılı tutmalısınız. Şifreleme işlemini yarıda keserseniz, verilerinizin bir kısmını veya tamamını kaybedersiniz."</string>
-  <string name="crypt_keeper_dialog_need_password_message">"Şifrelemeye başlamadan önce ekran kilitleme PIN'i veya şifresi ayarlamalısınız."</string>
+  <string name="crypt_keeper_dialog_need_password_message">"Şifrelemeye başlamadan önce ekran kilitleme PIN\'i veya şifresi ayarlamalısınız."</string>
   <string name="crypt_keeper_dialog_need_password_title">"Ekran kilitleme PIN\'i veya şifresi yok"</string>
   <string name="crypt_keeper_encrypt_summary">Telefonunuzun her açılışında şifresinin çözülmesi için sayısal bir PIN veya şifre istensin</string>
   <string name="crypt_keeper_encrypt_title">Telefonu şifreleme</string>
@@ -1053,7 +1053,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lockpassword_confirm_pins_dont_match">PIN kodları eşleşmiyor</string>
   <string name="lockpassword_confirm_your_password_header">Şifrenizi onaylayın</string>
   <string name="lockpassword_confirm_your_pattern_header">Deseninizi onaylayın</string>
-  <string name="lockpassword_confirm_your_pin_header">"PIN'inizi onaylayın"</string>
+  <string name="lockpassword_confirm_your_pin_header">"PIN\'inizi onaylayın"</string>
   <string name="lockpassword_continue_label">Devam Et</string>
   <string name="lockpassword_illegal_character">Şifre geçersiz bir karakter içeriyor</string>
   <string name="lockpassword_ok_label">Tamam</string>
@@ -1455,14 +1455,14 @@ please follow the steps to complete installation"</string>
   <string name="proxy_error_invalid_host">Yazdığınız ana makine adı geçersiz.</string>
   <string name="proxy_error_invalid_port">Yazdığınız bağlantı noktası geçerli değil.</string>
   <string name="proxy_exclusionlist_hint">example.com,bilgisayarim.test.com,localhost</string>
-  <string name="proxy_exclusionlist_label">"Şunlar için proxy'yi atla"</string>
+  <string name="proxy_exclusionlist_label">"Şunlar için proxy\'yi atla"</string>
   <string name="proxy_hostname_hint">proxy.example.com</string>
   <string name="proxy_hostname_label">Proxy ana bilgisayar adı</string>
   <string name="proxy_port_hint">8080</string>
   <string name="proxy_port_label">Port</string>
   <string name="proxy_settings_label">Proxy ayarları</string>
   <string name="proxy_settings_title">Proxy ayarları</string>
-  <string name="proxy_warning_limited_support">"HTTP proxy'yi tarayıcı kullanıyor, ancak diğer uygulamalar tarafından kullanılamayabilir."</string>
+  <string name="proxy_warning_limited_support">"HTTP proxy\'yi tarayıcı kullanıyor, ancak diğer uygulamalar tarafından kullanılamayabilir."</string>
   <string name="quick_launch_assign_application">Uygulama ata</string>
   <string name="quick_launch_clear_cancel_button">İptal</string>
   <string name="quick_launch_clear_dialog_message">%1$s (%2$s) için oluşturduğunuz kısayol silinecek.</string>
@@ -1689,7 +1689,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="service_client_name">%1$s</string>
   <string name="service_foreground_processes">%1$s kullanılan</string>
   <string name="service_manage">Ayarlar</string>
-  <string name="service_manage_description">"%1$s: şu anda kullanılıyor. Kontrol etmek için Ayarlar'a dokunun."</string>
+  <string name="service_manage_description">"%1$s: şu anda kullanılıyor. Kontrol etmek için Ayarlar\'a dokunun."</string>
   <string name="service_process_name">%1$s</string>
   <string name="service_restarting">Yeniden başlatılıyor..</string>
   <string name="service_started_by_app">Uygulama tarafından başlatıldı.</string>
@@ -1775,8 +1775,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="small_font">Küçük</string>
   <string name="sms_delivered_sound_dialog_title">SMS raporu bildirimi sesi</string>
   <string name="sms_delivered_sound_title">SMS raporu bildirimi sesi</string>
-  <string name="sms_over_ims_off">"IMS üzerinden SMS'i kapat"</string>
-  <string name="sms_over_ims_on">"IMS üzerinden SMS'i aç"</string>
+  <string name="sms_over_ims_off">"IMS üzerinden SMS\'i kapat"</string>
+  <string name="sms_over_ims_on">"IMS üzerinden SMS\'i aç"</string>
   <string name="sms_received_sound_dialog_title">SMS alındı bildirimi sesini seçin</string>
   <string name="sms_received_sound_title">SMS Alındı bildirimi sesi</string>
   <string name="sms_summary">SMS göndermek için abonelik seçin</string>
@@ -1994,9 +1994,9 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>
   <string name="usb_msd_summary">Lets you transfer files on Windows and Mac</string>
   <string name="usb_msd_title">Mass storage</string>
-  <string name="usb_mtp_summary">"Windows'da ya da Mac üzerinde Android Dosya Aktarımı (www.android.com/filetransfer sayfasına bakın) ile medya dosyalarını aktarma olanağı sağlar"</string>
+  <string name="usb_mtp_summary">"Windows\'da ya da Mac üzerinde Android Dosya Aktarımı (www.android.com/filetransfer sayfasına bakın) ile medya dosyalarını aktarma olanağı sağlar"</string>
   <string name="usb_mtp_title">Medya cihazı (MTP)</string>
-  <string name="usb_ptp_summary">"Kamera yazılımını kullanarak fotoğrafları ve MTP'yi desteklemeyen bilgisayarlardaki her türlü dosyayı aktarmanıza olanak sağlar."</string>
+  <string name="usb_ptp_summary">"Kamera yazılımını kullanarak fotoğrafları ve MTP\'yi desteklemeyen bilgisayarlardaki her türlü dosyayı aktarmanıza olanak sağlar."</string>
   <string name="usb_ptp_title">Kamera (PTP)</string>
   <string name="usb_tethering_active_subtext">Bağlandı</string>
   <string name="usb_tethering_available_subtext">USB bağlandı, bağlantıyı kontrol edin</string>
@@ -2008,7 +2008,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="usb_title">USB</string>
   <string name="use_default_tts_settings_summary">Aşağıdaki varsayılan ayarlar, uygulama ayarlarını geçersiz kılıyor</string>
   <string name="use_default_tts_settings_title">Her zaman benim ayarlarımı kullan</string>
-  <string name="use_location_summary">"Arama sonuçlrını ve diğer hizmtlri iyileştrmk için Google'ın konumunzu kullanmasına izin verir"</string>
+  <string name="use_location_summary">"Arama sonuçlrını ve diğer hizmtlri iyileştrmk için Google\'ın konumunzu kullanmasına izin verir"</string>
   <string name="use_location_title">Konum ve Google arama</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistemin dilini kullanın</string>
    <string name="user_account_title">Hesap içeriği</string> 
@@ -2288,7 +2288,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_p2p_disconnect_message">If you disconnect, your connection with %1$s will end.</string>
   <string name="wifi_p2p_disconnect_multiple_message">If you disconnect, your connection with %1$s and %2$s other devices will end.</string>
   <string name="wifi_p2p_disconnect_title">Disconnect?</string>
-  <string name="wifi_p2p_failed_connect_message">"Couldn't connect."</string>
+  <string name="wifi_p2p_failed_connect_message">"Couldn\'t connect."</string>
   <string name="wifi_p2p_failed_rename_message">Failed to rename device.</string>
   <string name="wifi_p2p_menu_advanced">Gelişmiş</string>
   <string name="wifi_p2p_menu_create_group">Grup oluştur</string>
@@ -2301,7 +2301,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
     <string name="wifi_p2p_remembered_groups">Remembered groups</string>
   <string name="wifi_p2p_settings_summary">Eşler arası bağlantı kurulumu</string>
   <string name="wifi_p2p_settings_title">Wi-Fi doğrudan bağlantı</string>
-  <string name="wifi_p2p_wps_pin">"PIN'i yazın"</string>
+  <string name="wifi_p2p_wps_pin">"PIN\'i yazın"</string>
   <string name="wifi_p2p_wps_setup">Wi-Fi korumalı kurulumu</string>
   <string name="wifi_password">Şifre</string>
   <string name="wifi_poor_network_detection">Kötü bağlantılardan korun</string>
@@ -2341,7 +2341,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_setup_back">Geri</string>
   <string name="wifi_setup_cancel">İptal</string>
   <string name="wifi_setup_connect">Bağlan</string>
-  <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>"'ye dokunun. Farklı bir Wi-Fi ağına bağlanmak için "<b>Geri</b>"'ye dokunun."</string>
+  <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>"\'ye dokunun. Farklı bir Wi-Fi ağına bağlanmak için "<b>Geri</b>"\'ye dokunun."</string>
   <string name="wifi_setup_description_connecting">Bağlanma birkaç dakika sürebilir...</string>
   <string name="wifi_setup_detail">Ağ ayrıntıları</string>
   <string name="wifi_setup_eap_not_supported">Kurulum sırasında EAP Wi-Fi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar &gt; Wi-Fi ve ağlar bölümünde bunu yapabilirsiniz.</string>

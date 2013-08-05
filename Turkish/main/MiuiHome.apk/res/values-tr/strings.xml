@@ -28,7 +28,7 @@
   <string name="emptyplaylist">Çalma listesi boş</string>
   <string name="encryption">Şifreleme</string>
   <string name="failed_to_delete_temporary">Silme işleminde hata, lütfen tekrar deneyin!</string>
-  <string name="failed_to_drop">İkon taşınamadı, eski konumuna geri yüklendi!</string>
+  <string name="failed_to_drop">Simge taşınamadı, eski konumuna geri yüklendi!</string>
   <string name="failed_to_drop_widget_invalid">Araç Hatalı!</string>
   <string name="failed_to_drop_widget_nospace">Ekranda yeteri kadar boş alan yok!</string>
   <string name="folder_name">Klasör</string>
@@ -46,7 +46,6 @@
   <string name="free_style_edit_tab_widget">Widget\'lar</string>
   <string name="free_style_enter_tip">MiSpace\'e geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
   <string name="free_style_exit_tip">MiSpace\'den çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
-  <string name="free_style_londing_text">MiSpace hazırlanıyor...</string>
   <string name="gadget_clear_button_label">Görev Temizleyici</string>
   <string name="gadget_clock_12_label">1x2 Saat</string>
   <string name="gadget_clock_22_label">2x2 Saat</string>
@@ -75,7 +74,7 @@
   <string name="group_shortcuts">Kısayollar</string>
   <string name="guide_install_app_msg">Uygulama yüklü değil. Şimdi markette aransın mı?</string>
   <string name="guide_install_app_title">Uygulamayı yükle</string>
-  <string name="guide_tips_editing_mode">Ekrana eklemek için tıklayıp basılı tutarak ekrana sürükleyin</string>
+  <string name="guide_tips_editing_mode">Eklemek için tıklayıp basılı tutarak ekrana sürükleyin</string>
   <string name="home_indicator">bottom_point</string>
   <string name="install">Yükle</string>
   <string name="invalid_contact_shortcut">Geçersiz kişi kısayolu!</string>
@@ -107,10 +106,10 @@
   <string name="photo_confirm">Onayla</string>
   <string name="photo_load_failed">Fotoğraf yüklenirken hata!</string>
   <string name="pref_cell_layout_size">Tablo stili</string>
-  <string name="pref_enable_drawing_cache_summary">Hafızada yer açmak için devre dışı bırak. (Gecikmelere neden olabilir!)</string>
+  <string name="pref_enable_drawing_cache_summary">Hafızada yer açmak için devre dışı bırakın. (Gecikmelere neden olabilir!)</string>
   <string name="pref_enable_drawing_cache_title">Grafik Önbelleği</string>
-  <string name="pref_icon_shadow_summary">Ev ekranı alt bar ikonlarında gölge gösterimini ayarlar</string>
-  <string name="pref_icon_shadow_title">İkon Gölgesi</string>
+  <string name="pref_icon_shadow_summary">Ev ekranı alt bar simgelerinde gölge gösterimini ayarlar</string>
+  <string name="pref_icon_shadow_title">Simge Gölgesi</string>
   <string name="pref_keep_in_memory_summary">Düşük hafıza kalsada başlatıcı çalışmaya devam eder</string>
   <string name="pref_keep_in_memory_title">Hafızada sakla</string>
   <string name="pref_keep_layout_summary">Simge düzenini değiştirmek masaüstü görünümünü bozabilir.</string>

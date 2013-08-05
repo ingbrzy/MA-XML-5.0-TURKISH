@@ -26,7 +26,7 @@
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Bildirim</string>
   <string name="alert_message_initial_cloud">Bir Wi-Fi bağlantısı olması halinde sistem otomatik olarak eski ve yeni fotoğrafları,ekran görüntülerini upload edecek.</string>
-  <string name="alert_message_open_sync">Senkronize gerekiyor, senkronize şimdi açılsın mı?</string>
+  <string name="alert_message_open_sync">Senkronize edilmesi gerekiyor, senkronize şimdi açılsın mı?</string>
   <string name="aperture">Açıklık</string>
   <string name="app_name">Galeri</string>
   <string name="appwidget_empty_text">Foto yok!</string>
@@ -59,7 +59,7 @@
   <string name="cloud_album_set_create">Yeni</string>
   <string name="cloud_albums">Cloud Albümleri</string>
   <string name="cloud_camera_display_name">Kritersiz</string>
-  <string name="cloud_gallery_no_pictures">MiCloud da resim bulunamadı</string>
+  <string name="cloud_gallery_no_pictures">MiCloud albümünde resim bulunamadı</string>
   <string name="cloud_gallery_recyclebin_full">Cloud çöp kutusu doldu, i.xiaomi.com\'u ziyaret ederek çop kutunuzu boşaltın.</string>
   <string name="cloud_gallery_space_full">Yükleme başarısız!, Cloud galerisi tamamen dolu!</string>
   <string name="cloud_media_set_set">Cloud Albümleri</string>
@@ -70,14 +70,14 @@
   <string name="cloudfolder_already_exists">Cloud klasörü zaten var</string>
   <string name="confirm_delete">Sil</string>
   <string name="confirm_delete_album" formatted="false"> %s albümü silinsin mi ( %s öğe içeriyor)?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s resim  %s albüm, Silmek istiyor musunuz?</string>
-  <string name="confirm_delete_folders_and_pictures">Silmek istiyor musunuz %s?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false"> %s albümünde %s resim var, Silmek istiyor musunuz?</string>
+  <string name="confirm_delete_folders_and_pictures">%s Silmek istiyor musunuz?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s klasör (içeriyor %s)</string>
   <string name="confirm_delete_including_null">0 öğe</string>
   <string name="confirm_delete_items">%s öğe</string>
   <string name="confirm_delete_pictures">%s resim</string>
   <string name="confirm_delete_system_album">%s sistem albümü, Silmek istiyor musunuz?</string>
-  <string name="confirm_delete_videos">%s videolar</string>
+  <string name="confirm_delete_videos">%s video</string>
   <string name="contact_photo">Kişi fotosu yap</string>
   <string name="context_menu_add_contact">Rehbere ekle</string>
   <string name="context_menu_copy">Kopyala</string>
@@ -138,7 +138,7 @@
   <string name="fisheye">Balık Gözü</string>
   <string name="flash">Flaş</string>
   <string name="flash_off">Flaş yok</string>
-  <string name="flash_on">Flaş yakıldı</string>
+  <string name="flash_on">Flaş açıldı</string>
   <string name="flip">Çevir</string>
   <string name="flip_tooltip">Bunu çevirmek için fotoğrafı sürükleyin</string>
   <string name="focal_length">Odak uzaklığı</string>
@@ -328,7 +328,7 @@
   <string name="sync_album_set_error">Albüm listesi indirilemedi, sonra tekrar deneyin!</string>
   <string name="sync_album_summary">Resimlerinizi MiCloud depolama albümünüze yükleyin</string>
   <string name="sync_history_power_on">Şarj ederken senkronize</string>
-  <string name="sync_only_in_wifi">Sadece Wi-Fi</string>
+  <string name="sync_only_in_wifi">Sadece Wi-Fi ile</string>
   <string name="sync_only_in_wifi_summary">Etkinleştirmeniz tavsiye edilir, aksi takdirde ağ trafiğini tüketir.</string>
   <string name="tab_all_text">Tümünü ayarla</string>
   <string name="tab_lockscreen_text">Kilit ekranı</string>
@@ -345,7 +345,7 @@
   <string name="untagged">Etiketsiz</string>
   <string name="video_err">"Video oynatılamıyor!"</string>
   <string name="vignette">Skeç</string>
-  <string name="wallpaper">Duvarkağıdı</string>
+  <string name="wallpaper">Duvar kağıdı</string>
   <string name="warn">Uyarı</string>
   <string name="white_balance">Beyaz dengesi</string>
   <string name="widget_type">Resimleri seç</string>

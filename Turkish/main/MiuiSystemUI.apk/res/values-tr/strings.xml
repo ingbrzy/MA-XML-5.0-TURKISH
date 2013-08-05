@@ -86,7 +86,7 @@
   <string name="dlg_confirm_kill_storage_users_title">USB Depolamayı Aç</string>
   <string name="dlg_error_title">USB eylemi başarısız</string>
   <string name="dlg_ok">TAMAM</string>
-   <string name="drive_mode_tip">Oto mod etkinleştirildiğinde dikkatli olun..!</string>	
+   <string name="drive_mode_tip">Sürüş modu etkinleştirildi, lütfen dikkatli olun..!</string>	
   <string name="ext_media_badremoval_notification_message">Unmount SD card storage before removing to avoid data loss.</string>
   <string name="ext_media_badremoval_notification_title">SD card storage unexpectedly removed</string>
   <string name="ext_media_checking_notification_message">Checking for errors.</string>
@@ -103,14 +103,14 @@
   <string name="ext_media_unmountable_notification_message">SD card storage damaged. You may have to reformat it.</string>
   <string name="ext_media_unmountable_notification_title">Damaged SD card storage</string>
   <string name="gps_notification_found_text">Konum GPS ile belirlendi</string>
-  <string name="gps_notification_searching_text">GPS aranıyor..</string>
+  <string name="gps_notification_searching_text">GPS uyduları aranıyor..</string>
   <string name="headset_custom">Özelleştir</string>
   <string name="headset_info">Tuş fonksiyonlarını özelleştir</string>
   <string name="headset_settings">Kulaklık bağlandı</string>
   <string name="invalid_charger">"USB üzerinden şarj desteklenmiyor. Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="key_position_custom">Özel tuş konumu</string>
   <string name="label_view">Görüntüle</string>
-  <string name="lockscreen_carrier_default">Sinyal yok!</string>
+  <string name="lockscreen_carrier_default">Servis yok!</string>
   <string name="mdb_entering">MDB erişimi</string>
   <string name="mdb_restore_cancel">İptal</string>
   <string name="mdb_restore_info1">"Telefondaki verileri kurtar"</string>
@@ -132,7 +132,7 @@
   <string name="notification_icon_filter_mode_white_list">Kara liste</string>
   <string name="notification_icon_filter_other_list">Uygulama listesi</string>
   <string name="notification_icon_filter_settings">Bildirimler</string>
-  <string name="notification_icon_filter_settings_loading">Yüklenirken bekleyin...</string>
+  <string name="notification_icon_filter_settings_loading">Yükleniyor...</string>
   <string name="notification_icon_filter_show">Bildirimleri göster</string>
   <string name="notification_icon_filter_summary">Bu seçeneği devre dışı bırakmak durum çubuğunun sol üstünde tüm uygulama bildirimlerini gösterir yapacak.</string>
   <string name="notification_icon_filter_title">Bildirimleri gizle</string>
@@ -182,7 +182,7 @@
   <string name="settings_show_flow_info">Trafik bilgisini göster</string>
   <string name="settings_show_network_speed">Ağ hızını göster</string>
   <string name="settings_toggle">Geçişler</string>
-  <string name="settings_toggle_collapse_after_clicked">Tıklayınca kapat</string>
+  <string name="settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
   <string name="settings_toggle_layout_style">Geçiş sitili</string>
   <string name="settings_toggle_layout_style_applying">Geçiş sitili değiştiriliyor...</string>
   <string name="settings_toggle_layout_style_compact">Kompakt</string>
@@ -238,7 +238,7 @@
   <string name="status_bar_toggle_power_mode">Güç</string>
   <string name="status_bar_toggle_privacy_mode">Koruma</string>
   <string name="status_bar_toggle_ring">Zil</string>
-  <string name="status_bar_toggle_ringtone">Zilsesi</string>  
+  <string name="status_bar_toggle_ringtone">Zil sesi</string>  
   <string name="status_bar_toggle_reboot">Tekrar Başlat</string>
   <string name="status_bar_toggle_rotate">Döndür</string>
   <string name="status_bar_toggle_screen_button">Ekran tuşları</string>
@@ -263,7 +263,7 @@
   <string name="usb_accessory_confirm_prompt">Bu USB aksesuarı bağlandığında %1$s açılsın mı?</string>
   <string name="usb_accessory_permission_prompt">%1$s uygulamasının USB aksesuarına erişmesine izin verilsin mi?</string>
   <string name="usb_accessory_uri_prompt">Bu USB aksesuarıyla çalışan yüklü uygulama yok. Bu aksesuar hakkında bilgi içn: %1$s</string>
-  <string name="usb_debugging_always">Bu PC\'ye her zaman izin ver</string>
+  <string name="usb_debugging_always">Bu bilgisayara her zaman izin ver</string>
   <string name="usb_debugging_message">"RSA Anahtarı: %1$s"</string>
   <string name="usb_debugging_title">USB hata ayıklama atkinleştirilsin mi?</string>  
   <string name="usb_device_confirm_prompt">USB cihaz bağlandığında %1$s açılsın mı?</string>

@@ -341,8 +341,8 @@
   <string name="pref_default_text_encoding">Metin kodlama</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Metin kodlama</string>
-  <string name="pref_default_zoom">Varsayılan zum</string>
-  <string name="pref_default_zoom_dialogtitle">Varsayılan zum</string>
+  <string name="pref_default_zoom">Varsayılan yakınlaçtırma</string>
+  <string name="pref_default_zoom_dialogtitle">Varsayılan yakınlaçtırma</string>
   <string name="pref_developer_options">Geliştirici Ayarları</string>
   <string name="pref_developer_options_summary">Hata ayıklama veya raporlama</string>
   <string name="pref_development_cpu_upload_path">Cpu Yükleme Yolunu etkinleştir</string>
@@ -502,7 +502,7 @@
   <string name="search_dianping">Cate</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
-  <string name="search_hint">"Arayın veya URL\'yi yazın"</string>
+  <string name="search_hint">"Arayın veya adresi yazın"</string>
   <string name="search_label">Tarayıcı</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Favoriler ve web geçmişi</string>

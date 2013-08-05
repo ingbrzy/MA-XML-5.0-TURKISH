@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="backup_dialog_content_type">
-        <item>Kablosuz Verisi</item>
+        <item>Wi-Fi Verisi</item>
         <item>Tüm Programlar</item>
     </string-array>
     <string-array name="system_package_label">
@@ -20,7 +20,7 @@
         <item>Mesajlar</item>
         <item>Multimedya Mesajları</item>
         <item>Sistem Ayarları</item>
-        <item>Kablosuz Ayarları</item>
+        <item>Wi-Fi Ayarları</item>
         <item>Ana ekran Düzeni</item>
         <item>Alarm Ayarları</item>
         <item>Notlar</item>
@@ -36,12 +36,12 @@
         <item>Kişiler</item>
         <item>Arama Kaydı</item>
         <item>Mesajlar</item>
-        <item>kablosuz Ayarları</item>
+        <item>Wi-Fi Ayarları</item>
         <item>Notlar</item>
     </string-array>
     <string-array name="cloud_account_data">
         <item>Kişiler</item>
-        <item>Kablosuz Ayarları</item>
+        <item>Wi-Fi Ayarları</item>
         <item>Notlar</item>
     </string-array>
     <string-array name="cloud_sim_data">

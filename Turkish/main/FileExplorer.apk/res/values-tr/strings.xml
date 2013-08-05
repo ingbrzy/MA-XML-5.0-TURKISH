@@ -22,7 +22,7 @@
   <string name="cache_size_label">Veri</string>
   <string name="cancel">İptal</string>
   <string name="cancel_app_garbage_cleanup">Uygulama temizlemeyi iptal et</string>
-  <string name="cancel_with_count_down">İptal(%d)</string>
+  <string name="cancel_with_count_down">İptal (%d)</string>
   <string name="category_all">Hepsi</string>
   <string name="category_apk">APK\'lar</string>
   <string name="category_bluetooth">Bluetooth</string>

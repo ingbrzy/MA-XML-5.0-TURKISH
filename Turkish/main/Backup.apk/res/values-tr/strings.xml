@@ -37,7 +37,7 @@
   <string name="backup_recently">\u0020(Son)</string>
   <string name="backup_report">Yedekleme Raporu</string>
   <string name="backup_update">Güncelle</string>
-  <string name="batch_delete_backup_confirm">\nSeçili yedeklemeyi silmek istediğinize emin misiniz?</string>
+  <string name="batch_delete_backup_confirm">\nSeçili yedeklemeyi silmek istiyor musunuz?</string>
   <string name="button_backup">Yedekle</string>
   <string name="button_cancel">İptal</string>
   <string name="button_finish">Bitti</string>
@@ -66,7 +66,7 @@
   <string name="current_account">Oturum Olarak: %s</string>
   <string name="current_sim">Mevcut Sim Kart</string>
   <string name="data_no_enough_space">Yeterli Boş Alan Yok, Kontrol Edip Tekrar Deneyin</string>
-  <string name="data_no_enough_space_message">Başarısız, Depolama Alanından Birkaç Dosya Silip Tekrar Deneyin</string>
+  <string name="data_no_enough_space_message">İşlem aşarısız, Depolama Alanından Birkaç Dosya Silip Tekrar Deneyin</string>
   <string name="date_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="delete">Sil</string>
   <string name="delete_backup_process">Yedeklemeler Siliniyor...</string>
@@ -82,7 +82,7 @@
   <string name="enable_encrypt_title">Şifreleme Etkin</string>
   <string name="enable_encrypt_xiaomi_account">Bu yedekleme %1$s tarafından oluşturuldu, lütfen mevcut hesabı kaldırın, verileri geri yüklemek için %2$s hesabıyla giriş yapın.</string>
   <string name="exchange_account">Hesabı Değiştir</string>
-  <string name="fail">Başarısız Oldu</string>
+  <string name="fail">Başarısız !</string>
   <string name="findlost_contact">Silinen Kişileri Geri Yükle</string>
   <string name="findlost_contact_online">Silinen Kişileri Cloudtan Geri Yükle</string>
   <string name="guarded_mode_dialog_message">Korunan Modda Yedekleme ve Geri Yükleme Yapamazsınız</string>
@@ -118,8 +118,8 @@
   <string name="restore_contact">Kişileri Geri Yükle</string>
   <string name="restore_contact_content">Geri yükleme kişilerde çiftlemeye neden olabilir, bunu yapmak istediğinizden emin misiniz?.\n Not: Bu kişi listesinde yinelenen kişileri birleştirebilirsiniz</string>
   <string name="restore_contacts_hit">(Note: Daha önce orjinal hesap kurulmuş, kişileri manuel geri yükleyebilirsiniz)</string>
-  <string name="restore_counts">Kurtar:</string>
-  <string name="restore_data">Verileri Kurtar</string>
+  <string name="restore_counts">Geri yükle:</string>
+  <string name="restore_data">Verileri Geri yükle</string>
   <string name="restore_failed">Geri Yükleme Başarısız!</string>
   <string name="restore_finished">Geri Yükleme Tamamlandı</string>
   <string name="restore_launcher_layout_hit">(Not: başlatıcı düzenini geri yükle)</string>
@@ -159,14 +159,14 @@
   <string name="task_cloud_backup_cancel_dialog">Henüz bu görevi iptal edemezsiniz yedekleme sürüyor</string>
   <string name="task_failed">Başarısız</string>
   <string name="task_failed_all_local">Görev Başarısız</string>
-  <string name="task_failed_local">Görevi %s başarısız oldu</string>
+  <string name="task_failed_local">%s Görevi başarısız</string>
   <string name="task_finished">Bitti</string>
-  <string name="task_local_backup_cancel_dialog">Henüz tamamlanmamış iptal etmek için tamam a tıklayın</string>
-  <string name="task_pending">Pending</string>
-  <string name="task_post_running">İlerleme mesajı</string>
+  <string name="task_local_backup_cancel_dialog">Görev enüz tamamlanmamış, iptal etmek için tamama tıklayın</string>
+  <string name="task_pending">Bekleniyor</string>
+  <string name="task_post_running">Ön hazırlama</string>
   <string name="task_pre_running">Hazırlanıyor</string>
   <string name="task_progress">İlerleme</string>
-  <string name="task_restore_cancel_dialog">Onarma tamamlanmadı\nİptal edilirse veri kayıplarına neden olabilir</string>
+  <string name="task_restore_cancel_dialog">Geri yükleme tamamlanmadı\nİptal edilirse veri kayıplarına neden olabilir</string>
   <string name="task_restore_cancel_progress">İptal Ediliyor...</string>
   <string name="task_restore_finished_local">Geri Yükleme Tamamlandı</string>
   <string name="task_restore_none">Geri yükleme gerekli değildir</string>
@@ -178,9 +178,9 @@
   <string name="task_running_restore_hint">Servis arka planda çalışıyor, lütfen tekran deneyin!</string>
   <string name="task_service_not_launched">Servis başlatılamadı, lütfen bekleyin!</string>
   <string name="task_stopped_exception">Görev iptal edildi</string>
-  <string name="total_num">%d Toplam Kayıtlar</string>
+  <string name="total_num">%d Toplam Kayıtl</string>
   <string name="unit_byte">\u0020Bytes</string>
-  <string name="unit_piece">\u0020Seçimler)</string>
+  <string name="unit_piece">\u0020Öğe</string>
   <string name="unknown_hint">Bilinmeyen</string>
   <string name="wifi_title">Wi-Fi Ayarları</string>
 </resources>

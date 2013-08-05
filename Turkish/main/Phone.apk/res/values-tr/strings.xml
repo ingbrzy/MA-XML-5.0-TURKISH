@@ -593,7 +593,7 @@
   <string name="network_message">Şebeke mesajı</string>
   <string name="network_query_error">Şebeke aranırken hata oluştu.</string>
   <string name="network_settings_sel_sub">Abonelik seçin</string>
-  <string name="network_work_query_failed_message_miui">"Şebeke sorgusu başarısız, tercih edilen şebeke için'İptal' yeniden denemek için 'tamam' a basın"</string>
+  <string name="network_work_query_failed_message_miui">"Şebeke sorgusu başarısız, tercih edilen şebeke için\'İptal' yeniden denemek için 'Tamam'\' a basın"</string>
   <string name="networks">Şebeke operatörleri</string>
   <string name="networks_title_miui">Şebeke operatörleri</string>
   <string name="newPin2Label">Yeni PIN2</string>

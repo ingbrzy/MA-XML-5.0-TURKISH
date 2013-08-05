@@ -2,7 +2,7 @@
 <resources>
     <string name="cancel">İptal</string>
     <string name="copy">Kopyala</string>
-    <string name="copyUrl">"URL'yi kopyala"</string>
+    <string name="copyUrl">"URL\'yi kopyala"</string>
     <string name="cut">Kes</string>
     <string name="defaultVoiceMailAlphaTag">Sesli Mesaj</string>
     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
@@ -17,7 +17,7 @@
     <string name="unknownName">(Bilinmiyor)</string>
     <string name="untitled">&lt;Adsız></string>
     <string name="VideoView_error_button">Tamam</string>
-    <string name="VideoView_error_text_unknown">Bu video oynatılamıyor.</string>
+    <string name="VideoView_error_text_unknown">Bu video oynatılamıyor!</string>
     <string name="VideoView_error_title">Video sorunu</string>
     <string name="yes">Tamam</string>
     <string name="dialog_alert_title">Dikkat</string>
@@ -267,8 +267,8 @@
     <string name="me">Ben</string>
     <string name="power_dialog">Telefon seçenekleri</string>
     <string name="silent_mode">Sessiz mod</string>
-    <string name="turn_on_radio">Kablosuzu aç</string>
-    <string name="turn_off_radio">Kablosuzu kapat</string>
+    <string name="turn_on_radio">Wi-Fi\'i aç</string>
+    <string name="turn_off_radio">Wi-Fi\'i kapat</string>
     <string name="screen_lock">Ekran kilidi</string>
     <string name="power_off">Kapat</string>
     <string name="silent_mode_silent">Telefon zili kapalı</string>
@@ -492,8 +492,8 @@
     <string name="permdesc_accessFineLocation">Telefondaki Küresel Konumlandırma Sistemi gibi kesin konum kaynaklarına erişim. Konum hizmetleri kullanılabilir ve açık olduğunda, bu izin, uygulamanın kesin konumunuzu belirlemesine olanak sağlar.</string>
     <string name="permlab_accessCoarseLocation">yaklaşık (ağ tabanlı) konum</string>
     <string name="permdesc_accessCoarseLocation">Baz istasyonu veya Kablosuz gibi ağ kaynaklarını kullanarak konum sağlayıcılardan alınan yaklaşık konum bilgisine erişim. Bu konum hizmetleri kullanılabilir ve açık olduğunda, bu izin, uygulamanın yaklaşık konumunuzu belirlemesine olanak sağlar.</string>
-    <string name="permlab_accessSurfaceFlinger">"SurfaceFlinger'a eriş"</string>
-    <string name="permdesc_accessSurfaceFlinger">"Uygulamaya, SurfaceFlinger'a ait düşük düzey özellikleri kullanma izni verir."</string>
+    <string name="permlab_accessSurfaceFlinger">"SurfaceFlinger\'a eriş"</string>
+    <string name="permdesc_accessSurfaceFlinger">"Uygulamaya, SurfaceFlinger\'a ait düşük düzey özellikleri kullanma izni verir."</string>
     <string name="permlab_readFrameBuffer">çerçeve arabelleğini oku</string>
     <string name="permdesc_readFrameBuffer">Uygulamaya, çerçeve arabelleğinin içeriğini okuma izni verir.</string>
     <string name="permlab_modifyAudioSettings">ses ayarlarınızı değiştirin</string>
@@ -541,7 +541,7 @@
     <string name="permlab_checkinProperties">erişim giriş özellikleri</string>
     <string name="permdesc_checkinProperties">Uygulamaya, check-in hizmeti tarafından yüklenen özellikler için okuma/yazma erişimi izni verir. Normal uygulamaların kullanımına yönelik değildir.</string>
     <string name="permlab_bindGadget">widget seç</string>
-    <string name="permdesc_bindGadget">"Uygulamaya, hangi uygulamaların hangi widget'ları kullanacağını sisteme bildirme izni verir. Bu izne sahip bir uygulama, başka uygulamalara kişisel veriler için erişim hakkı verebilir. Normal uygulamaların kullanımına yönelik değildir."</string>
+    <string name="permdesc_bindGadget">"Uygulamaya, hangi uygulamaların hangi widget\'ları kullanacağını sisteme bildirme izni verir. Bu izne sahip bir uygulama, başka uygulamalara kişisel veriler için erişim hakkı verebilir. Normal uygulamaların kullanımına yönelik değildir."</string>
     <string name="permlab_modifyPhoneState">telefon durumunu değiştir</string>
     <string name="permdesc_modifyPhoneState">Uygulamaya, cihazın telefon özelliklerini kontrol etme izni verir. Bu izne sahip bir uygulama sizi hiç uyarmadan ağlar arasında geçiş, telefonun radyosunu açıp kapatma ve benzeri işlemler yapabilir.</string>
     <string name="permlab_readPhoneState">telefonun durumunu ve kimliğini oku</string>
@@ -567,7 +567,7 @@
     <string name="permlab_getAccounts">cihazdaki hesapları bul</string>
     <string name="permdesc_getAccounts">Uygulamaya telefon tarafından bilinen hesapların listesini alma izni verir. Bu liste, yüklediğiniz uygulamalar tarafından oluşturulan tüm hesapları içerebilir.</string>
     <string name="permlab_authenticateAccounts">hesap oluştur ve şifre ayarla</string>
-    <string name="permdesc_authenticateAccounts">"Uygulamaya, hesaplar oluşturma ve bunların şifrelerini alma ve ayarlama da dahil olmak üzere Hesap Yöneticisi'nin hesap doğrulama yetkilerini kullanma izni verir."</string>
+    <string name="permdesc_authenticateAccounts">"Uygulamaya, hesaplar oluşturma ve bunların şifrelerini alma ve ayarlama da dahil olmak üzere Hesap Yöneticisinin hesap doğrulama yetkilerini kullanma izni verir."</string>
     <string name="permlab_manageAccounts">hesap ekle veya kaldır</string>
     <string name="permdesc_manageAccounts">Uygulamaya, hesap ekleme, kaldırma ve hesapların şifrelerini silme gibi işlemleri yapma izni verir.</string>
     <string name="permlab_useCredentials">bu cihazdaki hesapları kullan</string>
@@ -575,9 +575,9 @@
     <string name="permlab_accessNetworkState">ağ bağlantılarını görüntüle</string>
     <string name="permdesc_accessNetworkState">Uygulamaya, hangi ağların bulunduğu ve hangilerinin bağlı olduğu gibi ağ bağlantılarıyla ilgili bilgileri görüntüleme izni verir.</string>
     <string name="permlab_createNetworkSockets">tam ağ erişimi</string>
-    <string name="permdesc_createNetworkSockets">"Uygulamaya ağ yuvaları oluşturma ve özel ağ protokolleri kullanma izni verir. Tarayıcı ve diğer uygulamalar İnternet'e veri gönderilmesi için araç sağlarlar, bu nedenle bu izin, İnternet'e veri göndermek için gerekli değildir."</string>
+    <string name="permdesc_createNetworkSockets">"Uygulamaya ağ yuvaları oluşturma ve özel ağ protokolleri kullanma izni verir. Tarayıcı ve diğer uygulamalar İnternete veri gönderilmesi için araç sağlarlar, bu nedenle bu izin, İnternete veri göndermek için gerekli değildir."</string>
     <string name="permlab_writeApnSettings">ağ ayarlarını ve trafiği değiştir/müdahale et</string>
-    <string name="permdesc_writeApnSettings">"Uygulamaya, ağ ayarlarını değiştirme, tüm ağ trafiğine engel olma ve izleme (örneğin, proxy'yi ve APN bağlantı noktalarını değiştirmek için) izni verir. Kötü amaçlı uygulamalar sizin bilginiz olmadan ağ paketlerini izleyebilir, yönlendirebilir ya da değiştirebilir."</string>
+    <string name="permdesc_writeApnSettings">"Uygulamaya, ağ ayarlarını değiştirme, tüm ağ trafiğine engel olma ve izleme (örneğin, proxy ve APN bağlantı noktalarını değiştirmek için) izni verir. Kötü amaçlı uygulamalar sizin bilginiz olmadan ağ paketlerini izleyebilir, yönlendirebilir ya da değiştirebilir."</string>
     <string name="permlab_changeNetworkState">ağ bağlantısını değiştir</string>
     <string name="permdesc_changeNetworkState">Uygulamaya, ağ bağlantısının durumunu değiştirme izni verir.</string>
     <string name="permlab_changeTetherState">kullanılan bağlantıyı değiştir</string>
@@ -593,7 +593,7 @@
     <string name="permlab_bluetoothAdmin">Bluetooth ayarlara eriş</string>
     <string name="permdesc_bluetoothAdmin">Uygulamaya, yerel Bluetooth telefonunu yapılandırma ve uzak cihazları keşfedip bunlarla eşleşme izni verir.</string>
     <string name="permlab_accessWimaxState">WiMAX bağlantılarını görüntüle</string>
-    <string name="permdesc_accessWimaxState">"Uygulamaya, WiMAX'in etkin olup olmadığını belirleme ve bağlı tüm WiMAX ağlarıyla ilgili bilgilere erişme izni verir."</string>
+    <string name="permdesc_accessWimaxState">"Uygulamaya, WiMAX\'in etkin olup olmadığını belirleme ve bağlı tüm WiMAX ağlarıyla ilgili bilgilere erişme izni verir."</string>
     <string name="permlab_changeWimaxState">WiMAX durumunu değiştir</string>
     <string name="permdesc_changeWimaxState">Uygulamaya, telefonu WiMAX ağlarına bağlanma veya bağlantıyı kesme izni verir.</string>
     <string name="permlab_bluetooth">Bluetooth cihazlarla eşle</string>
@@ -642,8 +642,8 @@
     <string name="policydesc_forceLock">Ekranın nasıl ve ne zaman kilitlendiğini denetleme.</string>
     <string name="policylab_wipeData">Tüm verileri sil</string>
     <string name="policydesc_wipeData">Fabrika verilerine sıfırlama işlemi gerçekleştirerek telefondaki verileri uyarıda bulunmadan silme.</string>
-    <string name="policylab_setGlobalProxy">"Cihaz genelinde geçerli proxy'i ayarla"</string>
-    <string name="policydesc_setGlobalProxy">"Politika etkin olduğunda kullanılacak cihaz genelinde geçerli proxy'yi ayarlayın. Etkin genel proxy'yi yalnızca ilk cihaz yöneticisi ayarlar."</string>
+    <string name="policylab_setGlobalProxy">"Cihaz genelinde geçerli proxy\'i ayarla"</string>
+    <string name="policydesc_setGlobalProxy">"Politika etkin olduğunda kullanılacak cihaz genelinde geçerli proxy\'yi ayarlayın. Etkin genel proxy\'yi yalnızca ilk cihaz yöneticisi ayarlar."</string>
     <string name="policylab_expirePassword">Ekr kilt şifr süre sonu ayarla</string>
     <string name="policydesc_expirePassword">Ekran kilitleme şifresinin hangi sıklıkla değiştirilmesi gerektiğini denetleme.</string>
     <string name="policylab_encryptedStorage">Deplm şifrelemesini ayarla</string>
@@ -728,13 +728,13 @@
     <string name="keyguard_password_enter_password_code">Kilidi açmak için şifreyi yazın</string>
     <string name="keyguard_password_enter_pin_password_code">Kilidi açmak için PIN kodunu yazın</string>
     <string name="keyguard_password_wrong_pin_code">Yanlış PIN kodu.</string>
-    <string name="keyguard_label_text">"Kilidi açmak için önce Menü'ye, sonra 0'a basın."</string>
+    <string name="keyguard_label_text">"Kilidi açmak için önce Menü\'ye, sonra 0\'a basın."</string>
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
-    <string name="lockscreen_carrier_default">Hizmet yok.</string>
+    <string name="lockscreen_carrier_default">Hizmet yok!</string>
     <string name="lockscreen_screen_locked">Ekran kilitli.</string>
-    <string name="lockscreen_instructions_when_pattern_enabled">"Kilidi açmak veya acil çağrı yapmak için Menü'ye basın."</string>
-    <string name="lockscreen_instructions_when_pattern_disabled">"Kilidi açmak için Menü'ye basın."</string>
-    <string name="lockscreen_pattern_instructions">Kilit açmak için deseni çizin</string>
+    <string name="lockscreen_instructions_when_pattern_enabled">"Kilidi açmak veya acil çağrı yapmak için Menü\'ye basın."</string>
+    <string name="lockscreen_instructions_when_pattern_disabled">"Kilidi açmak için Menü\'ye basın."</string>
+    <string name="lockscreen_pattern_instructions">Kilidi açmak için deseni çizin</string>
     <string name="lockscreen_emergency_call">Acil durum çağrısı</string>
     <string name="lockscreen_return_to_call">Çağrıya dön</string>
     <string name="lockscreen_pattern_correct">Doğru!</string>
@@ -760,7 +760,7 @@
     <string name="emergency_calls_only">Yalnızca acil çağrılar için</string>
     <string name="lockscreen_network_locked_message">Ağ kilitli</string>
     <string name="lockscreen_sim_puk_locked_message">SIM kart PUK kilidi devrede.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberi'ne bakın veya Müşteri Hizmetleri'ne başvurun."</string>
+    <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberi\'ne bakın veya Müşteri Hizmetleri\'ne başvurun."</string>
     <string name="lockscreen_sim_locked_message">SIM kart kilitli.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. 
@@ -815,7 +815,7 @@
 
 %s
 
-Devam etmek için Tamam'ı, mevcut sayfada kalmak için İptal'i tıklayın."</string>
+Devam etmek için Tamam\'ı, mevcut sayfada kalmak için İptal\'i tıklayın."</string>
     <string name="save_password_label">Onayla</string>
     <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez hafifçe vurun.</string>
     <string name="autofill_this_form">Otomatik Doldur</string>
@@ -837,21 +837,21 @@ Devam etmek için Tamam'ı, mevcut sayfada kalmak için İptal'i tıklayın."</s
     <string name="autofill_area">Alan</string>
     <string name="autofill_emirate">Emirlik</string>
     <string name="permlab_readHistoryBookmarks">Web yer işaretlerimi ve geçmişimi oku</string>
-    <string name="permdesc_readHistoryBookmarks">"Uygulamaya Tarayıcının ziyaret ettiği tüm URL'lerin geçmişini ve tüm Tarayıcı yer işaretlerini okuma izni verir. Not: Bu izin, üçüncü taraf tarayıcılar veya Web'e göz atma işlevine sahip diğer uygulamalar tarafından kullanılmayabilir."</string>
+    <string name="permdesc_readHistoryBookmarks">"Uygulamaya Tarayıcının ziyaret ettiği tüm URL\'lerin geçmişini ve tüm Tarayıcı yer işaretlerini okuma izni verir. Not: Bu izin, üçüncü taraf tarayıcılar veya Web\'e göz atma işlevine sahip diğer uygulamalar tarafından kullanılmayabilir."</string>
     <string name="permlab_writeHistoryBookmarks">web yer işaretlerine ve geçmişe yaz</string>
-    <string name="permdesc_writeHistoryBookmarks">"Uygulamaya Tarayıcı geçmişini ve telefonunuzda depolanan yer işaretlerini değiştirme izni verir. Bu izin, uygulamanın Tarayıcı geçmişini silmesine ve değiştirmesine olanak sağlar. Not: Bu izin, üçüncü taraf cihazlar veya Web'e göz atma işlevine sahip diğer uygulamalar tarafından kullanılmayabilir."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Uygulamaya Tarayıcı geçmişini ve telefonunuzda depolanan yer işaretlerini değiştirme izni verir. Bu izin, uygulamanın Tarayıcı geçmişini silmesine ve değiştirmesine olanak sağlar. Not: Bu izin, üçüncü taraf cihazlar veya Web\'e göz atma işlevine sahip diğer uygulamalar tarafından kullanılmayabilir."</string>
     <string name="permlab_setAlarm">alarm ayarla</string>
     <string name="permdesc_setAlarm">Uygulamaya, çalar saat uygulamasının alarmını ayarlama izni verir. Bazı çalar saat uygulamaları bu özelliği uygulayamayabilir.</string>
     <string name="permlab_addVoicemail">sesli mesaj ekle</string>
     <string name="permdesc_addVoicemail">Uygulamaya, sesli mesaj gelen kutunuza mesaj ekleme izni verir.</string>
-    <string name="permlab_writeGeolocationPermissions">"Tarayıcı'nın coğrafi konum izinlerini değiştir"</string>
-    <string name="permdesc_writeGeolocationPermissions">"Uygulamaya, Tarayıcı'nın coğrafi konum izinlerini değiştirme izni verir. Kötü amaçlı uygulamalar keyfi web sitelerine konum bilgisi gönderilmesini sağlamak için bunu kullanabilirler."</string>
+    <string name="permlab_writeGeolocationPermissions">"Tarayıcının coğrafi konum izinlerini değiştir"</string>
+    <string name="permdesc_writeGeolocationPermissions">"Uygulamaya, Tarayıcının coğrafi konum izinlerini değiştirme izni verir. Kötü amaçlı uygulamalar keyfi web sitelerine konum bilgisi gönderilmesini sağlamak için bunu kullanabilirler."</string>
     <string name="permlab_packageVerificationAgent">paketleri doğrula</string>
     <string name="permdesc_packageVerificationAgent">Uygulamaya, bir paketin yüklenebilir olduğunu doğrulama izni verir.</string>
     <string name="permlab_bindPackageVerifier">paket doğrulayıcıya bağlan</string>
     <string name="permdesc_bindPackageVerifier">Cihazın sahibine, paket doğrulayıcıları için istek yapma izni verir. Normal uygulamalar için gerekli olmaz.</string>
     <string name="permlab_serialPort">seri bağlantı noktalarına eriş</string>
-    <string name="permdesc_serialPort">"İzin sahibinin, SerialManager API'sını kullanarak seri bağlantı noktalarına erişmesine olanak sağlar."</string>
+    <string name="permdesc_serialPort">"İzin sahibinin, SerialManager API\'sını kullanarak seri bağlantı noktalarına erişmesine olanak sağlar."</string>
     <string name="permlab_accessContentProvidersExternally">içerik sağlayıcılara harici olarak eriş</string>
     <string name="permdesc_accessContentProvidersExternally">İzin verilen uygulamaya, Uygulama İş Parçacığının dışından içerik sağlayıcılara erişebilme olanağı verir.</string>
     <string name="permlab_updateLock">otomatik cihaz güncellemelerinin yapılmasını engelle</string>
@@ -919,16 +919,16 @@ Devam etmek için Tamam'ı, mevcut sayfada kalmak için İptal'i tıklayın."</s
     <string name="chooseUsbActivity">USB cihazı için bir uygulama seçin</string>
     <string name="noApplications">Bu eylemi hiçbir uygulama gerçekleştiremez.</string>
     <string name="aerr_title" />
-    <string name="aerr_application">Maalesef %1$s durdu.</string>
-    <string name="aerr_process">Maalesef %1$s işlemi durdu.</string>
+    <string name="aerr_application">%1$s uygulaması maalesef durdu!</string>
+    <string name="aerr_process">%1$s işlemi maalesef durdu!</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">"%2$s yanıt vermiyor.
+    <string name="anr_activity_application">"%2$s uygulaması yanıt vermiyor.
 
 Kapatmak ister misiniz?"</string>
-    <string name="anr_activity_process">"%1$s yanıt vermiyor.
+    <string name="anr_activity_process">"%1$s işlemi yanıt vermiyor.
 
 Kapatmak ister misiniz?"</string>
-    <string name="anr_application_process">%1$s yanıt vermiyor. Kapatmak ister misiniz?</string>
+    <string name="anr_application_process">%1$s uygulaması yanıt vermiyor. Kapatmak ister misiniz?</string>
     <string name="anr_process">"%1$s işlemi yanıt vermiyor.
 
 Kapatmak ister misiniz?"</string>
@@ -947,7 +947,7 @@ Kapatmak ister misiniz?"</string>
     <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
     <string name="smv_process">%1$s işlemi kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
     <string name="android_upgrading_title">Android yeni sürüme geçiriliyor...</string>
-    <string name="android_upgrading_apk">Uygulamalar optimize ediliyor %1$d/%2$d </string>
+    <string name="android_upgrading_apk">%1$d/%2$d Uygulamalar güncelleniyor</string>
     <string name="android_upgrading_starting_apps">Uygulamalar başlatılıyor</string>
     <string name="android_upgrading_complete">Açılış tamamlanıyor</string>
     <string name="heavy_weight_notification">%1$s çalışıyor</string>
@@ -957,7 +957,7 @@ Kapatmak ister misiniz?"</string>
     <string name="old_app_action">%1$s öğesine geri dön</string>
     <string name="old_app_description">Yeni uygulamayı başlatmayın.</string>
     <string name="new_app_action">%1$s uygulamasını başlat</string>
-    <string name="new_app_description">Kaydetmeden eski uygulamayı durdurun.</string>
+    <string name="new_app_description">Kaydetmeden önce eski uygulamayı durdurun.</string>
     <string name="sendText">Kısa mesaj için bir işlem seçin</string>
     <string name="volume_ringtone">Zil sesi düzeyi</string>
     <string name="volume_music">Medya ses düzeyi</string>
@@ -978,13 +978,13 @@ Kapatmak ister misiniz?"</string>
     <string name="ringtone_silent">Sessiz</string>
     <string name="ringtone_picker_title">Zil sesleri</string>
     <string name="ringtone_unknown">Bilinmeyen zil sesi</string>
-    <string name="wifi_available_sign_in">Kablosuz ağda oturum açın</string>
-    <string name="wifi_watchdog_network_disabled">Kablosuz bağlantısı kurulamadı</string>
+    <string name="wifi_available_sign_in">Wi-Fi ağında oturum açın</string>
+    <string name="wifi_watchdog_network_disabled">Wi-Fi bağlantısı kurulamadı</string>
     <string name="wifi_watchdog_network_disabled_detailed">" İnternet bağlantısı zayıf."</string>
-    <string name="wifi_p2p_dialog_title">Kablosuz Doğrudan Bağlantı</string>
-    <string name="wifi_p2p_turnon_message">Kablosuz Doğrudan Bağlantıyı başlat. Bu işlem, Kablosuz istemci/hotspot kullanımını kapatacak.</string>
-    <string name="wifi_p2p_failed_message">Kablosuz Doğrudan bağlantı başlatılamadı.</string>
-    <string name="wifi_p2p_enabled_notification_title">Kablosuz Doğrudan özelliği açık</string>
+    <string name="wifi_p2p_dialog_title">Wi-Fi Doğrudan Bağlantı</string>
+    <string name="wifi_p2p_turnon_message">Wi-Fi Doğrudan Bağlantıyı başlat. Bu işlem, Kablosuz istemci/hotspot kullanımını kapatacak.</string>
+    <string name="wifi_p2p_failed_message">Wi-Fi Doğrudan bağlantı başlatılamadı.</string>
+    <string name="wifi_p2p_enabled_notification_title">Wi-Fi Doğrudan özelliği açık</string>
     <string name="wifi_p2p_enabled_notification_message">Ayarlar için dokunun</string>
     <string name="accept">Kabul et</string>
     <string name="decline">Reddet</string>
@@ -992,7 +992,7 @@ Kapatmak ister misiniz?"</string>
     <string name="wifi_p2p_invitation_to_connect_title">Bağlantı davetiyesi</string>
     <string name="wifi_p2p_from_message">Gönderen:</string>
     <string name="wifi_p2p_to_message">Alıcı:</string>
-    <string name="wifi_p2p_enter_pin_message">"Gerekli PIN'i yazın:"</string>
+    <string name="wifi_p2p_enter_pin_message">"Gerekli PIN kodunu yazın:"</string>
     <string name="wifi_p2p_show_pin_message">PIN:</string>
     <string name="select_character">Karakter ekle</string>
     <string name="sms_control_title">SMS mesajları gönderiliyor</string>
@@ -1017,7 +1017,7 @@ Kapatmak ister misiniz?"</string>
     <string name="perms_description_app">Sağlayan: %1$s.</string>
     <string name="usb_storage_activity_title">USB yığın belleği</string>
     <string name="usb_storage_title">USB bağlandı</string>
-    <string name="usb_storage_message">"Cihazınızı USB ile bilgisayarınıza bağladınız. Bilgisayarınız ile Android'inizin USB belleği arasında dosya kopyalamak istiyorsanız aşağıdaki düğmeye dokunun."</string>
+    <string name="usb_storage_message">"Cihazınızı USB ile bilgisayarınıza bağladınız. Bilgisayarınız ile Android\'inizin USB belleği arasında dosya kopyalamak istiyorsanız aşağıdaki düğmeye dokunun."</string>
     <string name="usb_storage_button_mount">USB belleği aç</string>
     <string name="usb_storage_error_message">USB belleğinizi USB yığın belleği amaçlı kullanmayla ilgili bir sorun var.</string>
     <string name="usb_storage_notification_title">USB bağlandı</string>
@@ -1025,7 +1025,7 @@ Kapatmak ister misiniz?"</string>
     <string name="usb_storage_stop_notification_title">USB belleği kapat</string>
     <string name="usb_storage_stop_notification_message">USB belleği kapatmak için dokunun.</string>
     <string name="usb_storage_stop_title">USB bellek kullanılıyor</string>
-    <string name="usb_storage_stop_message">"USB belleği kapatmadan önce Android'inizin USB belleğin bilgisayarınızla olan bağlantısını kesin (\"çıkarın\")."</string>
+    <string name="usb_storage_stop_message">"USB belleği kapatmadan önce Android\'inizin USB belleğin bilgisayarınızla olan bağlantısını kesin (\"çıkarın\")."</string>
     <string name="usb_storage_stop_button_mount">USB belleği kapat</string>
     <string name="usb_storage_stop_error_message">USB belleği kapatırken bir sorun oluştu. USB birimini kaldırdığınızdan emin olun ve daha sonra tekrar deneyin.</string>
     <string name="dlg_confirm_kill_storage_users_title">USB belleği aç</string>
@@ -1053,7 +1053,7 @@ Kapatmak ister misiniz?"</string>
     <string name="candidates_style"><u>adaylar</u></string>
     <string name="ext_media_checking_notification_title">USB bellek hazırlanıyor</string>
     <string name="ext_media_checking_notification_message">Hata kontrolü yapılıyor</string>
-    <string name="ext_media_nofs_notification_title">Boş USB bellek</string>
+    <string name="ext_media_nofs_notification_title">USB bellek boş</string>
     <string name="ext_media_nofs_notification_message">USB bellek boş veya desteklenmeyen bir dosya sistemine sahip.</string>
     <string name="ext_media_unmountable_notification_title">USB bellek zarar görmüş</string>
     <string name="ext_media_unmountable_notification_message">USB bellek bozuk. Yeniden biçimlendirmeyi deneyin.</string>
@@ -1104,8 +1104,8 @@ izin isteğinde bulunuldu."</string>
     <string name="no_file_chosen">Seçili dosya yok</string>
     <string name="reset">Sıfırla</string>
     <string name="submit">Gönder</string>
-    <string name="car_mode_disable_notification_title">Araba modu etkin</string>
-    <string name="car_mode_disable_notification_message">Araba modundan çıkmak için dokunun.</string>
+    <string name="car_mode_disable_notification_title">Sürüş modu etkin</string>
+    <string name="car_mode_disable_notification_message">Sürüş modundan çıkmak için dokunun.</string>
     <string name="tethered_notification_title">Doğrudan bağlantı veya ortak erişim noktası etkin</string>
     <string name="tethered_notification_message">Kurulum için dokunun.</string>
     <string name="back_button_label">Geri</string>

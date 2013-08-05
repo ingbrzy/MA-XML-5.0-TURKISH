@@ -20,7 +20,7 @@
   <string name="editmode_menu_delete">Sil</string>
   <string name="editmode_menu_share">Paylaş</string>
   <string name="error_bad_file">Bu dosyayı bildir</string>
-  <string name="error_download">İndirilemedi</string>
+  <string name="error_download">İndirme başarısız!</string>
   <string name="error_general">Hata</string>
   <string name="error_network">Ağ hatası</string>
   <string name="error_not_enough_space">Yeterli boş alan yok</string>
@@ -32,7 +32,7 @@
   <string name="fail">Başarısız</string>
   <string name="failed">Başarısız</string>
   <string name="finish">Tamamlandı</string>
-  <string name="first_in_tip">Transfer\'i ilk kez kullanıyorsunuz</string>
+  <string name="first_in_tip">Transferi ilk kez kullanıyorsunuz</string>
   <string name="goback">Geri git</string>
   <string name="guide_label">Transfer kılavuzu</string>
   <string name="history">Transfer geçmişi</string>
@@ -58,7 +58,7 @@
   <string name="picker_title">Apk seç</string>
   <string name="receive">Al</string>
   <string name="receive_cancel_tip">Alma işlemi tamamlanmadı. Transferi durdurup çıkış yapmak istediğinizden emin misiniz?</string>
-  <string name="receive_cancel_tip2">Almayı iptal et. %1$d / %2$d dosya(lar) alındı</string>
+  <string name="receive_cancel_tip2">Almayı işlemini iptal et. %1$d / %2$d dosya(lar) alındı</string>
   <string name="receive_canceled">İptal edildi</string>
   <string name="receive_cannot_created_file">Dosya oluşturma başarısız</string>
   <string name="receive_files">Dosyaları al</string>
@@ -76,7 +76,7 @@
   <string name="scan_title">QR kodunu tara</string>
   <string name="scanning">Taranıyor...</string>
   <string name="sdcard_unavailable">SD kart kullanılabilir değil</string>
-  <string name="send">Send</string>
+  <string name="send">Gönder</string>
   <string name="send_2d_code">QR kodu ile gönder</string>
   <string name="send_cancel_tip">Transfer tamamlanmadı. Transferi durdurup çıkış yapmak istediğinizden emin misiniz?</string>
   <string name="send_cancel_tip2">Gönderme iptal edildi. %1$d / %2$d dosya gönderildi</string>
@@ -89,14 +89,14 @@
   <string name="send_to">Şuraya gönder:</string>
   <string name="send_uncompleted">Gönderme tamamlanmadı</string>
   <string name="sent">Gönderildi</string>
-  <string name="settings_auto_pair_sender_summary">Alıcı/gönderici ile sesi otomatik eşle</string>
-  <string name="settings_auto_pair_sender_title">Gönderici sesini otomatik eşle</string>
+  <string name="settings_auto_pair_sender_summary">Alıcı/gönderici ile sesi otomatik olarka eşle</string>
+  <string name="settings_auto_pair_sender_title">Gönderici sesini otomatik olarak eşle</string>
   <string name="settings_connect">Bağlantı Ayarları</string>
   <string name="settings_label">Transfer Ayarları</string>
   <string name="settings_photo">Avatar</string>
   <string name="settings_photo_camera">Yeni fotoğraf çek</string>
   <string name="settings_photo_pick">Galeriden seç</string>
-  <string name="settings_photo_remove">Avatar\'ı sil</string>
+  <string name="settings_photo_remove">Avatarı sil</string>
   <string name="settings_receive_confirm_summary">Dosya transfer isteğini onayla</string>
   <string name="settings_receive_confirm_title">Alma onayı</string>
   <string name="share">Paylaş</string>
@@ -114,7 +114,7 @@
   <string name="voice_assist_match">Hızlı otomatik eşleme</string>
   <string name="voice_match">Hızlı eşleme</string>
   <string name="waiting_receive">Gönderici bekleniyor</string>
-  <string name="welcome_tip1">Mobil veri kullanmadan dosyaları hızlıca transfer et</string>
-  <string name="welcome_tip2">Resimler, müzik, kişiler ve daha fazlasını hızlıca transfer et!</string>
+  <string name="welcome_tip1">Mobil veri kullanmadan dosyaları hızlıca transfer edebilirsiniz.</string>
+  <string name="welcome_tip2">Resimler, müzik, kişiler ve daha fazlasını hızlıca transfer edebilirsiniz!</string>
   <string name="you_can">Yapabilirim</string>
 </resources>
