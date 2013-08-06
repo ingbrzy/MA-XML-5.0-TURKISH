@@ -298,6 +298,8 @@
   <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
   <string name="default_contacts_countrycode_sum_miui">Kişinin ülke kodunu seçin</string>
    <string name="default_notification_description">Varsayılan Zilsesi (%1$s)</string>
+   <string name="default_port">5060</string> 
+   <string name="default_transport">UDP</string>
    <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kayıtlarını sil</string>
@@ -356,6 +358,8 @@
   <string name="display_name">Ad</string>
   <string name="display_name_summary">&lt;Kullanıcı adı aynı&gt;</string>
   <string name="display_name_title">Ad</string>
+  <string name="domain_address">SipDomain</string>
+  <string name="domain_address_title">Sunucu</string>
   <string name="doneButton">Tamam</string>
   <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
   <string name="dtmf_tone_entries_long_miui">Uzun</string>
@@ -734,6 +738,8 @@
   <string name="pin_progress_set_fdn_lock_miui">FDN kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_set_icc_lock_miui">icc kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_unlock_icc_miui">SIM kilidi açılıyor…</string>
+  <string name="port">Port</string>
+  <string name="port_title">Port numarası</string>
   <string name="pref_custom_location_summary_miui">Bölge ve numara özelliklerini değiştir</string>
   <string name="pref_custom_location_title_miui">Özellikleri değiştir</string>
   <string name="prefer_2g">Sadece 2G şebekesini kullan</string>
@@ -868,7 +874,8 @@
   <string name="select_network_automatic_hint_miui">"Bu seçtiğiniz ağa kayıt olunamaz. Otomatik olarak tercih edilen bir ağ seçilsin mi??"</string>
   <string name="sendSms">SMS gönder</string>
   <string name="send_button">Gönder</string>
-  <string name="send_keepalive_title">Send keep-alive</string>
+  <string name="send_keepalive">sendKeepAlive</string> 
+  <string name="send_keepalive_title">Gönder ve canlı tut</string>
   <string name="separate_from_conference_miui">Tek çağrı</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Tercih edilen şebeke, veri hizmeti kapatılınca çalışır</string>
   <string name="set_primary">BirinciYap</string>
@@ -912,6 +919,10 @@
   <string name="sip_accounts">Internet çağrısı (SIP) hesapları</string>
   <string name="sip_accounts_title">Hesaplar</string>
   <string name="sip_add_account_tip_text">Internet çağrısı kullanmak için SIP hesabı ekleyin</string>
+  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
+  <string name="sip_always">SIP_ALWAYS</string>
+  <string name="sip_always_send_keepalive">Her zaman gönder</string>
+  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Veri ağı kullanılabilir olduğunda tüm aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet çağrıları</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
