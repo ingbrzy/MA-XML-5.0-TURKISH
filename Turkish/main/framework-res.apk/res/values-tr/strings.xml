@@ -724,10 +724,13 @@
     <string name="keyguard_password_enter_puk_code">PUK ve yeni PIN kodunu yazın</string>
     <string name="keyguard_password_enter_puk_prompt">PUK kodu</string>
     <string name="keyguard_password_enter_pin_prompt">Yeni PIN kodu</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Şifre yazmak için dokunun</font></string>
+    <string name="keyguard_password_entry_touch_hint">" "<font size="17">Şifre yazmak için dokunun</font>" "</string>
     <string name="keyguard_password_enter_password_code">Kilidi açmak için şifreyi yazın</string>
     <string name="keyguard_password_enter_pin_password_code">Kilidi açmak için PIN kodunu yazın</string>
-    <string name="keyguard_password_wrong_pin_code">Yanlış PIN kodu.</string>
+    <string name="keyguard_password_wrong_pin_code">PIN kodu yanlış!</string>
+	<string name="keyguard_password_wrong_puk_code">PUK kodu yanlış!</string>
+    <string name="keyguard_password_pin_failed">PIN işlemi başarısız!</string>
+    <string name="keyguard_password_puk_failed">PUK işlemi başarısız!</string>
     <string name="keyguard_label_text">"Kilidi açmak için önce Menü\'ye, sonra 0\'a basın."</string>
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
     <string name="lockscreen_carrier_default">Hizmet yok!</string>
@@ -759,6 +762,11 @@
     <string name="lockscreen_transport_stop_description">Durdur düğmesi</string>
     <string name="emergency_calls_only">Yalnızca acil çağrılar için</string>
     <string name="lockscreen_network_locked_message">Ağ kilitli</string>
+	<string name="lockscreen_perso_locked_message">SIM/RUIM kilitlendi</string>
+    <string name="lockscreen_sim_error_message_short">Geçersiz kart.</string>
+    <string name="lockscreen_sim_error_message">SIM kart geçerli değil.</string>
+    <string name="lockscreen_sim_pin_blocked">PIN1 Bloke oldu! PIN1 engelini kaldırmak için PUK1 kodunu girin.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 Bloke oldu! PIN1 engelini kaldırmak için PUK1 kodunu girin.</string> 
     <string name="lockscreen_sim_puk_locked_message">SIM kart PUK kilidi devrede.</string>
     <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberi\'ne bakın veya Müşteri Hizmetleri\'ne başvurun."</string>
     <string name="lockscreen_sim_locked_message">SIM kart kilitli.</string>
@@ -809,6 +817,7 @@
     <string name="factorytest_not_system">FACTORY_TEST işlemi yalnızca /system/app dizinine yüklenmiş paketler için desteklenir.</string>
     <string name="factorytest_no_action">FACTORY_TEST işlemini sağlayan hiçbir paket bulunamadı.</string>
     <string name="factorytest_reboot">Tekrar başlat</string>
+	<string name="web_user_agent_target_content">"Mobil"</string>
     <string name="js_dialog_title">\"%s\" adresindeki sayfada şunlar belirtiliyor:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Bu sayfadan ayrılıyor musunuz?
@@ -1011,9 +1020,9 @@ Kapatmak ister misiniz?"</string>
     <string name="date_time_done">Tamamlandı</string>
     <string name="default_permission_group">Varsayılan</string>
     <string name="no_permissions">İzin gerektirmez</string>
-    <string name="perms_hide"><b>Gizle</b></string>
-    <string name="perms_show_all"><b>Tümünü göster</b></string>
-    <string name="perms_new_perm_prefix"><font size="12" fgcolor="#ff900000">YENİ: </font></string>
+    <string name="perms_hide">" "<b>Gizle</b>" "</string>
+    <string name="perms_show_all">" "<b>Tümünü göster</b>" "</string>
+    <string name="perms_new_perm_prefix">" "<font size="12" fgcolor="#ff900000">YENİ: </font>" "</string>
     <string name="perms_description_app">Sağlayan: %1$s.</string>
     <string name="usb_storage_activity_title">USB yığın belleği</string>
     <string name="usb_storage_title">USB bağlandı</string>
@@ -1050,7 +1059,7 @@ Kapatmak ister misiniz?"</string>
     <string name="select_keyboard_layout_notification_message">Bir klavye düzeni seçmek için dokunun.</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
-    <string name="candidates_style"><u>adaylar</u></string>
+    <string name="candidates_style">" "<u>adaylar</u>" "</string>
     <string name="ext_media_checking_notification_title">USB bellek hazırlanıyor</string>
     <string name="ext_media_checking_notification_message">Hata kontrolü yapılıyor</string>
     <string name="ext_media_nofs_notification_title">USB bellek boş</string>

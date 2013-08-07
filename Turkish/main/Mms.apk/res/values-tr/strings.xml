@@ -268,6 +268,7 @@
   <string name="notification_multiple">%s okunmamış ileti.</string>
   <string name="notification_multiple_title">Yeni iletiler</string>
   <string name="open_keyboard_to_compose_message">Mesajı yazmak için klavyeyi açın</string>
+  <string name="overwrite_edited_content">Düzenlenen içeriğin üzerine yazılacak. Devam edilsin mi?</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
   <string name="phrase_from">%1s</string>
   <string name="phrase_list_title" formatted="false">Şablonlar (%1$d)</string>

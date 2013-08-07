@@ -52,7 +52,7 @@
   <string name="find_device_sim_change_instructions_no_network">"SIM kartınız kilitli olabilir, orjinal SIM kartı takın"</string>
   <string name="find_device_turn_off_flight_mode">Uçak modunu kapat</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Cihazınız kilitli olabilir, uçak modunu kapatın"</string>
-  <string name="firewall_setting">Güvenlik Duvarı Ayarları</string>
+  <string name="firewall_setting">Anti-Spam</string>
   <string name="first_back_long_press_message">"Geri tuşuna basılı tutarak uygulama veya arka plan hizmetlerini kapatmak istiyor musunuz? Etkinleştirmek için Ayarlar &gt; Sistem &gt; Tuş ayarlarına gidin"</string>
   <string name="fm_record_smaple_prefix_miui">FMKaydı</string>
   <string name="fools_day">Bir Nisan şaka günü</string>

@@ -110,6 +110,11 @@
     <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>
     <string name="sign_in_info_total_more"/>
+	 <string name="sina_share_pendding">Gönderiliyor...</string>
+    <string name="sina_share_success">Başarıyla gönderildi!</string>
+    <string name="sina_share_fail">Gönderme başarısız!</string>
+    <string name="sina_token_expired_warning">Weibo hesabınızın süresi doldu, lütfen tekrar bağlanın</string>
+    <string name="sina_token_invalid_warning">Weibo hesabınız geçersiz, lütfen tekrar bağlanın</string>
     <string name="stable_build">Stabil yapı</string>
     <string name="start_update">Güncellemeyi başlat</string>
     <string name="submit">Gönder</string>

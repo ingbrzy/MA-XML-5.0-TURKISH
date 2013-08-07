@@ -908,7 +908,7 @@ Favoriler listenize kişi eklemek için:
   <string name="upgrade_out_of_memory_retry">Yeni sürüme geçmeyi tekrar dene</string>
   <string name="upgrade_out_of_memory_uninstall">Bazı uygulamaları kaldırın</string>
   <string name="use_photo_as_primary">Bu fotoğrafı kullan</string>
-  <string name="use_photo_as_primary2"> %s kişi fotografını kullan</string>
+  <string name="use_photo_as_primary2">%1$s kişi fotografını kullan</string>
   <string name="user_profile_contacts_list_header">Ben</string>
   <string name="vcard_export_request_rejected_message">"vCard\'ı dışa aktarım isteği reddedildi. Daha sonra tekrar deneyin."</string>
   <string name="vcard_export_will_start_message">%s Kısa zamanda dışa aktarılacak.</string>

@@ -20,6 +20,7 @@
   <string name="editmode_menu_delete">Sil</string>
   <string name="editmode_menu_share">Paylaş</string>
   <string name="error_bad_file">Bu dosyayı bildir</string>
+  <string name="error_connect_service">Bu transfere bağlanmak mümkün değil!</string>
   <string name="error_download">İndirme başarısız!</string>
   <string name="error_general">Hata</string>
   <string name="error_network">Ağ hatası</string>

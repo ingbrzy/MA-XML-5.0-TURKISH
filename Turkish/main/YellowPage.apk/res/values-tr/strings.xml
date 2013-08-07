@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="agree">Kabul Et</string>
+  <string name="all_numbers">Tüm numaralar</string>
   <string name="app_label">Sarın Sayfalar</string>
   <string name="callrecordview_item_newcontact">Yeni Kişi</string>
   <string name="callrecordview_item_op_time_minutes_seconds">%1$d dak %2$d san</string>
