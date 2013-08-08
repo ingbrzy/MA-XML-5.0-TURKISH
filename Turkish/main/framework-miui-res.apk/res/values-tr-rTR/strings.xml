@@ -77,9 +77,9 @@
   <string name="incorrect_pincode_remaining_attempts">PIN kodu hatalı, kalan deneme %d</string>
   <string name="incorrect_pukcode">Geçersiz PUK kodu</string>
   <string name="incorrect_pukcode_remaining_attempts">PUK kodu hatalı, kalan deneme %d</string>
-  <string name="input_pin_code">PIN kodunu girin</string>
+  <string name="input_pin_code">PIN kodu</string>
   <string name="input_pin_code_to_unlock">Cihazı kullanmak için PIN kodunu girin</string>
-  <string name="input_puk_code">PUK kodunu girin</string>
+  <string name="input_puk_code">PUK kodu</string>
   <string name="input_puk_code_to_unlock">Cihazı kilidini kaldırmak için PUK kodunu girin</string>
   <string name="insects_awaken" />
   <string name="international_womens_day" />

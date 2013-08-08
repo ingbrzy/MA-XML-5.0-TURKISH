@@ -859,7 +859,7 @@
   <string name="rnw2_unlock_failed">UIM Network2 unlock request unsuccessful.</string>
   <string name="rnw2_unlock_success">RUIM Network2 unlock successful.</string>
   <string name="roaming">Veri dolaşımı</string>
-  <string name="roaming_disable">Dolaşımda iken veri servislerine bağlan</string>
+  <string name="roaming_disable">Dolaşımda iken veri servislerine bağlanma</string>
   <string name="roaming_enable">Dolaşımda iken veri servislerine bağlan</string>
   <string name="roaming_reenable_message">Veri bağlantısı kaybedildi, ev ağını terketmiş olabilrsiniz.</string>
   <string name="roaming_warning">Veri dolaşımına izin verilsin mi? Bu dolaşım önemli bir ücrete tabi olabilir!</string>

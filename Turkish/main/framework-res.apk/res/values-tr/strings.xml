@@ -720,7 +720,7 @@
     <string name="sipAddressTypeHome">Ev</string>
     <string name="sipAddressTypeWork">İş</string>
     <string name="sipAddressTypeOther">Diğer</string>
-    <string name="keyguard_password_enter_pin_code">PIN kodunu yazın</string>
+    <string name="keyguard_password_enter_pin_code">PIN kodu</string>
     <string name="keyguard_password_enter_puk_code">PUK ve yeni PIN kodunu yazın</string>
     <string name="keyguard_password_enter_puk_prompt">PUK kodu</string>
     <string name="keyguard_password_enter_pin_prompt">Yeni PIN kodu</string>
