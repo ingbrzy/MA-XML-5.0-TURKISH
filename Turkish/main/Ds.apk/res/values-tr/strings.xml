@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remote_service_stopped">Uzaktan kontrol hizmeti durduruldu</string>
+    <string name="app_name">DS</string>
+    <string name="name_widget_extra_large">DS Widget x6</string>
+    <string name="name_widget_large">DS Widget x3</string>
+    <string name="name_widget_small">DS Açık / Kapalı</string>
+    <string name="movie">Film</string>
+    <string name="music">Müzik</string>
+    <string name="game">Oyun</string>
+    <string name="voice">Ses</string>
+    <string name="preset_1">Özel 1</string>
+    <string name="preset_2">Özel 2</string>
+</resources> 
