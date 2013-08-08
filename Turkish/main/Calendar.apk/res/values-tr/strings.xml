@@ -156,6 +156,7 @@
   <string name="response_maybe">Belki</string>
   <string name="response_no">Hayır</string>
   <string name="response_yes">Evet</string>
+  <string name="rest_day_indication">:)</string>
   <string name="save_label">Yapıldı</string>
   <string name="saving_event">Etkinlik kaydedildi.</string>
   <string name="saving_event_with_guest">Güncellemeler gönderilecek.</string>
@@ -184,6 +185,7 @@
   <string name="view_event_response_label">Devam edilsin mi?</string>
   <string name="week_view">Hafta</string>
   <string name="weekly">Haftalık (her %s)</string>
+  <string name="work_day_indication">:(</string>
   <string name="what_label">Ne</string>
   <string name="when_label">Ne zaman</string>
   <string name="where_label">Nerede</string>

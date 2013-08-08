@@ -150,6 +150,7 @@
   <string name="status_bar_toggle_power_mid">Normal Mod</string>
   <string name="status_bar_toggle_power_mode">Güç kullanım modu</string>
   <string name="status_bar_toggle_privacy_mode">Koruma</string>
+  <string name="status_bar_toggle_quiet_mode">Sessiz Mod</string>
   <string name="status_bar_toggle_reboot">Tekrar başlat</string>
   <string name="status_bar_toggle_ring">Zil</string>
   <string name="status_bar_toggle_ringtone">Zilsesi</string>

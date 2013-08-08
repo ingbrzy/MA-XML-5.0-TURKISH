@@ -166,8 +166,15 @@
   <string name="download_sdcard_busy_dlg_title">SD kart kullanılamıyor</string>
    <string name="download_video_alert_message">İndirme işlemi veri kullanımını önemli ölçüde arttıracak, devam etmek istiyor musunuz?</string>
   <string name="download_video_alert_title">İndirme Uyarısı!</string>
+  <string name="download_video_menu_dialog_title">Yükleniyor...</string>
+  <string name="download_video_menu_video_version_low">Video uygulamasının güncellenmesi gerekiyor.</string>
+  <string name="download_video_no_title_default_name">Başlıksız</string>
+  <string name="download_video_please_download_market">Lütfen Market uygulamasını yükleyin</string>
+  <string name="download_video_please_select_video">Bir video seçin</string>
+  <string name="download_video_start_down_toast">%1$s videosunu indir</string>
+  <string name="download_video_unseleted_all">Tüm seçimi iptal et</string> 
   <string name="downloaded">İndirildi</string>
-  <string name="downloading">İndiriliyor</string>
+  <string name="downloading">İndiriliyor...</string>
   <string name="dump_counters">Dump V8 counters</string>
   <string name="dump_display_tree">Dosyanın ağaç dökümü</string>
   <string name="dump_dom_tree">Dosya DOM ağacı dökümü</string>
@@ -258,6 +265,7 @@
   <string name="max_tabs_warning">Kullanılabilir başka sekme yok</string>
   <string name="menu_addtodesk">Masa üstüne ekle</string>
   <string name="menu_disable_night_mode">Gece modunu kapat</string>
+  <string name="menu_download_video">Video dosyasını indir</string>
   <string name="menu_enable_night_mode">Gece modunu aç</string>
   <string name="menu_exit">Çıkış</string>
   <string name="menu_hv_swap">Yatay ekrana geç</string>

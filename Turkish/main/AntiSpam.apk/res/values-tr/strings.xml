@@ -98,10 +98,12 @@
   <string name="st_filter_keywords_setting_title">Anahtar kelimeyi ayarla</string>
   <string name="st_filter_keywords_title">Mesajlar için anahtar kelime</string>
   <string name="st_filter_sms_button">Spam mesaj filtresi</string>
-  <string name="st_mute_all">Çağrılar ve mesajlar sessiz</string>
-  <string name="st_mute_block">Çağrılar ve engellenen mesajlar sessiz</string>
+  <string name="st_mute_all">Çağrılar ve mesajlar sessize alındı.</string>
+  <string name="st_mute_block">Çağrılar ve engellenen mesajlar sessize alındı.</string>
   <string name="st_mute_title">Sessiz Mod</string>
+  <string name="st_other_settings_group">Diğer Ayarlar</string>
   <string name="st_settings_name">Ayarlar</string>
+  <string name="st_show_block_notification">Bildirimleri görüntüle</string>
   <string name="st_sms_group">Mesajlar</string>
   <string name="tab_blacklist">Kara liste</string>
   <string name="tab_block_log">Güvenlik duvarı</string>

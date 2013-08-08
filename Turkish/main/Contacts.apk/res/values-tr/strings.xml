@@ -14,7 +14,7 @@
   <string name="activity_title_settings">Ayarlar</string>
   <string name="add_2sec_pause">2 saniye duraklama ekle</string>
   <string name="add_account">Hesap ekle</string>
-  <string name="add_blacklist">Karalisteye ekle</string>
+  <string name="add_blacklist">Kara listeye ekle</string>
   <string name="add_connection_button">Bağlantı ekle</string>
   <string name="add_contact_dlg_message_fmt"> \"%s\" kişilere eklensin mi?</string>
   <string name="add_contact_dlg_title">Kişi ekle</string>
