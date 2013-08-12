@@ -89,6 +89,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="add_device_admin">Etkinleştir</string>
   <string name="add_device_admin_msg">Cihaz yöneticisi etkinleştirilsin mi?</string>
   <string name="additional_system_update_settings_list_item_title">Ek sistem güncellemeleri</string>
+    <string name="adjust_3d_depth_title">"Oyunlar için 3D derinliği"</string>
   <string name="advanced_settings">Gelişmiş ayarlar</string>
   <string name="advanced_settings_summary">Diğer ayar seçeneklerini etkinleştirin.</string>
   <string name="airplane_mode">Uçak modu</string>
@@ -467,6 +468,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="build_number">Derleme numarası</string>
   <string name="builtin_keyboard_settings_summary">Fiziksel klavye ayarları</string>
   <string name="builtin_keyboard_settings_title">Fiziksel Klavye</string>
+    <string name="button_disconnect_network">Ağ bağlantısını kes</string>
   <string name="button_light_timeout">Buton ışığı seçenekleri</string>
   <string name="cache_header_label">Önbellek</string>
   <string name="cache_size_label">Önbellek</string>
@@ -507,6 +509,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="clear_failed_dlg_text">Uygulama verileri temizlenemedi!</string>
   <string name="clear_failed_dlg_title">Verileri temizle</string>
   <string name="clear_user_data_text">Verileri temizle</string>
+    <string name="color_calibration_none">Doğal</string>
+    <string name="color_calibration_srgb">sRGB</string>
   <string name="common_settings">Genel Ayarlar</string>
   <string name="complete_settings">Tüm Ayarlar</string>
   <string name="computing_size">Hesaplanıyor…</string>
@@ -702,6 +706,8 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Telefon numarası, sinyal vb.</string>
   <string name="dialog_title_font_size">Yazı tipi boyutu</string>
+    <string name="dialog_title_color_calibration">Renk düzeltme ön ayar</string>
+    <string name="dialog_title_hdmi_color_calibration">Renk düzeltme ön ayar</string>
   <string name="dirac_control">Dirac Control</string>
   <string name="dirac_mode_earbuds">"Xiaomi Kulaklıkları"</string>
   <string name="dirac_mode_earphones">"Xiaomi Kulak İçi Kulaklıkları"</string>
@@ -900,6 +906,14 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="hardkeyboard_category">Fiziksel klavye ayarları</string>
   <string name="hdcp_checking_dialog_title">HDCP denetimini ayarla</string>
   <string name="hdcp_checking_title">HDCP denetimi</string>
+    <string name="hdmi_3d_help_title">HDMI 3D Stereoskopik desteği hakkında</string>
+    <string name="hdmi_3d_stereo_separation_label">3D</string>
+    <string name="hdmi_3dplay_control_disable_subtext">Harici 3D ekrana HDMI 3D Stereoskopik çıkış devre dışı</string>
+    <string name="hdmi_3dplay_control_enable_subtext">Harici 3D ekrana HDMI 3D Stereoskopik çıkış etkin</string>
+    <string name="hdmi_3dplay_control_text">3D\'yi etkinleştir</string>
+    <string name="hdmi_3dplay_settings_title">HDMI</string>
+    <string name="hdmi_color_calibration_none">Doğal</string>
+    <string name="hdmi_color_calibration_srgb">sRGB</string>
   <string name="header_account_settings">Hesap ayarları</string>
   <string name="header_add_an_account">Hesap ekleyin</string>
   <string name="header_application_sync_settings">Uygulama senkronizasyon ayarları</string>
@@ -1221,6 +1235,14 @@ please follow the steps to complete installation"</string>
   <string name="nsd_quick_toggle_summary">Diğer cihazlardaki uygulamaların bu cihazdaki uygulamaları keşfetmesine izin ver</string>
   <string name="nsd_quick_toggle_title">Şebeke servisi keşfi</string>
   <string name="oem_radio_info_label">"OEM\'e Özgü Bilgiler, Ayarlar"</string>
+    <string name="oldman_mode_confirm_title">Yaşlı modunu onayla</string>
+    <string name="oldman_mode_confirm_will_normal_mode_text">Yaşlı modu kapatılsın mı ?</string>
+    <string name="oldman_mode_confirm_will_oldman_mode_text">Yaşlı modu açılsın mı ?</string>
+    <string name="oldman_mode_enabled_name">Yaşlı modunu aç</string>
+    <string name="oldman_mode_entry_name">Yaşlı modu ayarları</string>
+	<string name="oldman_mode_entry_title">Yaşlı modu</string>
+    <string name="oldman_mode_settings_caption">Yaşlı modu ayarları</string>
+    <string name="oldman_mode_summary">Yaşlı modunu açmanız ya da kapatmanız halinde, telefon tekrar başlatılacak!</string>
   <string name="onscreen_keyboard_settings_summary">Ekran klavyesi ayarları</string>
   <string name="other_relative">Diğer yetkiler</string>
     <string name="overlay_display_devices_title">Ikincil ekranları simüle et</string>
@@ -1410,7 +1432,9 @@ please follow the steps to complete installation"</string>
   <string name="power_idle">Telefon boşta</string>
   <string name="power_phone">Sesli aramalar</string>
   <string name="power_mode">Güç modu</string>
+    <string name="power_mode_balanced_title">Dengeli Gücü etkinleştir</string>
   <string name="power_screen">Ekran</string>
+    <string name="power_settings_title">Sistem Performansı</string>
   <string name="power_usage_history">Pil kullanımı</string>
   <string name="power_usage_level_and_status">%1$s - %2$s</string>
   <string name="power_usage_not_available">Pil kullanma verisi mevcut değil</string>
@@ -1875,8 +1899,10 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="time_picker_title">Saat</string>
   <string name="time_zone_auto_stub">Saat dilimini seç</string>
   <string name="timezone_settings">Saat Dilimi</string>
+    <string name="title_color_calibration">Renk Düzeltme ön ayar</string>
   <string name="title_dolby_control">Dolby Digital Plus Ayarları</string>
   <string name="title_font_size">Yazı boyutu</string>
+    <string name="title_hdmi_color_calibration">Renk Düzeltme ön ayar</string>
   <string name="total_size">%s Toplam</string>
   <string name="total_size_label">Toplam</string>
   <string name="track_frame_time">GPU işleme profili</string>
@@ -1989,6 +2015,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="usage_type_wake_lock">Uyanık kal</string>
   <string name="usage_type_wifi_running">Wi-Fi çalışıyor</string>
   <string name="usb_connection_category">Şu şekilde bağlan:</string>
+    <string name="usb_host_mode_subtext">USB porttan kontrol donanımları bağladığınızda, batarya süresi azalabilir!</string>
+	<string name="usb_host_mode_text">USB bağlantı modunu etkinleştir</string>  
   <string name="usb_label_installer_cd">Dosya aktarma araçlarını yükle</string>
   <string name="usb_msd_driver_installer_summary">You can get the driver installers for Windows and Mac from here</string>
   <string name="usb_msd_driver_installer_title">Driver Installer Disk (MSD)</string>

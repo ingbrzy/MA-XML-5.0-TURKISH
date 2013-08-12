@@ -364,4 +364,8 @@
         <item>1.5 saniye</item>
         <item>2 saniye</item>
     </string-array>
+	<string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Doğal</item>
+    </string-array>
 </resources>
