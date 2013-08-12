@@ -351,8 +351,8 @@
   <string name="pref_default_text_encoding">Metin kodlama</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
   <string name="pref_default_text_encoding_dialogtitle">Metin kodlama</string>
-  <string name="pref_default_zoom">Varsayılan yakınlaçtırma</string>
-  <string name="pref_default_zoom_dialogtitle">Varsayılan yakınlaçtırma</string>
+  <string name="pref_default_zoom">Varsayılan yakınlaştırma</string>
+  <string name="pref_default_zoom_dialogtitle">Varsayılan yakınlaştırma</string>
   <string name="pref_developer_options">Geliştirici Ayarları</string>
   <string name="pref_developer_options_summary">Hata ayıklama veya raporlama</string>
   <string name="pref_development_cpu_upload_path">Cpu Yükleme Yolunu etkinleştir</string>
@@ -369,7 +369,7 @@
   <string name="pref_development_viewport">Geniş görünümü kullan</string>
   <string name="pref_development_visual_indicator">Görsel göstergeyi etkinleştir</string>
   <string name="pref_exit_on_closing_last_tab_enabled_summary">Etkinleştirirseniz son sekme kapandığında tarayıcıdan otomatik olarak çıkılır</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_title">Son sekme kapanınca çıkış</string>
+  <string name="pref_exit_on_closing_last_tab_enabled_title">Son sekme kapanınca çık</string>
   <string name="pref_extras_reset_default">Varsayılan ayarlara sıfırla</string>
   <string name="pref_extras_reset_default_dlg">Ayarlar, varsayılan değerlere geri yüklensin mi?</string>
   <string name="pref_extras_reset_default_summary">Varsayılan ayarları geri yükle</string>
@@ -416,11 +416,11 @@
   <string name="pref_link_prefetch_title">Web sayfasını önyükleme</string>
   <string name="pref_min_font_size">Minimum yazı tipi boyutu</string>
   <string name="pref_min_font_size_value" formatted="false">%d pt</string>
-  <string name="pref_privacy_clear_cache">Önbelleği temizle</string>
+  <string name="pref_privacy_clear_cache">Ön belleği temizle</string>
   <string name="pref_privacy_clear_cache_dlg">Yerel olarak önbelleğe alınmış içerik ve veritabanları silinsin mi?</string>
   <string name="pref_privacy_clear_cache_summary">Yerel olarak önbelleğe alınmış içeriği ve veritabanlarını temizle</string>
   <string name="pref_privacy_clear_cookies">Tüm çerez verilerini temizle</string>
-  <string name="pref_privacy_clear_cookies_dlg">Tüm çerezler silinsin mi?</string>
+  <string name="pref_privacy_clear_cookies_dlg">Tüm çerez dosyaları silinsin mi?</string>
   <string name="pref_privacy_clear_cookies_summary">Tüm tarayıcı çerezlerini temizle</string>
   <string name="pref_privacy_clear_form_data">Form verilerini temizle</string>
   <string name="pref_privacy_clear_form_data_dlg">Kayıtlı tüm form verileri silinsin mi?</string>
@@ -486,8 +486,8 @@
   <string name="recover_from_crash">Tarayıcının son oturumu ile devam et</string>
   <string name="reload">Yenile</string>
   <string name="remove">Kaldır</string>
-  <string name="remove_bookmark">Favoriyi sil</string>
-  <string name="remove_from_bookmarks">Favorilerden kaldır</string>
+  <string name="remove_bookmark">Yer imini sil</string>
+  <string name="remove_from_bookmarks">Yer imlerden kaldır</string>
   <string name="remove_history_item">Geçmişten kaldır</string>
   <string name="remove_snapshot">Kayıtlı sayfayı sil</string>
   <string name="removed_from_bookmarks">Yer işaretlerinden kaldırıldı.</string>
