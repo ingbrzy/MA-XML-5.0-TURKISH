@@ -46,7 +46,7 @@
   <string name="frequency_should_not_null">Radyo frekansı boş olamaz.</string>
   <string name="frequency_string"/>
   <string name="hint_station_name">Kanal ismini girin</string>
-    <string name="increase_af">Hassasiyet, arttır</string>
+    <string name="increase_af">Frekansı artır</string>
   <string name="input_station">Radyo Frekansı (MHz)</string>
   <string name="menu_add_list">Listeye Ekle</string>
   <string name="menu_delete">Sil</string>
@@ -78,9 +78,9 @@
   <string name="msg_seeking">FM kanalları arıyor</string>
   <string name="msg_unable_start_fm_title">Radyo başlatılamıyor</string>
   <string name="msg_weak_searching">İletilmek üzere frekansalar taranıyor</string>
-    <string name="next_station">Sonraki</string>
+    <string name="next_station">Sonraki istasyon</string>
   <string name="no_storage">Kayda başlamdan önce SD kartı takın.</string>
-    <string name="pre_station">Önceki</string>
+    <string name="pre_station">Önceki istasyon</string>
   <string name="preparing_sd">SD kart hazırlanıyor</string>
   <string name="preset_delete">Sil</string>
   <string name="preset_replace">Değiştir</string>
@@ -93,7 +93,7 @@
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">%s dosyasını görüntülemek için tıklayın</string>
   <string name="record_sucess">Kayıt başarılı</string>
-    <string name="reduce_af">Hassasiyeti azalt</string>
+    <string name="reduce_af">Frekansı azalt</string>
   <string name="regional_band">Bölgesel bant tüm kayıtlı kanalları silecek</string>
   <string name="revert_to_fac">Fabrika ayarlarına döndür</string>
   <string name="search_dialog_title">İstasyonları tara</string>
