@@ -110,6 +110,7 @@
   <string name="callrecordview_menu_show_all">Tüm çağrıları göster</string>
   <string name="callrecordview_menu_show_called">Giden çağrıları göster</string>
   <string name="callrecordview_menu_show_missed">Cevaplanmayan çağrıları göster</string>
+  <string name="callrecordview_menu_show_new">Yeni Kişiler</string>
   <string name="callrecordview_menu_show_stranger">Bilinmeyen numaralardan gelen çağrıları göster</string>
   <string name="callrecordview_menu_show_title">Gösterilecek arama kaydı tipini seçiniz</string>
   <string name="cancel_confirmation_dialog_message">Değişiklikleriniz silinsin mi?</string>
