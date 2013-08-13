@@ -13,11 +13,11 @@
   <string name="account_name_display_all">Tüm hesaplar</string>
   <string name="account_out_of_quota">Hesap disk kotası dışında</string>
   <string name="account_password_spaces_error">"Bu parola bir veya daha fazla boşluk karakterleri ile başlar ya da biter. Birçok sunucu boşluk şifreleri desteklemez."</string>
-  <string name="account_security_dialog_content_fmt">%s güvenlik ayarlarını güncellemek gerektirir.</string>
+  <string name="account_security_dialog_content_fmt">%s güvenlik ayarlarını güncellemeniz gerekiyor.</string>
   <string name="account_security_dialog_title">Güvenlik güncellemesi</string>
   <string name="account_security_policy_explanation_fmt">Sunucu %s uzaktan Android cihazın bazı güvenlik özelliklerini kontrol için izin gerektirir.</string>
   <string name="account_security_title">Cihaz Güvenliği</string>
-  <string name="account_security_waiting_policy_key_message">%s sunucusundan güvenlik ayarları için bilgi ihtiyacı, lütfen bekleyin...</string>
+  <string name="account_security_waiting_policy_key_message">%s sunucusundan güvenlik ayarları için bilgi alınması gerekiyor, lütfen bekleyin...</string>
   <string name="account_settings_action">Hesap Ayarları</string>
   <string name="account_settings_background_attachments_label">Ekleri indir</string>
   <string name="account_settings_background_attachments_summary">Wi-Fi ile son mesajların eklerini otomatik indir</string>
@@ -32,7 +32,7 @@
   <string name="account_settings_exit_server_settings">Kaydedilmemiş değişiklikleri iptal etmek istiyor musunuz?</string>
   <string name="account_settings_incoming_label">Gelen ayarları</string>
   <string name="account_settings_incoming_summary">Kullanıcı, şifre, ve gelen sunucusu ayarları</string>
-  <string name="account_settings_login_dialog_content_fmt"> %s için kullanıcı ve şifre hatalı. Şimdi güncellensin mi?</string>
+  <string name="account_settings_login_dialog_content_fmt"> %s için kullanıcı adı ve şifre hatalı. Şimdi güncellensin mi?</string>
   <string name="account_settings_login_dialog_title">"Oturum açılamadı"</string>
   <string name="account_settings_mail_check_frequency_label">Gelen kutusu kontrol sıklığı</string>
   <string name="account_settings_name_label">Adınız</string>
@@ -76,8 +76,8 @@
   <string name="account_setup_basics_manual_setup_action">Elle kurulum</string>
   <string name="account_setup_basics_password_label">Şifre</string>
   <string name="account_setup_basics_title">Hesap kurulumu</string>
-  <string name="account_setup_check_settings_check_incoming_msg">Gelen sunucusu ayarları kontrol ekiliyor…</string>
-  <string name="account_setup_check_settings_check_outgoing_msg">Giden sunucusu ayarları kontrol ekiliyor…</string>
+  <string name="account_setup_check_settings_check_incoming_msg">Gelen sunucusu ayarları kontrol ediliyor…</string>
+  <string name="account_setup_check_settings_check_outgoing_msg">Giden sunucusu ayarları kontrol ediliyor…</string>
   <string name="account_setup_check_settings_retr_info_msg">Hesap bilgileri alınıyor…</string>
   <string name="account_setup_exchange_certificate_title">İstemci sertifikası</string>
   <string name="account_setup_exchange_device_id_label">Mobil cihaz ID</string>
@@ -95,9 +95,9 @@
   <string name="account_setup_failed_auth_required">"Kimlik doğrulama yöntemleri sunucu tarafından desteklenmiyor."</string>
   <string name="account_setup_failed_certificate_inaccessible">Sertifika geçersiz veya erişilemiyor.</string>
   <string name="account_setup_failed_certificate_required">İstemci sertifikası gereklidir. Istemci sertifikası ile sunucusuna bağlanılsın mı?</string>
-  <string name="account_setup_failed_check_credentials_message">Sunucu bir hata ile cevap verdi. Yeniden deneyin kullanıcı adınızı ve şifrenizi kontrol edin.</string>
-  <string name="account_setup_failed_dlg_auth_message">Kullanıcı adı veya yanlış bir parola.</string>
-  <string name="account_setup_failed_dlg_auth_message_fmt">"Kullanıcı adı veya yanlış bir parola.
+  <string name="account_setup_failed_check_credentials_message">Sunucu bir hata ile cevap verdi. Kullanıcı adınızı ve şifrenizi kontrol edin.</string>
+  <string name="account_setup_failed_dlg_auth_message">Kullanıcı adı veya parola yanlış!</string>
+  <string name="account_setup_failed_dlg_auth_message_fmt">"Kullanıcı adı veya parola yanlış!
 (%s)"</string>
   <string name="account_setup_failed_dlg_certificate_message">"Güvenli bir şekilde sunucuya bağlanamıyor."</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Güvenli bir şekilde sunucuya bağlanamıyor.
@@ -133,8 +133,8 @@
   <string name="account_setup_index_label">E-posta servis sağlayıcıları listesinden seçin:</string>
   <string name="account_setup_index_other_mails">Diğer hesaplar</string>
   <string name="account_setup_index_title">Hesap ayarları kılavuzu</string>
-  <string name="account_setup_names_account_name_label">Bu hesaba bir ad verin (opsiyonel)</string>
-  <string name="account_setup_names_headline">Hesabınızı ayarlanır!</string>
+  <string name="account_setup_names_account_name_label">Hesap adı (opsiyonel)</string>
+  <string name="account_setup_names_headline">Hesabınızı ayarlayın!</string>
   <string name="account_setup_names_title">Hesap kurulumu</string>
   <string name="account_setup_names_user_name_empty_error">"Bu alan boş olamaz."</string>
   <string name="account_setup_names_user_name_label">Adınız (giden postalarda görüntülenecek)</string>
@@ -226,7 +226,7 @@
   <string name="contextmenu_map">Harita</string>
   <string name="contextmenu_openlink">Tarayıcıda aç</string>
   <string name="contextmenu_send_mail">E-posta gönder</string>
-  <string name="contextmenu_sharelink">Link paylaş</string>
+  <string name="contextmenu_sharelink">Linki paylaş</string>
   <string name="contextmenu_sms_dot">SMS...</string>
   <string name="copy_email">E-posta adresini kopyala</string>
   <string name="copy_number">Telf numarasını kopyala</string>
@@ -240,7 +240,7 @@
   <string name="debug_force_one_minute_refresh_label">POP/IMAP için güçlü 1-dakika yenileme</string>
   <string name="debug_title">Hata ayıklama</string>
   <string name="debug_version_fmt">Sürüm: %s</string>
-  <string name="default_signature"> MIPHONE dan gönder</string>
+  <string name="default_signature">MiPHONE ile gönderildi</string>
   <string name="delete_action">Sil</string>
   <string name="delete_quick_response_action">Sil</string>
   <string name="destination_format">%1$s \"%2$s\"</string>
@@ -378,7 +378,7 @@ CC: %4$s
   <string name="message_list_subject_snippet_divider">" — "</string>
   <string name="message_saved_toast">Mesaj taslağı kaydedildi.</string>
   <string name="message_subject_description">Konu</string>
-  <string name="message_view_always_show_pictures_button">Herzaman göster</string>
+  <string name="message_view_always_show_pictures_button">Her zaman göster</string>
   <string name="message_view_always_show_pictures_confirmation">Bu gönderenden gelen resimler otomatik olarak gösterilecektir</string>
   <string name="message_view_always_show_pictures_prompt">Bu gönderenden gelen resimleri her zaman göster</string>
   <string name="message_view_attachment_background_load">Not: Yönlendirilen mesaj içindeki ekler,mesajı göndermeden önce indirilecektir..</string>
@@ -398,9 +398,9 @@ CC: %4$s
   <string name="message_view_invite_accept">" Evet"</string>
   <string name="message_view_invite_decline">" Hayır"</string>
   <string name="message_view_invite_maybe">" Olabilir"</string>
-  <string name="message_view_invite_text">Gidilsin?</string>
+  <string name="message_view_invite_text">Gidilsin mi?</string>
   <string name="message_view_invite_title">Takvim daveti</string>
-  <string name="message_view_invite_toast_maybe">" \"maybe\" bu daveti cevapladınız."</string>
+  <string name="message_view_invite_toast_maybe">Olabilir davetini cevapladınız."</string>
   <string name="message_view_invite_toast_no">"Daveti kabul etmediniz."</string>
   <string name="message_view_invite_toast_yes">"Daveti kabul ettiniz."</string>
   <string name="message_view_invite_view">Takvimde bak</string>
@@ -486,7 +486,7 @@ CC: %4$s
   <string name="preference_plus_upload_status">Yükleme durumu</string>
   <string name="preference_summary_header_format">%1$s: %2$s</string>
   <string name="preference_summary_need_power">Telefon şarj olduğunda yükle.</string>
-  <string name="preference_summary_need_wifi">Wi-Fi kullanılabilir olduğunda yükleyin.</string>
+  <string name="preference_summary_need_wifi">Wi-Fi kullanılabilir olduğunda yükle.</string>
   <string name="preference_summary_uploading_format">: %1$d of %2$d</string>
   <string name="preference_summary_uploading_paused">Duraklatıldı: devam etmek için dokunun</string>
   <string name="preference_summary_uploading_percent">Yükleniyor (%1$d%%)</string>
@@ -502,7 +502,7 @@ CC: %4$s
   <string name="preference_title_videos_upload_connectivity">Video yüklemeleri</string>
   <string name="preference_title_videos_upload_connectivity_summary">Şu an kullanılan fotoğraf bağlantı ayarları</string>
   <string name="previous_action">Önceki</string>
-  <string name="provider_note_live">"Sadece bazı \ "Artı \" hesaplara bu programın bağlanmasına izin veren POP erişimi içerir. Eğer doğru E-posta adresi ve şifre ile oturum açamıyorsanız, ücretli bir \ "Artı \" hesabınız yok demektir. Bu E-posta hesaplarına erişmek için Web tarayıcınızı başlatın."</string>
+  <string name="provider_note_live">"Sadece bazı Plus hesaplara bu programın bağlanmasına izin veren POP erişimi içerir. Eğer doğru E-posta adresi ve şifre ile oturum açamıyorsanız, ücretli bir Plus hesabınız yok demektir. Bu E-posta hesaplarına erişmek için Web tarayıcınızı başlatın."</string>
   <string name="provider_note_t_online">Bu E-posta hesabını ayarlamadan önce, T-Online web sitesini ziyaret edin ve POP3 e-posta erişimi için bir şifre oluşturun.</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="read_action">Okundu olarak işaretle</string>
@@ -511,9 +511,9 @@ CC: %4$s
   <string name="reply_action">Cevapla</string>
   <string name="reply_all_action">Tümünü cevapla</string>
   <string name="require_manual_sync_message">Dolaşım sırasında bu hesap için arka plan eşitleme hizmetleri devre dışı bırakılır.</string>
-  <string name="retry_in_1min">1 dakikak</string>
-  <string name="retry_in_2min">2 dakikak</string>
-  <string name="retry_in_5min">5 dakikak</string>
+  <string name="retry_in_1min">1 dakika</string>
+  <string name="retry_in_2min">2 dakika</string>
+  <string name="retry_in_5min">5 dakika</string>
   <string name="retry_no_data">Bağlantı yok</string>
   <string name="save_action">Kaydet</string>
   <string name="save_draft_action">Taslağı kaydet</string>
@@ -558,7 +558,7 @@ CC: %4$s
   <string name="toast_file_error">Dosya kullanılamaz</string>
   <string name="toast_intent_error">Yüklemeyi başlatma başarısız</string>
   <string name="toast_mailbox_not_found">"Klasör bulunamadı, kaldırılmış olabilir."</string>
-  <string name="trusted_senders_cleared">\"Resimleri Göster\" temizlendi.</string>
+  <string name="trusted_senders_cleared">Resimleri Göster temizlendi.</string>
   <string name="unread_action">Okunmamış olarak işaretle</string>
   <string name="upload">Yükle</string>
   <string name="upload_state_completed">Bitti</string>
@@ -573,7 +573,7 @@ CC: %4$s
   <string name="waitinf_for_sync_message_2">E-postalarınız birazdan görüntülenecek.</string>
   <string name="widget_all_mail">Gelen kutusu kombine</string>
   <string name="widget_loading">Yükleniyor…</string>
-  <string name="widget_no_accounts">"Henüz bir e-posta hesabı kurmadıysanız."</string>
+  <string name="widget_no_accounts">"Henüz bir e-posta hesabı ayarlanmamış."</string>
   <string name="widget_no_mailboxes">"Bu hesap senkronize edilmemiş. Daha sonra tekrar deneyin."</string>
   <string name="widget_other_views">Değiştirmek için simgesine dokunun.</string>
   <string name="widget_starred">Yıldızlı</string>
