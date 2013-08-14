@@ -159,7 +159,7 @@
   <string name="download_dialog_file_length_nolength_error_txt">Dosya boyutu hesaplanamadı!</string>
   <string name="download_dialog_file_length_nolength_txt">Dosya boyutu hesaplanıyor...</string>
   <string name="download_failed">İndirme başarısız</string> 
-  <string name="download_no_sdcard_dlg_msg" formatted="false"> %s indirilmesi için USB depolama gerekiyor.</string>
+  <string name="download_no_sdcard_dlg_msg"> %s indirilmesi için USB depolama gerekiyor.</string>
   <string name="download_no_sdcard_dlg_title">SD kart yok</string>
   <string name="download_pending">İndirme işlemi başlatılıyor…</string>
   <string name="download_sdcard_busy_dlg_msg">SD kart meşgul. İndirme işlemlerine izin vermek için bildirim alanında USB Depolama Birimini Kapat seçeneğine dokunun.</string>
@@ -227,7 +227,6 @@
   <string name="history_most_visited">En çok ziyaret edilenler</string>
   <string name="history_saved_webpage">Web sayfasını kaydet</string>
   <string name="history_track">Geçmiş</string> 
-  <string name="homepage_base">http://www.google.com/webhp?client={CID}&amp;source=android-home</string>
   <string name="homepage_set">Ana sayfa ayarlandı.</string>
   <string name="http">http://</string>
   <string name="import_bookmark">Yer imlerini içe aktar</string>
@@ -262,7 +261,6 @@
   <string name="loading_video">Video yükleniyor…</string>
   <string name="local_bookmarks">Yerel</string>
   <string name="location">Adres</string>
-  <string name="manage_feature_permissions">İzinleri Yönet</string>
   <string name="max_tabs_warning">Kullanılabilir başka sekme yok</string>
   <string name="menu_addtodesk">Masa üstüne ekle</string>
   <string name="menu_disable_night_mode">Gece modunu kapat</string>
@@ -270,14 +268,12 @@
   <string name="menu_enable_night_mode">Gece modunu aç</string>
   <string name="menu_exit">Çıkış</string>
   <string name="menu_hv_swap">Yatay ekrana geç</string>
- <string name="menu_hv_swap2">Dikey ekrana geç</string>
+  <string name="menu_hv_swap2">Dikey ekrana geç</string>
   <string name="menu_preferences">Ayarlar</string>
   <string name="menu_save_snapshot">Çevrimdışı okumak için kaydet</string>
   <string name="menu_share_url">Paylaş</string>
   <string name="menu_theme_setting">Tema Ayarları</string>
   <string name="menu_view_download">İndirme işlemleri</string>
-  <string name="miui_yellowpage_category">Kategori</string>
-  <string name="miui_yellowpage_site">Site</string>
   <string name="move_to_up_folder">Üst Seviye</string>
   <string name="multi_select_title">%1$s öğe seçildi</string>
   <string name="name">Etiket</string>
@@ -291,6 +287,7 @@
   <string name="no_subfolders">Alt klasör yok.</string>
   <string name="not_enough_disk_space_alert">Yetersiz disk alanı</string> 
   <string name="not_remind_again">Tekrar sorma</string>
+  <string name="notif_install_successful">İndirme tamamlandı</string>
   <string name="ok">Tamam</string>
   <string name="open_all_bookmarks">Tümünü aç</string>
   <string name="open_all_in_new_window">Tümünü yeni sekmelerde aç</string>
@@ -338,14 +335,10 @@
   <string name="pref_content_search_engine">Arama motorunu ayarlayın</string>
   <string name="pref_content_search_engine_summary">Arama motorunu seçin</string>
   <string name="pref_content_title">Sayfa içeriği</string>
-  <string name="pref_data_preload_default_value">@string/pref_data_preload_value_wifi_only</string>
   <string name="pref_data_preload_dialogtitle">Arama sonucunu önyükleme</string>
   <string name="pref_data_preload_summary">Tarayıcının yüksek güvenli arama sonuçlarını arka planda önyüklemesine izin ver</string>
   <string name="pref_data_preload_title">Arama sonucunu önyükleme</string>
-   <string name="pref_data_preload_value_never_summary">Tarayıcıya arka planda hassas sonuçları açması için izin vermeyin</string>
-  <string name="pref_data_preload_value_always">ALWAYS</string>
-  <string name="pref_data_preload_value_never">NEVER</string>
-  <string name="pref_data_preload_value_wifi_only">WIFI_ONLY</string>
+  <string name="pref_data_preload_value_never_summary">Tarayıcıya arka planda hassas sonuçları açması için izin vermeyin</string>
   <string name="pref_data_title">Bant genişliği yönetimi</string>
   <string name="pref_default_text_encoding">Metin kodlama</string>
   <string name="pref_default_text_encoding_default">Latin-1</string>
@@ -367,7 +360,6 @@
   <string name="pref_development_uastring">UAString</string>
   <string name="pref_development_viewport">Geniş görünümü kullan</string>
   <string name="pref_development_visual_indicator">Görsel göstergeyi etkinleştir</string>
-  <string name="pref_exit_on_closing_last_tab_enabled_summary">Etkinleştirirseniz son sekme kapandığında tarayıcıdan otomatik olarak çıkılır</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Son sekme kapanınca çık</string>
   <string name="pref_extras_reset_default">Varsayılan ayarlara sıfırla</string>
   <string name="pref_extras_reset_default_dlg">Ayarlar, varsayılan değerlere geri yüklensin mi?</string>
@@ -414,7 +406,7 @@
   <string name="pref_link_prefetch_value_never_summary">Arka planda önyükleme bağlantılı web sayfalarına asla izin verme</string> 
   <string name="pref_link_prefetch_title">Web sayfasını önyükleme</string>
   <string name="pref_min_font_size">Minimum yazı tipi boyutu</string>
-  <string name="pref_min_font_size_value" formatted="false">%d pt</string>
+  <string name="pref_min_font_size_value">%d pt</string>
   <string name="pref_privacy_clear_cache">Ön belleği temizle</string>
   <string name="pref_privacy_clear_cache_dlg">Yerel olarak önbelleğe alınmış içerik ve veritabanları silinsin mi?</string>
   <string name="pref_privacy_clear_cache_summary">Yerel olarak önbelleğe alınmış içeriği ve veritabanlarını temizle</string>
@@ -453,8 +445,6 @@
   <string name="pref_security_show_security_warning_summary">Site güvenliği ile ilgili bir sorun varsa uyarı göster</string>
   <string name="pref_set_homepage_to">Şunu kullan:</string>
   <string name="pref_text_zoom">Metin ölçekleme</string>
-  <string name="pref_ua_mione_entry">MiOne</string>
-  <string name="pref_ua_mione_value">6</string>
   <string name="pref_ua_string">Kullanıcı ajanı</string>
   <string name="pref_ua_title">Kullanıcı ajanı yönetimi</string>
   <string name="pref_use_instant_search">Google Anında Arama</string>
@@ -503,28 +493,21 @@
   <string name="save_to_bookmarks">Yer imlerine kaydet</string>
   <string name="saving_snapshot">Kaydediliyor…</string>
   <string name="search">Ara</string> 
-  <string name="search_139">Ara 139</string>
   <string name="search_baidu">Baidu</string>
   <string name="search_bing">Bing</string>
   <string name="search_button_text">Git</string>
   <string name="search_cancel">İptal</string>
-  <string name="search_dianping">Cate</string>
-  <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
   <string name="search_hint">"Arayın veya adresi yazın"</string>
   <string name="search_label">Tarayıcı</string>
-  <string name="search_s139">139</string>
   <string name="search_settings_description">Favoriler ve web geçmişi</string>
-  <string name="search_shipin">Video</string>
-  <string name="search_sogou">Segou</string>
-  <string name="search_taobao">Taobao</string>
   <string name="search_the_web">Webde ara</string>
   <string name="search_tupian">Resim</string>
   <string name="search_yahoo">Yahoo</string>
-  <string name="search_yicha">Yicha</string>
   <string name="security_warning">Güvenlik uyarısı!!!</string>
   <string name="select_dot">Metin seç</string>
   <string name="selection_all">Tümünü seç</string>
+  <string name="send_bookmark_to_home_screen">Yer imini ev ekranına gönder</string>
   <string name="send_to_desktop">Masa üstüne gönder</string>
   <string name="set_as_homepage">Ana sayfa olarak ayarla</string>
   <string name="share_link">Linki paylaş</string>
@@ -545,6 +528,7 @@
   <string name="ssl_untrusted">Bu sertifika güvenilir bir yetkiliden değil.</string>
   <string name="ssl_warnings_header">Bu sitenin güvenlik sertifikasında sorunlar var.</string>
   <string name="stop">Durdur</string>
+  <string name="stop_loading">Durdur</string>
   <string name="stopping">Durduruluyor...</string>
   <string name="storage_internal">Dahili depolama</string>
   <string name="storage_sd_card">SD kart</string>
@@ -554,6 +538,7 @@
   <string name="tab_history">Geçmiş</string>
   <string name="tab_most_visited">En çok ziyaret edilenler</string>
   <string name="tab_opened_background">Sekme arkaplanda açıldı.</string>
+  <string name="tab_opened_background_in_incognito">Yeni gizli pencere açıldı</string>
   <string name="tab_quicklinks">Hızlı linkler</string>
   <string name="tab_snapshots">Kayıtlı sayfalar</string>
   <string name="tab_yellowpage">Sarı sayfalar</string>
@@ -564,7 +549,8 @@
   <string name="too_many_windows_dialog_title">Sekme sınırına ulaşıldı</string>
   <string name="ua_switcher_desktop">Masaüstü sitesi iste</string>
   <string name="uploads_disabled">Dosya Yüklemeleri devre dışı bırakıldı.</string>
-  <string name="url_hint">Arayın veya url yazın</string>
+  <string name="url_copy_done">URL kopyalandı</string>
+  <string name="url_hint">Arayın veya adresi yazın</string>
   <string name="username">Ad</string>
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="warning">Uyarı</string>
