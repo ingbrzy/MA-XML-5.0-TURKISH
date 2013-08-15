@@ -914,6 +914,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_color_calibration_none">Doğal</string>
     <string name="hdmi_color_calibration_srgb">sRGB</string>
+	<string name="hdmi_3d_display_enable_title">3D Ekran</string>
+    <string name="hdmi_3d_display_enable_summary">3D oyunlar için etkinleştir</string>
   <string name="header_account_settings">Hesap ayarları</string>
   <string name="header_add_an_account">Hesap ekleyin</string>
   <string name="header_application_sync_settings">Uygulama senkronizasyon ayarları</string>

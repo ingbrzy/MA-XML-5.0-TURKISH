@@ -8,7 +8,6 @@
   <string name="account_type_format">%1$s kişi</string>
   <string name="actionIncomingCall">Gelen Çağrılar</string>
   <string name="action_menu_overflow_description">Daha çok ayar</string>
-  <string name="activity_not_found_uri">Desteklenen uygulama bulunamadı!</string> 
   <string name="activity_title_confirm_add_detail">Kişilere ekle</string>
   <string name="activity_title_contacts_filter">Görüntülenecek rehber</string>
   <string name="activity_title_settings">Ayarlar</string>

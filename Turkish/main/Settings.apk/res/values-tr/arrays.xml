@@ -372,4 +372,9 @@
         <item>Gürültü engelleme (bir mikrofon)</item>
         <item>Gürültü engelleme (dva mikrofóny)</item>
     </string-array>
+	<string-array name="media_feedback_level_entries">
+        <item>Güçlü</item>
+        <item>Orta</item>
+        <item>Zayıf</item>
+    </string-array>
 </resources>
