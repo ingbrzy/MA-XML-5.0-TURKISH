@@ -103,7 +103,7 @@
   <string name="ext_media_unmountable_notification_message">SD card storage damaged. You may have to reformat it.</string>
   <string name="ext_media_unmountable_notification_title">Damaged SD card storage</string>
   <string name="filter_item_description">Bildirimlerini görüntülemek istediğiniz uygulamaları seçebilirsiniz </string>
-  <string name="filter_item_preview_image">Ön izleme</string>
+  <string name="filter_item_preview_image">Önizleme bildirimleri</string>
   <string name="gps_notification_found_text">Konum GPS ile belirlendi</string>
   <string name="gps_notification_searching_text">GPS uyduları aranıyor..</string>
   <string name="headset_custom">Özelleştir</string>
@@ -161,7 +161,7 @@
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
   <string name="settings_all_app_display_loading">Yükleniyor..</string>
-  <string name="settings_custom_notification">Özel bildirimler</string> 
+  <string name="settings_custom_notification">Uygulama bildirimleri</string> 
   <string name="settings_expandable_under_fullscreen">Tam ekranda genişlet</string>
   <string name="settings_expandable_under_fullscreen_summary">Ekranı aşağı doğru kaydırın</string>
   <string name="settings_expandable_under_keyguard">Kilit ekranında genişlet</string>
@@ -171,7 +171,7 @@
   <string name="settings_show_flow_info">Trafik bilgisini göster</string>
   <string name="settings_show_network_speed">Ağ hızını göster</string>
   <string name="settings_show_notificationBar_notification">Bildirimleri göster</string>
-  <string name="settings_show_statusBar_notification">Durum çubuğu bildirimlerini göster</string>
+  <string name="settings_show_statusBar_notification">Durum çubuğu bildirimleri</string>
   <string name="settings_status_bar">Durum çubuğu</string>
   <string name="settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
   <string name="settings_toggle_layout_style">Geçiş sitili</string>
