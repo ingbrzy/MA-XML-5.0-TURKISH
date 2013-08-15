@@ -137,7 +137,7 @@
   <string name="status_bar_toggle_auto_brightness">Otomatik-Parlaklık</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Parlaklık</string>
-  <string name="status_bar_toggle_data">Veri</string>
+  <string name="status_bar_toggle_data">MObil Veri</string>
   <string name="status_bar_toggle_divider">Daha</string>
   <string name="status_bar_toggle_drive_mode">Sürüş Modu</string>
   <string name="status_bar_toggle_flight_mode">Uçak Modu</string>
