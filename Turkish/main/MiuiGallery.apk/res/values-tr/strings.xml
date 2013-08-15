@@ -234,6 +234,8 @@
   "</string>
   <string name="operation_refresh">Yenile</string>
   <string name="operation_rename">Adlandır</string>
+  <string name="operation_set_as_screensaver">Ekran koruyucu olarak ayarla</string>
+  <string name="operation_unset_as_screensaver">Ekran koruyucuyu iptal et</string>
   <string name="orientation">Yönlendirme</string>
   <string name="other_category">Diğer ayarlar</string>
   <string name="path">Yol</string>
@@ -266,6 +268,16 @@
   <string name="save_photo">Düzenlenen foto kaydedilsin mi?</string>
   <string name="saving_failure">Foto kaydedilemedi!</string>
   <string name="saving_image">Kaydediliyor...</string>
+  <string name="screensaver_category">Ekran Koruyucu</string>
+  <string name="screensaver_activate_mode">Slayt gösterisi</string>
+  <string name="screensaver_activate_only_charging">Sadece şarj ederken</string>
+  <string name="screensaver_path">Albüm:</string>
+  <string name="screensaver_path_not_set">Ayarlı değil</string>
+  <string name="set_screensaver_path_title">Slayt gösterisi</string>
+  <string name="set_screensaver_path_message">Bu albümdeki fotoğraflar, ekranı kapattıktan 5 saniye sonra ekran koruyucu olarak görüntülenir. Bu uyarı tekrar göster.</string>
+  <string name="screensaver_no_data">Albümde görüntü yok.</string>
+  <string name="slideshow_time_select_title">Slayt gösterisi zamanını seçin</string>
+  <string name="slideshow_time_title">Slayt gösterisi zamanı</string>
   <string name="sd_not_available">SD kart kullanılabilir değil!</string>
   <string name="seconds">saniye</string>
   <string name="select_album">Albümü seç</string>

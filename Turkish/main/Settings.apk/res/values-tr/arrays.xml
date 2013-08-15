@@ -369,8 +369,8 @@
         <item>Doğal</item>
     </string-array>
 	    <string-array name="phone_call_noise_suppression_title">
-        <item>Gürültü engelleme (bir mikrofon)</item>
-        <item>Gürültü engelleme (dva mikrofóny)</item>
+        <item>Gürültü engellemeyi kapat</item>
+        <item>Gürültü engellemeyi etkinleştir</item>
     </string-array>
 	<string-array name="media_feedback_level_entries">
         <item>Güçlü</item>

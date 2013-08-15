@@ -153,6 +153,7 @@
   <string name="do_not_save">İptal</string>
   <string name="download">İndir</string>
   <string name="download_complete">İndirme tamamlandı</string>
+  <string name="download_dialog_default_path_invalid">Belirtilen yol bulunamadı, varsayılan konuma kaydedebilirsiniz!</string>
   <string name="download_default_path_txt">Varsayılan indirme klasörü yolu olarak ayarlayın, tekrar uyarı yapılmaz.</string> 
    <string name="download_dialog_file_length_hint_txt">Dosya boyutu:</string>
   <string name="download_dialog_file_length_lessthan1kb">1K\'dan daha az</string>
