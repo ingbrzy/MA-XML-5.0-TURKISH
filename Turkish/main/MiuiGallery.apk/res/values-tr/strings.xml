@@ -273,11 +273,7 @@
   <string name="screensaver_activate_only_charging">Sadece şarj ederken</string>
   <string name="screensaver_path">Albüm:</string>
   <string name="screensaver_path_not_set">Ayarlı değil</string>
-  <string name="set_screensaver_path_title">Slayt gösterisi</string>
-  <string name="set_screensaver_path_message">Bu albümdeki fotoğraflar, ekranı kapattıktan 5 saniye sonra ekran koruyucu olarak görüntülenir. Bu uyarı tekrar göster.</string>
   <string name="screensaver_no_data">Albümde görüntü yok.</string>
-  <string name="slideshow_time_select_title">Slayt gösterisi zamanını seçin</string>
-  <string name="slideshow_time_title">Slayt gösterisi zamanı</string>
   <string name="sd_not_available">SD kart kullanılabilir değil!</string>
   <string name="seconds">saniye</string>
   <string name="select_album">Albümü seç</string>
@@ -298,6 +294,8 @@
   <string name="set_lock_or_wallpaper">Duvar kağıdı yap</string>
   <string name="set_lockscreen">Kilit ekranı duvar kağıdı yap</string>
   <string name="set_recent_album">Sık kullanılan albüm yap</string>
+  <string name="set_screensaver_path_title">Slayt gösterisi</string>
+  <string name="set_screensaver_path_message">Bu albümdeki fotoğraflar, ekranı kapattıktan 5 saniye sonra ekran koruyucu olarak görüntülenir. Bu uyarı tekrar göster.</string>
   <string name="set_wallpaper">Duvar kağıdı uygulanıyor...</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_i_xiaomi_com">i.xiaomi.com\'a giriş yaparak Cloud deponuzu yönetibilirsiniz</string>
@@ -331,6 +329,8 @@
   <string name="slideshow_interval_dialog_title">Slayt Gösterisi zaman aralığı 0 saniyeden büyük olmalıdır</string>
   <string name="slideshow_interval_invalid">Geçersiz zaman aralığı,1 ile 3600 arasında seçilmelidir, varsayılan zaman aralığı kullanılacak!</string>
   <string name="slideshow_repeat_mode">Tekrarla</string>
+  <string name="slideshow_time_select_title">Slayt gösterisi zamanını seçin</string>
+  <string name="slideshow_time_title">Slayt gösterisi zamanı</string>
   <string name="storage_all_volumes">Tüm depolama cihazları</string>
   <string name="storage_no_space">"Kullanılabilir depolama alanı yok!"</string>
   <string name="straighten">Düzelt</string>

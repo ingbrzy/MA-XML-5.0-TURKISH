@@ -76,6 +76,7 @@
   <string name="call_other_fax">Faksı çağrı yap</string>
   <string name="call_pager">Çağrı yap (çağrı cihazı)</string>
   <string name="call_radio">Çağrı yap (telsiz)</string>
+  <string name="call_record_setting_miui">Çağrı kayıt ayarları</string>
   <string name="call_settings">Ayarlar</string>
   <string name="call_telex">Çağrı yap (teleks)</string>
   <string name="call_tty_tdd">Çağrı yap (TTY/TDD)</string>
@@ -139,7 +140,9 @@
   <string name="clearFrequentsConfirmation_title">Sık kullanılan kişiler listesi temizlensin mi?</string>
   <string name="clearFrequentsProgress_title">Sık kullanılan kişiler temizleniyor...</string>
   <string name="clear_default">Varsayılanları temizle</string>
+  <string name="clear_digits">Telefon numarasını sil</string>
   <string name="click_close">Kapatmak için tıklayın</string>
+  <string name="close_dial_pad">Tuş takımını kapat</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
   <string name="composer_failed_to_get_database_infomation">Veritabanı bilgileri alınamadı.</string>
@@ -204,6 +207,7 @@
   <string name="deleteConfirmation_title">Kişi silinsin mi?</string>
   <string name="delete_call_log_title">Silinecek arama kaydını seçin</string>
   <string name="delete_contact_calllog_title">"Arama kaydını silmek istiyor musunuz?"</string>
+  <string name="delete_dial_input">Sil</string>
   <string name="delete_duplicate">Toplu birleştir</string>
   <string name="delete_duplicate_message">"Birleştiriliyor ... "</string>
   <string name="delete_group_dialog_message"> \"%1$s\" grubunu sil, kişilerin kendilerini silinmez.</string>
@@ -279,6 +283,7 @@
   <string name="device_version_header_bluetooth">Telefonunuzun bluetooth\'unu açın</string>
   <string name="device_version_header_no_bluetooth">Kişileri sim karttan aktar</string>
   <string name="device_version_title">Telefon sürümünü seçin</string>
+  <string name="dial">Çevir</string>
   <string name="dialerDialpadHintText">Arama eklemek için çevir</string>
   <string name="dialer_empty_text_loading">Yükleniyor...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
@@ -941,10 +946,5 @@ Favoriler listenize kişi eklemek için:
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Verileri sil</string>
   <string name="zero_items_selected">Seçili öğe yok</string>  
-    <string name="close_dial_pad">Tuş takımını kapat</string>
-    <string name="dial">Çevir</string>
-    <string name="delete_dial_input">Sil</string>
-    <string name="clear_digits">Telefon numarasını sil</string>
-    <string name="call_record_setting_miui">Çağrı kayıt ayarları</string> 
 </resources>
 
