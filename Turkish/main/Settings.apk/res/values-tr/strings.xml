@@ -1910,6 +1910,9 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
     <string name="title_hdmi_color_calibration">Renk Düzeltme ön ayar</string>
   <string name="total_size">%s Toplam</string>
   <string name="total_size_label">Toplam</string>
+    <string name="touch_title">Dokunmalar</string>
+    <string name="touch_sensitive_title">Dokunma hassasiyeti</string>
+    <string name="touch_sensitive_summary">Cihazınızı kontrol etmek için dokunma hassasiyetini ayarlayın</string>
   <string name="track_frame_time">GPU işleme profili</string>
   <string name="track_frame_time_summary">Adb shell dumpsys gfxinfo içinde işleme süresini ölçer</string>
   <string name="trackball_settings">Trackball</string>
