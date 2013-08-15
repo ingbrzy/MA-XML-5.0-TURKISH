@@ -36,7 +36,7 @@
   <string name="auto_create_recent_album_confirm">Bu özelliği kapatırsanız galeri favori albüm verilerini temizleyecek. Kullanıcının seçtiği albüm işlemden etkilenmeyecek</string>
   <string name="auto_create_recent_album_over_ten_times">Albüm 10 kez açılırsa otomatik olarak favori albümü yap</string>
   <string name="autofix">Otomatik-Düzelt</string>
-  <string name="big_screen_alertdialog_title">Projeksiyon cihazı</string>
+  <string name="big_screen_alertdialog_title">Ekipman</string>
   <string name="bigscrren_slide_exit">TV üzerinden slayt gösterisini kapat</string>
   <string name="browse_category">Fotolara gözat</string>
   <string name="by_email">E-posta</string>

@@ -6,6 +6,9 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Varsayılan olarak ayarla (tekrar sorma)</string>
   <string name="android_lockscreen_glogin_instructions">Kilidi açmak için hesabınızla giriş yapın</string>
+  <string name="app_no_notification">Bildirim yok</string>
+  <string name="app_notificaiton_on_notificationBar">Bildirim çubuğu</string>
+  <string name="app_notificaiton_on_statusBar_and_notificationBar">Durum çubuğu ve bildirimler</string>
   <string name="arbor_day">Ağaç dikme günü</string>
   <string name="autumn_begins">Güz başlangıcı</string>
   <string name="autumn_equinox">Gündönümü</string>

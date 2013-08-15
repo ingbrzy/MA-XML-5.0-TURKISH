@@ -368,4 +368,8 @@
         <item>sRGB</item>
         <item>Doğal</item>
     </string-array>
+	    <string-array name="phone_call_noise_suppression_title">
+        <item>Gürültü engelleme (bir mikrofon)</item>
+        <item>Gürültü engelleme (dva mikrofóny)</item>
+    </string-array>
 </resources>

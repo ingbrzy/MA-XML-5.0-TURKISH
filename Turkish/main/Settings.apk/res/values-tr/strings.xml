@@ -1226,6 +1226,7 @@ please follow the steps to complete installation"</string>
   <string name="no_nearby_wifi">Yakınlarda Wi-Fi ağı tespit edilemedi</string>
   <string name="no_running_services">Hiçbir şey çalışmıyor.</string>
   <string name="no_services">Etkin değil</string>
+  <string name="noise_suppression">Gürültü engelleme</string>
   <string name="normal_date_format">Bölgesel (%s)</string>
   <string name="notification_pulse_title">Bildirim ışığını yakıp söndür</string>
   <string name="notification_sound_dialog_title">Bildirim zil sesini seçin</string>
@@ -1412,6 +1413,8 @@ please follow the steps to complete installation"</string>
   <string name="permission_manage_title">%s yetki detayları</string>
   <string name="permissions_label">İzinler</string>
   <string name="personal_data_section_title">Kişisel veriler</string>
+   <string name="phone_call_noise_suppression">"Gürültü azaltma yöntemini seçin.
+   Kalitesiz aramalar için bir mikrofon özelliğini seçin"</string>
   <string name="phone_info_label">Telefon bilgileri</string>
   <string name="phone_language">Dil</string>
   <string name="phone_language_summary"/>

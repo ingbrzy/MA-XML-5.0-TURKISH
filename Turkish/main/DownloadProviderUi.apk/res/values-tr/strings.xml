@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+    <string name="all_downloads">Tüm indirmeler</string>
+    <string name="app_downloads">%s uygulama indirmesi</string>
   <string name="app_label">İndirmeler</string>
   <string name="button_sort_by_date">Tarihe göre sırala</string>
   <string name="button_sort_by_size">Boyuta göre sırala</string>

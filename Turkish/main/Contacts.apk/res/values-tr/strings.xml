@@ -942,5 +942,10 @@ Favoriler listenize kişi eklemek için:
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Verileri sil</string>
   <string name="zero_items_selected">Seçili öğe yok</string>  
+    <string name="close_dial_pad">Tuş takımını kapat</string>
+    <string name="dial">Çevir</string>
+    <string name="delete_dial_input">Sil</string>
+    <string name="clear_digits">Telefon numarasını sil</string>
+    <string name="call_record_setting_miui">Çağrı kayıt ayarları</string> 
 </resources>
 
