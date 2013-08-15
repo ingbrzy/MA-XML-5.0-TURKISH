@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ContactScreen">SIM kayıtlarını ekle/düzenle</string>
+  <string name="ExportContactScreen">Kişileri SIM karta aktar</string>
   <string name="absent_num">NUMARA YOK</string>
   <string name="accessibility_call_muted">Arama sessizde.</string>
   <string name="accessibility_speakerphone_enabled">Telefon hoparlörü etkin.</string>
