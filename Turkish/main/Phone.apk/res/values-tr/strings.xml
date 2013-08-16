@@ -385,7 +385,7 @@
   <string name="empty_alert">%s gerekli, boş olamaz</string>
   <string name="empty_networks_list">Şebeke bulunamadı.</string>
   <string name="enable">Etkin</string>
-  <string name="enable_antispam_strange_summary">&gt;Bilinmeyen bir numaradan gelen ilk çağrıyı sessize al</string>
+  <string name="enable_antispam_strange_summary">Bilinmeyen bir numaradan gelen ilk çağrıyı sessize al</string>
   <string name="enable_antispam_strange_title">Yabancı çağrıları engelle</string> 
   <string name="enable_disable_administrative">Yönetim</string>
   <string name="enable_disable_advertisements">Reklamlar</string>
