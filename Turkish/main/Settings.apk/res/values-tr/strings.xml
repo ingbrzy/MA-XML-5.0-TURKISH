@@ -723,8 +723,8 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="display_label">Ekran</string>
   <string name="display_order_text">Sıralama ölçütü:</string>
   <string name="display_preview_label">Önizleme:</string>
-  <string name="display_settings">Ekran</string>
-  <string name="display_settings_title">Ekran</string>
+  <string name="display_settings">Ekran Ayarları</string>
+  <string name="display_settings_title">Ekran Ayarları</string>
   <string name="dlg_cancel">İptal</string>
   <string name="dlg_confirm_unmount_text">SD kartı çıkarırsanız, kullanmakta olduğunuz bazı uygulamalar durur ve SD kart yeniden takılıncaya kadar kullanılamayabilir.</string>
   <string name="dlg_confirm_unmount_title">SD kartının bağlantısı kesilsin mi?</string>
@@ -1415,8 +1415,7 @@ please follow the steps to complete installation"</string>
   <string name="permission_manage_title">%s yetki detayları</string>
   <string name="permissions_label">İzinler</string>
   <string name="personal_data_section_title">Kişisel veriler</string>
-   <string name="phone_call_noise_suppression">"Gürültü engelleme yöntemini seçin.
-   Kalitesiz aramalar için Gürültü engelleme özelliğini kapatın."</string>
+   <string name="phone_call_noise_suppression">"Gürültü engelleme yöntemini seçin"</string>
   <string name="phone_info_label">Telefon bilgileri</string>
   <string name="phone_language">Dil</string>
   <string name="phone_language_summary"/>
@@ -1818,7 +1817,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="sound_category_notification_title">Bildirimler</string>
   <string name="sound_category_sound_title">Genel</string>
   <string name="sound_effects_enable_title">Dokunma sesleri</string>
-  <string name="sound_settings">Ses</string>
+  <string name="sound_settings">Ses ve Titreşim Ayarları</string>
   <string name="spellchecker_language">Dil</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
   <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>

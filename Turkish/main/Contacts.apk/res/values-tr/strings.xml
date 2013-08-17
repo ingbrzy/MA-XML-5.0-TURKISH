@@ -283,7 +283,7 @@
   <string name="device_version_header_bluetooth">Telefonunuzun bluetooth\'unu açın</string>
   <string name="device_version_header_no_bluetooth">Kişileri sim karttan aktar</string>
   <string name="device_version_title">Telefon sürümünü seçin</string>
-  <string name="dial">Çevir</string>
+  <string name="dial">Ara</string>
   <string name="dialerDialpadHintText">Arama eklemek için çevir</string>
   <string name="dialer_empty_text_loading">Yükleniyor...</string>
   <string name="dialer_empty_text_no_call_log">Arama kaydı yok</string>
@@ -493,7 +493,7 @@
   <string name="menu_batch_delete">Bir çok kişiyi sil</string>
   <string name="menu_call">Çağrı yap</string>
   <string name="menu_callNumber">Ara %s</string>
-  <string name="menu_call_ip_number"> IP Çağrısı Yap (%s)</string>
+  <string name="menu_call_ip_number">IP Çağrısı Yap (%s)</string>
   <string name="menu_clear_frequents">Temizleme sıklığı</string>
   <string name="menu_copy">Kopyala</string>
   <string name="menu_contacts_filter">Görüntülenecek rehber</string>
