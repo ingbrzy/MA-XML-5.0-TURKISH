@@ -55,9 +55,6 @@
   <string name="audio_mode_earpiece">Kulaklık ahizesi</string>
   <string name="audio_mode_speaker">Hoparlör</string>
   <string name="audio_mode_wired_headset">Kablolu kulaklık</string>
-  <string name="auth_username">Kullanıcı adı</string>
-  <string name="auth_username_summary">Kullanıcı adı kimlik doğrulaması için kullanılır</string>
-  <string name="auth_username_title">Kimlik doğrulama kullanıcı adı</string>
   <string name="auto_answer_delay_entries_delay_10s_miui">10 saniye</string>
   <string name="auto_answer_delay_entries_delay_3s_miui">3 saniye</string>
   <string name="auto_answer_delay_entries_delay_5s_miui">5 saniye</string>
