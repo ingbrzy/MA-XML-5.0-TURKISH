@@ -44,7 +44,7 @@
   <string name="menu_bl_call_log">Engellenen çağrıları görüntüle</string>
   <string name="menu_bl_clear">Kara listeyi temizle</string>
   <string name="menu_bl_remove">Engellemeyi kaldır</string>
-  <string name="menu_bl_sms_log">Engellenen mesaj bilgileri</string>
+  <string name="menu_bl_sms_log">Engellenen mesajları görüntüle</string>
   <string name="menu_call">ARA</string>
   <string name="menu_clear_all_call">Engellenen tüm numaraları kaldır</string>
   <string name="menu_clear_all_sms">Engellenen tüm mesajları kaldır</string>
@@ -70,7 +70,7 @@
   <string name="qm_other_settings_group">Diğer ayarlar</string>
   <string name="qm_other_settings_info">Sessiz mod açıkken aramalar ve mesajlar için eylem ayarlayın</string>
   <string name="qm_repeated_call_setting_title">"Tekrarlanan çağrıları kısıtlama"</string>
-  <string name="qm_repeated_call_summary_3min">Üç dakika içinde aynı kişiden ikinci bir çağrı geldiğinde sessiz olmayacak</string>
+  <string name="qm_repeated_call_summary_3min">Üç dakika içinde aynı kişiden ikinci bir çağrı geldiğinde sessize alınmaz.</string>
   <string name="qm_repeated_call_summary_none">Yinelenen aramalar için bir istisna yapma</string>
   <string name="qm_special_call_setting_group">İzinler</string>
   <string name="qm_summary">Sessiz modu açtığınızda, gelen arama ve mesajlar susturulacak ve telefon uyanmayacaktır!</string>
@@ -92,12 +92,12 @@
   <string name="st_block_mute">Çağrı ve mesajları engelle</string>
   <string name="st_block_private_call_button">Özel numara çağrılarını engelle</string>
   <string name="st_block_title">Engelle ve log tut</string>
-  <string name="st_block_unknown_call">Bilinmeyen numaralardan gelen aramaları engelle</string>
-  <string name="st_block_unknown_sms">Bilinmeyen numaralardan gelen mesajları engelle</string>
+  <string name="st_block_unknown_call">Bilinmeyen num. çağrılarını engelle</string>
+  <string name="st_block_unknown_sms">Bilinmeyen num. mesajları engelle</string>
   <string name="st_call_group">Çağrı</string>
   <string name="st_common_setting_group">Filtreleme ayarları</string>
   <string name="st_filter_keywords_setting_summary1">Bilinmeyen kişilerden gelen mesajlar bloke edilir.</string>
-  <string name="st_filter_keywords_setting_summary2">Virgül kullanarak birden fazla anahtar kelime ekleyebilirsinbiz.</string>
+  <string name="st_filter_keywords_setting_summary2">Virgül kullanarak birden fazla anahtar kelime ekleyebilirsiniz.</string>
   <string name="st_filter_keywords_setting_title">Anahtar kelimeyi ayarla</string>
   <string name="st_filter_keywords_title">Mesajlar için anahtar kelime</string>
   <string name="st_filter_sms_button">Spam mesaj filtresi</string>
@@ -106,10 +106,10 @@
   <string name="st_mute_title">Sessiz Mod</string>
   <string name="st_other_setting_group">Diğer Ayarlar</string>
   <string name="st_settings_name">Ayarlar</string>
-  <string name="st_show_block_notification">Engelleme bildirimlerini görüntüle</string>
+  <string name="st_show_block_notification">Engelleme bildirimlerini göster</string>
   <string name="st_sms_group">Mesajlar</string>
   <string name="tab_blacklist">Kara liste</string>
-  <string name="tab_block_log">Güvenlik duvarı</string>
+  <string name="tab_block_log">Engelleme Logları</string>
   <string name="tab_call">Çağrı logları</string>
   <string name="tab_sms">Mesaj logları</string>
   <string name="tab_title">Anti-Spam</string>
