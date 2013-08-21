@@ -4,10 +4,10 @@
   <string name="all_resources">Tümü</string>
   <string name="all_ringtone_resource">Tümü</string>
   <string name="app_name">Temalar</string>
-  <string name="apply_font_btn_exclude">Fontsuz uygula</string>
-  <string name="apply_font_btn_reboot">Uygula-T.Başlat</string>
-  <string name="apply_font_tip">Yeni font kütüphanesi bazı bölümlerde görünüm bozukluklarına sebep olabilir, bu sorunuçözmek için yeniden başlatın.</string>
-  <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvarkağıdı aktif olmayabilir.</string>
+  <string name="apply_font_btn_exclude">Fontsuz Uygula</string>
+  <string name="apply_font_btn_reboot">Uygula</string>
+  <string name="apply_font_tip">Yeni font kütüphanesi, bazı bölümlerde görünüm bozukluklarına sebep olabilir, bu sorunu çözmek için telefonunuzu tekrar başlatın!</string>
+  <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvar kağıdı hemen uygulanmayabilir.</string>
   <string name="apply_theme_no_select_message">Bileşenleri seç</string>
   <string name="backup_preference_title">Temayı yedekle</string>
   <string name="backup_theme_dialog_message">"Geçerli temayı yedekle"</string>
@@ -23,7 +23,7 @@
   <string name="component_category_style_title">Stiller</string>
   <string name="component_category_title">Temayı düzenle</string>
   <string name="component_category_wallpaper_title">Duvar Kağıtları</string>
-  <string name="component_include_title">İçerdiği bileşen (%1$s)</string>
+  <string name="component_include_title">İçerdiği bileşen: (%1$s)</string>
   <string name="component_lockstyle_personal_title">Ayarlar</string>
   <string name="component_screen_title">Seçili olanı dahil et</string>
   <string name="component_select_title">%1$s Bileşen seçildi</string>
@@ -59,10 +59,10 @@
   <string name="resource_comment_count">%1$s sonuç %2$s toplam yorum(%3$s version)</string>
   <string name="resource_comment_description">%1$s yorum %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Yorum ekle</string>
-  <string name="resource_comment_edit_comment_waiting">Kullanmış olup olmadığını kontrol ediyor</string>
+  <string name="resource_comment_edit_comment_waiting">Kontrol ediliyor...</string>
   <string name="resource_comment_edit_text_default">Yorum yaz</string>
   <string name="resource_comment_edit_title">Yorumu düzenle: %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s inceleme, tıkla ve bak</string>
+  <string name="resource_comment_entry_tips">%1$s inceleme, tıkla ve gözat</string>
   <string name="resource_comment_expand_full_text">Tam metine genişletin</string>
   <string name="resource_comment_invalid">Yıldıza basarak oylayın</string>
   <string name="resource_comment_name_default">Kullanıcı %1$s</string>
@@ -78,8 +78,8 @@
   <string name="resource_comment_version_name">(%1$s version)</string>
   <string name="resource_default">Varsayılan Zil Sesi</string>
   <string name="resource_default_name">Kaynak</string>
-  <string name="resource_delete_all">Seçilen %1$d Tema silinsin mi?</string>
-  <string name="resource_delete_confirm">Bu tema silinsin mi?</string>
+  <string name="resource_delete_all">Seçilen %1$d Temayı silmek istiyor musunuz?</string>
+  <string name="resource_delete_confirm">Temayı silmek istiyor musunuz?</string>
   <string name="resource_delta_update_failed">Yama güncelleme başarısız!</string>
   <string name="resource_delta_update_successful">Yama güncelleme başarılı, %1$s kaydediliyor.</string>
   <string name="resource_detail">Detaylar</string>
@@ -92,7 +92,7 @@
   <string name="resource_get_auth_missing">Tema buradan indirilemiyor, lütfen resmi marketten indirin.</string>
   <string name="resource_get_auth_retrieving">Yetki alınıyor...</string>
   <string name="resource_import_successful">İndirme tamamlandı</string>
-  <string name="resource_importing">Tema içe aktarılıyor</string>
+  <string name="resource_importing">Tema içe aktarılıyor...</string>
   <string name="resource_list_title">Son seçilen</string>
   <string name="resource_local">Yerel %1$s</string>
   <string name="resource_mute">Yok</string>

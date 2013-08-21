@@ -35,10 +35,10 @@
   <string name="carrier_cmcc">%1$s, %2$s, %3$s, %4$s</string>
   <string name="carrier_none_cmcc">%1$s, %2$s, %3$s</string>
   <string name="carrier_query_number_brand">Hizmet markası</string>
-  <string name="carrier_query_number_carrier">Şebeke</string>
+  <string name="carrier_query_number_carrier">Şebeke Operatörü</string>
   <string name="carrier_query_number_location">Nitelik</string>
-  <string name="carrier_query_number_title">Şebekeyi ve desteklenen numarayı ayarla</string>
-  <string name="carrier_settings_button">Hizmet sağlayıcı ayarları</string>
+  <string name="carrier_query_number_title">Şebeke Operatörü ve desteklenen numarayı ayarla</string>
+  <string name="carrier_settings_button">Şebeke Operatörü Ayarları</string>
   <string name="close_txt">Kapat</string>
   <string name="control_app_internet">Ağ kontrol uygulaması</string>
    <string name="current_warning_value">Uyarı değeri:\u0020%s</string>
@@ -87,7 +87,7 @@
   <string name="menu_settings">Şebeke ayarları</string>
   <string name="menu_sort">Sırala</string>
   <string name="menu_sort_by_all_traffic">Toplam trafiğe göre sırala</string>
-  <string name="menu_sort_by_disabled">Devre dışı olan uyg göre sırala</string>
+  <string name="menu_sort_by_disabled">Devre dışı olan uygulamalara göre sırala</string>
   <string name="menu_sort_by_mobile_traffic">2G/3G trafiğine göre sırala</string>
   <string name="menu_sort_by_name">Ada göre sırala</string>
   <string name="menu_traffic_adjust">Trafiği ayarla</string>
@@ -98,7 +98,7 @@
   <string name="notify_carrier_settings_title">Ayarlı hizmet sağlayıcınız yok. Şimdi yapılandırmak istiyor musunuz?</string>
   <string name="notify_traffic_settings_cancel_hint">Trafik izleme ve bildirimler devre dışı. Çıkmak istiyor musunuz?</string>
   <string name="notify_traffic_settings_title">Veri planı yok. Şimdi yapılandırmak istiyor musunuz?</string>
-  <string name="overseas_menu_traffic_adjust">Elle ayarla</string>
+  <string name="overseas_menu_traffic_adjust">Trafiği Ayarla</string>
   <string name="overseas_menu_traffic_settings">Veri trafiği limiti</string>
   <string name="overseas_unknown_traffic_hint">Veri trafiği limiti yok. Şimdi yapılandırmak istiyor musunuz?</string>
   <string name="plate_traffic_already_used">Kullanılan</string>

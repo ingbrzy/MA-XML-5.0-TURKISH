@@ -68,8 +68,8 @@
   <string name="cloud_tab_all">Tümü</string>
   <string name="cloud_tab_locations">Konumlar</string>
   <string name="cloudfolder_already_exists">Cloud klasörü zaten var</string>
-  <string name="confirm_delete">Sil</string>
-  <string name="confirm_delete_album" formatted="false"> %s albümü silinsin mi ( %s öğe içeriyor)?</string>
+  <string name="confirm_delete">Seçilen dosyaları silmek istiyor musunuz?</string>
+  <string name="confirm_delete_album" formatted="false"> %s albümü silmek istiyor musunuz ( %s öğe içeriyor)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false"> %s albümünde %s resim var, Silmek istiyor musunuz?</string>
   <string name="confirm_delete_folders_and_pictures">%s Silmek istiyor musunuz?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s klasör (içeriyor %s)</string>
@@ -83,7 +83,7 @@
   <string name="context_menu_copy">Kopyala</string>
   <string name="context_menu_copy_notice">Seçim panoya kopyalandı</string>
   <string name="context_menu_new_contact">Yeni kişi</string>
-  <string name="context_menu_view_contact">Kişiye bak</string>
+  <string name="context_menu_view_contact">Kişiye gözat</string>
   <string name="contrast">Kontrast</string>
   <string name="create_new_cloud_folder">Yeni Cloud klasörü oluştur</string>
   <string name="crop">Kırp</string>
