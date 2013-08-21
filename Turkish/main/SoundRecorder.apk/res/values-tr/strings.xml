@@ -6,7 +6,8 @@
   <string name="audio_db_artist_name">Kayıtlarınız</string>
   <string name="audio_db_playlist_name">Benim kayıtlarım</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
-  <string name="button_ok">tamam</string>
+  <string name="back">Geri</string>
+  <string name="button_ok">Tamam</string>
   <string name="call_record">Çağrı kayıt(%d)</string>
   <string name="call_record_or">Veya</string>
   <string name="default_record_name">Isimsiz kayıt</string>
@@ -46,6 +47,8 @@
   <string name="notification_warning" Format="false">Düşük hafıza ( %d dakikadan az )...</string>
   <string name="open_file_explorer">Open File Explorer</string>
   <string name="overwrite_dialog_message" Format="false">%s Zaten var. Üzerine yazılsınmı?</string>
+  <string name="pause">Pause</string>
+  <string name="play_record">Play</string>
   <string name="prefDefault_recordType">audio/3gpp</string>
   <string name="prefDialogTitle_recordType">Lütfen dosya türü seçin</string>
   <string name="pref_summary_enable_high_quality">Yüksek kalitede ses dosyası daha büyük olacaktır</string>
@@ -73,16 +76,20 @@
   <string name="rename_duplicate">Duplicate recording name, please re-enter:</string>
   <string name="rename_illegal">Illegal recording name, please re-enter:</string>
   <string name="sd_card_not_available">SD card is not available</string>
+  <string name="search_for_recordings_in_folders">Klasörlerde ara</string>
   <string name="second" formatted="false">%d seconds</string>
   <string name="send_to">Send to</string>
   <string name="sound_recorder_settings">Recording Settings</string>
+  <string name="start_recording">Kaydı başlat</string>
   <string name="status_bar_anti_disturb">Phone has been muted, adjust volume to resume.</string>
   <string name="status_bar_back">Click to return to Recorder</string>
   <string name="status_bar_recording">Recording...</string>
   <string name="status_bar_recording_back">Click to return to Recorder</string>
   <string name="status_bar_recording_pause">"Recording has been paused. "</string>
+  <string name="stop_recording">Kaydı durdur</string>
   <string name="storage_is_full">Storage is full</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Uyg: %1$s azami kayıt süresi %2$s</string>
   <string name="unknown_caller">Unknown caller</string>
+  <string name="view_list_of_recordings">Kayıtlara gözat</string>
 </resources>
