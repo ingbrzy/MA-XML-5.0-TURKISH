@@ -81,7 +81,7 @@
   <string name="resource_delete_all">Seçilen %1$d Temayı silmek istiyor musunuz?</string>
   <string name="resource_delete_confirm">Temayı silmek istiyor musunuz?</string>
   <string name="resource_delta_update_failed">Yama güncelleme başarısız!</string>
-  <string name="resource_delta_update_successful">Yama güncelleme başarılı, %1$s kaydediliyor.</string>
+  <string name="resource_delta_update_successful">Yama güncelleme başarılı, %1$s kaydedildi.</string>
   <string name="resource_detail">Detaylar</string>
   <string name="resource_download">İndir</string>
   <string name="resource_downloaded_title">İndirilen Temalar</string>
