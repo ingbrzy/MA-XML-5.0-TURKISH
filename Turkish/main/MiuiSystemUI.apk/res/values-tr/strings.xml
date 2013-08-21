@@ -171,7 +171,7 @@
   <string name="settings_show_flow_info">Trafik bilgisini göster</string>
   <string name="settings_show_network_speed">Ağ hızını göster</string>
   <string name="settings_show_notificationBar_notification">Bildirimleri göster</string>
-  <string name="settings_show_statusBar_notification">Durum çubuğu bildirimleri</string>
+  <string name="settings_show_statusBar_notification">Durum çubuğu bildirimlerini göster</string>
   <string name="settings_status_bar">Durum çubuğu</string>
   <string name="settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
   <string name="settings_toggle_layout_style">Geçiş sitili</string>

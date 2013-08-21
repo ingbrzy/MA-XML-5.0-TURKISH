@@ -29,6 +29,7 @@
   <string name="attach_subject">Konu</string>
   <string name="attach_take_photo">Fotoğraf Çek</string>
   <string name="attach_video">Video Ekle</string>
+  <string name="back_to_message_list">Mesaj listesine dön</string>
   <string name="batch_delete_confirm_dialog_message">Seçili %1$s mesajı sil</string>
   <string name="batch_delete_thread_confirm_dialog_message">Seçili %1$s mesajı sil</string>
   <string name="batch_deleting_message_progress_message">Seçili mesajlar siliniyor</string>
@@ -86,6 +87,7 @@
   <string name="converting_to_picture_message">Resim mesajına çevriliyor.</string>
   <string name="converting_to_text_message">Metin mesajına çevriliyor.</string>
   <string name="copy_message_text">Mesaj metnini kopyala</string>
+  <string name="copy_message_text_success">Mesaj metni kopyalandı!</string>
   <string name="copy_to_sdcard">Eki kaydet.</string>
   <string name="copy_to_sdcard_fail">Kaydedilemedi.</string>
   <string name="copy_to_sdcard_success">Ek kaydedildi.</string>
@@ -400,10 +402,14 @@
   <string name="select_conversations">Mesaj dizisi seçin</string>
   <string name="select_different_media">Farklı bir %1$s seçin.</string>
   <string name="select_link_title">İşlem seçin</string>
+  <string name="select_local_audio">Ses dosyasını seç</string>
+  <string name="select_local_video">Video dosyasını seç</string>
+  <string name="select_recipient">Alıcıyı seç</string>
   <string name="select_top_text">Metin üstte</string>
   <string name="send">Gönder</string>
   <string name="send_signature_confirm_dialog_message">Mesaj içeriği yok, göndermek istediğinize emin misiniz?</string>
   <string name="send_signature_confirm_dialog_title">Onay gönderiliyor</string>
+  <string name="send_sms">Mesaj Gönder</string>
   <string name="send_to">Kime:%1$s</string>
   <string name="send_to_count">%1$s mesaj başarıyla gönderildi</string>
   <string name="send_to_index_contact">Gönderiliyor %1$s / %2$s...</string>

@@ -81,10 +81,12 @@
   <string name="loading_desktop">Başlatıcı yükleniyor...</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_back_desktop">Geri dön</string>
+  <string name="menu_customize">Ayarları Değiştir</string>
   <string name="menu_edit">Widget\'leri Düzenle</string>
   <string name="menu_exit_scene">MiSpace\'den Çık</string>
   <string name="menu_item_add_item">Ana ekrana ekle</string>
   <string name="menu_launcher_setting">Başlatıcı Ayarları</string>
+  <string name="menu_picktheme">Temayı seç</string>
   <string name="menu_reset_scene">Sahneyi varsayılana sıfırla</string>
   <string name="menu_search">Araştır</string>
   <string name="menu_settings">Sistem Ayarları</string>
@@ -125,6 +127,7 @@
   <string name="screen_button_disabled_message">Ekranın altındaki tuşlar devre dışı. Etkinleştirmek için \"Ev\" ve \"Güç\" tuşlarına basın</string>
   <string name="screen_button_enabled_message">Ekranın altındaki tuşlar etkin</string>
   <string name="screen_rotation_freeze_message">Yatay mod için ekran döndürme kilitli</string>
+  <string name="scroll_tip_format_when_announce_accessibility">Sayfa %1$d, %2$d Uygulama</string>
   <string name="select_frame">Çerçeve</string>
   <string name="select_photo">Fotoğraf</string>
   <string name="sharedUserId"/>

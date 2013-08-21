@@ -45,7 +45,7 @@
     <string name="download_ota_rom">(%s) OTA Güncellemesini indir</string>
     <string name="download_whole_rom">(%s) FULL ROM\'u indir</string>
     <string name="downloading_description">İndiriliyor...</string>
-	<string name="edit_comment">Yorum</string>
+	<string name="edit_comment">Yorum ekle</string>
     <string name="edit_comment_title">Düzenle</string>
 	<string name="edit_text_default">Yorumunuzu yazın</string>
 	<string name="emegency_build">Yapı:</string>
