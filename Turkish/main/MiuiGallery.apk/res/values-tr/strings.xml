@@ -180,7 +180,6 @@
   <string name="kick_sharer">Paylaşımcıyı kaldır</string>
   <string name="kick_sharer_failed">Paylaşımcı kaldırılamadı</string>
   <string name="kick_sharer_successfully">Paylaşımcı başarıyla kaldırıldı</string>
-  <string name="photo_page_always_rotate">Otomatik döndür</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_failure">Foto yüklenemedi!</string>
   <string name="loading_thumbnail">Önizleme resimleri yükleniyor...</string>
@@ -240,6 +239,7 @@
   <string name="other_category">Diğer ayarlar</string>
   <string name="path">Yol</string>
   <string name="people">Kişi</string>
+  <string name="photo_page_always_rotate">Resimleri otomatik döndür</string>
   <string name="photo_page_save_image">Kaydet</string>
   <string name="photo_page_save_uri_image_fail">Foto kaydedilemedi!</string>
   <string name="photo_page_save_uri_image_ok">Fotoyu, kamera fotoları klasörüne kaydet.</string>
