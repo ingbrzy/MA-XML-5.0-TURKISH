@@ -5,11 +5,9 @@
   <string name="app_label">İndirmeler</string>
   <string name="button_sort_by_date">Tarihe göre sırala</string>
   <string name="button_sort_by_size">Boyuta göre sırala</string>
-  <string name="cancel_download_notice">İndirme bildirimini yoksay</string>
   <string name="cancel_running_download">İptal</string>
   <string name="confirm_delete_downloads_message">Seçilen %d indirmeyı silmek istiyor musunuz?</string>
   <string name="confirm_delete_the_download_item_message">İndirirme dosyasını silmek istiyor musunuz?</string>
-  <string name="confirm_disable_download_only_in_wifi_message">"Sadece Wi-Fi üzerinden indir" kapatılırsa, muhtemelen ek veri ücretleri oluşturur. Wi-Fi kapatılsın mı?</string>
   <string name="delete_download">Sil</string>
   <string name="delete_downloads_records">İndirilenleri sil</string>
   <string name="delete_the_downloaded_file">İndirilmiş dosyaları sil.</string>
@@ -25,7 +23,6 @@
   <string name="dialog_queued_body">Bu dosya daha sonra indirilmek üzere sıraya alındı.</string>
   <string name="dialog_title_not_available">İndirme hatası</string>
   <string name="dialog_title_queued_body">Dosya mevcut değil.</string>
-  <string name="disable_download_only_in_wifi_title">“Sadece Wi-Fi ile indir” kapatılıyor</string>
   <string name="download_complete">İndirildi</string>
   <string name="download_error">Hata</string>
   <string name="download_error_insufficient_space">Yetersiz alan</string>
@@ -49,12 +46,10 @@
   <string name="keep_queued_download">Sakla</string>
   <string name="menu_enter_edit_mode">Düzenleyici</string>
   <string name="menu_preferences">Ayarlar</string>
-  <string name="might_lead_to_mobile_charge">"Iptal edildikten sonra, cihazınızdan  hiçbir indirme isteği olamayacak. Bu trafik, artan veri ücretleri yol açabilir."</string>
   <string name="missing_title">Bilinmeyen</string>
   <string name="no_downloads">İndirme yok!</string>
   <string name="open_download">Aç</string>
   <string name="pause_download">Duraklat</string>
-  <string name="pause_download_when_wifi_disconnected">Sadece Wi-Fi ile indir</string>
   <string name="paused_by_app">Duraklatıldı</string>
   <string name="paused_queued_for_wifi">Wi-Fi bağlantısı bekleniyor</string>
   <string name="paused_unknown">Bilinmeyen hata</string>
@@ -63,8 +58,9 @@
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="pref_download_settings_title">Veri kullanımı isteği</string>
-  <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu limiti aşarsa, beni uyar"</string>
-  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s \'ı aşarsa beni uyar</string>
+  <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu, limiti aşarsa beni uyar"</string>
+  <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s \'ı aşarsa Wi-Fi ile indir</string>
+  <string name="pref_summary_any_bytes_popup">Sadece Wi-Fi ile indir</string>
   <string name="pref_title_enable_max_bytes_popup">Veri indirme uyarısı</string>
   <string name="pref_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="preferences_title">Ayarlar</string>

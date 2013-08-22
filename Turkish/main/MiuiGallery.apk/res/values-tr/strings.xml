@@ -180,7 +180,7 @@
   <string name="kick_sharer">Paylaşımcıyı kaldır</string>
   <string name="kick_sharer_failed">Paylaşımcı kaldırılamadı</string>
   <string name="kick_sharer_successfully">Paylaşımcı başarıyla kaldırıldı</string>
-  <string name="landscape_mode">Manzara modunu etkinleştir</string>
+  <string name="photo_page_always_rotate">Otomatik döndür</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_failure">Foto yüklenemedi!</string>
   <string name="loading_thumbnail">Önizleme resimleri yükleniyor...</string>
