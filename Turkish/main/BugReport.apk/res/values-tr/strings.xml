@@ -3,6 +3,7 @@
   <string name="action_submit">Gönder</string>
   <string name="app_label">Geri bildirim</string>
   <string name="btn_send">Gönder</string>
+  <string name="bugreport_feedback_from">Nereden: %s</string>
   <string name="description">Tanımlama (gerekli)</string>
   <string name="discard_draft_dialog_button_cancel">İptal</string>
   <string name="discard_draft_dialog_button_discard">Tamam</string>
