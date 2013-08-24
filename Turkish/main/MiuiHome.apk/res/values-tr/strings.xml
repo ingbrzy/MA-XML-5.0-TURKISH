@@ -140,7 +140,7 @@
   <string name="status_bar_toggle_auto_brightness">Otomatik-Parlaklık</string>
   <string name="status_bar_toggle_bluetooth">BT</string>
   <string name="status_bar_toggle_brightness">Parlaklık</string>
-  <string name="status_bar_toggle_data">MObil Veri</string>
+  <string name="status_bar_toggle_data">Mobil Veri</string>
   <string name="status_bar_toggle_divider">Daha</string>
   <string name="status_bar_toggle_drive_mode">Sürüş Modu</string>
   <string name="status_bar_toggle_flight_mode">Uçak Modu</string>
@@ -186,7 +186,7 @@
   <string name="uninstall_dialog_title_format"> Kaldır: \"%s\"</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Başlıksız</string>
-  <string name="wallpaper_scrolling">tümü</string>
+  <string name="wallpaper_scrolling">Tümü</string>
   <string name="widget_favorite_contacts_edit">Güncelle</string>
   <string name="widget_favorite_contacts_label">Sık Görüşülen Kişiler</string>
   <string name="widget_favorite_contacts_style">Sık Görüşülen Kişiler Stili</string>

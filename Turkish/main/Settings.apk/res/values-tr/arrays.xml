@@ -379,7 +379,7 @@
     </string-array>
 	<string-array name="security_settings_premium_sms_values">
         <item>Sor</item>
-        <item>Yasakla</item>
+        <item>Engelle</item>
         <item>Her zaman izin ver</item>
     </string-array> 
 </resources>

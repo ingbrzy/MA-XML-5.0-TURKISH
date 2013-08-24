@@ -35,7 +35,7 @@
   <string name="clock_instructions">Saati seç</string>
   <string name="close_alarm">Alarmı kapat</string>
   <string name="common_settings">Genel Ayarlar</string>
-  <string name="confirm_abort">Önemsiz</string>
+  <string name="confirm_abort">Yoksay</string>
   <string name="control_set_alarm">Alarmı Ayarla</string>
   <string name="control_set_alarm_with_existing">Alarmı ayarla: %s</string>
   <string name="day">1 gün</string>

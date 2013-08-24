@@ -457,8 +457,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="breathing_light_freq_summary">LED parlamaları arası geçen süre</string>
   <string name="breathing_light_freq_title">LED parlama frekansı</string>
   <string name="brightness">Parlaklık</string>
-  <string name="brightness_auto_adjust_off">Çubuğu kaydırarak parlaklığı elle ayarlayın</string>
-  <string name="brightness_auto_adjust_on">Otomatik paraklık kaydırma çubuğu ile yapılmış ayarlarını değiştirebilir.</string>
+  <string name="brightness_auto_adjust_off">Çubuğu kaydırarak ekran parlaklığını ayarlayın.</string>
+  <string name="brightness_auto_adjust_on">Ekran parlaklığı sensör tarafından otomatik olarak ayarlanır.</string>
   <string name="brightness_summary">Ekranın parlaklığını ayarla</string>
   <string name="bssid_label">BSSID:</string>
     <string name="bugreport_in_power">Güç menüsü hata raporları</string>
@@ -1528,7 +1528,7 @@ please follow the steps to complete installation"</string>
   <string name="radioInfo_service_out">Hizmet dışı</string>
   <string name="radioInfo_unknown">Bilinmiyor</string>
   <string name="radio_controls_summary">Wi-Fi, Bluetooth, uçak modu, mobil ağ ve VPN özelliklerini yönet</string>
-  <string name="radio_controls_title">Diğer…</string>
+  <string name="radio_controls_title">VPN ve İnternet Paylaşımı</string>
   <string name="radio_info_band_mode_label">Radyo bandını seç</string>
   <string name="radio_info_call_redirect_label">Çağrı yeniden yönlendir:</string>
   <string name="radio_info_call_status_label">Çağrı durumu:</string>

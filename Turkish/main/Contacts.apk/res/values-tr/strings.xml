@@ -501,8 +501,8 @@
   <string name="menu_create_contact_shortcut">Ana ekrana yerleştir</string>
   <string name="menu_deleteContact">Sil</string>
   <string name="menu_deleteGroup">Sil</string>
-  <string name="menu_dialpad">Tuş Takımı</string>
-  <string name="menu_discard">Sil</string>
+  <string name="menu_dialpad_text">Tuş Takımı</string>
+  <string name="menu_discard">Yoksay</string>
   <string name="menu_display_all">Tümünü göster</string>
   <string name="menu_display_selected">Seçileni göster</string>
   <string name="menu_doNotSave">İptal</string>
