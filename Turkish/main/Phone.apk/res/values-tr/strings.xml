@@ -750,9 +750,9 @@
   <string name="preferred_network_mode_cdma_only_summary">Şebeke modu: sadece CDMA</string>
   <string name="preferred_network_mode_cdma_summary">Şebeke modu: CDMA</string>
   <string name="preferred_network_mode_dialogtitle">Şebeke modu</string>
-  <string name="preferred_network_mode_evdo_only_summary">Şebeke modu: sadece EvDo</string>
+  <string name="preferred_network_mode_evdo_only_summary">Şebeke modu: Sadece EvDo</string>
   <string name="preferred_network_mode_global_summary">Şebeke modu: Global</string>
-  <string name="preferred_network_mode_gsm_only_summary">Şebeke modu: sadece GSM</string>
+  <string name="preferred_network_mode_gsm_only_summary">Şebeke modu: Sadece GSM</string>
   <string name="preferred_network_mode_gsm_wcdma_summary">Şebeke modu: GSM / WCDMA</string>
   <string name="preferred_network_mode_lte_cdma_evdo_summary">Şebeke modu: CDMA+LTE/EVDO</string>
   <string name="preferred_network_mode_lte_cdma_summary">Şebeke modu: LTE / CDMA</string>
@@ -761,9 +761,9 @@
   <string name="preferred_network_mode_lte_wcdma_summary">Şebeke modu: LTE / WCDMA</string>
   <string name="preferred_network_mode_summary">Şebeke modunu değiştir</string>
   <string name="preferred_network_mode_title">Şebeke modu</string>
-  <string name="preferred_network_mode_wcdma_only_summary">Şebeke modu: satece WCDMA</string>
-  <string name="preferred_network_mode_wcdma_perf_summary">Şebeke modu: WCDMA tercih edilen</string>
-  <string name="preferred_network_type_3g_only_warning_miui">"Tercih ettiğiniz şebeke türü olarak Sadece 3G seçilmiş, SIM kartınızın 3G işlevi yok, hiçbir sinyal alamayacaksınız! Devam etmek için Tamama tıklayın."</string>
+  <string name="preferred_network_mode_wcdma_only_summary">Şebeke modu: Sadece WCDMA</string>
+  <string name="preferred_network_mode_wcdma_perf_summary">Şebeke modu: WCDMA Öncelikli</string>
+  <string name="preferred_network_type_3g_only_warning_miui">"Sadece 3G şebekesini seçtiniz, SIM kartınızın 3G desteği yoksa telefon sinyal alamaz! Devam etmek istiyor musunuz?"</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
   <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
