@@ -1367,6 +1367,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_operating">Uygulanıyor...</string>
   <string name="perm_optimize">Optimize</string>
   <string name="perm_privacy_app_count">%1$d yetkiler</string>
+  <string name="perm_privacy_app_count_trust_summary">Güvenilir uygulama</string>
   <string name="perm_privacy_app_finish">Bitti</string>
   <string name="perm_privacy_app_installed">Yükleme başarılı!</string>
   <string name="perm_privacy_app_launch">Başlat</string>
@@ -1884,6 +1885,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="sync_one_time_sync">" %1$s Senk etmek için dokunun"</string>
   <string name="sync_settings">Hesaplar ve senkronizasyon</string>
   <string name="sync_wifi_label">Wi-Fi Ayarları</string>
+  <string name="sync_wifi_only">Sadece Wi-Fi ile</string>
   <string name="system">Sistem</string>
   <string name="system_package">Sistem güncellemeleri, harici medyaya yüklenemez.</string>
   <string name="system_update_settings_list_item_summary"/>

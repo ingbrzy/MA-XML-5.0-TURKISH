@@ -65,6 +65,7 @@
   <string name="confirm_no_block_positive">"Engelleme ve kurtarma yapma"</string>
   <string name="confirm_no_block_title">"Mesajlara engelleme ve Kurtarma yapma?"</string> 
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
+  <string name="confirm_restore_all_title">Bu numaranın tim mesajları geri yüklensin mi？</string>
   <string name="confirm_restore_positive">Kurtar</string>
   <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string> 
   <string name="context_menu_call">Çağrı</string>
@@ -322,6 +323,7 @@
   <string name="replace_image">Resmi değiştir</string>
   <string name="resent_message">Tekrar gönder</string>
   <string name="resize_image_error_information">Bu resim, yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük.</string>
+  <string name="restore_all_button_msg">Bu numaranın tüm mesajlarını geri yükle</string>
   <string name="restore_blocked_message">Engellenen mesajları kurtar</string> 
   <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>

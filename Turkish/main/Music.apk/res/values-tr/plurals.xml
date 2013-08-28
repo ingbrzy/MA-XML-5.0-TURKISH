@@ -79,5 +79,9 @@
     <plurals name="Nhot_tracks_total">
         <item quantity="other">Hit: %d</item>
         <item quantity="one">%d hit</item>
-    </plurals> 
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">Arama sonucu: %d</item>
+        <item quantity="one">Arama sonucu: %d</item>
+    </plurals> 	
 </resources>

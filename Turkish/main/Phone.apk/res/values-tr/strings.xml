@@ -141,12 +141,14 @@
   <string name="call_record_notification_message_low_space_miui">Yeterli alan olmadığı için kayıt durdu,tıklayıp bakın %s.</string>
   <string name="call_record_notification_message_miui">Tıklayıp bakın %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">SD kart takılmadığı için kayıt durdu.</string>
+  <string name="call_record_notification_message_start_failed">Kayıt cihazı başka bir uygulama tarafından kullanılıyor!</string> 
   <string name="call_record_notification_title_error_miui">Çağrı kaydetme hatası</string>
   <string name="call_record_notification_title_miui">Çağrı kaydı başarılı</string>
   <string name="call_record_path_name_of_sdcard_miui">SD kart</string>
   <string name="call_record_sd_error_miui">SD kart erişim hatası!</string>
   <string name="call_record_sd_space_low_miui">SD kartta yeterli alan yok, temizlik yapıp tekrar deneyin</string>
   <string name="call_record_setting_miui">Çağrı ses kayıt ayarları</string>
+  <string name="call_record_unknown_error">Kayıt sırasında bilinmeyen bir hata oluştu!</string>
   <string name="call_recording_notification_summary_miui">Çağrı ses kaydı tamamlanınca durum çubuğunda göster</string>
   <string name="call_recording_notification_title_miui">Çağrı ses kaydı bildirimi</string>
   <string name="call_recording_prompt_miui">Çağrı ses kaydını aç</string>

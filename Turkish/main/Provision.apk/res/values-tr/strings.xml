@@ -30,6 +30,6 @@
   <string name="traffic_protection_label">Veri trafiği izleme</string>
   <string name="traffic_protection_summary">Veri planı sınırına ulaştığında veri trafiği izleyici size hatırlatacaktır.</string>
   <string name="traffic_protection_text_hint">Veri limitinizi girin.</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;"bilmiyorum. Daha sonra girin."&lt;/u&gt;</string>
-  <string name="use_data">Veriyi aç</string>
+  <string name="traffic_protection_unknown">Bilmiyorum. Daha sonra gireceğim.</string>
+  <string name="use_data">Mobil Veriyi aç</string>
 </resources>
