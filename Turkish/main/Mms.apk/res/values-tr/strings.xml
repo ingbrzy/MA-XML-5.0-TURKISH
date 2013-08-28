@@ -63,9 +63,9 @@
   <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyormusunuz</string>
   <string name="confirm_export_dialog_title">Özel kişiyi kaldır</string>
   <string name="confirm_no_block_positive">"Engelleme ve kurtarma yapma"</string>
-  <string name="confirm_no_block_title">"Mesajlara engelleme ve Kurtarma yapma?"</string> 
+  <string name="confirm_no_block_title">"Mesajlara engelleme ve kurtarma yapma?"</string> 
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
-  <string name="confirm_restore_all_title">Bu numaranın tim mesajları geri yüklensin mi？</string>
+  <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi？</string>
   <string name="confirm_restore_positive">Kurtar</string>
   <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string> 
   <string name="context_menu_call">Çağrı</string>
@@ -111,8 +111,8 @@
   <string name="duration_selector_title">"Slayt süresi "</string>
   <string name="duration_zero">Süre sıfır saniyeden büyük olmalıdır.</string>
   <string name="edit">Düzenle</string>
-  <string name="edit_nickname_for_nocontact">Alıcı eklenmedi, alıcı ekleyip deneyin</string>
-  <string name="edit_nickname_for_nocontact_by_robot">Düzenleme yapmak için arama tıklayın</string>
+  <string name="edit_nickname_for_nocontact">Alıcı eklenmedi. Düzenleme yapmak için bir alıcı ekleyin</string>
+  <string name="edit_nickname_for_nocontact_by_robot">Düzenleme yapmak için bir alıcı ekleyin</string>
   <string name="edit_phrase">Şablon Düzenle</string>
   <string name="edit_slide_activity">Slaydı düzenle</string>
   <string name="edit_slideshow_activity">Slayt gösterisini düzenle</string>
@@ -255,7 +255,7 @@
   <string name="pref_messages_to_save">Saklanacak mesaj sayısı</string>
   <string name="pref_mms_settings_title">Multimedya mesajları (MMS)</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
-  <string name="pref_other_title">Diğer Ayarlar</string>
+  <string name="pref_other_title">Diğer ayarlar</string>
   <string name="pref_sms_theme_title">Tema ayarları</string>
   <string name="pref_summary_allow_si_sl_push">(SI/SL) WAP Push mesajlar  ve bildirimlerine izin verir. </string>
   <string name="pref_summary_delete_limit">Her bir ileti dizisi için %1$s ileti</string>
@@ -423,7 +423,7 @@ Son deneme zamanı: %s."</string>
   <string name="unsticked_conversation">İğne zaten kaldırılmış!</string>
   <string name="unsupported_media_format">Desteklenmeyen %1$s biçimi.</string>
   <string name="view">Göster</string>
-  <string name="view_bookmark">Orjinal mesaja bak</string>
+  <string name="view_bookmark">Orijinal mesaja bak</string>
   <string name="view_message_details">Ayrıntıları görüntüle</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">Tamam</string>
