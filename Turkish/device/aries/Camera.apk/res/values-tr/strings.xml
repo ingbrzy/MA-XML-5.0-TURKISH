@@ -6,13 +6,13 @@
   <string name="accessibility_camera_auto_flashmode">Otomatik Flaş</string>
   <string name="accessibility_camera_flash_closemode">Flaş kapalı</string>
   <string name="accessibility_camera_flashmode">Flaş açık</string>
-  <string name="accessibility_camera_picker">Ön ve arka kamera geçişi</string>
+  <string name="accessibility_camera_picker">Ön ve arka kamera arası geçiş</string>
   <string name="accessibility_camera_switch_back_state">Arka kamera etkin</string>
   <string name="accessibility_camera_switch_front_state">Ön kamera etkin</string>
   <string name="accessibility_close_more_ptions">Diğer ayarları kapat</string>
-  <string name="accessibility_more_ptions_closed">Dier ayarlar kapalı</string>
+  <string name="accessibility_more_ptions_closed">Diğer ayarlar kapalı</string>
   <string name="accessibility_more_ptions_opened">Diğer ayarlar açık</string>
-  <string name="accessibility_open_more_ptions">Diğer ayarlar aç</string>
+  <string name="accessibility_open_more_ptions">Diğer ayarları aç</string>
   <string name="accessibility_review_thumbnail">En son fotoğraf</string>
   <string name="accessibility_shutter_button">Deklanşör tuşu</string>
   <string name="accessibility_skin_beautify_closed">Yüzey düzeltme kapalı</string>
