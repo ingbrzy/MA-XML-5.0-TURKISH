@@ -2,9 +2,23 @@
 <resources>
   <string name="Import">İçe aktar</string>
   <string name="access_sd_fail">"USB belleğe erişilemiyor."</string>
+  <string name="accessibilit_camera_video_switch_picker_and_state">Ön ve arka kameralar arası geçiş etkin</string>
+  <string name="accessibility_camera_auto_flashmode">Otomatik Flaş</string>
+  <string name="accessibility_camera_flash_closemode">Flaş kapalı</string>
+  <string name="accessibility_camera_flashmode">Flaş açık</string>
   <string name="accessibility_camera_picker">Ön ve arka kamera geçişi</string>
+  <string name="accessibility_camera_switch_back_state">Arka kamera etkin</string>
+  <string name="accessibility_camera_switch_front_state">Ön kamera etkin</string>
+  <string name="accessibility_close_more_ptions">Diğer ayarları kapat</string>
+  <string name="accessibility_more_ptions_closed">Dier ayarlar kapalı</string>
+  <string name="accessibility_more_ptions_opened">Diğer ayarlar açık</string>
+  <string name="accessibility_open_more_ptions">Diğer ayarlar aç</string>
   <string name="accessibility_review_thumbnail">En son fotoğraf</string>
   <string name="accessibility_shutter_button">Deklanşör tuşu</string>
+  <string name="accessibility_skin_beautify_closed">Yüzey düzeltme kapalı</string>
+  <string name="accessibility_skin_beautify_opened">Yüzey düzeltme açık</string>
+  <string name="accessibility_switch_to_back_view">Arka kamera</string>
+  <string name="accessibility_switch_to_front_view">Ön kamera</string>
   <string name="accessibility_zoom_control">Zoom kontrolü</string>
   <string name="albums">Albümler</string>
   <string name="aperture">Açıklık</string>
@@ -22,6 +36,7 @@
   <string name="cannot_connect_camera_twice">"Kameraya bağlanamıyor, telefonunuzu yeniden başlatın"</string> 
   <string name="clear_effects">Efektleri temizle</string>
   <string name="close">Kapat</string>
+  <string name="cloud_album_details">Cloud albümü:</string>
   <string name="confirm_change_mode_title">Modu değiştir</string>
   <string name="confirm_change_to_expert_mode_message">Profesyonel moda geçilsin mi?</string>
   <string name="confirm_change_to_simple_mode_message">Basit moda geçilsin mi?</string>
@@ -78,6 +93,7 @@
   <string name="error_fail_to_start_audio_capture">Ses kaydı başlatma hatası. Mikrofon başka bir uygulama tarafından kullanılıyor olabilir.</string>
   <string name="exposure_time">Pozlama süresi</string>
   <string name="file_size">Dosya boyutu</string>
+  <string name="find_cloud_album">Cloud albümü QR kodunu bul</string>
   <string name="find_market_qrcode">İşletme QR kodunu bul</string>
   <string name="find_mecard_qrcode">Kart QR kodunu bul</string>
   <string name="find_other_qrcode">QR kodunu bul</string>
@@ -248,7 +264,7 @@
   <string name="pref_camera_preview_entry_off">Kapalı</string>
   <string name="pref_camera_recordlocation_entry_off">Kapalı</string>
   <string name="pref_camera_recordlocation_entry_on">Açık</string>
-  <string name="pref_camera_recordlocation_title">Kayıt konumu</string>
+  <string name="pref_camera_recordlocation_title">GPS konumunu kaydet</string>
   <string name="pref_camera_redeyereduction_entry_auto">Otomatik</string>
   <string name="pref_camera_redeyereduction_entry_disable">Devre dışı</string>
   <string name="pref_camera_redeyereduction_entry_enable">Etkin</string>
@@ -434,6 +450,7 @@
   <string name="video_reach_size_limit">Boyut sınırına erişildi.</string>
   <string name="video_snapshot_hint">Video kaydederken fotoğraf çekmek için önizleme ekranına dokunun.</string>
   <string name="videocamera_settings_label">Video Ayarları</string>
+  <string name="visit_cloud_album">Cloud albümüne gözat</string>
   <string name="wait">Lütfen bekleyin...</string>
   <string name="web_url_apk_warning">Seçilen QR kodu verilerinizi tehlikeye sokabilecek uygulama içeriyor. Güvenliği doğrulamak için, Google Play Store uygulama bulmalısınız..</string>
   <string name="web_url_warning">QR kodu Web sitesi verilerinizi tehlikeye sokabilir,  MIUI tarayıcı bu QR kodunu kontrol edecektir.</string>
