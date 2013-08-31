@@ -336,7 +336,7 @@
   <string name="pref_camera_whitebalance_title">Beyaz Dengesi</string>
   <string name="pref_camera_zsl_entry_off">Kapalı</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
-  <string name="pref_camera_zsl_title">ZSL</string>
+  <string name="pref_camera_zsl_title">ZSL (Deklanşör tuşu gecikmesi)</string>
   <string name="pref_camera_watermark_title">Tarih etiketi</string>
   <string name="pref_camera_watermark_entry_off">Kapalı</string>
   <string name="pref_camera_watermark_entry_on">Açık</string>

@@ -205,7 +205,8 @@
   <string name="filename_empty_alert_message">"Dosya adı boş olamaz"</string>
   <string name="filename_illegal_alert_message">Dosya adı geçersiz karakterler içeriyor, dosya otomatik olarak kaldırıldı.</string> 
   <string name="find_on_page">Sayfada Bul</string>
-  <string name="folder_name">Klasör ismi</string>
+  <string name="folder_name">Klasör adı</string>
+  <string name="folder_name_too_long">Klasör adı çok uzun!</string>
   <string name="forward">İleri</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s konumunuzu öğrenmek istiyor</string>
@@ -265,18 +266,18 @@
   <string name="max_tabs_warning">Kullanılabilir başka sekme yok</string>
   <string name="menu_addtodesk">Masa üstüne ekle</string>
   <string name="menu_disable_night_mode">Gece modunu kapat</string>
-  <string name="menu_disable_save_bandwidth_mode">Mobil veriyi sınırlamayı devre dışı bırak</string>
+  <string name="menu_disable_save_bandwidth_mode">Mobil veri sınırlamayı devre dışı bırak</string>
   <string name="menu_download_video">Video dosyasını indir</string>
   <string name="menu_enable_night_mode">Gece modunu aç</string>
-  <string name="menu_enable_save_bandwidth_mode">Mobil veriyi sınırla</string>
+  <string name="menu_enable_save_bandwidth_mode">Mobil veri sınırlamayı etkinleştir</string>
   <string name="menu_exit">Çıkış</string>
   <string name="menu_hv_swap">Yatay ekrana geç</string>
   <string name="menu_hv_swap2">Dikey ekrana geç</string>
   <string name="menu_preferences">Ayarlar</string>
-  <string name="menu_save_bandwidth_mode_first_clicked_txt">"Dosyaları ve web sitelerini indirmek için mobil internet kullanmayın"</string>
+  <string name="menu_save_bandwidth_mode_first_clicked_txt">"Dosyaları ve web sitelerini indirmek, resimleri görüntülemek için mobil veri servisi kullanılmayacak!"</string>
   <string name="menu_save_bandwidth_mode_first_clicked_positive_btn_txt">TAMAM</string>
-  <string name="menu_save_bandwidth_mode_open_toast">Mobil veriyi sınırlama etkin</string>
-  <string name="menu_save_bandwidth_mode_close_toast">Mobil veriyi sınırlama devre dışı</string>
+  <string name="menu_save_bandwidth_mode_open_toast">Mobil veri sınırlama etkin</string>
+  <string name="menu_save_bandwidth_mode_close_toast">Mobil veri sınırlama devre dışı</string>
   <string name="menu_save_snapshot">Çevrimdışı okumak için kaydet</string>
   <string name="menu_share_url">Paylaş</string>
   <string name="menu_theme_setting">Tema Ayarları</string>
@@ -314,8 +315,8 @@
   <string name="pref_accessibility_title">Erişilebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Adres çubuğundan girerken, ortak harf kombinasyonları bir tuşa basarak girilebilir</string>
   <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
- <string name="pref_allow_apptabs">Uygulama başına birden fazla sekmeye izin ver</string>
- <string name="pref_autofill_enabled">Formu otomatik doldur</string>
+  <string name="pref_allow_apptabs">Uygulama başına birden fazla sekmeye izin ver</string>
+  <string name="pref_autofill_enabled">Formu otomatik doldur</string>
   <string name="pref_autofill_enabled_summary">Web formlarını tek bir dokunmayla doldurun</string>
   <string name="pref_autofill_profile_editor">Otomatik doldurma metni</string>
   <string name="pref_autofill_profile_editor_summary">Web formlarına otomatik girilecek metni ayarlayın</string>
@@ -441,7 +442,7 @@
   <string name="pref_reading_mode_enabled_title">Okuma modu</string>
   <string name="pref_reading_mode_enabled_title_summary">JavaScript aktifleştirilmeli</string>
   <string name="pref_save_bandwidth_mode_title">Mobil veri kullanımı</string>
-  <string name="pref_save_bandwidth_mode_summary">Etkinleştirildiğinde, tarayıcı dosyaları ve web sitelerini indirmek için mobil internet kullanmaz.</string>
+  <string name="pref_save_bandwidth_mode_summary">Etkinleştirildiğinde tarayıcı, dosyaları ve web sitelerini indirmek için mobil veri servisini kullanmaz.</string>
   <string name="pref_security_accept_cookies">Çerezleri kabul et</string>
   <string name="pref_security_accept_cookies_summary">Sitelere, çerez verilerini kaydetme ve okuma izni ver</string>
   <string name="pref_security_passwords_title">Şifreler</string>

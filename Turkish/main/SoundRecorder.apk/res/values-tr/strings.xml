@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="alert_message_delete_record">Seçili kaydı silmek istiyor musunuz?</string>
+  <string name="alert_message_delete_record">Seçili kayıtları silmek istiyor musunuz?</string>
   <string name="app_name">Ses Kaydedici</string>
   <string name="audio_db_album_name">Ses Kayıtları</string>
   <string name="audio_db_artist_name">Kayıtlarınız</string>
@@ -42,13 +42,13 @@
   <string name="no_file">Kayıt yok</string>
   <string name="notification_playback">Kayıt oynatılıyor…</string>
   <string name="notification_recording">Kayıt ediliyor...</string>
-  <string name="notification_stopped">Kayıt sonlandırıldı</string>
+  <string name="notification_stopped">Kayıt durduruldu</string>
   <string name="notification_warning" Format="false">Düşük hafıza ( %d dakikadan az )...</string>
   <string name="open_file_explorer">Dosya yöneticisini aç</string>
   <string name="overwrite_dialog_message" Format="false">%s Zaten var. Üzerine yazmak istiyor musunuz?</string>
   <string name="pause">Duraklat</string>
   <string name="play_record">Oynat</string>
-  <string name="preference_led_indicator">Ekran kilitlendiğinde kayıt göstergesi</string>
+  <string name="preference_led_indicator">Kayıt göstergesi</string>
   <string name="preference_led_indicator_prompt">Ekran kilitlendiğinde durum çubuğu ve LED göstergesi görüntülenir.</string>
   <string name="preference_record_scenes_dialog_title">Bir kayıt ortamı seçin</string>
   <string name="preference_record_type_dialog_title">Kayıt türünü seçin</string>

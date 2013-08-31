@@ -500,7 +500,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="change_password">Şifreyi değiştir</string>
   <string name="change_security_lock">Kilit açma yöntemini değiştir</string>
   <string name="checkbox_notification_same_as_incoming_call">Bildirimlerde gelen çağrı ses düzeyini kullan</string>
-  <string name="choose_timezone">Saat dilimini seçin</string>
+  <string name="choose_timezone">Zaman dilimini seçin</string>
   <string name="clear_activities">Varsayılanları temizle</string>
   <string name="clear_cache_btn_text">Önbelleği temizle</string>
   <string name="clear_data_dlg_text">Bu uygulamanın tüm verileri kalıcı olarak silinecek. Bu veriler arasında tüm dosyalar, ayarlar, hesaplar, veritabanları vb. yer alıyor.</string>
@@ -640,7 +640,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
     <string name="data_usage_uninstalled_apps_users">Kullanıcılar ve uygulamalar kaldırıldı</string>
   <string name="data_usage_warning_editor_title">Veri kullanım uyarısını ayarla</string>
   <string name="date_and_time">Tarih ve saat ayarları</string>
-  <string name="date_and_time_settings_summary">Tarihi, saati, saat dilimini ve biçimleri ayarla</string>
+  <string name="date_and_time_settings_summary">Tarihi, saati, zaman dilimini ve biçimleri ayarla</string>
   <string name="date_and_time_settings_title">Tarih ve Saat</string>
   <string name="date_and_time_settings_title_setup_wizard">Tarih ve saati ayarla</string>
   <string name="date_picker_title">Tarih</string>
@@ -653,7 +653,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="date_time_date_format">Tarih biçimini seç</string>
   <string name="date_time_set_date">Tarihi ayarla</string>
   <string name="date_time_set_time">Saati ayarla</string>
-  <string name="date_time_set_timezone">Saat dilimini seç</string>
+  <string name="date_time_set_timezone">Zaman dilimini seç</string>
   <string name="date_time_settings">Tarih ve Saat</string>
   <string name="debug_app">Hata ayıklama uygulaması seçin</string>
   <string name="debug_app_not_set">Hata ayıklama uygulaması ayarlanmadı</string>
@@ -1904,8 +1904,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="tether_settings_title_wifi">Taşınabilir Wi-Fi paylaşımı</string>
   <string name="tethering_help_button_text">Yardım</string>
   <string name="time_picker_title">Saat</string>
-  <string name="time_zone_auto_stub">Saat dilimini seç</string>
-  <string name="timezone_settings">Saat Dilimi</string>
+  <string name="time_zone_auto_stub">Zaman dilimini seç</string>
+  <string name="timezone_settings">Zaman Dilimi</string>
     <string name="title_color_calibration">Renk Düzeltme ön ayar</string>
   <string name="title_dolby_control">Dolby Digital Plus Ayarları</string>
   <string name="title_font_size">Yazı boyutu</string>
@@ -2514,9 +2514,9 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xiaomi_money_service">MiKredi</string>  
   <string name="yes">TAMAM</string>
-  <string name="zone_auto">Otomatik saat dilimi</string>
-  <string name="zone_auto_summaryOff">Ağ tarafından sağlanan saat dilimini kullan</string>
-  <string name="zone_auto_summaryOn">Ağ tarafından sağlanan saat dilimini kullan</string>
+  <string name="zone_auto">Otomatik zaman dilimi</string>
+  <string name="zone_auto_summaryOff">Ağ tarafından sağlanan zaman dilimini kullan</string>
+  <string name="zone_auto_summaryOn">Ağ tarafından sağlanan zaman dilimini kullan</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetik olarak sırala</string>
-  <string name="zone_list_menu_sort_by_timezone">Saat dilimine göre sırala</string>
+  <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
 </resources>
