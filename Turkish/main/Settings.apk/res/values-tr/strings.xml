@@ -4,7 +4,7 @@
   <string name="about_settings_summary">Yasal bilgileri, durumlar, yazılım sürümünü görüntüle</string>
   <string name="ac_enable_title">Erişim kontrolünü aç</string>
   <string name="ac_privacy_mode_sum">Korumalı modu kapatmak için Erişim Kontrol şifrenizi girin</string>
-  <string name="ac_privacy_mode_title">Şifreleri etkinleştir</string>
+  <string name="ac_privacy_mode_title">Şifreyi etkinleştir</string>
   <string name="ac_set_apps_title">Uygulamaları koru</string>
   <string name="accelerometer_summary_off">Telefonu döndürürken yönü otomatik değiştir</string>
   <string name="accelerometer_summary_on">Telefonu döndürürken yönü otomatik değiştir</string>
@@ -15,9 +15,9 @@
   "</string>
   <string name="access_control_need_to_unlock">Kilidi açmak için şifre gerekli</string>
   <string name="access_control_no_back_footer">Çıkmak için [icon] ikonuna tıklayın</string>
-  <string name="access_control_password_title">Şifreyi aktif et</string>
+  <string name="access_control_password_title">Şifreyi etkinleştir</string>
   <string name="access_control_recording_intro_header">Şifre koruması için desen çiz</string>
-  <string name="access_control_reset_by_account">Eriim kontrol şifrenizi sıfırlamak için Xiaomi hesabınız ile giriş yapın</string>
+  <string name="access_control_reset_by_account">Erişim kontrol şifrenizi sıfırlamak için Xiaomi hesabınız ile giriş yapın</string>
   <string name="accessibility_enable">Erişebilirliği etkinleştir</string>
   <string name="accessibility_feature_state_off">Kapalı</string>
   <string name="accessibility_feature_state_on">Açık</string>
@@ -70,7 +70,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="accessibility_sync_error">Senkronize hatası</string>
   <string name="accessibility_system_title">Sistem</string>
     <string name="accessibility_toggle_large_text_title">Büyük yazı tipi</string>
-    <string name="accessibility_toggle_large_text_preference_title">büyük yazı tipi</string>
+    <string name="accessibility_toggle_large_text_preference_title">Büyük yazı tipi</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Daha yakından güncelleyin.</string>
     <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Oto ekran büyüteçi</string>
     <string name="accessibility_toggle_screen_magnification_preference_title">Ekran yakınlaştırması</string>
@@ -291,7 +291,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bearer">Taşıyıcı</string>
   <string name="biometric_weak_improve_matching_title">Yüz eşlemeyi iyileştir</string>
   <string name="biometric_weak_liveliness_summary">Kilit açılırken göz kırpmak gerekir</string>
-  <string name="biometric_weak_liveliness_title">canlılık kontrolü</string>
+  <string name="biometric_weak_liveliness_title">Canlılık kontrolü</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_a2dp_profile_summary_connected">Medya sesine bağlanıldı</string>
   <string name="bluetooth_a2dp_profile_summary_use_for">Medya sesi için kullan</string>
@@ -606,8 +606,8 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
   <string name="data_usage_limit_dialog_mobile">"Belirtilen limite ulaşıldığında veri bağlantınız kesilecektir."</string>
   <string name="data_usage_limit_dialog_title">Veri kullanımını sınırlama</string>
   <string name="data_usage_limit_editor_title">Veri kullanım limitini ayarla</string>
-  <string name="data_usage_list_mobile">mobil</string>
-  <string name="data_usage_list_none">hiçbiri</string>
+  <string name="data_usage_list_mobile">Mobil</string>
+  <string name="data_usage_list_none">Hiçbiri</string>
   <string name="data_usage_menu_auto_sync">Oto-Senkronize Veri</string>
   <string name="data_usage_menu_metered">Mobile hotspots</string>
   <string name="data_usage_menu_restrict_background">Arka plan verileri sınırla</string>
@@ -627,7 +627,7 @@ Hangi hesabı senkronize etmek istediğinizi seçmek için, Ayarlar ve Hesaplara
 
 Bu, telefondaki tüm kullanıcıları etkileyecek."</string>	
   <string name="data_usage_restrict_background_title">Arka plan verileri kısıtlansın mı?</string>
-  <string name="data_usage_restrict_denied_dialog">"Moil veri limitini ayarladığınız zaman arkaplan verilerini kısıtlamak mümkün olur."</string>
+  <string name="data_usage_restrict_denied_dialog">"Mobil veri limitini ayarladığınız zaman arkaplan verilerini kısıtlamak mümkün olur."</string>
   <string name="data_usage_summary_title">Veri kullanımı</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
@@ -805,7 +805,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
 
 Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalışmayabilir."</string>
   <string name="enforce_read_external_confirm_title">USB depolama korunsun mu?</string>
-  <string name="enforce_read_external_summary">uygulamaların USB depolamadan veri okumak için izin istemesi gerekir</string>
+  <string name="enforce_read_external_summary">Uygulamaların USB depolamadan veri okumak için izin istemesi gerekir</string>
   <string name="enforce_read_external_title">USB depolamayı koru</string>
   <string name="enter_password">Depolamanın şifresini çözmek için şifre yazın</string>
   <string name="eq_auto">Özelleştir</string>
@@ -899,7 +899,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="game_controller_settings_category">Oyun Kontrolleri</string>  
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
-    <string name="global_change_warning">Bu ayar telefondaki tüm kullanıcılara etki eder.</string>
+    <string name="global_change_warning">Bu ayar telefondaki tüm kullanıcıları etkiler.</string>
     <string name="global_font_change_title">Yazı boyutunu değiştir</string>
     <string name="global_locale_change_title">Dili değiştir</string> 
   <string name="haptic_feedback_enable_title">Dokununca titret</string>
@@ -941,7 +941,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="headset_mode_volume">Sesi ayarla - Aç/Kıs</string>
   <string name="headset_no_contected">Kulaklık bağlı değil</string>
   <string name="headset_settings">Kulaklık ayarları</string>
-  <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Durdurursanız, bazı mevcut işlerinizin kaybına neden olabilir.</string>
+  <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Durdurursanız, mevcut çalışmanızın bir kısmını kaybedebilirsiniz.</string>
   <string name="help_label">Yardım</string>
      <string name="help_url_bluetooth"/>
     <string name="help_url_choose_lockscreen"/>
@@ -990,7 +990,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="intent_sender_data_label">Veri:</string>
   <string name="intent_sender_resource_label">Kaynak:</string>
   <string name="intent_sender_sendbroadcast_text">Yayın gönder</string>
-  <string name="intent_sender_startactivity_text">Aktivite işlemini başlat</string>
+  <string name="intent_sender_startactivity_text">İşlemi başlat</string>
   <string name="internal_format">Dahili depolamayı sil</string>
   <string name="internal_format_summary">Dahili depolamadaki tüm veriler silinir.</string>
   <string name="internal_media_format_button_text">Dahili depolamayı sil</string>
@@ -1154,7 +1154,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="media_format_gesture_prompt">Kilit açma deseninizi çizin</string>
   <string name="media_format_summary">SD karttaki tüm verileri siler</string>
   <string name="media_format_title">SD kartı sil</string>
-  <string name="media_volume_summary">Müzik ve vidyoların ses düzeyini ayarla</string>
+  <string name="media_volume_summary">Müzik ve videoların ses düzeyini ayarla</string>
   <string name="media_volume_title">Medya</string>
   <string name="medium_font">Ortam</string>
   <string name="memory">RAM</string>
@@ -1388,7 +1388,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_su">ROOT yetkilerini yönet</string>
   <string name="perm_su_desc">%1$d ROOT yetkisi için izleniyor</string>
   <string name="perm_su_desc1">ROOT yetkilerini yönet</string>
-  <string name="perm_su_disabled">ROOT yetkilerini devre dışı</string>
+  <string name="perm_su_disabled">ROOT yetkileri devre dışı</string>
   <string name="perm_su_disabled_desc">3.parti yazılımlara ROOT yetkisi vermek cihazınızda yazılım veya donanım sorunlarına neden olabilir.</string>
   <string name="perm_su_disabled_in_stable">ROOT yetkileri MIUI Stabil sürümde kullanılamaz</string>
   <string name="perm_su_disabled_in_stable_desc">"3.parti yazılımlara ROOT yetkisi vermek cihazınızda yazılım veya donanım sorunlarına neden olabilir. MIUI gelistirme sürümü yükleyip ROOT izinlerini yönetebilirsiniz."</string>
@@ -1628,7 +1628,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
     <string name="screensaver_settings_summary_dock">Yuvada iken</string>
     <string name="screensaver_settings_summary_either_long">Yuvada ve ya şarj olurken</string>
     <string name="screensaver_settings_summary_either_short">Her ikiside</string> 
-    <string name="screensaver_settings_summary_sleep">Şarş olurken</string>
+    <string name="screensaver_settings_summary_sleep">Şarj olurken</string>
 	<string name="screensaver_settings_summary_on">Uyku modunda iken güç kablosu bağlandığında ekran koruyucu başlayacak</string> 
     <string name="screensaver_settings_button">Ekran koruyucu ayarları</string>
     <string name="screensaver_settings_disabled_prompt">Telefonun uyku modunu kontrol etmek için, Daydream\'i açın.</string>
@@ -1699,9 +1699,9 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="security_passwords_title">Şifreler</string>
   <string name="security_privacy_settings_title">Güvenlik ve Gizlilik</string>
   <string name="security_relative">Güvenlik ile ilgili</string>
-    <string name="security_settings_billing_desc">Bu uygulama paranızı yükleyebilir:</string> 
+    <string name="security_settings_billing_desc">Bu uygulama faturanızı yükseltebilir:</string> 
   <string name="security_settings_desc">Bu uygulama telefonunuzda şunlara erişebilir:</string>
-  <string name="security_settings_desc_multi">Bu uygulama telefonunuzda şunlara erişebilir. Bu performas düşüşüne neden olabilir, bunun gibi kullanılabilir izinler %1$s benzer çalışan işlemler %2$s:</string>
+  <string name="security_settings_desc_multi">Bu uygulama telefonunuzda şunlara erişebilir. Bu performans düşüşüne neden olabilir, bunun gibi kullanılabilir izinler %1$s benzer çalışan işlemler %2$s:</string>
     <string name="security_settings_premium_sms_desc">Özel SMS Gönder</string>  
   <string name="security_settings_summary">Konumum, ekran kil. açma, SIM kart kil., kim. bilg. dep.kilidini ayarla</string>
   <string name="security_settings_title">Güvenlik</string>
@@ -2051,12 +2051,12 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="use_system_language_to_select_input_method_subtypes">Sistemin dilini kullanın</string>
    <string name="user_account_title">Hesap içeriği</string> 
   <string name="user_add_user_menu">Kullanıcı Ekle</string>
-   <string name="user_add_user_message_long">"Ek kullanıcılar oluşturarak diğer insanlarla bu cihazı paylaşabilirsiniz. Her kullanıcı sistemi kendine özgü uygulama ve duvar kağıtları ile özelleştirebilir. Kullanıcılar ayrıca  WLAN gibi tablet ayarlarını da yapabilirler.
+   <string name="user_add_user_message_long">"Ek kullanıcılar oluşturarak diğer kişilerle bu cihazı paylaşabilirsiniz. Her kullanıcı sistemi kendine özgü uygulama ve duvar kağıtları ile özelleştirebilir. Kullanıcılar ayrıca  WLAN gibi tablet ayarlarını da yapabilirler.
 	
-Eğer yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum sürecinden geçmesi gerekiyor.
+Yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum işlemi gerçekleştirmesi gerekir.
 
 Herhangi bir kullanıcı, diğer tüm kullanıcılar adına güncel uygulama izinlerini kabul ve ya red edebilir."</string>
- <string name="user_add_user_message_short">"Eğer yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum sürecinden geçmesi gerekiyor.
+ <string name="user_add_user_message_short">"Yeni bir kullanıcı oluşturduktan sonra, o kişinin bir kurulum işlemi gerçekleştirmesi gerekir.
 
 Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izinlerini kabul edebilir."</string>
    <string name="user_add_user_title">Kullanıcı ekle</string>
@@ -2197,7 +2197,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="vpn_mppe">PPP şifreleme (MPPE)</string>
   <string name="vpn_name">Adı</string>
   <string name="vpn_no_ca_cert">(sunucuyu doğrulama)</string>
-  <string name="vpn_no_network">Ağ balantısı yok, daha sonra tekrar deneyin.</string>
+  <string name="vpn_no_network">Ağ bağlantısı yok, daha sonra tekrar deneyin.</string>
   <string name="vpn_no_server_cert">(sunucudan alındı)</string>
   <string name="vpn_not_used">(kullanılmıyor)</string>
   <string name="vpn_password">Şifre</string>
@@ -2282,7 +2282,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_empty_list_wifi_off">"Kullanılabilir ağları görmek için, Wi-Fi\'i açın."</string>
   <string name="wifi_empty_list_wifi_on">Wi-Fi ağları aranıyor...</string>
   <string name="wifi_enable">Wi-Fi\'i etkinleştir</string>
-  <string name="wifi_enable_watchdog_service_summary">İnternet bağlantısı iyi olmadıkça Wi-Fi ağı kullanmaz</string>
+  <string name="wifi_enable_watchdog_service_summary">İnternet bağlantısı iyi olmadıkça Wi-Fi ağı kullanılmaz</string>
   <string name="wifi_error">Hata</string>
   <string name="wifi_fail_to_scan">Ağlar taranamıyor!</string>
   <string name="wifi_failed_connect_message">Ağa bağlanma başarısız!</string>
@@ -2413,7 +2413,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_share_add_summary">"Wi-Fi ağlarınızı paylaştığınızda,
   Diğer kullanıcıların ağlarını kullanabilirsiniz"</string>
   <string name="wifi_share_connect">Bağlan</string>
-  <string name="wifi_share_connected_summary">"Başka bir kullanıcını paylaştığı Wi-Fi ağına bağlandınız."</string>
+  <string name="wifi_share_connected_summary">"Başka bir kullanıcının paylaştığı bir Wi-Fi ağına bağlandınız."</string>
   <string name="wifi_share_connected_title">MIUI ile paylaşılan Wi-Fi ağına bağlanıldı</string>
   <string name="wifi_share_count">Paylaşılan %d ağınız var</string>
   <string name="wifi_share_current_network">Geçerli ağ</string>
@@ -2455,7 +2455,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_status_test">Wi-Fi durumu</string>
   <string name="wifi_stopping">Wi-Fi kapatılıyor…</string>
    <string name="wifi_suspend_optimizations">WLAN Optimizasyonu</string>
-   <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirmek için kullanın</string> 
+   <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirir</string> 
   <string name="wifi_tether_checkbox_text">Taşınabilir Hotspot</string>
   <string name="wifi_tether_configure_ap_text">Taşınabilir Hotspot ayarları</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
