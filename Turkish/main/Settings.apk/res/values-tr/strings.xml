@@ -363,9 +363,9 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_enter_pin_msg_hs">"Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"</string>
   <string name="bluetooth_enter_pin_other_device">"Bu PIN\'i diğer cihazda da girmeniz gerekebilir."</string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
-  <string name="bluetooth_ftp_connection_permission_request">Ftp connection request</string>
-  <string name="bluetooth_ftp_remember_choice">"Don\'t ask again"</string>
-  <string name="bluetooth_ftp_request">Ftp request</string>
+  <string name="bluetooth_ftp_connection_permission_request">Ftp bağlantı isteği</string>
+  <string name="bluetooth_ftp_remember_choice">"Tekrar sorma"</string>
+  <string name="bluetooth_ftp_request">Ftp isteği</string>
   <string name="bluetooth_headset_profile_summary_connected">Telefon sesine bağlandı</string>
   <string name="bluetooth_headset_profile_summary_use_for">Telefon sesi için kullan</string>
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazına bağlı</string>
