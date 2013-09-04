@@ -153,6 +153,7 @@
   <string name="importing_progress_private_message">Mesajlar özel mesaj kutunuza aktarılıyor</string>
   <string name="in_sms">Mesaj</string>
   <string name="insufficient_drm_rights">Yetersiz DRM hakları tespit edildi.</string>
+  <string name="invalid_conversation">Sohbet geçersiz!</string>
   <string name="invalid_destination">Geçersiz hedef adresi</string>
   <string name="invalid_recipient_message">Alıcıları düzeltin, aksi takdirde mesajı almayacaklar.</string>
   <string name="kilobyte">KB</string>
