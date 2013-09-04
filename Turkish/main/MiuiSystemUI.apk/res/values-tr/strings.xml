@@ -97,7 +97,7 @@
   <string name="ext_media_nofs_notification_title">Blank SD card storage</string>
   <string name="ext_media_nomedia_notification_message">SD card storage removed. Insert new media.</string>
   <string name="ext_media_nomedia_notification_title">Removed SD card storage</string>
-   <string name="ext_media_safe_remove">Safely remove</string>
+   <string name="ext_media_safe_remove">Güvenli Kaldır</string>
   <string name="ext_media_safe_unmount_notification_message">You can safely remove SD card storage.</string>
   <string name="ext_media_safe_unmount_notification_title">SD card storage safe to remove</string>
   <string name="ext_media_unmountable_notification_message">SD card storage damaged. You may have to reformat it.</string>
