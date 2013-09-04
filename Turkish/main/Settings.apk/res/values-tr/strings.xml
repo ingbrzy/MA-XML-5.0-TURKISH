@@ -713,6 +713,8 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="dirac_mode_earphones">"Xiaomi Kulak İçi Kulaklıkları"</string>
   <string name="dirac_mode_off">Dirac Off</string> 
   <string name="dirac_mode_piston_100">Xiaomi ahize</string>
+    <string name="dirac_switch_title">MiSound</string>
+    <string name="dirac_switch_summary">Hoparlör ses çıkışı için MiSound özelliğini kullanın</string>
   <string name="disableNetwork">disableNetwork</string>
   <string name="disable_overlays">Donanım bindirmelerini kapat</string>
   <string name="disable_overlays_summary">Ekran kompozisyon için GPU kullanımı</string>
