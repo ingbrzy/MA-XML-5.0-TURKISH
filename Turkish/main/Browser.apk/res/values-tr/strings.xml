@@ -70,6 +70,7 @@
   <string name="block">Engelle</string>
   <string name="bookmark_add_to">Ekle</string>
   <string name="bookmark_cannot_save_url">Bu URL yer imi olarak eklenemez.</string>
+  <string name="bookmark_folder_needs_title">Klasörün bir adı olmalıdır.</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Favorinin bir adı olmalıdır.</string>
   <string name="bookmark_needs_url">Favorinin bir konumu olmalıdır.</string>

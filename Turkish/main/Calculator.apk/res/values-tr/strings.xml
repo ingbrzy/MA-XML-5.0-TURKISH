@@ -32,6 +32,8 @@
   <string name="equal">=</string>
   <string name="equalDesc">eşittir</string>
   <string name="equal_on_history">=</string>
+  <string name="switch_to_scientific_pad">Bilimsel görünüme geç</string>
+  <string name="switch_to_standard_pad">Standart görünüme geç</string>
   <string name="error">hata</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">faktöriyel</string>
