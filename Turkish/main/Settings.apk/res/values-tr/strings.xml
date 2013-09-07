@@ -785,7 +785,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="drive_mode_sms_report">SMS</string>
   <string name="drive_mode_title">Sesli raporu ve otomatik cevap ayarla</string>
   <string name="drive_mode_voice_report">Sesli raporu</string>
-  <string name="dtmf_tone_enable_title">Tuş Takımı dokunmatik sesleri</string>
+  <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
   <string name="emergency_tone_summary">Acil çağrı yapıldığında nasıl işlev göreceğini ayarlayın</string>
   <string name="emergency_tone_title">Acil sesi</string>
   <string name="empty_list_msg">Yüklü üçüncü taraf uygulamanız yok.</string>
@@ -1419,7 +1419,7 @@ please follow the steps to complete installation"</string>
   <string name="permission_manage_title">%s yetki detayları</string>
   <string name="permissions_label">İzinler</string>
   <string name="personal_data_section_title">Kişisel veriler</string>
-   <string name="phone_call_noise_suppression">"Gürültü engelleme yöntemini seçin"</string>
+   <string name="phone_call_noise_suppression">"Gürültü Engelleme"</string>
   <string name="phone_info_label">Telefon bilgileri</string>
   <string name="phone_language">Dil</string>
   <string name="phone_language_summary"/>
@@ -1901,7 +1901,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Kullanım istatistikleri</string>
   <string name="testing_wifi_info">Wi-Fi Bilgileri</string>
-  <string name="tether_settings_title_all">İnternet paylaşımı</string>
+  <string name="tether_settings_title_all">İnternet Paylaşımı</string>
   <string name="tether_settings_title_bluetooth">Bluetooth internet paylaşımı</string>
   <string name="tether_settings_title_usb">USB internet paylaşımı</string>
   <string name="tether_settings_title_usb_bluetooth">İnternet paylaşım ayarları</string>
@@ -2212,9 +2212,9 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="vpn_search_domains">DNS arama alan adları</string>
   <string name="vpn_server">Sunucu adresi</string>
   <string name="vpn_settings_password">VPN şifre ayarları</string>
-  <string name="vpn_settings_title">VPN</string>
+  <string name="vpn_settings_title">VPN Ayarları</string>
   <string name="vpn_show_options">Gelişmiş seçenekleri göster</string>
-  <string name="vpn_title">VPN</string>
+  <string name="vpn_title">VPN Ayarları</string>
   <string name="vpn_type">Tür</string>
   <string name="vpn_username">Kullanıcı adı</string>
   <string name="wait_for_debugger">Hata ayıklayıcıyı bekle</string>
@@ -2460,8 +2460,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="wifi_stopping">Wi-Fi kapatılıyor…</string>
    <string name="wifi_suspend_optimizations">WLAN Optimizasyonu</string>
    <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirir</string> 
-  <string name="wifi_tether_checkbox_text">Taşınabilir Hotspot</string>
-  <string name="wifi_tether_configure_ap_text">Taşınabilir Hotspot ayarları</string>
+  <string name="wifi_tether_checkbox_text">İnternet Paylaşımı</string>
+  <string name="wifi_tether_configure_ap_text">İnternet Paylaşımı Ayarları</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
   <string name="wifi_tether_configure_subtext">%1$s %2$s taşınabilir Wi-Fi ortak erişim noktası</string>
   <string name="wifi_tether_enabled_subtext">Taşınabilir ortak erişim noktası %1$s etkin</string>
