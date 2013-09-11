@@ -94,7 +94,7 @@
     <string name="day_of_week_short_friday">Cum</string>
     <string name="day_of_week_short_saturday">Cmt</string>
     <string name="day_of_week_shortest_sunday">P</string>
-    <string name="day_of_week_shortest_monday">P</string>
+    <string name="day_of_week_shortest_monday">Pt</string>
     <string name="day_of_week_shortest_tuesday">S</string>
     <string name="day_of_week_shortest_wednesday">Ç</string>
     <string name="day_of_week_shortest_thursday">P</string>
@@ -182,8 +182,8 @@
     <string name="badPin">Yazdığınız eski PIN doğru değil.</string>
     <string name="badPuk">Yazdığınız PUK doğru değil.</string>
     <string name="mismatchPin">Girdiğiniz PIN kodları eşleşmiyor</string>
-    <string name="invalidPin">4 ila 8 rakamdan oluşan bir PIN girin.</string>
-    <string name="invalidPuk">8 veya daha uzun basamaklı bir PUK kodu yazın.</string>
+    <string name="invalidPin">4 ila 8 rakamdan oluşan bir PIN kodu girin.</string>
+    <string name="invalidPuk">8 veya daha fazla basamaklı bir PUK kodu girin.</string>
     <string name="needPuk">SIM kartınızın PUK kilidi devrede. Kilidi açmak için PUK kodunu yazın.</string>
     <string name="needPuk2">Engellenen SIM kartı açmak için PUK2 kodunu yazın.</string>
     <string name="imei">IMEI</string>
@@ -275,8 +275,8 @@
     <string name="silent_mode_vibrate">Telefon zili titreşimde</string>
     <string name="silent_mode_ring">Telefon zili açık</string>
     <string name="shutdown_progress">Kapatılıyor…</string>
-    <string name="shutdown_confirm">Telefonunuz kapatılacak.</string>
-    <string name="shutdown_confirm_question">Kapatmak istiyor musunuz?</string>
+    <string name="shutdown_confirm">Telefonunuz kapatılacak!</string>
+    <string name="shutdown_confirm_question">Telefonunuzu kapatmak istiyor musunuz?</string>
     <string name="reboot_safemode_title">Güvenli modda yeniden aç</string>
     <string name="reboot_safemode_confirm">Cihazı kapatıp güvenli modda tekrar açmak ister misiniz? Bu işlem, yüklediğiniz tüm üçüncü taraf uygulamaları devre dışı bırakacaktır. Daha sonra tekrar açtığınızda bu uygulamalar geri yüklenecektir.</string>
     <string name="recent_tasks_title">En Son Görevler</string>
@@ -733,7 +733,7 @@
     <string name="keyguard_password_puk_failed">PUK işlemi başarısız!</string>
     <string name="keyguard_label_text">"Kilidi açmak için önce Menü\'ye, sonra 0\'a basın."</string>
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
-    <string name="lockscreen_carrier_default">Hizmet yok!</string>
+    <string name="lockscreen_carrier_default">SERVİS YOK !</string>
     <string name="lockscreen_screen_locked">Ekran kilitli.</string>
     <string name="lockscreen_instructions_when_pattern_enabled">"Kilidi açmak veya acil çağrı yapmak için Menü\'ye basın."</string>
     <string name="lockscreen_instructions_when_pattern_disabled">"Kilidi açmak için Menü\'ye basın."</string>
@@ -760,15 +760,15 @@
     <string name="lockscreen_transport_pause_description">Duraklat düğmesi</string>
     <string name="lockscreen_transport_play_description">Oynat düğmesi</string>
     <string name="lockscreen_transport_stop_description">Durdur düğmesi</string>
-    <string name="emergency_calls_only">Yalnızca acil çağrılar için</string>
+    <string name="emergency_calls_only">SADECE ACİL ÇAĞRILAR !</string>
     <string name="lockscreen_network_locked_message">Ağ kilitli</string>
 	<string name="lockscreen_perso_locked_message">SIM/RUIM kilitlendi</string>
     <string name="lockscreen_sim_error_message_short">Geçersiz kart.</string>
     <string name="lockscreen_sim_error_message">SIM kart geçerli değil.</string>
-    <string name="lockscreen_sim_pin_blocked">PIN1 Bloke oldu! PIN1 engelini kaldırmak için PUK1 kodunu girin.</string>
-    <string name="lockscreen_ruim_pin_blocked">PIN1 Bloke oldu! PIN1 engelini kaldırmak için PUK1 kodunu girin.</string> 
+    <string name="lockscreen_sim_pin_blocked">PIN1 Bloke oldu! PIN1 kilidini açmak için PUK1 kodunu girin.</string>
+    <string name="lockscreen_ruim_pin_blocked">PIN1 Bloke oldu! PIN1 kilidini açmak için PUK1 kodunu girin.</string> 
     <string name="lockscreen_sim_puk_locked_message">SIM kart PUK kilidi devrede.</string>
-    <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberi\'ne bakın veya Müşteri Hizmetleri\'ne başvurun."</string>
+    <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberine bakın veya Müşteri Hizmetlerine başvurun."</string>
     <string name="lockscreen_sim_locked_message">SIM kart kilitli.</string>
     <string name="lockscreen_sim_unlock_progress_dialog_message">SIM kart kilidi açılıyor…</string>
     <string name="lockscreen_too_many_failed_attempts_dialog_message" formatted="false">"Kilit açma deseninizi %d kez yanlış çizdiniz. 
@@ -797,7 +797,7 @@
     <string name="lockscreen_glogin_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
 "<b>google.com/accounts/recovery</b> adresini ziyaret edin.</string>
     <string name="lockscreen_glogin_checking_password">Denetleniyor…</string>
-    <string name="lockscreen_unlock_label">Kilit Aç</string>
+    <string name="lockscreen_unlock_label">Kilidi Aç</string>
     <string name="lockscreen_sound_on_label">Sesi aç</string>
     <string name="lockscreen_sound_off_label">Sesi kapat</string>
     <string name="lockscreen_access_pattern_start">Desen başlatıldı</string>
@@ -820,15 +820,15 @@
 	<string name="web_user_agent_target_content">"Mobil"</string>
     <string name="js_dialog_title">\"%s\" adresindeki sayfada şunlar belirtiliyor:</string>
     <string name="js_dialog_title_default">JavaScript</string>
-    <string name="js_dialog_before_unload">"Bu sayfadan ayrılıyor musunuz?
+    <string name="js_dialog_before_unload">"Bu sayfadan ayrılmak istiyor musunuz?
 
 %s
 
-Devam etmek için Tamam\'ı, mevcut sayfada kalmak için İptal\'i tıklayın."</string>
+Devam etmek için Tamam\'a, mevcut sayfada kalmak için İptal\'e dokunun."</string>
     <string name="save_password_label">Onayla</string>
-    <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez hafifçe vurun.</string>
+    <string name="double_tap_toast">İpucu: Yakınlaştırmak ve uzaklaştırmak için iki kez hafifçe dokunun.</string>
     <string name="autofill_this_form">Otomatik Doldur</string>
-    <string name="setup_autofill">Otomatik doldurma ayarla</string>
+    <string name="setup_autofill">Otomatik doldurma ayarları</string>
     <string name="autofill_address_name_separator">" "</string>
     <string name="autofill_address_summary_name_format">$1$2$3</string>
     <string name="autofill_address_summary_separator">", "</string>
@@ -865,9 +865,9 @@ Devam etmek için Tamam\'ı, mevcut sayfada kalmak için İptal\'i tıklayın."<
     <string name="permdesc_accessContentProvidersExternally">İzin verilen uygulamaya, Uygulama İş Parçacığının dışından içerik sağlayıcılara erişebilme olanağı verir.</string>
     <string name="permlab_updateLock">otomatik cihaz güncellemelerinin yapılmasını engelle</string>
     <string name="permdesc_updateLock">"Cihazın yeni sürüme geçirilmesinde kesintisiz  yeniden başlatmanın ne zaman uygun olacağı bilgisinin sisteme teklif edilmesine izin verir."</string>
-    <string name="save_password_message">Tarayıcının bu şifreyi anımsamasını istiyor musunuz?</string>
+    <string name="save_password_message">Tarayıcının bu şifreyi hatırlamasını istiyor musunuz?</string>
     <string name="save_password_notnow">Şimdi değil</string>
-    <string name="save_password_remember">Anımsa</string>
+    <string name="save_password_remember">Hatırla</string>
     <string name="save_password_never">Hiçbir zaman</string>
     <string name="open_permission_deny">Bu sayfayı açma izniniz yok.</string>
     <string name="text_copied">Metin panoya kopyalandı.</string>
@@ -912,11 +912,11 @@ Devam etmek için Tamam\'ı, mevcut sayfada kalmak için İptal\'i tıklayın."<
     <string name="replace">Değiştir...</string>
     <string name="delete">Sil</string>
     <string name="textSelectionCABTitle">Metin seçimi</string>
-    <string name="addToDictionary">sözlüğe ekle</string>
-    <string name="deleteText">sil</string>
+    <string name="addToDictionary">Sözlüğe ekle</string>
+    <string name="deleteText">Sil</string>
     <string name="inputMethod">Giriş yöntemi</string>
     <string name="editTextMenuTitle">Metin eylemleri</string>
-    <string name="low_internal_storage_view_title">Depolama alanı bitiyor</string>
+    <string name="low_internal_storage_view_title">Depolama alanı azalıyor</string>
     <string name="low_internal_storage_view_text">Bazı sistem işlevleri çalışmayabilir</string>
     <string name="loading">Yükleniyor...</string>
     <string name="capital_on">AÇIK</string>
@@ -933,20 +933,22 @@ Devam etmek için Tamam\'ı, mevcut sayfada kalmak için İptal\'i tıklayın."<
     <string name="anr_title" />
     <string name="anr_activity_application">"%2$s uygulaması yanıt vermiyor.
 
-Kapatmak ister misiniz?"</string>
+Kapatmak istiyor musunuz?"</string>
     <string name="anr_activity_process">"%1$s işlemi yanıt vermiyor.
 
-Kapatmak ister misiniz?"</string>
-    <string name="anr_application_process">%1$s uygulaması yanıt vermiyor. Kapatmak ister misiniz?</string>
+Kapatmak istiyor musunuz?"</string>
+    <string name="anr_application_process">%1$s uygulaması yanıt vermiyor.
+	
+Kapatmak istiyor musunuz?</string>
     <string name="anr_process">"%1$s işlemi yanıt vermiyor.
 
-Kapatmak ister misiniz?"</string>
+Kapatmak istiyor musunuz?"</string>
     <string name="force_close">Tamam</string>
     <string name="report">Bildir</string>
     <string name="wait">Bekle</string>
     <string name="webpage_unresponsive">"Sayfa yanıt vermiyor.
 
-Kapatmak ister misiniz?"</string>
+Kapatmak istiyor musunuz?"</string>
     <string name="launch_warning_title">Uygulama yönlendirildi</string>
     <string name="launch_warning_replace">%1$s şimdi çalışıyor.</string>
     <string name="launch_warning_original">İlk olarak %1$s başlatıldı.</string>
@@ -956,12 +958,12 @@ Kapatmak ister misiniz?"</string>
     <string name="smv_application">%1$s uygulaması (%2$s işlemi) kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
     <string name="smv_process">%1$s işlemi kendiliğinden uyguladığı StrictMode politikasını ihlal etti.</string>
     <string name="android_upgrading_title">Android yeni sürüme geçiriliyor...</string>
-    <string name="android_upgrading_apk">%1$d/%2$d Uygulamalar güncelleniyor</string>
-    <string name="android_upgrading_starting_apps">Uygulamalar başlatılıyor</string>
-    <string name="android_upgrading_complete">Açılış tamamlanıyor</string>
+    <string name="android_upgrading_apk">Uygulamalar güncelleniyor %1$d/%2$d</string>
+    <string name="android_upgrading_starting_apps">Uygulamalar başlatılıyor...</string>
+    <string name="android_upgrading_complete">Açılış tamamlanıyor...</string>
     <string name="heavy_weight_notification">%1$s çalışıyor</string>
     <string name="heavy_weight_notification_detail">Uygulamaya geçiş yapmak için dokunun</string>
-    <string name="heavy_weight_switcher_title">Uygulama değiştirilsin mi?</string>
+    <string name="heavy_weight_switcher_title">Uygulama değiştirmek istiyor musunuz?</string>
     <string name="heavy_weight_switcher_text">Başka bir uygulama zaten çalışıyor. Yeni bir uygulama başlatmadan bu uygulama durdurulmalıdır.</string>
     <string name="old_app_action">%1$s öğesine geri dön</string>
     <string name="old_app_description">Yeni uygulamayı başlatmayın.</string>
@@ -1009,10 +1011,10 @@ Kapatmak ister misiniz?"</string>
     <string name="sms_control_yes">İzin ver</string>
     <string name="sms_control_no">Reddet</string>
     <string name="sim_removed_title">SIM kart çıkarıldı</string>
-    <string name="sim_removed_message">Geçerli bir SIM kart yerleştirilmiş olarak yeniden başlatana kadar mobil ağ kullanılamayacak.</string>
+    <string name="sim_removed_message">Geçerli bir SIM kart yerleştirilmiş olarak tekrar başlatana kadar mobil veri ağı kullanılamayacak.</string>
     <string name="sim_done_button">Tamamlandı</string>
     <string name="sim_added_title">SIM kart eklendi</string>
-    <string name="sim_added_message">Mobil ağa erişmek için cihazınızı yeniden başlatın.</string>
+    <string name="sim_added_message">Mobil veri ağına erişmek için cihazınızı tekrar başlatın.</string>
     <string name="sim_restart_button">Tekrar başlat</string>
     <string name="time_picker_dialog_title">Saati ayarlayın</string>
     <string name="date_picker_dialog_title">Tarihi ayarlayın</string>
@@ -1025,11 +1027,11 @@ Kapatmak ister misiniz?"</string>
     <string name="perms_new_perm_prefix">" "<font size="12" fgcolor="#ff900000">YENİ: </font>" "</string>
     <string name="perms_description_app">Sağlayan: %1$s.</string>
     <string name="usb_storage_activity_title">USB yığın belleği</string>
-    <string name="usb_storage_title">USB bağlandı</string>
+    <string name="usb_storage_title">USB  bağlantısı kuruldu</string>
     <string name="usb_storage_message">"Cihazınızı USB ile bilgisayarınıza bağladınız. Bilgisayarınız ile Android\'inizin USB belleği arasında dosya kopyalamak istiyorsanız aşağıdaki düğmeye dokunun."</string>
     <string name="usb_storage_button_mount">USB belleği aç</string>
     <string name="usb_storage_error_message">USB belleğinizi USB yığın belleği amaçlı kullanmayla ilgili bir sorun var.</string>
-    <string name="usb_storage_notification_title">USB bağlandı</string>
+    <string name="usb_storage_notification_title">USB bağlantısı kuruldu</string>
     <string name="usb_storage_notification_message">Bilgisayarınıza/bilgisayarınızdan dosya kopyalamak için dokunun.</string>
     <string name="usb_storage_stop_notification_title">USB belleği kapat</string>
     <string name="usb_storage_stop_notification_message">USB belleği kapatmak için dokunun.</string>
@@ -1055,7 +1057,7 @@ Kapatmak ister misiniz?"</string>
     <string name="configure_input_methods">Giriş yöntemlerini ayarla</string>
     <string name="use_physical_keyboard">Fiziksel klavye</string>
     <string name="hardware">Donanım</string>
-    <string name="select_keyboard_layout_notification_title">Klavye düzeni seçin</string>
+    <string name="select_keyboard_layout_notification_title">Bir klavye düzeni seçinaygı</string>
     <string name="select_keyboard_layout_notification_message">Bir klavye düzeni seçmek için dokunun.</string>
     <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
@@ -1115,7 +1117,7 @@ izin isteğinde bulunuldu."</string>
     <string name="submit">Gönder</string>
     <string name="car_mode_disable_notification_title">Sürüş modu etkin</string>
     <string name="car_mode_disable_notification_message">Sürüş modundan çıkmak için dokunun.</string>
-    <string name="tethered_notification_title">Doğrudan bağlantı veya ortak erişim noktası etkin</string>
+    <string name="tethered_notification_title">İnternet paylaşımı etkinleştirildi</string>
     <string name="tethered_notification_message">Kurulum için dokunun.</string>
     <string name="back_button_label">Geri</string>
     <string name="next_button_label">İleri</string>
@@ -1172,7 +1174,7 @@ izin isteğinde bulunuldu."</string>
     <string name="keyboardview_keycode_delete">Sil</string>
     <string name="keyboardview_keycode_done">Bitti</string>
     <string name="keyboardview_keycode_mode_change">Mod değiştirme</string>
-    <string name="keyboardview_keycode_shift">ÜstKrkt</string>
+    <string name="keyboardview_keycode_shift">ÜstKarakter</string>
     <string name="keyboardview_keycode_enter">Giriş</string>
     <string name="activitychooserview_choose_application">Bir uygulama seçin</string>
     <string name="shareactionprovider_share_with">Şununla paylaş:</string>
@@ -1202,7 +1204,7 @@ izin isteğinde bulunuldu."</string>
     <string name="data_usage_3g_limit_title">2G-3G verileri devre dışı</string>
     <string name="data_usage_4g_limit_title">4G verileri devre dışı</string>
     <string name="data_usage_mobile_limit_title">Mobil veriler devre dışı</string>
-    <string name="data_usage_wifi_limit_title">Kablosuz veri devre dışı bırkldı</string>
+    <string name="data_usage_wifi_limit_title">Kablosuz veri devre dışı bırakıldı</string>
     <string name="data_usage_limit_body">Etkinleştirmek için dokunun.</string>
     <string name="data_usage_3g_limit_snoozed_title">2G-3G veri limiti aşıldı</string>
     <string name="data_usage_4g_limit_snoozed_title">4G veri limiti aşıldı</string>
