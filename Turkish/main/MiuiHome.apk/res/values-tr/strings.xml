@@ -171,7 +171,7 @@
   <string name="resource_no_result">Sonuç yok</string>
   <string name="resource_notification_default">Bildirimler</string>
   <string name="resource_online">Online %1$s</string>
-  <string name="resource_price_format">(%1$s)</string
+  <string name="resource_price_format">(%1$s)</string>
   <string name="resource_price_free">Ücretsiz</string>
   <string name="resource_price_unit">MiKredisi</string>
   <string name="resource_ringtone_default">Zil Sesleri</string>
