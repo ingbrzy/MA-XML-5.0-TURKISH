@@ -71,6 +71,7 @@
   <string name="durationformatshort">%2$d:%5$02d</string>
   <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="empty_edit_hint">Şarkı bilgisi kullanılamaz</string>
+  <string name="empty_track_list">Parça listesi yok</string>
   <string name="emptyplaylist">Seçilen çalma listesi boş.</string>
   <string name="enter_sleep_mode">Uyku modunu ayarla</string>
   <string name="equalizer">Ekolayzır</string>

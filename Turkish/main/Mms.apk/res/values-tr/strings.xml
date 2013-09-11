@@ -16,6 +16,7 @@
   <string name="add_subject">Kişi ekle</string>
   <string name="add_timing">Zamanlama</string>
   <string name="add_video">Video ekle</string>
+  <string name="addBlackList">Kara listeye ekle</string>
   <string name="adding_attachments">Öğeler slayt gösterisine eklenirken bekleyin.</string>
   <string name="adding_attachments_title">Ekler ekleniyor</string>
   <string name="adding_recipients">Alıcılar ekleniyor</string>
@@ -30,6 +31,7 @@
   <string name="attach_take_photo">Fotoğraf Çek</string>
   <string name="attach_video">Video Ekle</string>
   <string name="back_to_message_list">Mesaj listesine dön</string>
+  <string name="batch_adding_progress_message">Ekleniyor...</string>
   <string name="batch_delete_confirm_dialog_message">Seçili %1$s mesajı sil</string>
   <string name="batch_deleting_message_progress_message">Seçili mesajlar siliniyor</string>
   <string name="batch_deleting_progress_message">Seçili tartışmalar siliniyor...</string>
@@ -51,6 +53,7 @@
   <string name="close">Kapat</string>
   <string name="compressing">Resim çok büyük, sıkıştırılıyor...</string>
   <string name="confirm">Onayla</string>
+  <string name="confirm_add_blacklist_dialog_dspt">Kara listeye eklemek istiyor musunuz?</string>
   <string name="confirm_delete_SIM_message">SIM mesajı silinecek.</string>
   <string name="confirm_delete_all_SIM_messages">SIM mesajları silinecek.</string>
   <string name="confirm_delete_all_conversations">Tüm konular silinecek.</string>
@@ -135,6 +138,7 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="fetion_prefix">[Aç]</string>
+  <string name="file_share_message_description">Dosyaları paylaş</string>
   <string name="flatshow_page_no">Sayfa %1$d</string>
   <string name="forward_prefix">"ILT: "</string>
   <string name="found_old_messages">Eski telefonunuzda %1$s hesabı bulundu. Güncel hesabınıza yüklemek istiyor musunuz: %2$s?</string>

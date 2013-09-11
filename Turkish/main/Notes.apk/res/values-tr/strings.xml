@@ -123,8 +123,8 @@
   <string name="ticker_syncing">Notlar eşitleniyor...</string>
   <string name="time_picker_dialog_title">Hatırlatma zamanı ayarla</string>
   <string name="toast_message_add_image_fail">Resim eklenemedi!</string>
-  <string name="toast_note_privacy_mode">Korumalı modda, notları düzenleyebilirsiniz</string>
-  <string name="toast_folder_privacy_mode">Korumalı modda, klasörleri düzenleyebilirsiniz</string>
+  <string name="toast_note_privacy_mode">Korumalı modda notlar düzenlenemez</string>
+  <string name="toast_folder_privacy_mode">Korumalı modda klasörler düzenlenemez</string>
   <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız!</string>
   <string name="toast_reach_text_limit_attachment">Notun içeriği yeni ek eklemek için çok uzun.</string>
   <string name="toast_reach_text_limit_truncate">"Notun içeriği kesildi çünkü çok uzun."</string>
