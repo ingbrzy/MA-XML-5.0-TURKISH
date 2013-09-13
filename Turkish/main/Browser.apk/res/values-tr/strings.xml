@@ -102,7 +102,7 @@
   <string name="choosertitle_sharevia">Şunu kullanarak paylaş:</string>
   <string name="clear">Temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
-  <string name="clear_history_group">%s Geçmişini temizle</string>
+  <string name="clear_history_group">Geçmişi temizle</string>
   <string name="clip_dialog_title">Kopyalanan link açılsın mı?</string>
   <string name="close_all_tab_alert_message">Tüm kartları kapatmak istediğinizden emin misiniz?</string>
   <string name="close_all_tab_alert_title">Tüm kartları kapat</string>

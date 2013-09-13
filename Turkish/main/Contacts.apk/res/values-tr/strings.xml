@@ -784,6 +784,7 @@ Favoriler listenize kişi eklemek için:
   <string name="ret_sign">" "</string>
   <string name="returnCall">Çağrıya dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>
+  <string name="save">Kaydet</string> 
   <string name="save_photo_progress">Fotoğraf kaydediliyor...</string>
   <string name="savingContact">Kişi kaydediliyor…</string>
   <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor...</string>
