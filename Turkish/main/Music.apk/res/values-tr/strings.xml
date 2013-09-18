@@ -110,7 +110,7 @@
   <string name="keep_quit_position_settings">Son konumu kaydet</string>
   <string name="keep_quit_position_summary">Müzik çalar tekrar başlayınca şarkı kaldığı yerden devam eder</string>
   <string name="listen_to_music_online_settings">Çevrim içi  dinle</string>
-  <string name="listen_to_online_summary">Wi-Fi veya modil şebeke ile dinle</string>
+  <string name="listen_to_online_summary">Wi-Fi veya mobil şebeke ile dinle</string>
   <string name="load_album_artist_failed">Albüm yüklenemedi. Tekrar deneyin.</string>
   <string name="load_album_artist_in_process">Albüm yükleniyor...</string>
   <string name="load_album_failed">Albüm yüklenemedi. Tekrar deneyin</string>
