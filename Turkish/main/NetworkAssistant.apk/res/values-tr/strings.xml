@@ -42,6 +42,15 @@
   <string name="close_txt">Kapat</string>
   <string name="control_app_internet">Ağ kontrol uygulaması</string>
    <string name="current_warning_value">Uyarı değeri:\u0020%s</string>
+  <string name="custom_adjust_command">Gönderenden gelen içerik</string>
+  <string name="custom_adjust_command_hit">Gönderme içeriği</string>
+  <string name="custom_adjust_is_empty">%s boş!</string>
+  <string name="custom_adjust_receiver">Alma numarası</string>
+  <string name="custom_adjust_receiver_hint">Ayrıntıları göndermek için kullanılan taşıyıcı numarası.</string>
+  <string name="custom_adjust_recevier_same_with_sender">Gönderici numarası ile aynı</string>
+  <string name="custom_adjust_sender">Gönderici numarası</string>
+  <string name="custom_adjust_sender_hint">Kullanıcıdan sorgu ayrıntıları almak için kullanılan taşıyıcı numarası</string>
+  <string name="custom_adjust_title">Özel Ayarlar</string>
    <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
    <string name="custom_adjust_title">Özel ayarlar</string>
    <string name="custom_adjust_sender">Gönderen</string>
@@ -137,6 +146,7 @@
   <string name="sync_traffic_fail_title">Senkronize başarısız</string>
   <string name="sync_traffic_ing">Operatör ile senkronize oluyor, bekleyin...</string>
   <string name="sync_traffic_no_cmd_detail">"Aşağıdaki forumu takip ederek ülke şehir ve taşıyıcı bilgilerini gönderin http://www.miui.com/forum-172-1.html. Teşekkürler."</string>
+  <string name="sync_traffic_no_cmd_detail_custom_config">"Şunları yapabilirsiniz: 1.Ayarlar &gt;&gt; Veri trafiğini ayarla &gt;&gt; Özel ayarlar, ya da Trafik ayarları sayfasında &gt;&gt; Özel ayarlar; 2. Şehrinizi seçin ve aşağıdaki forumu takip edin: http://www.miui.com/forum-172-1.html"</string>
   <string name="sync_traffic_no_cmd_title">SMS şablonu yok</string>
   <string name="sync_traffic_no_cmd_detail_custom_config">"Kullanmak istediğiniz değeri elle ayarlayabilirsiniz"</string> 
   <string name="sync_traffic_success">"Operatör verileri senkronize edildi, trafik başarıyla ayarlandı"</string>

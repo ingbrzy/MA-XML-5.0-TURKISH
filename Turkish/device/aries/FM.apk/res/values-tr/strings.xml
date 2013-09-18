@@ -4,6 +4,7 @@
   <string name="access_sd_fail">"SD karta erişilemiyor."</string>
   <string name="alert_dialog_cancel">İptal</string>
   <string name="alert_dialog_ok">Tamam</string>
+  <string name="alert_invalid_frequency">Geçersiz frekans!</string>
   <string name="alert_message_delete_station">Seçili kanalı silmek istediğinizden emin misiniz?</string>
   <string name="alert_title_delete">Sil</string>
   <string name="alert_title_new_station">Yeni kanal</string>
@@ -19,8 +20,13 @@
   <string name="auto_select_af">Alternatif Frekans</string>
   <string name="auto_select_af_summary">İlk sinyal zayıfladığında, varsa aynı kanalın farklı frekansına geçiş yapın.</string>
   <string name="button_text_stop">Durdur</string>
+  <string name="context_menu_item_delete">Sil</string>
+  <string name="context_menu_item_edit">Düzenle</string>
+  <string name="context_menu_item_favorite">Ön ayara ekle</string>
+  <string name="context_menu_item_unfavorite">Ön ayardan kaldır</string>
+  <string name="context_menu_title">%s MHz</string>
   <string name="default_audio">Stereo</string>
-  <string name="default_band">Amerika Birleşik Devletleri</string>
+  <string name="default_band">Türkiye</string>
   <string name="default_blank"/>
   <string name="default_station">FM</string>
   <string name="delete_station_title">Sil</string>
@@ -42,12 +48,16 @@
   <string name="fmradio_clear_confirm_msg">Kayıtlı kanallar silinecek, taramaya devam edilsin mi?</string>
   <string name="fmtx_autoselect_name">Otomatik seçim tüm kanalları silecek. Devam edilsin mi?</string>
   <string name="frequency_already_exist">Bu kanal zaten mevcut</string>
+  <string name="frequency_mhz_fomart">%s MHz</string>
   <string name="frequency_out_of_range">(%1$s~%2$s) Radyo frekansı erişim dışında</string>
   <string name="frequency_should_not_null">Radyo frekansı boş olamaz.</string>
   <string name="frequency_string"/>
+  <string name="hint_frequency">Frekans: %1$s ~ %2$s</string>
+  <string name="hint_label">Label</string>
   <string name="hint_station_name">Kanal ismini girin</string>
     <string name="increase_af">Frekansı artır</string>
   <string name="input_station">Radyo Frekansı (MHz)</string>
+  <string name="label_recording">Kayıt: %s</string>
   <string name="menu_add_list">Listeye Ekle</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_edit">Değiştir</string>
@@ -68,6 +78,7 @@
   <string name="menu_sleep_cancel">Uykuyu iptal et</string>
   <string name="menu_stats">FM RF Bilgileri</string>
   <string name="msg_callactive">Aktif bir arama yapılıyorken FM Tx özelliği kullanılamaz</string>
+  <string name="msg_do_not_support_fm">FM bu cihazda desteklenmiyor!</string>
   <string name="msg_headsetpluggedin">FM Tx özelliğini kullanmadan önce kulaklığı çıkarın.</string>
   <string name="msg_noantenna_message">Kullanmadan önce kulaklığınızı takın.</string>
   <string name="msg_scanning">Tüm FM radyo kanalları taranıyor</string>
@@ -78,6 +89,7 @@
   <string name="msg_seeking">FM kanalları arıyor</string>
   <string name="msg_unable_start_fm_title">Radyo başlatılamıyor</string>
   <string name="msg_weak_searching">İletilmek üzere frekansalar taranıyor</string>
+  <string name="new_frequency">Yeni frekans</string>
     <string name="next_station">Sonraki istasyon</string>
   <string name="no_storage">Kayda başlamdan önce SD kartı takın.</string>
     <string name="pre_station">Önceki istasyon</string>
@@ -121,8 +133,11 @@
   <string name="test_prompt">Seçim testi</string>
   <string name="test_run">Çalışma testi</string>
   <string name="title_select_station">Kanal seç - %s</string>
+  <string name="toast_added_to_presets">Ön ayara eklendi</string>
+  <string name="toast_channel_searched">%1$d istasyon tarandı.</string>
   <string name="toast_delete_station">%sMHz silindi.</string>
   <string name="toast_edit_station">Değişiklikler kaydedildi</string>
+  <string name="toast_removed_from_presets">Ön ayardan kaldırıldı</string>
   <string name="toast_save_station">%sMHz kaydedildi</string>
   <string name="toast_sleep_mode">Radyoyu durdur %s</string>
   <string name="transmit_msg_string">Yayın şuradan alınıyor:</string>

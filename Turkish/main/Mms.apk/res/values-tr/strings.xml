@@ -212,6 +212,7 @@
   <string name="mx_activate_int_hint_malformed_info">Hata!  Cloud Mesajlaşmayı yeniden etkinleştirmek için uluslararası bir SMS gönderilmesi gerekiyor. Şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="mx_activate_int_hint_server">Sunucu hatası!  Cloud Mesajlaşmayı yeniden etkinleştirmek için uluslararası bir SMS gönderilmesi gerekiyor. Şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="mx_activate_int_hint_sim_change">SIM kart durumu değişti!  Cloud Mesajlaşmayı yeniden etkinleştirmek için uluslararası bir SMS gönderilmesi gerekiyor. Şimdi etkinleştirmek istiyor musunuz??</string>
+  <string name="mx_activation_done">Cloud mesajlaşma şimdi etkin</string> 
   <string name="mx_auto_resend_mms">MMS\'i tekrar gönder</string>
   <string name="mx_auto_resend_mms_summary">Cloud mesaj kullanılamıyorken MMS gönderir. Operatörünüzün mesajlaşma fiyatlar geçerli olabilir</string>
   <string name="mx_auto_resend_sms">Bir SMS gönder</string>
