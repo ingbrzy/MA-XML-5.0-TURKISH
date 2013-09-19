@@ -140,6 +140,9 @@
   <string name="toast_removed_from_presets">Ön ayardan kaldırıldı</string>
   <string name="toast_save_station">%sMHz kaydedildi</string>
   <string name="toast_sleep_mode">Radyoyu durdur %s</string>
+  <string name="toast_fm_starting">FM Radyo başlatılıyor...</string>
+  <string name="toast_fm_stoping">FM Radyo durduruluyor...</string>
+  <string name="toast_fm_seeking">İstasyonlar aranıyor...</string>
   <string name="transmit_msg_string">Yayın şuradan alınıyor:</string>
     <string name="turn_on_fm">Radyoyu Aç</string>
     <string name="turn_off_fm">Radyoyu Kapat</string>
