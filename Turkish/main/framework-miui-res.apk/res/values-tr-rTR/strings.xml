@@ -61,7 +61,6 @@
   <string name="fools_day">Bir Nisan şaka günü</string>
   <string name="force_exit_message"> \"%1$s\" Başarıyla sonlandırıldı</string>
   <string name="forget_password_string">Şifremi unuttum</string>
-  <string name="format_time_in_12_hours">%1$s %2$s</string>
   <string name="global_action_privacy_mode_dialog_message">Korumalı modda, aramalar, notlar, galeri veri ve kısa mesaj gizli olacak ve başlatıcı düzenleme moduna girmek mümkün olmayacaktır. Erişim kontrol ayarlarından korumalı mod için şifre ayarlayabilirsiniz</string>
   <string name="global_action_toggle_privacy_mode">Koru</string>
   <string name="grain_buds"/>
