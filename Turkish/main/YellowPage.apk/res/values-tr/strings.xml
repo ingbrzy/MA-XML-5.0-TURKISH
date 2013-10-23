@@ -33,9 +33,9 @@
   <string name="menu_delete_one">Öğeyi arama kayıtlarından kaldır</string>
   <string name="menu_refresh">Yenile</string>
   <string name="remind_another_time">"Bu numara için sorma"</string>
-+  <string name="remind_user_confirm">TAMAM</string>
-+  <string name="remind_user_suspect_number_message">"Suçlular, dolandırıcılık için diğer insanların kimlik bilgilerini çalmak isteyebilir. Şüpheli durumlarda arayanı doğrulamak için tekrar geri arayın. Bankalar, e-ticaret şirketleri ve kurye şirketleri parolanızı veya banka kartı bilgilerinizi istemez."</string>
-+  <string name="remind_user_suspect_number_title">Dikkat! Sahte/Dolandırıcı Aramaları</string>
+  <string name="remind_user_confirm">TAMAM</string>
+  <string name="remind_user_suspect_number_message">"Suçlular, dolandırıcılık için diğer insanların kimlik bilgilerini çalmak isteyebilir. Şüpheli durumlarda arayanı doğrulamak için tekrar geri arayın. Bankalar, e-ticaret şirketleri ve kurye şirketleri parolanızı veya banka kartı bilgilerinizi istemez."</string>
+  <string name="remind_user_suspect_number_title">Dikkat! Sahte/Dolandırıcı Aramaları</string>
   <string name="network_unavaliable">Ağ bağlantısı yok, lütfen bağlantı ayarlarını kontrol edin!</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Veri kaynağı</string>
