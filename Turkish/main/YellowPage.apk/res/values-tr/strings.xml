@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_smart_antispam_summary">Akıllı Antispam bilinmeyen numara algılama hakkında</string>
+  <string name="about_telephone_fraud">Telefon Dolandırıcılığı Hakkında</string>
   <string name="agree">Kabul Et</string>
   <string name="all_numbers">Tüm numaralar</string>
   <string name="app_label">Sarı Sayfalar</string>
@@ -26,9 +28,14 @@
   <string name="menu_add_black_list">Kara listeye ekle</string>
   <string name="menu_call_ip_number">IP araması yap (Ara %s)</string>
   <string name="menu_copy_text">Panoya kopyala</string>
+  <string name="menu_correct_yellow_page">Doğrula</string>
   <string name="menu_delete_call_log">Arama kayıtlarını sil</string>
   <string name="menu_delete_one">Öğeyi arama kayıtlarından kaldır</string>
   <string name="menu_refresh">Yenile</string>
+  <string name="remind_another_time">"Bu numara için sorma"</string>
++  <string name="remind_user_confirm">TAMAM</string>
++  <string name="remind_user_suspect_number_message">"Suçlular, dolandırıcılık için diğer insanların kimlik bilgilerini çalmak isteyebilir. Şüpheli durumlarda arayanı doğrulamak için tekrar geri arayın. Bankalar, e-ticaret şirketleri ve kurye şirketleri parolanızı veya banka kartı bilgilerinizi istemez."</string>
++  <string name="remind_user_suspect_number_title">Dikkat! Sahte/Dolandırıcı Aramaları</string>
   <string name="network_unavaliable">Ağ bağlantısı yok, lütfen bağlantı ayarlarını kontrol edin!</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Veri kaynağı</string>

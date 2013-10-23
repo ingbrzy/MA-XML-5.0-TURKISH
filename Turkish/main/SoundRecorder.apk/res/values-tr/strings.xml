@@ -48,6 +48,8 @@
   <string name="overwrite_dialog_message" Format="false">%s Zaten var. Üzerine yazmak istiyor musunuz?</string>
   <string name="pause">Duraklat</string>
   <string name="play_record">Oynat</string>
+  <string name="preference_enable_earpiece_summary">Harici oynatma için alıcı kullan</string>
+  <string name="preference_enable_earpiece_title">Sesi oynamak için alıcı kullan</string>
   <string name="preference_led_indicator">Kayıt göstergesi</string>
   <string name="preference_led_indicator_prompt">Ekran kilitlendiğinde durum çubuğu ve LED göstergesi görüntülenir.</string>
   <string name="preference_record_scenes_dialog_title">Bir kayıt ortamı seçin</string>
@@ -81,6 +83,7 @@
   <string name="storage_is_full">Depolama alanı doldu!</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_max_record_time">Uyg: %1$s azami kayıt süresi %2$s</string>
+  <string name="toast_uninstall_fileexplorer">Dosya yöneticisi yüklü değil!</string>
   <string name="unknown_caller">Bilinmeyen</string>
   <string name="view_list_of_recordings">Kayıtlara gözat</string>
 </resources>

@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="accessibility_calllog_detail">Çağrı log detayları</string>
   <string name="account_abnormal_state">Anormal hesap bilgileri, tekrar girişi deneyin veya daha sonra tekrar deneyin!</string>
   <string name="account_container_title">Aşağıdaki hesaptan</string>
   <string name="account_default">Telefon</string>
@@ -21,6 +22,7 @@
   <string name="add_new_account">Yeni hesap ekle</string>
   <string name="add_new_entry_for_section">Yeni ekle</string>
   <string name="add_organization">Kuruluş ekle</string>
+  <string name="add_slide_before">Slayt ekle (önce)</string>
   <string name="add_to_my_contacts">Kişilerime ekle</string>
   <string name="add_wait">Bekleme ekle</string>
   <string name="add_xiaomi_account_dialog_btn">Xiaomi hesabı kullan</string>
@@ -190,6 +192,7 @@
   <string name="contacts_unavailable_add_account">Hesabınız ile oturum açın</string>
   <string name="contacts_unavailable_create_contact">Yeni kişi oluştur</string>
   <string name="contacts_unavailable_import_contacts">Dosyadaki kişileri içe aktar</string>
+  <string name="context_menu_add_to_browser_favorite">Tarayıcı favorilerine ekle</string>
   <string name="copy_text">Panoya kopyala</string>
   <string name="createContactShortcutSuccessful">Ana ekrana kişi widget\'i ekle.</string>
   <string name="create_group_dialog_title">Yeni grup oluştur</string>
@@ -363,6 +366,7 @@
   <string name="favoritesFrequentCalled">Sık arananlar</string>
   <string name="favoritesFrequentContacted">Sık iletişim kurulanlar</string>
   <string name="favorites_list_empty">Sık aranan numara listesi boş</string>
+  <string name="forward_from">Burdan yönlendir:</string>
   <string name="foundTooManyContacts"> %d \' den daha fazla kişi bulundu.</string>
   <string name="frequency_none">Hatırlatma</string>
   <string name="frequency_three_days">3 günde bir kontrol et ve hatırlat</string>
@@ -653,6 +657,7 @@ Favoriler listenize kişi eklemek için:
   <string name="postal_postcode">Alan kodu</string>
   <string name="postal_region">Eyalet</string>
   <string name="postal_street">Cadde</string>
+  <string name="pref_forward_title">Yönlendir</string>
   <string name="pref_key_photo">Foto</string>
   <string name="pref_key_photo_word_summary">Rehber kişilerinin fotolarını otomatik seçer.</string>
   <string name="pref_key_photo_word_title">Kişi fotolarını otomatik seç</string>
@@ -660,7 +665,11 @@ Favoriler listenize kişi eklemek için:
   <string name="pref_key_rebuild_t9_index_title">İndeks verilerini tekrar oluştur</string>
   <string name="pref_summary_import_from_account">Google ve Exchange hesabından Xiaomi hesabıma aktar</string>
   <string name="pref_title_account_import">Hesaptan aktar</string>
+  <string name="pref_title_card_format">Kart paylaşım biçimi</string>
+  <string name="pref_title_fwd_sender_info">Gönderici bilgisi</string>
   <string name="pref_title_import_from_account">Xiaomi hesabıma aktar</string>
+  <string name="pref_title_miui_card">MIUI kart ile gönder</string>
+  <string name="pref_title_vcard">Vkart ile gönder</string>
   <string name="preference_auto_ip_summary_disable">Etkin değil</string>
   <string name="preference_auto_ip_summary_on">"Hattınızın IP öneki: %s"</string>
   <string name="preference_auto_ip_title">Otomatik IP Ayarları</string>
@@ -781,11 +790,15 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_update">Güncelle</string>
   <string name="resource_waiting_download">İndirme için bekliyor...</string> 
   <string name="restore_nickname">Onar</string>
+  <string name="restore_to_phone_memory_failed">Telefon hafızası onarılamadı!</string>
+  <string name="restored_to_phone_memory">"Telefon hafızası onarıldı"</string>
   <string name="ret_sign">" "</string>
   <string name="returnCall">Çağrıya dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>
   <string name="save">Kaydet</string> 
   <string name="save_photo_progress">Fotoğraf kaydediliyor...</string>
+  <string name="save_to_sim_failed">SIM karta kaydedilemedi! restored_to_phone_memory </string>
+  <string name="saved_to_sim">SIm karta kaydedildi!</string>
   <string name="savingContact">Kişi kaydediliyor…</string>
   <string name="savingDisplayGroups">Görüntüleme seçenekleri kaydediliyor...</string>
   <string name="scan">Cihazı tara</string>
@@ -804,6 +817,8 @@ Favoriler listenize kişi eklemek için:
   <string name="searching_vcard_message">SD karttaki vCard verileri aranıyor...</string>
   <string name="searching_vcard_title">vCard aranıyor</string>
   <string name="select_all">Tümünü Seç</string>
+  <string name="select_device">Cihazı seç</string>
+  <string name="select_groups">Grupları seç</string>
   <string name="select_new_photo_from_photo_package">Paketten seçin</string>
   <string name="select_none">Hiçbirşey seçilmedi, işlem hatalı</string>
   <string name="select_photo_from_photo_package">Paketten bir fotoğraf seçin</string>
@@ -816,6 +831,7 @@ Favoriler listenize kişi eklemek için:
   <string name="service_provider">Sarı sayfa</string>
   <string name="set_default">Varsayılan olarak ayarla</string>
   <string name="set_photo_failed_msg">Avatar ayarlanamadı</string>
+  <string name="set_smsc_address_title_miui">SMS mesaj merkezi numarası</string>
   <string name="share_error">Bu kişi paylaşılamıyor.</string>
   <string name="share_via">Şunu kullanarak kişi paylaş:</string>
   <string name="share_visible_contacts">Görülebilir kişileri paylaş</string>
@@ -828,12 +844,24 @@ Favoriler listenize kişi eklemek için:
   <string name="simContacts_empty">SIM kartta kişi bulunamadı.</string>
   <string name="simContacts_emptyLoading">SIM karttan yükleniyor...</string>
   <string name="simContacts_title">SIM kart kişileri</string>
+  <string name="sim_capacity_content" formatted="false">Toplam: %d, Kullanılan: %d</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Cloud Mesajı)</string>
   <string name="sim_card_no_free_space_message">SIm kartınız dolu, yeni kişiler eklenemiyor.Lütfen SIM kartınızda yer açtıktan sonra tekrar deneyin</string>
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tüm seçimi iptal et</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>
   <string name="sim_contact_search_error">SIM Kart içerisinde kişi aranırken sorun oluştu</string>
   <string name="sim_contacts">SIM Kişileri</string>
+  <string name="sim_error_anr_full">Numara hafızası dolu!</string>
+  <string name="sim_error_email_full"> E-mail hafızası dolu!</string>
+  <string name="sim_error_email_too_long">E-mail adresi çok uzun!</string>
+  <string name="sim_error_generic_failure">Genel SIM Hatası!</string>
+  <string name="sim_error_number_too_long">SIM Numarası çok uzun!</string>
+  <string name="sim_error_password_error">SIM şifre hatası</string>
+  <string name="sim_error_storage_full">SIM hafızası dolu!</string>
+  <string name="sim_error_text_too_long">Ad çok uzun!</string>
   <string name="sim_export_loading">SIM kart bilgisi okunuyor. Bu işlem birkaç dakika sürebilir, lütfen bekleyiniz.</string>
   <string name="sim_indexed_contact_not_exist">SIM karttaki %1$d pozisyonu hatalı, %2$d ve %3$d arasında olmalı</string>
   <string name="sim_no_contact">SIM kartta kişi yok</string>
@@ -906,6 +934,7 @@ Favoriler listenize kişi eklemek için:
   <string name="type_incoming">Gelen çağrı</string>
   <string name="type_missed">Cevapsız çağrı</string>
   <string name="type_outgoing">Giden çağrı</string>
+  <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Sesli mesaj</string>
   <string name="unknown">Bilinmiyor</string>
   <string name="unknown_contact_name">Bilinmeyen kişi</string>

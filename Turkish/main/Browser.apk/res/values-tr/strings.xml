@@ -69,7 +69,7 @@
   <string name="back">Geri</string>
   <string name="block">Engelle</string>
   <string name="bookmark_add_to">Ekle</string>
-  <string name="bookmark_cannot_save_url">Bu URL yer imi olarak eklenemez.</string>
+  <string name="bookmark_cannot_save_url">Bu URL adresi yer imi olarak eklenemez.</string>
   <string name="bookmark_folder_needs_title">Klasörün bir adı olmalıdır.</string>
   <string name="bookmark_list_view">Liste</string>
   <string name="bookmark_needs_title">Favorinin bir adı olmalıdır.</string>
@@ -84,12 +84,15 @@
   <string name="bookmark_to_readmodelist_not_saved">"Okuma listesine kaydedilemedi."</string>
   <string name="bookmark_to_readmodelist_saved">Okuma listesine kaydedildi.</string>
   <string name="bookmark_url">Url</string>
-  <string name="bookmark_url_not_valid">Bu URL geçersiz.</string>
+  <string name="bookmark_url_not_valid">Bu URL adresi geçersiz!</string>
   <string name="bookmarks">Yer imleri</string>
   <string name="bookmarks_content_is_null">Yer imi yok</string>
   <string name="bookmarks_management">Yer imleri</string>
   <string name="bookmarks_root_folder">Ana klasör</string>
   <string name="bookmarks_search">Tarayıcı</string>
+  <string name="bottom_bar_tabs_long_click_down_tip_txt">Kapatmak için aşağıya doğru sürükleyin</string>
+  <string name="bottom_bar_tabs_long_click_last_tab_tip_txt">Son sekme</string>
+  <string name="bottom_bar_tabs_long_click_up_tip_txt">Kapatmak için yukarıya doğru sürükleyin</string>
   <string name="browserFrameFileErrorLabel">Dosya hatası</string>
   <string name="browserFrameFormResubmitLabel"/>
   <string name="browserFrameFormResubmitMessage">Görüntülemeye çalıştığınız sayfa zaten gönderilmiş veriler (\"POSTDATA\") içeriyor. Verileri tekrar gönderirseniz sayfa üzerinde yapılmış tüm işlemler (arama veya çevrimiçi satın alma gibi) tekrarlanacaktır.</string>
@@ -103,6 +106,7 @@
   <string name="clear">Temizle</string>
   <string name="clear_history">Geçmişi temizle</string>
   <string name="clear_history_group">Geçmişi temizle</string>
+  <string name="clear_search_history">Geçmişi temizle</string>
   <string name="clip_dialog_title">Kopyalanan link açılsın mı?</string>
   <string name="close_all_tab_alert_message">Tüm kartları kapatmak istediğinizden emin misiniz?</string>
   <string name="close_all_tab_alert_title">Tüm kartları kapat</string>
@@ -123,7 +127,7 @@
   <string name="contextheader_folder_empty">Boş klasör</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
-  <string name="contextmenu_copylink">"Bağlantı URL\'sini kopyala"</string>
+  <string name="contextmenu_copylink">"Bağlantı URL adresini kopyala"</string>
   <string name="contextmenu_dial_dot">Ara...</string>
   <string name="contextmenu_download_image">Görseli kaydet</string>
   <string name="contextmenu_download_image_as">Görseli farklı kaydet</string>
@@ -137,7 +141,7 @@
   <string name="contextmenu_sharelink">Bağlantıyı paylaş</string>
   <string name="contextmenu_view_image">Görseli görüntüle</string>
   <string name="copy_link">Bağlantıyı kopyala</string> 
-  <string name="copy_page_url">"Sayfa URL\'sini kopyala"</string>
+  <string name="copy_page_url">"URL adresini kopyala"</string>
   <string name="crash_recovcery_message">Tarayıcıdan anormal olarak çıkıldı. En son tarayıcı oturumunu kurtarmak istiyor musunuz?</string>
   <string name="create_shortcut_bookmark">Ana ekrana kısayol ekle</string>
   <string name="current_page">"Kaynak: "</string>
@@ -209,6 +213,10 @@
   <string name="folder_name">Klasör adı</string>
   <string name="folder_name_too_long">Klasör adı çok uzun!</string>
   <string name="forward">İleri</string>
+  <string name="general_set_default_browser_dialog_close_txt">Kapat</string>
+  <string name="general_set_default_browser_dialog_ok_txt">Tamam</string>
+  <string name="general_set_default_browser_dialog_summary">En iyi performans için MIUI uygulamasını kullanın</string>
+  <string name="general_set_default_browser_title">Varsayılan tarayıcı yap</string>
   <string name="geolocation_permissions_prompt_dont_share">Reddet</string>
   <string name="geolocation_permissions_prompt_message" formatted="false">%s konumunuzu öğrenmek istiyor</string>
   <string name="geolocation_permissions_prompt_remember">Tercihi anımsa</string>
@@ -315,14 +323,15 @@
   <string name="popup_window_attempt">Bu sitenin pop-up pencere açmasına izin verilsin mi?</string>
   <string name="pref_accessibility_title">Erişilebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Adres çubuğundan girerken, ortak harf kombinasyonları bir tuşa basarak girilebilir</string>
-  <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL girişi</string>
+  <string name="pref_accessibility_url_shortcut_enter_title">Hızlı URL adresi girişi</string>
   <string name="pref_allow_apptabs">Uygulama başına birden fazla sekmeye izin ver</string>
   <string name="pref_autofill_enabled">Formu otomatik doldur</string>
   <string name="pref_autofill_enabled_summary">Web formlarını tek bir dokunmayla doldurun</string>
   <string name="pref_autofill_profile_editor">Otomatik doldurma metni</string>
   <string name="pref_autofill_profile_editor_summary">Web formlarına otomatik girilecek metni ayarlayın</string>
   <string name="pref_autologin_progress" formatted="false">%S kullanarak Google sitelerine giriş yap</string>
-  <string name="pref_autologin_title">Googleda otomatik oturum açma</string>
+  <string name="pref_autologin_progress_in_background">Arka planda %S kullanarak Google sitelerine giriş yap</string>
+  <string name="pref_autologin_title">Google\'da otomatik oturum aç</string>
   <string name="pref_clear_cache_for_exit">Çıkarken önbelleği temizle</string>
   <string name="pref_clear_history_for_exit">Çıkarken geçmişi temizle</string>
   <string name="pref_confirm_for_exit">Çıkarken onay iste</string>
@@ -468,8 +477,14 @@
   <string name="pref_zoom_on_double_tap">Hafifçe çift dokunmada yakınlaştır</string>
   <string name="preview">Ön izleme</string>
   <string name="progress_dialog_setting_wallpaper">Duvar kağıdı ayarlanıyor...</string>
+  <string name="quicklink_user_define_webpage_title">Ad</string>
+  <string name="quicklink_user_define_webpage_url">URL adresi</string>
+  <string name="quicklinks_group_default_subtitle">Boş</string>
   <string name="quicklinks_management">Hızlı linkler</string> 
+  <string name="quicklinks_most_visited">Sık ziyaret edilen siteleri açılış sayfasına ekle</string>
+  <string name="quicklinks_most_visited_subtitle">Sık ziyaret edilen siteleri yeni sekmede göster</string>
   <string name="readmode_already_add_to_bookshelf">Kitaplığa eklendi</string>
+  <string name="readmode_battery">Pil</string>
   <string name="readmode_login">Oturum aç</string>
   <string name="readmode_login_message">Daha sonraki bölümlerde okumayı etkinleştirmek için önce giriş yapmanız gerekir.</string>
   <string name="readmode_page_load_error">Sayfa yüklenemedi, yeniden denemek için Yenileye tıklayınız</string>
@@ -559,8 +574,10 @@
   <string name="too_many_windows_dialog_title">Sekme sınırına ulaşıldı</string>
   <string name="ua_switcher_desktop">Masaüstü sitesi iste</string>
   <string name="uploads_disabled">Dosya Yüklemeleri devre dışı bırakıldı.</string>
-  <string name="url_copy_done">URL kopyalandı</string>
+  <string name="url_copy_done">URL adresi kopyalandı</string>
   <string name="url_hint">Arayın veya adresi yazın</string>
+  <string name="user_defined_webpage">URL adresi ekle</string>
+  <string name="user_defined_webpage_title">URL adresini açılış sayfasına ekle</string>
   <string name="username">Ad</string>
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="warning">Uyarı</string>

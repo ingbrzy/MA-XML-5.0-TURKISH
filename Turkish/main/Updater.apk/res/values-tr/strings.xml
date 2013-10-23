@@ -54,6 +54,9 @@
     <string name="experimental_build">Deneysel Yapı</string>
     <string name="file_not_found_error_message">İstenilen dosya sunucuda bulunamadı</string>
     <string name="finish">Bitti</string>
+	<string name="fourgrid_hint_text">En iyi Android ROM\'u olan MIUI kullandığınız için teşekkür ederiz.</string>
+    <string name="fourgrid_no_notificaiont">"Durum çıbuğunda gösterme"</string>
+    <string name="fourgrid_notificaiont">Durum çıbuğunda göster</string> 
     <string name="finish_download">İndirme tamamlandı</string>
     <string name="get_update_error">Güncelleme bilgilerini alınamadı!</string>
     <string name="install_email">E-posta uygulamasını kur</string>

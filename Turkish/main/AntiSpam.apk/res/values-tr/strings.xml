@@ -110,6 +110,7 @@
   <string name="st_sms_group">Mesajlar</string>
   <string name="tab_blacklist">Kara liste</string>
   <string name="tab_block_log">Engelleme Logları</string>
+  <string name="tab_block_log_unKnowNumber">Bilinmeyen numara</string>
   <string name="tab_call">Çağrı logları</string>
   <string name="tab_sms">Mesaj logları</string>
   <string name="tab_title">Anti-Spam</string>

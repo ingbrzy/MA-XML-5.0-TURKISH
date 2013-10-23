@@ -19,6 +19,7 @@
   <string name="read_write_all_voicemail_label">Tüm Sesli Mesajlara Erişim</string>
   <string name="send_sms">Mesaj gönder</string>
   <string name="sharedUserLabel">Android sistem uygulamaları</string>
+  <string name="third_party_delete_contact_info">\"%s\" Xiaomi kişilerinizi siliyor, gelişmiş güvenlik için sistem kişilerini kullanın.</string>
   <string name="upgrade_msg">Kişiler veritabanı yükseltiliyor...</string>
   <string name="upgrade_out_of_memory_notification_text">Yükseltmeyi tamamlamak için seçin.</string>
   <string name="upgrade_out_of_memory_notification_ticker">Kişi güncelleme için daha fazla boş alan gerekiyor</string>

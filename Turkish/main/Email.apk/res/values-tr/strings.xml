@@ -416,6 +416,7 @@ CC: %4$s
   <string name="move_action">Taşı</string>
   <string name="move_to_folder_dialog_title">Buraya taşı</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+  <string name="newer_action">Daha yeni</string>
   <string name="next_action">Sonraki</string>
   <string name="notification_multiple_new_messages_fmt">%1$d yeni mesaj</string>
   <string name="notification_to_account">to %1$s</string>
@@ -425,6 +426,7 @@ CC: %4$s
   <string name="notify_uploads">Hızlı Yükleme</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
+  <string name="older_action">Daha eski</string>
   <string name="password_expire_warning_content_title">Kilit ekranı şifre süresi doldu</string>
   <string name="password_expire_warning_dialog_content_fmt">Yakında zamanda kilit ekranı PIN veya parolasını değiştirmelisiniz, ya da  %s için veriler silinecek. Şimdi değiştirilsin mi?</string>
   <string name="password_expire_warning_dialog_title">Kilit ekranı şifre süresi doldu</string>

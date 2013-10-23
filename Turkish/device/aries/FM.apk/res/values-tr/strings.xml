@@ -61,6 +61,7 @@
   <string name="menu_add_list">Listeye Ekle</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_edit">Değiştir</string>
+  <string name="menu_exit">Çıkış</string> 
   <string name="menu_new_station">Yeni Kanal Ekle</string>
   <string name="menu_play">Oynat</string>
   <string name="menu_record_list">Kayıt Listesi</string>
@@ -69,6 +70,8 @@
   <string name="menu_rename_list">Listeyi yeniden adlandır</string>
   <string name="menu_reorder_list">Listeyi yeniden sırala</string>
   <string name="menu_save_station">Kanalı kaydet</string>
+  <string name="menu_save_station_list">İstasyonu listeye kaydet</string>
+  <string name="menu_save_station_presets">İstasyonlara ekle</string>
   <string name="menu_scan_for_preset">Kanalları Tara</string>
   <string name="menu_scan_start">Tara</string>
   <string name="menu_scan_stop">Taramayı durdur</string>
@@ -121,6 +124,7 @@
   <string name="spaceIsLow_content">SD kart dolmak üzere. Bazı istasyonları veya başka dosyaları silin.</string>
   <string name="stat_notif_frequency">: %1$s MHz</string>
   <string name="stat_notif_tx_frequency">FM yayını alınıyor: %1$s</string>
+  <string name="station_check_favorite">Favorilere ekle</string>
   <string name="station_edit">Düzenle</string>
   <string name="station_freq_format">%sMHz</string>
   <string name="station_move">Taşı</string>
@@ -133,13 +137,18 @@
   <string name="test_prompt">Seçim testi</string>
   <string name="test_run">Çalışma testi</string>
   <string name="title_select_station">Kanal seç - %s</string>
+  <string name="toast_added_to_list">Eklendi</string>
   <string name="toast_added_to_presets">Ön ayara eklendi</string>
   <string name="toast_channel_searched">%1$d istasyon tarandı.</string>
   <string name="toast_delete_station">%sMHz silindi.</string>
   <string name="toast_edit_station">Değişiklikler kaydedildi</string>
+  <string name="toast_fm_not_stated">FM belirtilmemiş!</string>
+  <string name="toast_fm_recorder_internal_error">FM kayıt hatası!</string>
+  <string name="toast_fm_recorder_storage_full">Hafıza birimi dolu!</string> 
   <string name="toast_removed_from_presets">Ön ayardan kaldırıldı</string>
   <string name="toast_save_station">%sMHz kaydedildi</string>
   <string name="toast_sleep_mode">Radyoyu durdur %s</string>
+  <string name="toast_sleep_mode_exit">Uyku modu iptal edildi</string>
   <string name="toast_fm_starting">FM Radyo başlatılıyor...</string>
   <string name="toast_fm_stoping">FM Radyo durduruluyor...</string>
   <string name="toast_fm_seeking">İstasyonlar aranıyor...</string>

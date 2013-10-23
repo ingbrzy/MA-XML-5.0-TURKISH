@@ -11,6 +11,7 @@
   <string name="add_phrase">Şablon Ekle</string>
   <string name="add_picture">Resim ekle</string>
   <string name="add_slide">Slayt ekle</string>
+  <string name="add_slide_before">Slayt ekle (önce)</string>
   <string name="add_slide_hint">Yeni slayt için seç.</string>
   <string name="add_smiley">İfade Ekle</string>
   <string name="add_subject">Kişi ekle</string>
@@ -73,6 +74,7 @@
   <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string> 
   <string name="context_menu_call">Çağrı</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
+  <string name="context_menu_add_to_browser_favorite">Tarayıcı favorilerine ekle</string>
   <string name="context_menu_browse_web">Tarayıcı</string>
   <string name="context_menu_contact">Kişi: %1$s</string>
   <string name="context_menu_copy">Kopyala</string>
@@ -140,6 +142,7 @@
   <string name="fetion_prefix">[Aç]</string>
   <string name="file_share_message_description">Dosyaları paylaş</string>
   <string name="flatshow_page_no">Sayfa %1$d</string>
+  <string name="forward_from">Burdan yönlendir:</string>
   <string name="forward_prefix">"ILT: "</string>
   <string name="found_old_messages">Eski telefonunuzda %1$s hesabı bulundu. Güncel hesabınıza yüklemek istiyor musunuz: %2$s?</string>
   <string name="found_old_messages_title">Mesajları yükle</string>
@@ -259,6 +262,7 @@
   <string name="pref_advanced_settings_title">Gelişmiş Ayarlar</string>
   <string name="pref_conversation_show_avatar">Kişi resmini göster</string>
   <string name="pref_edit_smsc_address">SMS merkezi numarası</string>
+  <string name="pref_forward_title">Yönlendir</string>
   <string name="pref_messages_to_save">Saklanacak mesaj sayısı</string>
   <string name="pref_mms_settings_title">Multimedya mesajları (MMS)</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
@@ -284,9 +288,12 @@
   <string name="pref_time_auto_group_summary">Zamana göre grupla</string>
   <string name="pref_time_auto_group_title">Grup</string>
   <string name="pref_title_allow_si_sl_push">WAP  Push mesajlarına izin ver</string>
+  <string name="pref_title_card_format">Kart paylaşım biçimi</string>
   <string name="pref_title_delivery_reports">İletim Raporu</string>
+  <string name="pref_title_fwd_sender_info">Gönderici bilgisi</string>
   <string name="pref_title_hide_festival">Önerilen sekmesini gizle</string>
   <string name="pref_title_manage_sim_messages">SIM kart iletilerini yönet</string>
+  <string name="pref_title_miui_card">MIUI kart ile gönder</string>
   <string name="pref_title_mms_auto_retrieval">Otomatik al</string>
   <string name="pref_title_mms_delete">Multimedya iletisi sınırı</string>
   <string name="pref_title_mms_read_reports">Okundu raporları</string>
@@ -297,6 +304,7 @@
   <string name="pref_title_show_recent_contacts">Son kişileri göster</string>
   <string name="pref_title_sms_delete">Kısa mesaj sınırı</string>
   <string name="pref_title_system_mms_priority">Sistem MMS uyg. önceliği</string>
+  <string name="pref_title_vcard">vKart ile gönder</string>
   <string name="pref_title_wake_up_screen">Ekran ışığını aç</string>
   <string name="preferences_title">Ayarlar</string>
   <string name="prepare_send">Göndermeye hazırlanıyor...</string>
@@ -331,13 +339,17 @@
   <string name="resent_message">Tekrar gönder</string>
   <string name="resize_image_error_information">Bu resim, yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük.</string>
   <string name="restore_all_button_msg">Bu numaranın tüm mesajlarını geri yükle</string>
-  <string name="restore_blocked_message">Engellenen mesajları kurtar</string> 
+  <string name="restore_blocked_message">Engellenen mesajları kurtar</string>
+  <string name="restore_to_phone_memory_failed">Telefon hafızası onarılamadı!</string>
+  <string name="restored_to_phone_memory">"Telefon hafızası onarıldı"</string>  
   <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>
   <string name="save_to_sim">SIM\'e kaydet</string>
+  <string name="save_to_sim_failed">SIM karta kaydedilemedi! restored_to_phone_memory </string>
   <string name="saved_label">"Kaydedildi: "</string>
   <string name="saved_ringtone">Zil sesi kaydedildi.</string>
   <string name="saved_ringtone_fail">Zil sesi kaydedilemedi.</string>
+  <string name="saved_to_sim">SIM karta kaydedildi!</string>
   <string name="search">Mesajlaşma</string>
   <string name="search_empty">Eşleşme yok.</string>
   <string name="search_hint">Mesajlaşmada ara</string>
@@ -365,7 +377,11 @@
   <string name="service_network_problem">Ağ sorunu nedeniyle gönderilemedi.</string>
   <string name="service_not_activated">Ağ üzerinde hizmet etkin değil.</string>
   <string name="set">Ayarla</string>
+  <string name="set_smsc_address_title_miui">Mesaj merkezi numarası</string>
   <string name="show_all_messages">Tüm mesajları göster</string>
+  <string name="sim_card1">SIM 1</string>
+  <string name="sim_card2">SIM 2</string>
+  <string name="sim_card_cloud">%s (Cloud Mesajı)</string>
   <string name="sim_copy_to_phone_memory">Telefon hafızasına kopyala</string>
   <string name="sim_delete">Sil</string>
   <string name="sim_empty">SIM kartta hiç mesaj yok.</string>
@@ -418,6 +434,7 @@
   <string name="type_picture">resim</string>
   <string name="type_to_compose_text_enter_to_send">Mesaj yazın</string>
   <string name="type_to_compose_text_or_leave_blank">Mesajı yazın veya boş bırakın</string>
+  <string name="type_vcard">vKart</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_body">"Bu mesaj gönderilemedi.
 Son deneme zamanı: %s."</string>

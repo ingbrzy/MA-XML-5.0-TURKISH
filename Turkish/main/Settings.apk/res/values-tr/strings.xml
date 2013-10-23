@@ -108,6 +108,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="android_beam_off_summary">Kapalı</string>
   <string name="android_beam_on_summary">Uygulama içeriği NFC ile aktarılmaya hazır</string>
   <string name="android_beam_settings_title">Android Beam</string>
+  <string name="android_beam_tips">İki cihazın dokunduğundan emin olun ve ardından ışınlama yapmak istediğiniz içeriği seçin.</string>
   <string name="android_beam_witch_label">Android Beam\'i etkileştir</string>
   <string name="animator_duration_scale_title">Animatör süre ölçeği</string>
   <string name="antispam_quiet_mode_title">Sessiz Mod</string>
@@ -452,6 +453,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_visibility">Keşfedilebilir</string>
   <string name="bluetooth_visibility_timeout">Görünürlük zaman aşımı</string>
   <string name="bluetooth_visibility_timeout_summary">Cihazın ne süreyle keşfedilebilir olacağını ayarla</string>
+  <string name="breathing_light_color_menu_title">Işık rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirimler için LED rengi</string>
   <string name="breathing_light_color_title">LED rengi</string>
   <string name="breathing_light_freq_summary">LED parlamaları arası geçen süre</string>
@@ -2255,9 +2257,12 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wfd_disconnect_diag_msg">Wi-Fi oturumunu kapatırsanız, %1$s bağlantısı sonlandırılacaktır.</string>
   <string name="wfd_disconnect_diag_title">Oturumu kapatmak istiyor musunuz?</string>
   <string name="wfd_disconnect_multiple_diag_message">Wi-Fi oturumunu durdurursanız,  %1$s ve %2$s bağlantısı sonlandırılacaktır.</string>
+  <string name="wfd_enable_wifi_diag_title">Wi-Fi Gösterimini etkinleştirmek istiyor musunuz?</string>
+  <string name="wfd_enabler_title">Wi-Fi Gösterimini etkinleştir</string>
   <string name="wfd_menu_search">Cihazları ara</string>
   <string name="wfd_menu_searching">Aranıyor…</string>
   <string name="wfd_menu_teardown">Durdur</string>
+  <string name="wfd_settings_description">Wi-Fi ile bağlan</string>
   <string name="wfd_settings_title">Wi-Fi Gösterimi</string>
   <string name="wfd_wps_keypad">Tuş tercihi</string>
   <string name="wfd_wps_pbc">Giriş PIN kodu tercihi</string>

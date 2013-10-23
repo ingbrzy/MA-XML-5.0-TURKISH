@@ -293,6 +293,8 @@
   <string name="custom_location_location_no_item_miui">"Öğe eklemek için ekleye tıklayın"</string>
   <string name="custom_location_number_hint_miui">Alan kodu bu gibi 010, grup numarası bu gibi 68#####</string>
   <string name="cw_title_miui">Çağrı bekletme</string>
+  <string name="data_connected_change">
+Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti durdurup ve başka bir şebekeye seçmek istiyor musunuz?</string>
   <string name="data_enable_summary">Mobil şebekede veri kullanımını etkinleştirir</string>
   <string name="data_enabled">Mobil Veriyi etkinleştir</string>
   <string name="deact_all_sub_not_supported">Abonelikler desteklenmiyor.</string>
@@ -370,6 +372,7 @@
   <string name="dtmf_tones_summary_miui">DTMF ses uzunluğunu ayarla</string>
   <string name="dtmf_tones_title">DTMF sesleri</string>
   <string name="dtmf_tones_title_miui">DTMF sesleri</string>
+  <string name="duringcall">Çağrı sırasında işleme izin verilmez</string>
   <string name="editContact">Düzenle</string>
   <string name="edit_custom_location_title_miui">Bölgesel ve rakam özellikleri, jokerler # destekleniyor</string>
   <string name="edit_fdn_contact">Sabit arama numarasını düzenle</string>
@@ -499,6 +502,7 @@
   <string name="incall_screen_background_summary_miui">"Kişi fotoğrafı olmadığı zaman kilit ekranı duvar kağıdını kullanın"</string>
   <string name="incall_screen_background_title_miui">Çağrı sırasındaki arka plan resmi</string>
   <string name="incall_status_dialed_mmi">MMI dizi başlatılıyor…</string>
+  <string name="information">Bilgi</string>
   <string name="international_disable">Yabancı haberler devre dışı</string>
   <string name="international_enable">Yabancı haberler etkin</string>
   <string name="internet_phone">İnternet çağrısı</string>
@@ -983,6 +987,7 @@
   <string name="sum_xdivert_disabled">X-Divert Disabled</string>
   <string name="sum_xdivert_enabled">X-Divert Enabled</string>
   <string name="summary_manage_subscriptions">Manage Network settings of each subscriptions</string>
+  <string name="suspect_info">"Arayanı kabul etmeyin, olası dolandırıcılık girişimi!"</string>
   <string name="t9_indexing_method_pinyin">Alfabetik</string>
   <string name="t9_indexing_method_title_miui">T9 arama ayarları</string>
   <string name="t9_indexing_method_zhuyin">Sesli söyleniş</string>
