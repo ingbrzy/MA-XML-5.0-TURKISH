@@ -145,7 +145,7 @@
   <string name="scan_title">QR kodunu tara</string>
   <string name="scanning">Taranıyor...</string>
   <string name="sdcard_invalid">SD kart yok!</string>
-  <string name="sdcard_unavailable">SD kart kullanılabilir değil</string>,
+  <string name="sdcard_unavailable">SD kart kullanılabilir değil</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_file_to_share">Paylaşım için dosya seç</string>
   <string name="send">Gönder</string>
