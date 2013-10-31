@@ -6,10 +6,13 @@
   <string name="alarm_message_12_hour_formate">aah:mm</string>
   <string name="alwaysUsePrompt">Varsayılan olarak ayarla (tekrar sorma)</string>
   <string name="android_lockscreen_glogin_instructions">Kilidi açmak için hesabınızla giriş yapın</string>
+  <string name="anniversary_of_lifting_martial_law"/>
+  <string name="anti_aggression_day"/>
   <string name="app_no_notification">Bildirim yok</string>
   <string name="app_notificaiton_on_notificationBar">Bildirim çubuğu</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Durum ve bildirim çubuğu</string>
   <string name="arbor_day">Ağaç dikme günü</string>
+  <string name="armed_forces_day"/>
   <string name="autumn_begins">Güz başlangıcı</string>
   <string name="autumn_equinox">Gündönümü</string>
   <string name="call_record_or">ya da </string>
@@ -186,6 +189,7 @@
   <string name="reboot_confirm">Telefon tekrar başlatılacak</string>
   <string name="reboot_confirm_title">Telefonunuzu tekrar başlatmak istiyor musunuz?</string>
   <string name="reboot_progress">Tekrar başlatılıyor...</string>
+  <string name="retrocession_day"/>
   <string name="return_to_me_message">Lütfen sahibine iade ediniz.</string>
   <string name="reverse_all">Tümünü temizle</string>
   <string name="safetylegal_activity_unreachable">Telefonunuz hiçbir veri servisine bağlı değil, bilgileri görmek için herhangi bir bilgisayardan %s adresine gidin.</string>
@@ -236,6 +240,9 @@
   <string name="the_spring_festival" />
   <string name="today">Bugün</string>
   <string name="tomorrow">Yarın</string>
+  <string name="tw_childrens_day"/>
+  <string name="tw_youth_day"/>
+  <string name="united_nations_day"/>
   <string name="unknown">Bilinmeyen Numara!</string>
   <string name="unknown_caller">Bilinmeyen çağrı</string>
   <string name="unlock_string">Tamam</string>

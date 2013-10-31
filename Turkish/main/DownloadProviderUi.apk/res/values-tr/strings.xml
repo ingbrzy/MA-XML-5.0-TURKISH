@@ -61,6 +61,7 @@
   <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu, limiti aşarsa beni uyar"</string>
   <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s \'ı aşarsa Wi-Fi ile indir</string>
   <string name="pref_summary_any_bytes_popup">Sadece Wi-Fi ile indir</string>
+  <string name="pref_summary_no_limit_popup">İndirme boyutu sınırsız</string>
   <string name="pref_title_enable_max_bytes_popup">Veri indirme uyarısı</string>
   <string name="pref_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="preferences_title">Ayarlar</string>

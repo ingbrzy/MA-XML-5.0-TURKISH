@@ -39,6 +39,7 @@
   <string name="added_to_bookmarks">Yer imlerine eklendi.</string>
   <string name="alert_tips">Bu sayfa, güvenlik ve gizliliği tehlikeye atabilir, dikkatli olun!</string> 
   <string name="allow">İzin Ver</string>
+  <string name="already_in_top_level">Yer imi zaten en üst düzeyde</string>
   <string name="app_new_version">Son sürüm zaten indirilmiş</string> 
   <string name="app_update_install">Son sürüm indirildi ve yüklenmeye hazır</string>
   <string name="application_name">İnternet</string>
@@ -151,6 +152,8 @@
   <string name="delete_bookmark_warning" formatted="false">Yer imi silinsin mi \"%s\"?</string>
   <string name="delete_folder">Klasörü sil</string>
   <string name="delete_multi_bookmarks_alert_title">%1$s öğeyi silmek istiyor musunuz?</string>
+  <string name="dialog_geolocation_reject">Konumu gizle</string>
+  <string name="dialog_geolocation_share">Konumu paylaş</string>
   <string name="disable_autofill">Otomatik doldurmayı devre dışı bırak</string>
   <string name="disk_space_available">%1$s kullanılabilir</string>
   <string name="disk_space_selected">%1$s seçilen</string>
@@ -581,6 +584,19 @@
   <string name="username">Ad</string>
   <string name="view_certificate">Sertifikayı görüntüle</string>
   <string name="warning">Uyarı</string>
+  <string name="webapp_add_to_desktop">Ev ekranına ekle</string>
+  <string name="webapp_addtodeskpop_append">Uygulama ev ekranına eklendi</string>
+  <string name="webapp_app_name">MiMarket Web Mağazası</string>
+  <string name="webapp_bottom_bar_addtodesk">Ev ekranına ekle</string>
+  <string name="webapp_bottom_bar_already_addtodesk">Ev ekranına zaten eklenmiş!</string>
+  <string name="webapp_bottom_bar_exit">Çıkış</string>
+  <string name="webapp_bottom_bar_hidebar">Alt çubuğu gizle</string>
+  <string name="webapp_bottom_bar_openbrowser">Tarayıcıda aç</string>
+  <string name="webapp_bottom_bar_showbar">Alt çubuğu göster</string>
+  <string name="webapp_dialog_title">Uygulamayı ev ekranına ekle</string>
+  <string name="webapp_splashview_loading">Yükleniyor…</string>
+  <string name="webapp_web_forward">İleri</string>
+  <string name="webapp_web_goback">Geri</string>
   <string name="website_settings_clear_all">Tümünü temizle</string>
   <string name="website_settings_clear_all_dialog_cancel_button">İptal</string>
   <string name="website_settings_clear_all_dialog_message">Tüm web sitesi verileri ve konum izinleri silinsin mi?</string>

@@ -29,6 +29,7 @@
   <string name="binding_behavior_error">Yetkilendirme hatası!</string>
   <string name="btn_activate">Etkinleştir</string>
   <string name="btn_count_down_wait">%1$s saniye bekleyin</string>
+  <string name="button_cancel">İptal</string>
   <string name="btn_voucher">Mi kredi kartı(%1$s)</string>
   <string name="check_phone_error_title">Senk hizmeti başlatılamadı</string>
   <string name="check_phone_io_error">Ağ hatası</string>

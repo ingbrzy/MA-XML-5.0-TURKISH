@@ -90,6 +90,7 @@
   <string name="auto_record_whitelist_no_item_miui">Otomatik kayıt numaraları eklemek için alt tuşa tıklayın</string>
   <string name="auto_record_whitelist_summary_for_one_miui">1</string>
   <string name="auto_record_whitelist_summary_miui">%d numara</string>
+  <string name="auto_record_yellowpage_miui">Sarı Sayfalar</string>
   <string name="auto_redial_pref_summary_miui">Hat meşgul ise tekrar ara</string>
   <string name="auto_redial_pref_title_miui">Otomatik tekrar arama</string>
   <string name="auto_retry_mode_summary">Tekrar arama modunu aç</string>
