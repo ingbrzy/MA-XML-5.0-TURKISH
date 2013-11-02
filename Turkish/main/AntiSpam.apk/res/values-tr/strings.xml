@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Anti-Spam</string>
+  <string name="app_name">Kara Liste</string>
   <string name="bl_block_info" formatted="false">Engellendi: Numara %d, Detaylar %d</string>
   <string name="bl_no_blacklist">Kara liste boş</string>
   <string name="bl_no_block_call">Engellenen tüm numaralar buraya kaydedilir</string>
@@ -113,7 +113,7 @@
   <string name="tab_block_log_unKnowNumber">Bilinmeyen numara</string>
   <string name="tab_call">Çağrı logları</string>
   <string name="tab_sms">Mesaj logları</string>
-  <string name="tab_title">Anti-Spam</string>
+  <string name="tab_title">Kara Liste</string>
   <string name="toast_keyword_blank">Anahtar kelime boş</string>
   <string name="toast_keyword_exist">Anahtar kelime zaten var</string>
   <string name="toast_keyword_invalid">Anahtar kelime geçersiz!</string>

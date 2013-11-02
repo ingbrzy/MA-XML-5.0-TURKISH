@@ -5,7 +5,7 @@
   <string name="about_developer_name">MIUI</string>
   <string name="about_title">Hakkında</string>
   <string name="about_version">V4.0</string>
-  <string name="about_version_label">Versiyon:</string>
+  <string name="about_version_label">Sürüm:</string>
   <string name="adjust_position_next_media_notice">Sonraki</string>
   <string name="adjust_position_prev_media_notice">Önceki</string>
   <string name="airkan_control_device_des">Aşağıdaki tuşlar ile video oynatımını kontrol edebilirsiniz.</string>
@@ -13,10 +13,10 @@
   <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video oynatılıyor...</string>
   <string name="app_name">MiVideo</string>
-  <string name="buffering">Arabelleğe alınıyor...</string>
-  <string name="buffering_video_netplay_label_v5">Arabelleğe alınıyor...</string>
-  <string name="loading_video_netplay_label">Yükleniyor, Lütfen bekleyin...</string>
-  <string name="loading_video_netplay_label_v5">Aktarılıyor, Lütfen bekleyin...</string>
+  <string name="buffering">Belleğe alınıyor...</string>
+  <string name="buffering_video_netplay_label_v5">Belleğe alınıyor...</string>
+  <string name="loading_video_netplay_label">Yükleniyor...</string>
+  <string name="loading_video_netplay_label_v5">Aktarılıyor...</string>
   <string name="menu_item_about_label">Hakkında</string>
   <string name="menu_item_hide_media_info_label">Medya bilgisini gizle</string>
   <string name="menu_item_media_info_label">Medya bilgisini göster</string>
@@ -36,7 +36,7 @@
   <string name="nowifi_alert_dialog_message">Videoları oynatmak için mobil internet kullan, devam etmek istiyor musunuz?</string>
   <string name="nowifi_alert_dialog_title">Trafik Uyarısı</string>
   <string name="temp_play_history_button_label">Oynatma geçmişini göster</string>
-  <string name="to_be_play_label_v5">Oynatma başlatılıyor</string>
+  <string name="to_be_play_label_v5">Başlatılıyor...</string>
   <string name="toast_back_key_pressed_notice">Çıkmak için geri tuşuna tekrar basın.</string>
   <string name="toast_message_continue_play_from">Oynatmaya şurdan devam et</string>
   <string name="toast_message_continue_play_hour">saat</string>
@@ -52,7 +52,7 @@
   <string name="video_info_resolution_label">Video çözünürlüğü:</string>
   <string name="video_info_video_coding_label">Video kodlama formatı:</string>
   <string name="vp_VideoView_error_button">Tamam</string>
-  <string name="vp_VideoView_error_network_not_available">Ağ kullanılamaz</string>
+  <string name="vp_VideoView_error_network_not_available">Kullanılabilir ağ yok!</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Üzgünüm, seçtiğiniz video bu telefonda oynatmak için uygun formatta değil.</string>
   <string name="vp_VideoView_error_text_unknown">Üzgünüm, seçtiğiniz video formatı oynatılamıyor</string>
   <string name="vp_VideoView_error_title">Video yürütme hatası!</string>

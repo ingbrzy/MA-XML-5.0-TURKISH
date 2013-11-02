@@ -62,12 +62,12 @@
   <string name="data_capacity">Alan: %1$s</string>
   <string name="data_size_label">Veri</string>
   <string name="decompress_cancel">İptal</string>
-  <string name="decompress_confirm">Çıkartılsın mı?</string>
-  <string name="decompress_fail">Çıkartma hatası!</string>
-  <string name="decompress_success">Çıkartma başarılı</string>
-  <string name="decompress_to">Çıkart:</string>
-  <string name="decompress_to_here">Buraya çıkart</string>
-  <string name="delete_failed">Silinemedi</string>
+  <string name="decompress_confirm">Ayrıştırmak istiyor musunuz?</string>
+  <string name="decompress_fail">Ayrıştırma hatası!</string>
+  <string name="decompress_success">Ayrıştırma başarıyla tamamlandı</string>
+  <string name="decompress_to">Ayrıştır:</string>
+  <string name="decompress_to_here">Buraya ayrıştır</string>
+  <string name="delete_failed">Silinemedi!</string>
   <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
   <string name="delete_files">Seçilen %1$d dosyayı silmek istiyor musunuz?</string>
   <string name="delete_files_and_folders">Seçilen %1$d dosya ve %2$d klasörü silmek istiyor musunuz?</string>
@@ -103,7 +103,7 @@
   <string name="file_info_canwrite">Yazılabilir:</string>
   <string name="file_info_ishidden">Gizli:</string>
   <string name="file_info_location">Yol:</string>
-  <string name="file_info_modified">Değiştirildi:</string>
+  <string name="file_info_modified">Değiştirme:</string>
   <string name="file_info_size">Boyut:</string>
   <string name="file_loading">Yükleniyor...</string>
   <string name="file_too_large">"Dosya çok büyük, gönderilemiyor!</string>
@@ -166,7 +166,7 @@ Artık dosya"</string>
   <string name="no_enough_storage_indication">Yeterli boş alan yok, gereksiz dosyaları sildikten sonra tekrar deneyin</string>
   <string name="no_enough_storage_title">Yeterli boş alan yok</string> 
   <string name="no_file">Dosya yok</string>
-  <string name="no_more_space">Yeterli alan yok</string>
+  <string name="no_more_space">Yeterli boş alan yok</string>
   <string name="no_tasks">Görev yok</string>
   <string name="no_temp_file_indication">Çerez dosyası yok</string>
   <string name="no_thumbnail_indication">Ön izleme dosyası yok</string>
@@ -238,7 +238,7 @@ Artık dosya"</string>
   <string name="share_link_failed">Klasör oluşturma hatası!</string>
   <string name="show_message">İndirme yapılırken dosya açılamaz</string>
   <string name="sign_description">Oturum açılıyor...</string>
-  <string name="signin_error">Kullanılabilir ağ yok, daha sonra tekrar deneyin!</string>
+  <string name="signin_error">Kullanılabilir ağ bağlantısı yok, daha sonra tekrar deneyin!</string>
   <string name="signin_success">"Başarıyla oturum açıldı!
 Boş alanınız %1$s"</string> 
   <string name="space_info">Network alanı: %1$s kullanılabilir，toplam: %2$s</string>
@@ -303,5 +303,5 @@ Boş alanınız %1$s"</string>
   <string name="wangpan_root_path">Diskim</string>
   <string name="wifi_state">Wi-Fi durumu</string>
   <string name="xiaomi_account">Xiaomi hesabı</string>
-  <string name="yes">evet</string>
+  <string name="yes">Evet</string>
 </resources>

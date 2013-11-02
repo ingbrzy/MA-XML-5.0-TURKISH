@@ -177,7 +177,7 @@
     <string name="serviceDisabled">Hizmet devre dışı bırakıldı.</string>
     <string name="serviceRegistered">Kayıt işlemi başarılı oldu.</string>
     <string name="serviceErased">Silme işlemi başarılı.</string>
-    <string name="passwordIncorrect">Yanlış şifre.</string>
+    <string name="passwordIncorrect">Şifre yanlış!</string>
     <string name="mmiComplete">MMI tamamlandı.</string>
     <string name="badPin">Yazdığınız eski PIN doğru değil.</string>
     <string name="badPuk">Yazdığınız PUK doğru değil.</string>
@@ -733,8 +733,8 @@
     <string name="keyguard_password_puk_failed">PUK işlemi başarısız!</string>
     <string name="keyguard_label_text">"Kilidi açmak için önce Menü\'ye, sonra 0\'a basın."</string>
     <string name="emergency_call_dialog_number_for_display">Acil durum numarası</string>
-    <string name="lockscreen_carrier_default">SERVİS YOK !</string>
-    <string name="lockscreen_screen_locked">Ekran kilitli.</string>
+    <string name="lockscreen_carrier_default">ŞEBEKE YOK !</string>
+    <string name="lockscreen_screen_locked">Ekran kilitlendi!</string>
     <string name="lockscreen_instructions_when_pattern_enabled">"Kilidi açmak veya acil çağrı yapmak için Menü\'ye basın."</string>
     <string name="lockscreen_instructions_when_pattern_disabled">"Kilidi açmak için Menü\'ye basın."</string>
     <string name="lockscreen_pattern_instructions">Kilidi açmak için deseni çizin</string>
@@ -793,7 +793,7 @@
     <string name="lockscreen_glogin_username_hint">Kullanıcı adı (e-posta)</string>
     <string name="lockscreen_glogin_password_hint">Şifre</string>
     <string name="lockscreen_glogin_submit_button">Oturum aç</string>
-    <string name="lockscreen_glogin_invalid_input">Geçersiz kullanıcı adı veya şifre.</string>
+    <string name="lockscreen_glogin_invalid_input">Kullanıcı adı veya şifre geçersiz!</string>
     <string name="lockscreen_glogin_account_recovery_hint">"Kullanıcı adınızı veya şifrenizi mi unuttunuz?
 "<b>google.com/accounts/recovery</b> adresini ziyaret edin.</string>
     <string name="lockscreen_glogin_checking_password">Denetleniyor…</string>
@@ -868,7 +868,7 @@ Devam etmek için Tamam\'a, mevcut sayfada kalmak için İptal\'e dokunun."</str
     <string name="save_password_message">Tarayıcının bu şifreyi hatırlamasını istiyor musunuz?</string>
     <string name="save_password_notnow">Şimdi değil</string>
     <string name="save_password_remember">Hatırla</string>
-    <string name="save_password_never">Hiçbir zaman</string>
+    <string name="save_password_never">Asla hatırlama</string>
     <string name="open_permission_deny">Bu sayfayı açma izniniz yok.</string>
     <string name="text_copied">Metin panoya kopyalandı.</string>
     <string name="more_item_label">Diğer</string>
@@ -928,8 +928,8 @@ Devam etmek için Tamam\'a, mevcut sayfada kalmak için İptal\'e dokunun."</str
     <string name="chooseUsbActivity">USB cihazı için bir uygulama seçin</string>
     <string name="noApplications">Bu eylemi hiçbir uygulama gerçekleştiremez.</string>
     <string name="aerr_title" />
-    <string name="aerr_application">%1$s uygulaması maalesef durdu!</string>
-    <string name="aerr_process">%1$s işlemi maalesef durdu!</string>
+    <string name="aerr_application">%1$s uygulaması yanıt vermiyor!</string>
+    <string name="aerr_process">%1$s işlemi yanıt vermiyor!</string>
     <string name="anr_title" />
     <string name="anr_activity_application">"%2$s uygulaması yanıt vermiyor.
 
@@ -1112,7 +1112,7 @@ izin isteğinde bulunuldu."</string>
     <string name="vpn_text">Ağı yönetmek için dokunun.</string>
     <string name="vpn_text_long">%s oturumuna bağlandı. Ağı yönetmek için dokunun.</string>
     <string name="upload_file">Dosya seç</string>
-    <string name="no_file_chosen">Seçili dosya yok</string>
+    <string name="no_file_chosen">Dosya seçilmedi!</string>
     <string name="reset">Sıfırla</string>
     <string name="submit">Gönder</string>
     <string name="car_mode_disable_notification_title">Sürüş modu etkin</string>

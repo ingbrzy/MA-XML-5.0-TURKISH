@@ -25,7 +25,7 @@
   <string name="app_detail_title">Uygulama detayı</string>
   <string name="app_detail_version">Sürüm: %s</string>
   <string name="app_has_deleted">%s silindi.</string>
-  <string name="app_name">İzle</string>
+  <string name="app_name">Veri İzleme</string>
   <string name="app_traffic_detail">Trafik (%s)</string>
   <string name="apply_rules_failed">"Güvenlik duvarı uygulanamadı, tekrar deneyin. (%s)"</string>
   <string name="apply_rules_failed_known">Tamam</string>

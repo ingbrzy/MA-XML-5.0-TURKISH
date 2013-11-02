@@ -62,7 +62,7 @@
   <string name="first_back_long_press_message">"Geri tuşuna basılı tutarak uygulama veya arka plan hizmetlerini kapatmak istiyor musunuz? Etkinleştirmek için Ayarlar &gt; Sistem &gt; Tuş ayarlarına gidin"</string>
   <string name="fm_record_smaple_prefix_miui">FMKaydı</string>
   <string name="fools_day">Bir Nisan şaka günü</string>
-  <string name="force_exit_message"> \"%1$s\" Başarıyla sonlandırıldı</string>
+  <string name="force_exit_message"> \"%1$s\" Başarıyla kapatıldı!</string>
   <string name="forget_password_string">Şifremi unuttum</string>
   <string name="global_action_privacy_mode_dialog_message">Korumalı modda, aramalar, notlar, galeri veri ve kısa mesaj gizli olacak ve başlatıcı düzenleme moduna girmek mümkün olmayacaktır. Erişim kontrol ayarlarından korumalı mod için şifre ayarlayabilirsiniz</string>
   <string name="global_action_toggle_privacy_mode">Koru</string>
@@ -136,11 +136,11 @@
   <string name="lunar_yue" />
   <string name="lunar_zheng" />
   <string name="memory_clear_nothing_result">Bellek zaten temiz</string>
-  <string name="memory_clear_result">"%1$s Başarıyla temizlendi \n%2$s Kullanılabilir hafıza"</string>
+  <string name="memory_clear_result">"%1$s : Başarıyla temizlendi \n%2$s : Kullanılabilir hafıza"</string>
   <string name="minutes">%d dakika</string>
   <string name="miui_copyright_title">Telif hakkı</string>
   <string name="miui_device_name">Android</string>
-  <string name="miui_mibi_license_title">Mi Kredi Kullanıcı sözleşmesi</string>
+  <string name="miui_mibi_license_title">MiKredisi Kullanıcı sözleşmesi</string>
   <string name="miui_privacy_policy_title">Gizlilik politikası</string>
   <string name="miui_unlockscreen_password_wrong">Şifre yanlış! Tekrar deneyin</string>
   <string name="miui_user_agreement_title">Kullanıcı sözleşmesi</string>
@@ -166,7 +166,7 @@
   <string name="online_latest">En Son</string>
   <string name="online_latest_short">En son</string>
   <string name="online_no_network">Ağa bağlanma başarısız!</string>
-  <string name="online_search_hint">Çevrimiçi kaynak ara</string>
+  <string name="online_search_hint">Online kaynak ara</string>
   <string name="partys_day" />
   <string name="payphone">Ücretli arama</string>
   <string name="peace_day">Barış günü</string>
@@ -214,8 +214,8 @@
   <string name="short_pukcode_error_msg">lütfen 8 haneli numara girin</string>
   <string name="shutdown_confirm_title">Telefonunuzu kapatmak istiyor musunuz?</string> 
   <string name="sim_account_name">SIM</string>
-  <string name="sim_changed_reactivate_int_notice">SIM etkinleştirilemedi. BU servis için uluslararası SMS gönderimi gerekiyor, Şimdi etkinleştirilsin mi?</string>
-  <string name="sim_changed_reactivate_notice">SIM etkinleştirilemedi. Xiaomi servislerini etkinleştirmek için SMS gönderimi gerekiyor. Şimdi etkinleştirilsin mi?</string>
+  <string name="sim_changed_reactivate_int_notice">SIM kart etkinleştirilemedi. Bu servisi kullanmanız için uluslararası bir SMS gönderilmesi gerekiyor, şimdi etkinleştirmek istiyor musunuz?</string>
+  <string name="sim_changed_reactivate_notice">SIM etkinleştirilemedi. Xiaomi servislerini kullanmanız için uluslararası bir SMS gönderilmesi gerekiyor, şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="sim_in_airplane_mode">Uçak modunu kapat</string>
   <string name="sim_locked">SIM kart kilitlendi!!!</string>
   <string name="sim_not_ready">SIM kart kullanımda, tekrar deneyin!</string>

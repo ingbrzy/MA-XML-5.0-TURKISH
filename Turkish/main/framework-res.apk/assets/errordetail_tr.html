@@ -3,7 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name='viewport' content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' />
-		<title>Error details</title>
+		<title>Hata Detayları</title>
 		<style>
 *{background-repeat:no-repeat;}
 body, div, dl, dt, dd, ul, ol, li,h1, h2, h3, h4, h5, h6, pre, code,form, fieldset, legend, input, button,textarea, p, blockquote, th, td { margin: 0;padding: 0;color:#000000;}
@@ -59,7 +59,7 @@ p{ color: #989898; font-size: 16px; line-height: 24px; }
 		    case -12:
 		    case -13:
 		    case -14:
-		        jsonTemp[1] = "Girilen URL\'yi kontrol edin";
+		        jsonTemp[1] = "Girilen URL adresini kontrol edin";
 		        break;
 		    default:
 		        jsonTemp[1] = "Bağlantıyı yenileyip tekrar deneyin";
@@ -75,7 +75,7 @@ p{ color: #989898; font-size: 16px; line-height: 24px; }
  		       break;
                      case 1:
                        json[4] = "Etkin";
-                       json[1] = "Girilen URL\'yi kontrol edin";
+                       json[1] = "Girilen URL adresini kontrol edin";
                        break;
                      default:
 		       json[4] = "Devre dışı";
@@ -101,7 +101,7 @@ p{ color: #989898; font-size: 16px; line-height: 24px; }
 		str[11] = '<p>IP adresi:' + json[3] + '</p>';
 		str[12] = str2;
 		str[13] = str1;
-		str[14] = '<h2>Net bilgisi</h2>';
+		str[14] = '<h2>Ağ bilgisi</h2>';
 		str[15] = '<p>WiFi durumu:<span class="red_span">' + json[4] + '</span></p>';
 		str[16] = '<p>Varsayılan Ağ Geçidi:' + json[5] + '</p>';
 		str[17] = '<p>Erişim noktası adı:' + json[6] + '</p>';
