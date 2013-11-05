@@ -5,9 +5,11 @@
   <string name="app_label">İndirmeler</string>
   <string name="button_sort_by_date">Tarihe göre sırala</string>
   <string name="button_sort_by_size">Boyuta göre sırala</string>
+  <string name="cancel_download_notice">İndirme bildirimini kapat</string>
   <string name="cancel_running_download">İptal</string>
   <string name="confirm_delete_downloads_message">Seçilen %d indirmeyı silmek istiyor musunuz?</string>
   <string name="confirm_delete_the_download_item_message">İndirirme dosyasını silmek istiyor musunuz?</string>
+  <string name="confirm_disable_download_only_in_wifi_message">''Sadece Wi-Fi ile indir'' özelliğinin kapatılması ek mobil veri ücretlerine neden olabilir. Bunu kapatmak istediğinizden emin misiniz?</string>
   <string name="delete_download">Sil</string>
   <string name="delete_downloads_records">İndirilenleri sil</string>
   <string name="delete_the_downloaded_file">İndirilmiş dosyaları sil.</string>
@@ -23,6 +25,7 @@
   <string name="dialog_queued_body">Bu dosya daha sonra indirilmek üzere sıraya alındı.</string>
   <string name="dialog_title_not_available">İndirme hatası</string>
   <string name="dialog_title_queued_body">Dosya mevcut değil.</string>
+  <string name="disable_download_only_in_wifi_title">Sadece Wi-Fi ile indiri kapat</string>
   <string name="download_complete">İndirildi</string>
   <string name="download_error">Hata</string>
   <string name="download_error_insufficient_space">Yetersiz alan</string>
@@ -46,10 +49,12 @@
   <string name="keep_queued_download">Sakla</string>
   <string name="menu_enter_edit_mode">Düzenleyici</string>
   <string name="menu_preferences">Ayarlar</string>
+  <string name="might_lead_to_mobile_charge">"Iptal edildikten sonra, cihazınızdan hiçbir indirme uyarısı olmayacak. Bu trafik, artan veri ücretleri yol açabilir.."</string>
   <string name="missing_title">Bilinmeyen</string>
   <string name="no_downloads">İndirme yok!</string>
   <string name="open_download">Aç</string>
   <string name="pause_download">Duraklat</string>
+   <string name="pause_download_when_wifi_disconnected">Sadece Wi-Fi ile indir</string>
   <string name="paused_by_app">Duraklatıldı</string>
   <string name="paused_queued_for_wifi">Wi-Fi bağlantısı bekleniyor</string>
   <string name="paused_unknown">Bilinmeyen hata</string>

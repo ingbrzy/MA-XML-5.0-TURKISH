@@ -10,13 +10,49 @@
   <string name="account_hint_text">E-mail/Telefon numarası</string>
   <string name="account_name">Hesap: %1$s</string>
   <string name="activate_phone_failed_notif_title">MiCloud hizmeti etkinleştirilemedi</string>
+  <string name="activate_phone_failed_notif_title_msim">%s SIM karttan MiCloud hizmeti başlatılamadı!</string>
   <string name="activate_phone_send_sms_fail">Aktivasyon mesajı gönderilemedi, senkronize hizmetini açın</string>
   <string name="activate_phone_send_sms_failed_notif">Aktivasyon mesajı gönderilemedi</string>
   <string name="activate_phone_server_error">Sunucu hatası, senkronize hizmeti kullanılamıyor</string>
   <string name="activate_phone_server_error_notif">Sunucu hatası</string>
+  <string name="activate_status_desc_acquire_phone_number">Sunucudan telefon numarası edinme</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error">Telefon numarasını elde edilirken sunucu hatası oluştu.</string>
+  <string name="activate_status_desc_acquire_phone_number_server_error_wait">Sunucu hatası. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error">Sunucu I/O hatası</string>
+  <string name="activate_status_desc_acquire_phone_number_server_io_error_wait">Sunucu I/O hatası. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info">Telefon numarası alınamıyor</string>
+  <string name="activate_status_desc_acquire_phone_number_server_no_info_wait">Telefon numarası alınamıyor. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token">Sunucudan güvenlik bilgileri alınıyor ...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_password_error">Yanlış güvenlik belirteci nedeniyle güvenlik bilgisi alınamıyor</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error">Sunucu hatası</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_error_wait">Sunucu hatası. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error">Sunucu I/O hatası</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_io_error_wait">Sunucu I/O hatası. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info">Sunucudan güvenlik bilgileri alınamıyor</string>
+  <string name="activate_status_desc_acquire_sim_pass_token_server_no_info_wait">Sunucudan güvenlik bilgileri alınamıyor. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_sim_user_id">Sunucudan kayıt bilgileri edinme</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error">Sunucu hatası</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_error_wait">Sunucu hatası. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error">Sunucu I/O hatası</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_io_error_wait">Sunucu I/O hatası. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info">Sunucudan kayıt bilgileri alınamıyor</string>
+  <string name="activate_status_desc_acquire_sim_user_id_server_no_info_wait">Sunucudan kayıt bilgileri alınamıyor. Yeniden denemek için bekliyor...</string>
+  <string name="activate_status_desc_failed_getting_device_info">Cihaz bilgileri alınamadı</string>
+  <string name="activate_status_desc_failed_getting_gateway">SMS Gateway alınamadı</string>
+  <string name="activate_status_desc_failed_getting_sim_info">SIM kartı bilgileri alınamadı</string>
+  <string name="activate_status_desc_getting_device_info">Cihaz bilgisi alınıyor...</string>
+  <string name="activate_status_desc_getting_gateway">SMS Gateway alınıyor</string>
+  <string name="activate_status_desc_getting_sim_info">SIM kart verileri alınıyor</string>
+  <string name="activate_status_desc_prepare_sending_sms">Gateway, aktivasyon SMS göndermek için hazırlanıyor</string>
+  <string name="activate_status_desc_sending_sms">Aktivasyon SMS\'i gönderiliyor...</string>
+  <string name="activate_status_desc_sim_absent">SIM kart bulunamadı!</string>
+  <string name="activate_status_desc_sms_sent">Aktivasyon SMS\'i gönderildi!</string>
+  <string name="activate_status_title_activating">SIM kart etkinleştiriliyor...</string>
+  <string name="activate_status_title_activating_msim">SIM kart etkinleştiriliyor %s...</string>
   <string name="available_functionality">Mevcut Hizmetler</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="add_weibo_account">Hesap ekle</string>
+  <string name="alert_notif_title_dspt">Veri güvenliği sağlamak için senkronizasyonu geri yükleyin</string>
   <string name="alert_title_remove_account">Hesabı sil</string>
   <string name="app_name">Xiaomi Framework Hizmetleri</string>
   <string name="bad_authentication">Kimlik doğrulama başarısız, yanlış kullanıcı adı veya şifre</string>
@@ -30,21 +66,27 @@
   <string name="btn_activate">Etkinleştir</string>
   <string name="btn_count_down_wait">%1$s saniye bekleyin</string>
   <string name="button_cancel">İptal</string>
+  <string name="captcha">Güvenlik Kodu</string>
   <string name="btn_voucher">Mi kredi kartı(%1$s)</string>
   <string name="check_phone_error_title">Senk hizmeti başlatılamadı</string>
   <string name="check_phone_io_error">Ağ hatası</string>
   <string name="checking_account">Hesap duğrulanıyor...</string>
-  <string name="cloud_messaging">MiCloud mesajları</string>
+  <string name="checking_input">Giriş kontrol ediliyor...</string>
+  <string name="cloud_messaging">MiCloud mesajlaşma</string>
   <string name="completed">Bitti</string>
   <string name="confirm">Onayla</string>
   <string name="current_account">Mevcut hesap</string> 
   <string name="data_keep_in_phone">Cihazdaki verileri koru</string>
   <string name="data_sync_notice">Xiaomi hesabı kullanarak verilerinizi senk edin</string>
   <string name="data_wipe_from_phone">Cihazımdan sil</string>
+  <string name="dirty_contacts_count">%d kişi</string>
+  <string name="dirty_mms_count">%d mesaj</string>
+  <string name="dirty_note_count">%d not</string>
   <string name="disable_find_device_error">%1$s, Cihaz bulma devre dışı bırakılamadı</string>
   <string name="disable_micloud">&lt;u&gt;MiCloud\'u etkinleştirmeyin&lt;/u&gt;</string> 
   <string name="enable_micloud">Cloud hizmetlerine izin ver</string> 
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
+  <string name="enableAll">Hepsini etkinleştir</string>
   <string name="enable_find_device_error">%1$s, Cihaz bulma etkinleştirilemedi</string>
   <string name="error_dup_phone">Telefon kaydedilmiş</string>
   <string name="error_invalid_dev_id">Geçersiz cihaz kimliği!</string>
@@ -54,6 +96,7 @@
   <string name="error_server">Sunucu hatası</string>
   <string name="error_sim_not_ready">SIM hazır değil</string>
   <string name="error_unknown">Bilinmeyen hata: %1$s</string>
+  <string name="error_user_name">Geçersiz kullanıcı adı!</string>
   <string name="failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
   <string name="find_device">Cihazımı Bul</string>
   <string name="find_device_check_phone_error_title">Cihaz bulma hizmetini etkinleştirme başarısız oldu</string>
@@ -72,6 +115,7 @@
   <string name="get_back_pwd">Şifreyi kurtar</string> 
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>
   <string name="i_know">Tamam</string>
+  <string name="input_captcha_hint">Güvenlik kodunu girin</string>
   <string name="imported_contacts"> %s kişi içe aktarıldı</string>
   <string name="input_password_hint">Şifrenizi giriniz</string>
   <string name="int_phone_user_notice">Çin dışında bir numara kaydederken, ülke kodunu girin örnek. +44xxxxxxxxx</string>
@@ -83,6 +127,13 @@
   <string name="login_failed">Oturum açma başarısız</string>
   <string name="login_instead_reg">Telefon numaranız ile giriş yapın</string>
   <string name="login_notice">Oturum açılıyor...</string>
+  <string name="master_alert_notif_dspt" formatted="false">"Bu süre zarfında %s kişi, %s SMS, %s foto, %s not ve diğer veriler eklendi.
+
+
+
+ Telefonunuzu kaybettiğinizde veya sildiğinizde, bu veriler kalıcı olarak kaybolur. Bu veri güvenliğini sağlamanız için senkronizasyonu geri yüklemeniz önerilir."</string>
+
+  <string name="master_alert_notif_title">Veriler %s gündür senkronize edilmedi</string>
   <string name="memu_refresh">Yenile</string> 
   <string name="mibi_license_message">Xiaomi Mi kredi hizmeti. Tümünü kabul etmek için tıklayın  %1$s.</string>
   <string name="mibi_license_message_span">Mi kredi sözleşmesi</string>
@@ -111,8 +162,10 @@
    <string name="micloud_dspt">MiCloud Hizmeti ile, arama, mesajlaşma, senkronize ve diğer pek çok işlemi yapabilirsiniz. Ayrıca çevrimiçi olarak istediğiniz zaman verilerinizi düzenleyebilirsiniz.</string> 
   <string name="micloud_email">E-posta adresi</string>
   <string name="micloud_error_email">E-posta geçersiz</string>
+  <string name="micloud_error_empty_captcha_code">Güvenlik kodunu girin.</string>
   <string name="micloud_error_empty_pwd">Şifre boş</string>
   <string name="micloud_error_empty_username">Kullanıcı adı boş</string>
+  <string name="micloud_error_empty_vcode">Doğrulama kodunu girin</string>
   <string name="micloud_error_illegal_pwd">Geçersiz şifre</string>
   <string name="micloud_input_password_prompt">Şifrenizi girin</string>
   <string name="micloud_intro_01_part_01">SMS mesajlarını kaydet</string>
@@ -207,6 +260,7 @@
    1. Ilgili müşteri hizmetleri: %1$s
    2. Seri numarası: %2$s"</string>
   <string name="progress_warning_waiting">Kullanıcı bilgileriniz güncellenirken lütfen bekleyiniz.</string>
+  <string name="quick_login_step2_title">Giriş Güvenliği</string>
   <string name="quick_login_title">Kimlik doğrulama gerekiyor, lütfen şifrenizi giriniz</string>
   <string name="recharge_alipay_summary">Alipay kredisi</string>
   <string name="recharge_alipay_title">Alipay</string>
@@ -234,6 +288,7 @@
   <string name="remove_confirm">Sil</string>
   <string name="remove_unactivated_account_notice">Xiaomi hesabı etkin değil, şimdi bunu kaldırmak istiyor musunuz?</string>
   <string name="removing_account">Hesap kaldırılıyor...</string>
+  <string name="restoreSync">Senkronizeyi geri yükle</string>
   <string name="send_int_sms_for_sync_notice">Cihazınıza aktivasyon SMS\'i gönderildi. Devam edilsin mi?</string>
   <string name="send_sms_for_sync_notice">Aktivasyon SMS\'i gönderildi. Devam edilsin mi</string>
   <string name="send_sms_for_sync_title">Senk hizmetleri etkin değil</string>
@@ -241,10 +296,18 @@
   <string name="show_password">Şifreyi göster</string>   
   <string name="sim_changed_notification_content">SIM kart etkin değil, lütfen tekrar etkinleştirin</string>
   <string name="sina_weibo">Sina Weibo</string>
-  <string name="skip_login">Skip login</string>
+  <string name="skip_login">Girişi atla</string>
+  <string name="skip_login_u">&lt;u&gt;Girişi atla&lt;/u&gt;</string>
   <string name="skip_setup_account_msg">Xiaomi Hesabınızı kullanarak, SMS, Rehber, fotoğraflar, notlar, vs senkronize ve yedekleme yapabilirsiniz.  Devam edip daha sonra kurulsun mu?</string>
   <string name="skip_setup_account_title">Hesap ayarlarını atla</string>
-  <string name="start_micloud">Başlat</string> 
+  <string name="start_micloud">Başlat</string>
+<string name="sub_alert_notif_dspt" formatted="false">" %s telefon kişisi, %s SMS, %s foto, %s of not ve diğer veriler senkronize edilmemiş.
+
+
+
+ Veri güvenliğiniz için senkronize işlemini yapmanız tavsiye edilir"</string>
+
+  <string name="sub_alert_notif_title">Senkronizasyon servisi etkin değil</string>  
   <string name="sync_dspt">Senk için Xiaomi hesabı kullan</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
@@ -260,6 +323,7 @@
   <string name="title_recharge_record">Yükleme geçmişi</string>
   <string name="title_reg">Xiaomi hesabını kaydet</string>
   <string name="title_voucher">Mi kredi kuponu kullanarak yükle</string>
+  <string name="trust_device">Güvenli cihaz</string>
   <string name="unactivated_user">Etkin değil</string>
   <string name="unbind">Yetkisini kaldır</string>
   <string name="update_contacts">Kişileri güncelle</string>
@@ -270,11 +334,19 @@
   <string name="user_agreement_p3"> ve </string>
   <string name="user_agreement_p4">Gizlilik Politikası</string>
   <string name="user_agreement_p5">"Kayıt ederek, kabul etmiş oluyorsunuz "</string>
-  <string name="value">Değer</string> 
+  <string name="value">Değer</string>
+  <string name="vcode">Doğrulama kodu</string>
+  <string name="vcode_notification_title">Giriş doğrulamanız tamamlanmadı</string>
+  <string name="vcode_prompt_long">Xiaomi güvenlik belirteci ile oluşturulan doğrulama kodunu girin</string>  
   <string name="voucher_edit_hint">Şifre:</string>
   <string name="voucher_edit_limit">Sınırı düzenle</string>
   <string name="voucher_error_code">Mi Kredi kupon kodu hatası</string>
   <string name="voucher_input_password_prompt">Şifreyi girin</string>
+  <string name="wipe_data_dialog_msg">%s senkronize değil.</string>
+  <string name="wipe_data_dialog_msg_separator">, </string>
+  <string name="wipe_data_dialog_title">"Bazı öğeler senkronize edilmemiş."</string>
+  <string name="wrong_captcha">Geçersiz güvenlik kodu</string>
+  <string name="wrong_vcode">Geçersiz Vcode</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
 </resources>
