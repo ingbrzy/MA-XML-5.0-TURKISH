@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="all_downloads">Tüm indirmeler</string>
-    <string name="app_downloads">%s uygulama indirmesi</string>
+  <string name="all_downloads">Tüm indirmeler</string>
+  <string name="app_downloads">%s uygulama indirmesi</string>
   <string name="app_label">İndirmeler</string>
   <string name="button_sort_by_date">Tarihe göre sırala</string>
   <string name="button_sort_by_size">Boyuta göre sırala</string>
@@ -9,7 +9,7 @@
   <string name="cancel_running_download">İptal</string>
   <string name="confirm_delete_downloads_message">Seçilen %d indirmeyı silmek istiyor musunuz?</string>
   <string name="confirm_delete_the_download_item_message">İndirirme dosyasını silmek istiyor musunuz?</string>
-  <string name="confirm_disable_download_only_in_wifi_message">''Sadece Wi-Fi ile indir'' özelliğinin kapatılması ek mobil veri ücretlerine neden olabilir. Bunu kapatmak istediğinizden emin misiniz?</string>
+  <string name="confirm_disable_download_only_in_wifi_message">Sadece Wi-Fi ile indir özelliğinin kapatılması ek mobil veri ücretlerine neden olabilir. Bunu kapatmak istediğinizden emin misiniz?</string>
   <string name="delete_download">Sil</string>
   <string name="delete_downloads_records">İndirilenleri sil</string>
   <string name="delete_the_downloaded_file">İndirilmiş dosyaları sil.</string>
@@ -54,7 +54,7 @@
   <string name="no_downloads">İndirme yok!</string>
   <string name="open_download">Aç</string>
   <string name="pause_download">Duraklat</string>
-   <string name="pause_download_when_wifi_disconnected">Sadece Wi-Fi ile indir</string>
+  <string name="pause_download_when_wifi_disconnected">Sadece Wi-Fi ile indir</string>
   <string name="paused_by_app">Duraklatıldı</string>
   <string name="paused_queued_for_wifi">Wi-Fi bağlantısı bekleniyor</string>
   <string name="paused_unknown">Bilinmeyen hata</string>
