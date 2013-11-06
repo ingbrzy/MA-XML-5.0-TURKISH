@@ -8,7 +8,7 @@
   <string name="about_version_label">Sürüm:</string>
   <string name="adjust_position_next_media_notice">Sonraki</string>
   <string name="adjust_position_prev_media_notice">Önceki</string>
-  <string name="airkan_control_device_des">Alttaki tış ile video oynatımını kontrol edebilirsiniz.</string>
+  <string name="airkan_control_device_des">Alttaki tuş ile video oynatımını kontrol edebilirsiniz.</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_video_playing"/>
   <string name="airkan_video_playing_in">Video oynatılıyor...</string>
@@ -38,7 +38,7 @@
   <string name="nowifi_alert_dialog_title">Trafik uyarısı !</string>
   <string name="temp_play_history_button_label">Oynatıcı geçmişi</string>
   <string name="to_be_play_label_v5">Oynatılıyor</string>
-  <string name="toast_back_key_pressed_notice">Çıkış için geri tuşuna basın.</string>
+  <string name="toast_back_key_pressed_notice">Çıkmak için geri tuşuna basın.</string>
   <string name="toast_message_continue_play_from">Burdan itibaren oynat</string>
   <string name="toast_message_continue_play_hour">Sa</string>
   <string name="toast_message_continue_play_minute">Dak</string>
@@ -53,7 +53,7 @@
   <string name="video_info_resolution_label">Video çözünürlüğü:</string>
   <string name="video_info_video_coding_label">Video kodlama biçimi:</string>
   <string name="vp_VideoView_error_button">TAMAM</string>
-  <string name="vp_VideoView_error_network_not_available">Ağ kullanılamaz!</string>
+  <string name="vp_VideoView_error_network_not_available">Kullanılabilir ağ bağlantısı yok!</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Seçilen video biçimi bu cihaz için uygun değil!</string>
   <string name="vp_VideoView_error_text_unknown">Seçilen video biçimi oynatılamaz!</string>
   <string name="vp_VideoView_error_title">Video oynatma hatası!</string>

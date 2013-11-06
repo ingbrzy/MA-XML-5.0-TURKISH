@@ -43,9 +43,9 @@
   <string name="clean_title">Çöp kutusundaki 30 günden eski dosyaları sil</string>
   <string name="clean_trash_box">Çöp kutusu boş</string>
   <string name="cleaning">Temizleniyor...</string>
-  <string name="cleaned">Temizleme bitti</string>
+  <string name="cleaned">Temizlendi</string>
   <string name="cleanup_stopped">Temizleme durduruldu</string> 
-  <string name="cleanup_complete">Temizleme başarılı</string>
+  <string name="cleanup_complete">Tamamlandı</string>
   <string name="close">Kapat</string>
   <string name="compress_fail">Zip dosyası oluşturulamadı, zaten var!</string>
   <string name="compress_message">Sıkıştır:</string>

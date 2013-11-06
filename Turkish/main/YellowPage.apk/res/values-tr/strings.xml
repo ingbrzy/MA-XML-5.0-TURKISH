@@ -24,7 +24,7 @@
   <string name="mark_number_custom_dialog_maintitle">Kabul et ya da işareti doğrula</string>
   <string name="mark_number_dialog_maintitle">Spam olarak işaretle ve yükle</string>
   <string name="mark_number_dialog_subtitle">Müşterek Sogou ile geliştirilen</string>
-  <string name="menu_about_yellow_page">Sayfa hakkında</string>
+  <string name="menu_about_yellow_page">Sarı Sayfa hakkında</string>
   <string name="menu_add_black_list">Kara listeye ekle</string>
   <string name="menu_call_ip_number">IP araması yap (Ara %s)</string>
   <string name="menu_copy_text">Panoya kopyala</string>
