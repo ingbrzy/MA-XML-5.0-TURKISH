@@ -298,6 +298,11 @@
   <string name="move_to_up_folder">Üst Seviye</string>
   <string name="multi_select_title">%1$s öğe seçildi</string>
   <string name="name">Etiket</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_cate_title">Wi-Fi Bildirimi</string>
+  <string name="network_show_wifi_setting_tip_dialog_setting_title">"Eğer mobil veri kullanıyorsanız, Wi-Fi ağı durumu size bildirilecektir"</string>
+  <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı</string>
+  <string name="network_show_wifi_setting_tip_dialog_description">Kullanılabilir Wi-Fi ağları var. Bağlanmak istiyor musunuz?</string>
+  <string name="network_show_wifi_setting_tip_dialog_notshow">Seçimimi hatırla</string>
   <string name="navigation_button_close">Kapat</string>
   <string name="navigation_button_newtab">Yeni</string>
   <string name="navigation_button_tab">Kart</string>

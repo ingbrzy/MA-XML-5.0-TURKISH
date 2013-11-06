@@ -27,6 +27,7 @@
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor!</string>
   <string name="install_failed_msg">%1$s yüklenemedi!</string>
   <string name="install_failed_older_sdk">Paket sadece eski Android sürümlerinde çalışır!</string>
+  <string name="install_failed_system_incompatible">Bu uygulama, MIUI sistemi ile uyumlu değildir!</string>
   <string name="install_failed_verify_failed">Paket doğrulanamadı, yükleme işlemi iptal edildi!</string>
   <string name="install_failed_verify_timeout">Bu paketi doğrulanırken zaman aşımına uğradı. Daha sonra yeniden deneyin!</string>
   <string name="installing">Yükleniyor...</string>

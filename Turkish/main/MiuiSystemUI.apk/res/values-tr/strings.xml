@@ -50,9 +50,12 @@
   <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
   <string name="always_use_device">Bu USB cihazı için varsayılan olarak kullan</string>
   <string name="app_label">Sistem Arayüzü</string>
+  <string name="audio_effect_settings">Kulaklık türünü seç</string>
+  <string name="audio_effect_info">Ses Optimizasyonu</string>
+  <string name="audio_effect_custom">Özel</string>
   <string name="battery_low_percent_format">Pil düzeyi :%d%% </string>
-  <string name="battery_low_subtitle">Pil azalıyor !</string>
-  <string name="battery_low_title">Şarj cihazını bağlayın!</string>
+  <string name="battery_low_subtitle">Dikkat: Pil azalıyor !</string>
+  <string name="battery_low_title">LÜTFEN ŞARJ CİHAZINI BAĞLAYIN!</string>
   <string name="battery_low_why">Pil kullanımı</string>
   <string name="bluetooth_tethered">Bluetooth paylaşımı tamam</string>
   <string name="call_status_dialing">Aranıyor..</string>
@@ -112,7 +115,7 @@
   <string name="invalid_charger">"USB üzerinden şarj desteklenmiyor. Yalnızca ürünle birlikte verilen şarj cihazını kullanın."</string>
   <string name="key_position_custom">Özel tuş konumu</string>
   <string name="label_view">Görüntüle</string>
-  <string name="lockscreen_carrier_default">SERVİS YOK!</string>
+  <string name="lockscreen_carrier_default">ŞEBEKE YOK!</string>
   <string name="mdb_entering">MDB erişimi</string>
   <string name="mdb_restore_cancel">İptal</string>
   <string name="mdb_restore_info1">"Telefondaki verileri kurtar"</string>
@@ -243,7 +246,7 @@
   <string name="status_bar_toggle_torch">Elfeneri</string>
   <string name="status_bar_toggle_vibrate">Titreşim</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Wi-Fi Hot-Spot</string> 
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi İ.Paylaşımı</string> 
   <string name="status_bar_use_physical_keyboard">Fiziksel klavye kullan</string>
   <string name="tab_notifications_lable">Bildirimler</string>
   <string name="tab_toggles_lable">Geçişler</string>

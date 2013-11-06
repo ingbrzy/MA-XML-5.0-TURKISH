@@ -162,6 +162,7 @@
   <string name="insufficient_drm_rights">Yetersiz DRM hakları tespit edildi.</string>
   <string name="invalid_conversation">Sohbet geçersiz!</string>
   <string name="invalid_destination">Geçersiz hedef adresi</string>
+  <string name="invalid_private_contact">Geçersiz kişi</string>
   <string name="invalid_recipient_message">Alıcıları düzeltin, aksi takdirde mesajı almayacaklar.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slayt gösterisi düzeni "</string>

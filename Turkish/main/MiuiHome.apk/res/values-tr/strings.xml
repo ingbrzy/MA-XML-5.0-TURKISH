@@ -44,7 +44,7 @@
   <string name="failed_to_delete_temporary">Silme işleminde hata, lütfen tekrar deneyin!</string>
   <string name="failed_to_drop">Simge taşınamadı, eski konumuna geri yüklendi!</string>
   <string name="failed_to_drop_widget_invalid">Araç Hatalı!</string>
-  <string name="failed_to_drop_widget_nospace">Ekranda yeteri kadar boş alan yok!</string>
+  <string name="failed_to_drop_widget_nospace">Ekranda yeterli boş alan yok!</string>
   <string name="folder_name">Klasör</string>
   <string name="frame_load_failed">Geçersiz foto çerçevesi, çerçeve yüklenemedi!</string>
   <string name="free_style_apps_title">Uygulamayı seç</string>
@@ -100,7 +100,7 @@
   <string name="menu_add">Ekle</string>
   <string name="menu_back_desktop">Geri dön</string>
   <string name="menu_customize">Ayarları Değiştir</string>
-  <string name="menu_edit">Widget\'leri Düzenle</string>
+  <string name="menu_edit">Widgetleri Yönet</string>
   <string name="menu_exit_scene">MiSpace\'den Çık</string>
   <string name="menu_item_add_item">Ana ekrana ekle</string>
   <string name="menu_launcher_setting">Başlatıcı Ayarları</string>
@@ -149,7 +149,7 @@
   <string name="resource_apply">Uygula</string>
   <string name="resource_buy">Satın al</string>
   <string name="resource_can_not_selected">%1$s seçilemez!</string>
-  <string name="resource_default">Vrsayılan zil sesi</string>
+  <string name="resource_default">Varsayılan zil sesi</string>
   <string name="resource_default_name">Kaynak</string>
   <string name="resource_delete_all">Seçilen %1$d kaynağı silmek istiyor musunuz?</string>
   <string name="resource_delete_confirm">Bu kaynakları silmek istiyor musunuz?</string>
@@ -164,12 +164,12 @@
   <string name="resource_get_auth_exceed_max_limit_title">Yetkili sınırı aşıyor</string>
   <string name="resource_get_auth_missing">Tema resmi marketten indirilmemiş!</string>
   <string name="resource_get_auth_retrieving">Yetki alınıyor...</string>
-  <string name="resource_import_successful">İçe aktarım başarılı!</string>
+  <string name="resource_import_successful">İçe aktarma başarılı!</string>
   <string name="resource_importing">İçe aktarılıyor...</string>
   <string name="resource_list_title">Son seçilen</string>
   <string name="resource_local">Yerel %1$s</string>
   <string name="resource_mute">Yok</string>
-  <string name="resource_no_result">Sonuç yok</string>
+  <string name="resource_no_result">Sonuç bulunamadı!</string>
   <string name="resource_notification_default">Bildirimler</string>
   <string name="resource_online">Online %1$s</string>
   <string name="resource_price_format">(%1$s)</string>
@@ -233,13 +233,13 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="status_bar_toggle_torch">El feneri</string>
   <string name="status_bar_toggle_vibrate">Titreşim</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
-  <string name="status_bar_toggle_wifi_ap">Wi-Fi Hot-Spot</string> 
+  <string name="status_bar_toggle_wifi_ap">Wi-Fi İ.Paylaşımı</string> 
   <string name="title_select_live_folder">Klasör seçin</string>
   <string name="title_select_shortcut">Kısayol seçin</string>
   <string name="toggle_select_title">Geçişi seçin</string>
   <string name="toggle_title">Geçiş</string>
   <string name="transformation_type_classic">Klasik</string>
-  <string name="transformation_type_classic_no_overshoot">Klasik (Esneklik yok)</string>
+  <string name="transformation_type_classic_no_overshoot">Klasik (Sallantı yok)</string>
   <string name="transformation_type_crossfade">Kaydır</string>
   <string name="transformation_type_cube">3D Küp</string>
   <string name="transformation_type_falldown">Yuvarlan</string>

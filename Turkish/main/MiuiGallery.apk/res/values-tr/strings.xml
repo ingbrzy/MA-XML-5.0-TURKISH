@@ -80,6 +80,7 @@
   <string name="clear_thumbnail_cache">Önizleme belleğini temizle</string>
   <string name="clear_thumbnail_cache_confirm">Önizleme belleği temizlenecek. Galeri tüm medya dosyalarını tekrar tarayacak ve önizlemeleri tekrar oluşturacak .</string>
   <string name="clear_thumbnail_cache_summary">Galeri önizleme resimlerini oluşturacak. Daha fazla alan için önbelleği temizliyor.</string>
+  <string name="click_top_right">Sağ üst simgeye basınız</string>
   <string name="click_to_enter_camera">Kamerayı aç</string>
   <string name="close">Kapat</string>
   <string name="cloud_album_more_settings">Cloud albümü ayarları</string>
