@@ -7,7 +7,7 @@
   <string name="button_sort_by_size">Boyuta göre sırala</string>
   <string name="cancel_download_notice">İndirme bildirimini kapat</string>
   <string name="cancel_running_download">İptal</string>
-  <string name="confirm_delete_downloads_message">Seçilen %d indirmeyı silmek istiyor musunuz?</string>
+  <string name="confirm_delete_downloads_message">Seçilen %d indirmeyi silmek istiyor musunuz?</string>
   <string name="confirm_delete_the_download_item_message">İndirirme dosyasını silmek istiyor musunuz?</string>
   <string name="confirm_disable_download_only_in_wifi_message">Sadece Wi-Fi ile indir özelliğinin kapatılması ek mobil veri ücretlerine neden olabilir. Bunu kapatmak istediğinizden emin misiniz?</string>
   <string name="delete_download">Sil</string>

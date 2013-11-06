@@ -40,7 +40,8 @@
   <string name="confirm_change_mode_title">Modu değiştir</string>
   <string name="confirm_change_to_expert_mode_message">Profesyonel moda geçmek istiyor musunuz?</string>
   <string name="confirm_change_to_simple_mode_message">Basit moda geçmek istiyor musunuz?</string>
-  <string name="confirm_location_message">Kamera, çekilen fotoğraflara konum bilgisi ekleyebilir. Bu özellik şimdi etkinleştirmek istiyor musunuz?</string>
+  <string name="confirm_location_message">Kamera, çekilen fotoğraflara konum bilgisi ekleyebilir. 
+  Bu özelliği şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="confirm_restore_message">Kamera ayarları sıfırlamak istiyor musunuz?</string>
   <string name="confirm_restore_title">Ayarları sıfırla</string>
   <string name="connect_wifi">Bu Wi-Fi ağına bağlan</string>
@@ -134,7 +135,7 @@
   <string name="maker">Yapımcı</string>
   <string name="manual">Kılavuz</string>
   <string name="mimetype">MIME tipi</string>
-  <string name="no_save">"Kaydetmeyin"</string>
+  <string name="no_save">"Kaydetme"</string>
   <string name="model">Model</string>
   <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın.</string>
   <string name="no_thumbnail">Ön izleme yok</string>
