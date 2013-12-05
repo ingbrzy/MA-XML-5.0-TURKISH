@@ -1153,7 +1153,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lte_ram_dump_on">lte ram dökümünü aç</string>
   <string name="macaddr_label">MAC:</string>
   <string name="main_running_process_description">Ana işlem kullanımda.</string>
-  <string name="man_add_application">Otomatik başayan uygulamaları elle ekle</string>
+  <string name="man_add_application">Otomatik başlayan uygulamaları elle ekle</string>
   <string name="manage_device_admin">Cihaz yöneticileri</string>
   <string name="manage_device_admin_summary">Cihaz yöneticilerini görüntüle veya devre dışı bırak</string>
   <string name="manage_space_text">Alanı yönet</string>
