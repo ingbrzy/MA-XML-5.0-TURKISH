@@ -356,7 +356,7 @@
         <item>Görev Yöneticisini Başlat</item>
         <item>Ses Asistanını Başlat</item>
         <item>Google Now\'ı Başlat</item>
-        <item>Açık Uygulamalayı Zorla Kapat</item>
+        <item>Açık Uygulamaları Zorla Kapat</item>
     </string-array>
 	<string-array name="screen_key_long_press_timeout">
         <item>0.5 saniye</item>
