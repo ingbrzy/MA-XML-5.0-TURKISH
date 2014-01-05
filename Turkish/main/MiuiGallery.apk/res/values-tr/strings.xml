@@ -65,7 +65,6 @@
   <string name="camera_connected">Kamera bağlandı</string>
   <string name="camera_disconnected">Kamera bağlantısı kesildi!</string>
   <string name="camera_folder_display_name">KAMERA Fotoları</string>
-  <string name="camera_path">/DCIM/Camera</string>
   <string name="camera_setas_wallpaper">Duvar kağıdı</string>
   <string name="camera_view_none_message">Çekilen fotolar burada gösterilir</string>
   <string name="cancel">İptal</string>
