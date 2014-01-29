@@ -2959,7 +2959,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="power_settings_category_title">Battery indicator</string>
     <string name="power_settings_number">Percentage</string>
     <string name="power_settings_shape">Graphical</string>
-    <string name="power_settings_title">Set</string>
     <string name="power_settings_top">Top bar</string>
     <string name="power_usage_sort_desc">Sort programs by power-consumption</string>
     <string name="power_usage_sort_title">View power consumption</string>
