@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="account_abnormal_state">Hesap bilgileri hatalı, tekrar giriş yapmayı deneyin.</string>
+  <string name="account_info">Hesabım</string>
+  <string name="account_unactivated">Hesap etkin değil</string>
   <string name="all_resources">Tümü</string>
   <string name="all_ringtone_resource">Tümü</string>
   <string name="app_name">Temalar</string>
@@ -28,7 +29,7 @@
   <string name="component_screen_title">Seçili olanı dahil et</string>
   <string name="component_select_title">%1$s Bileşen seçildi</string>
   <string name="component_settings_title">Kişiselleştir</string>
-  <string name="default_name">Varsayılan</string>
+  <string name="default_name">Geçerli</string>
   <string name="deleting">Siliniyor...</string>
   <string name="description_author">Yazar:</string>
   <string name="description_designer">Tasarımcı:</string>
@@ -37,7 +38,7 @@
   <string name="description_summary">Özet:</string>
   <string name="description_uploadtime">Güncelleme:</string>
   <string name="description_version">Sürüm:</string>
-  <string name="description_version_szie">Sürüm: %1$s Boyur: %2$s</string>
+  <string name="description_version_szie">Sürüm: %1$s Boyut: %2$s</string>
   <string name="desktop_wallpaper">Masaüstü Duvar Kağıtları</string>
   <string name="download_success">Başarıyla indirildi!</string>
   <string name="live_wallpaper">Canlı Duvar Kağıtları</string>
@@ -52,7 +53,15 @@
   <string name="mi_wallpaper">Mi Duvar Kağıtları</string>
   <string name="online_no_network">Ağ bağlantısı yok!</string>
   <string name="online_search_hint">Çevrimiçi Tema ara</string>
-  <string name="processing">İşlem Yapılıyor ...</string>
+  <string name="payment_info">MiKredisi</string>
+  <string name="purchased_list">Satın alınanlar</string>
+  <string name="resource_account_abnormal_state">Daha sonra tekrar deneyin</string>
+  <string name="resource_account_current">Hesap: %1$s</string>
+  <string name="resource_account_fail_to_add">Hesap eklenemedi!</string>
+  <string name="resource_account_login">Oturum aç</string>
+  <string name="resource_account_login_before_action">Xiaomi hesabınız ile oturum açın.</string>
+  <string name="resource_account_login_title">Oturum aç</string>
+  <string name="resource_account_switch">Hesap değiştir</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Tema tarayıcı</string>
   <string name="resource_apply">Uygula</string>
@@ -113,6 +122,7 @@
   <string name="resource_download">İndir</string>
   <string name="resource_downloaded_title">İndirilen Temalar</string>
   <string name="resource_downloading">İndiriliyor..</string>
+  <string name="resource_expand_full_text">Aç</string>
   <string name="resource_get_auth_checking">Kimlik doğrulanıyor...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Tema bu cihazda çalışmaz. Xiaomi hesabınız maksimuma ulaştı.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Yetkilendirme sınırına ulaşıldı!</string>
@@ -196,7 +206,7 @@
   <string name="theme_component_title_wallpaper">Duvar Kağıtları</string>
   <string name="theme_current_using_has_update">Mevcut tema güncellendi, uygulama için buraya dokunun</string> 
   <string name="theme_description_title_customized">Kullanıcı Tanımlı</string>
-  <string name="theme_description_title_default">Varsayılan</string>
+  <string name="theme_description_title_default">Geçerli</string>
   <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulansın mı?</string>
   <string name="theme_import_activity_label">Temayı güncelle</string>
   <string name="theme_import_data">Başlatılıyor. Lütfen bekleyin...</string>
@@ -230,7 +240,6 @@
   <string name="theme_upgrade_request_yes">Tamam</string>
   <string name="third_party_pickers_activity_title">Ayarla %1$s</string>
   <string name="title_component">Karışık</string>
-  <string name="title_download_resource">İndirilmiş Temalar</string>
   <string name="title_local">Yüklenenler</string>
   <string name="title_online">Tema Merkezi</string>
   <string name="title_system_resource">Sistem Temaları</string>
