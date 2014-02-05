@@ -264,6 +264,7 @@
   <string name="pref_conversation_show_avatar">Kişi resmini göster</string>
   <string name="pref_edit_smsc_address">SMS merkezi numarası</string>
   <string name="pref_forward_title">Yönlendir</string>
+  <string name="pref_key_mx_feedback">Geri bildirim gönder</string>
   <string name="pref_messages_to_save">Saklanacak mesaj sayısı</string>
   <string name="pref_mms_settings_title">Multimedya mesajları (MMS)</string>
   <string name="pref_notification_settings_title">Bildirimler</string>
@@ -277,6 +278,8 @@
   <string name="pref_summary_mms_auto_retrieval">İletileri otomatik olarak al</string>
   <string name="pref_summary_mms_read_reports">Gönderdiğiniz her ileti için bir okundu raporu iste</string>
   <string name="pref_summary_mms_retrieval_during_roaming">Dolaşırken iletileri otomatik olarak al</string>
+  <string name="pref_summary_mx_feedback">"MIUI gelişimine yardımcı olun!
+Eksik ve hataları Xiaomi\'e bildirin.”</string>
   <string name="pref_summary_new_message_popup">Yeni mesaj geldiğinde ekranda gösterir</string>
   <string name="pref_summary_new_message_popup_when_secure">Telefon şifre korumalı olduğunda mesaj penceresi çalışmaz</string>
   <string name="pref_summary_notification_body_enabled">Gelen mesaj içeriğinin önizlemesini gösterir (kilit ekranı, durum çubuğu, mesaj penceresi)</string>

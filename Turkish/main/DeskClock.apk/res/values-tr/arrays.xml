@@ -17,13 +17,13 @@
     </string-array>
     <string-array name="alarm_in_furture">
         <item>Alarma 1 dakikadan daha az kaldı</item>
-        <item>Alarma %1$s</item>
-        <item>Alarma %2$s</item>
-        <item>Alarma %1$s %2$s</item>
-        <item>Alarma %3$s</item>
-        <item>Alarma %1$s %3$s</item>
-        <item>Alarma %2$s %3$s</item>
-        <item>Alarma %1$s %2$s %3$s</item>
+        <item>Alarma %1$s kaldı</item>
+        <item>Alarma %2$s kaldı</item>
+        <item>Alarma %1$s %2$s kaldı</item>
+        <item>Alarma %3$s kaldı</item>
+        <item>Alarma %1$s %3$s kaldı</item>
+        <item>Alarma %2$s %3$s kaldı</item>
+        <item>Alarma %1$s %2$s %3$s kaldı</item>
     </string-array>
     <string-array name="days">
         <item>Dün</item>

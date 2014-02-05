@@ -20,4 +20,31 @@
         <item>Varsayılan</item>
         <item>Klasik</item>
     </string-array>
+	<string-array name="gadget_weather_image">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Puslu</item>
+        <item>Sisli</item>
+        <item>Şiddetli yağmur fırtınası</item>
+        <item>Yağmur fırtınası</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Fırtına</item>
+        <item>Hafif yağmur</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Yağmur</item>
+        <item>Çiseleme</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Aralıklı kar yağışı</item>
+        <item>Yağun kar yağışı</item>
+        <item>Kar yağışı</item>
+        <item>Hafif kar yağışı</item>
+        <item>Yoğun kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Hafif kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Dolu yağışı</item>
+        <item>Tozlu</item>
+        <item>Puslu</item>
+    </string-array>
 </resources>

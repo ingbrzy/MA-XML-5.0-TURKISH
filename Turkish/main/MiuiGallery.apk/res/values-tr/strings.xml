@@ -75,13 +75,11 @@
   <string name="cannot_send_message">"Mesaj gönderilemedi"</string>
   <string name="cannot_send_message_reason">Mesajınızın geçerli bir alıcısı yok.</string>
   <string name="cant_delete_cloud_album">Silinemedi: %s sistem albümü ya da başka kullanıcı tarafından paylaşılmış!</string>
-  <string name="cant_delete_system_album">%s sistem albümü, silinemez!</string>
   <string name="cleaning_cache">Önbellek temizleniyor...</string>
   <string name="clear_thumbnail_cache">Önizleme belleğini temizle</string>
   <string name="clear_thumbnail_cache_confirm">Önizleme belleği temizlenecek. Galeri tüm medya dosyalarını tekrar tarayacak ve önizlemeleri tekrar oluşturacak .</string>
   <string name="clear_thumbnail_cache_summary">Galeri önizleme resimlerini oluşturacak. Daha fazla alan için önbelleği temizliyor.</string>
   <string name="click_top_right">Sağ üst simgeye basınız</string>
-  <string name="click_to_enter_camera">Kamerayı aç</string>
   <string name="close">Kapat</string>
   <string name="cloud_album_more_settings">Cloud albümü ayarları</string>
   <string name="cloud_album_set_create">Yeni</string>
@@ -463,6 +461,7 @@
   <string name="untagged">Etiketsiz</string>
   <string name="user_alias_self">Benim</string>
   <string name="video_err">"Video oynatılamıyor!"</string>
+  <string name="video_not_exist">Video mevcut değil!</string>
   <string name="view_sharers">Paylaşımcılara gözat</string>
   <string name="vignette">Skeç</string>
   <string name="wallpaper">Duvar kağıdı</string>

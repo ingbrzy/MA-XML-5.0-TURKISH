@@ -98,6 +98,7 @@
   <string name="callrecordview_item_op_time_short_incoming">"Gelen: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Giden: "</string>
   <string name="callrecordview_menu_add_call_note">Çağrı notu ekle</string>
+  <string name="callrecordview_menu_batch_delete">Toplu sil</string>
   <string name="callrecordview_menu_delete">Arama geçmişini temizle</string>
   <string name="callrecordview_menu_delete_accepted">Cevaplanmış çağrıları temizle</string>
   <string name="callrecordview_menu_delete_all">Tüm arama geçmişini temizle</string>
@@ -211,6 +212,7 @@
   <string name="deleteConfirmationDetail">\"%s\" silinecek.</string>
   <string name="deleteConfirmation_title">Kişi silinsin mi?</string>
   <string name="delete_call_log_title">Silinecek arama kaydını seçin</string>
+  <string name="delete_call_log_selected_title">Seçilen arama kaydını silmek istiyor musunuz?</string>
   <string name="delete_contact_calllog_title">"Arama kaydını silmek istiyor musunuz?"</string>
   <string name="delete_dial_input">Sil</string>
   <string name="delete_duplicate">Toplu birleştir</string>
@@ -274,14 +276,14 @@
   <string name="device_import_failed_message">İçe aktarım başarısız!</string>
   <string name="device_import_local_account">Yerel hesap</string>
   <string name="device_import_message">İçe aktarılıyor...</string>
-  <string name="device_import_progress_begin_message">İçe aktarım için hazırlanıyor…</string>
+  <string name="device_import_progress_begin_message">İçe aktarılıyor...</string>
   <string name="device_import_progress_end_message">İçe aktarım tamamlandı!</string>
   <string name="device_import_progress_message">İçe aktarılıyor...</string>
   <string name="device_import_progress_toast">%1$d kişi içe aktarıldı</string>
   <string name="device_import_title">İçe aktar</string>
   <string name="device_list_title">ile eşleştirmek için telefonu seçin</string>
   <string name="device_other_guide">Telefonunuz üretici listesinde yok, aşağıdaki yardımı kullanmayı deneyin</string>
-  <string name="device_other_title">diğer telefon</string>
+  <string name="device_other_title">Diğer telefon</string>
   <string name="device_paired_dialog_message">Cihaz eşleştirildi, kişiler alınıyor (diğer telefondan onaylamanız gerekebilir)...</string>
   <string name="device_paired_dialog_title">Cihaz eşleştirildi, kişiler alınıyor</string>
   <string name="device_pairing_dialog_message">Cihaz eşleştiriliyor (diğer telefondan onaylamanız gerekebilir)...</string>
@@ -751,7 +753,9 @@ Favoriler listenize kişi eklemek için:
   <string name="remind_btn_sync_now">Şimdi Eşitle</string>
   <string name="removePhoto">Fotoğrafı kaldır</string>
   <string name="remove_blacklist">Kara listeden kaldır</string>
-  <string name="remove_duplicate">"MIUI çift kişileri bulmanıza yardım edecek. Kişiler otomatik birleştirilemez, elle yapmanız gerekir"</string>
+  <string name="remove_duplicate">"MIUI çift kişileri bulmanıza yardım edecek. 
+  
+  Başlamak için alt simgeye dokunun."</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Kaynak tarayıcı</string>
   <string name="resource_apply">Uygula</string>
@@ -986,6 +990,7 @@ Favoriler listenize kişi eklemek için:
   <string name="toast_copying">Kopyalanıyor...</string>
   <string name="toast_displaying_all_contacts">Tüm kişileri göster</string>
   <string name="toast_finish_delete_call_log">Arama kaydı silindi</string>
+  <string name="toast_finish_delete_selected_call_log">Arama kayıtları silindi</string>
   <string name="toast_for_failed_saving_nickname">Rumuz kaydedilemedi!</string>
   <string name="toast_for_saving_nickname">Rumuz kaydedildi</string>
   <string name="toast_join_with_empty_contact">Başka bir kişiyle birleştirmeden önce kişi adını yazın.</string>
@@ -1036,6 +1041,19 @@ Favoriler listenize kişi eklemek için:
   <string name="websiteLabelsGroup">Web sitesi</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Verileri sil</string>
+  <string name="yellowPageNavigationIconLabel">Rehber</string>
+  <string name="yellowPageNavigationLabel">Rehber</string>
+  <string name="yellowpage_navigation_menu_order">Siparişim</string>
+  <string name="yellowpage_navigation_no_content">Arama sonucu yok</string>
+  <string name="yellowpage_navigation_search_city_name_hint">Şehire göre ara</string>
+  <string name="yellowpage_navigation_search_hint">Ara</string>
+  <string name="yellowpage_navigation_search_offline_hint">Ağ bağlantısı yok!</string>
+  <string name="yellowpage_navigation_search_result_network_error">"Ağa bağlanamıyor"</string>
+  <string name="yellowpage_navigation_search_result_no_more">Daha fazla sonuç yok</string>
+  <string name="yellowpage_navigation_search_result_service_error">Servis şu an kullanımıyor</string>
+  <string name="yellowpage_navigation_search_result_unknown_error">Bilinmeyen hata!</string>
+  <string name="yellowpage_navigation_search_select_city">Şehiri seçin</string>
+  <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
   <string name="zero_items_selected">Seçili öğe yok</string>  
 </resources>
 

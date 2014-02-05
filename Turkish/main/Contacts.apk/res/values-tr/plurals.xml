@@ -45,11 +45,34 @@
         <item quantity="zero">%1$d öğe seçildi</item>
         <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
-    <plurals name="picker_multi_title">
-        <item quantity="other">%1$d öğe seçildi</item>
-        <item quantity="zero">%1$d öğe seçildi</item>
-        <item quantity="one">%1$d öğe seçildi</item>
+    <plurals name="pick_favorites_list_title">
+        <item quantity="other">%1$d favori</item>
+        <item quantity="one">%1$d favori</item>
     </plurals>
+    <plurals name="pick_recent_list_title">
+        <item quantity="other">%1$d son kişi</item>
+        <item quantity="one">1 son kişi</item>
+    </plurals>
+    <plurals name="hint_search_contacts">
+        <item quantity="other">%1$d kişi</item>
+        <item quantity="one">%1$d kişi</item>
+    </plurals>
+    <plurals name="hint_search_phone_numbers">
+        <item quantity="other">%1$d numara</item>
+        <item quantity="one">%1$d numara</item>
+    </plurals>
+    <plurals name="hint_search_emails">
+        <item quantity="other">%1$d kişi e-posta</item>
+        <item quantity="one">1 kişi e-posta</item>
+    </plurals>
+    <plurals name="pick_favorites_contacts_list_title">
+        <item quantity="other">%1$d favori</item>
+        <item quantity="one">%1$d favori</item>
+    </plurals>
+    <plurals name="pick_recent_contacts_list_title">
+        <item quantity="other">%1$d son kişi</item>
+        <item quantity="one">%1$d son kişi</item>
+	 </plurals>
     <plurals name="group_add_success_toast">
         <item quantity="other">%1$d kişi eklendi</item>
         <item quantity="one">%1$d kişi eklendi</item>
@@ -57,6 +80,10 @@
     <plurals name="smart_group_member_count">
         <item quantity="other">%d Kişi</item>
         <item quantity="one">1 Kişi</item>
+    </plurals>
+	 <plurals name="device_import_done_toast">
+        <item quantity="other">%1$d kişi içe aktarıldı</item>
+        <item quantity="one">%1$d kişi içe aktarıldı</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">" %1$d kişi seçildi"</item>

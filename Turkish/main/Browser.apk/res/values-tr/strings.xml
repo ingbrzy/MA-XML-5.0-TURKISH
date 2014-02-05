@@ -3,23 +3,18 @@
   <string name="MIUI_startpage">Açılış sayfası</string>
   <string name="accessibility_button_addbookmark">Sayfayı favorilere ekle</string>
   <string name="accessibility_button_back">Geri</string>
-  <string name="accessibility_button_bookmark">yer imi</string>
   <string name="accessibility_button_bookmarks">Yer imleri</string>
   <string name="accessibility_button_clear">Girdiyi temizle</string>
   <string name="accessibility_button_closetab">Sekmeyi kapat</string>
   <string name="accessibility_button_forward">İlerle</string>
   <string name="accessibility_button_go">Git</string>
-  <string name="accessibility_button_goto">Git</string>
-  <string name="accessibility_button_larger">Daha geniş</string>
   <string name="accessibility_button_more">Diğer seçenekler</string>
   <string name="accessibility_button_navscreen">Sayfa yöneticisi</string>
   <string name="accessibility_button_newincognitotab">Yeni gizli sekme aç</string>
   <string name="accessibility_button_newtab">Yeni sekme aç</string>
   <string name="accessibility_button_refresh">Sayfayı yenile</string>
   <string name="accessibility_button_search">Arama yap</string>
-  <string name="accessibility_button_smaller">Daha ufak</string>
   <string name="accessibility_button_stop">Sayfa yüklemeyi durdur</string>
-  <string name="accessibility_button_tabs">Sekmeler</string>
   <string name="accessibility_button_uaswitch">Kullanıcı ajanını değiştir</string>
   <string name="accessibility_button_voice">Sesli arama başlat</string>
   <string name="accessibility_state_frozen">Kayıtlı sayfa</string>
@@ -201,20 +196,13 @@
   <string name="error_console_header_text_maximized">JavaScript konsolu</string>
   <string name="error_console_header_text_minimized">JavaScript konsolunu göster</string>
   <string name="exit_browser_warning">Tarayıcıdan çıkılsın mı?</string>
-  <string name="export_bookmark">Yerimlerini dışa aktar</string>
-  <string name="export_bookmark_failure">Yerimlerini dışarı aktarma başarısız!</string>
-  <string name="export_bookmark_sucess">Yerimleri başarıyla SD karta çıkarıldı!</string>
-  <string name="exported_bookmark_file_name">Favorilerim</string>
   <string name="file_dir">Klasör</string>
   <string name="file_name">Dosya adı</string>
   <string name="file_picker">Yolu seç</string> 
-  <string name="file_picker_new_folder">Yeni Klasör</string>
-  <string name="file_picker_sdcard_not_found">SD kart bulunamadı, lütfen kontrol ediniz</string>
   <string name="filename_empty_alert_message">"Dosya adı boş olamaz"</string>
   <string name="filename_illegal_alert_message">Dosya adı geçersiz karakterler içeriyor, dosya otomatik olarak kaldırıldı.</string> 
   <string name="find_on_page">Sayfada Bul</string>
   <string name="folder_name">Klasör adı</string>
-  <string name="folder_name_too_long">Klasör adı çok uzun!</string>
   <string name="forward">İleri</string>
   <string name="general_set_default_browser_dialog_close_txt">Kapat</string>
   <string name="general_set_default_browser_dialog_ok_txt">Tamam</string>
@@ -243,9 +231,6 @@
   <string name="history_track">Geçmiş</string> 
   <string name="homepage_set">Ana sayfa ayarlandı.</string>
   <string name="http">http://</string>
-  <string name="import_bookmark">Yer imlerini içe aktar</string>
-  <string name="import_bookmark_failure">Yer imleri içe aktarma başarısız!</string>
-  <string name="import_bookmark_sucess">Yer imlerini içe aktarma başarıyla tamamlandı</string>
   <string name="import_bookmarks_dialog_add">Yer imlerini Google hesabına ekle</string>
   <string name="import_bookmarks_dialog_confirm_add" formatted="false">Bu cihazda yer imleri ekleyip, %s ile yer imleri eşitleme başlasın mı?</string>
   <string name="import_bookmarks_dialog_confirm_delete" formatted="false">Bu cihazda yer imleri silinip, %s ile yer imleri eşitleme başlasın mı?</string>
@@ -259,7 +244,6 @@
   <string name="import_bookmarks_wizard_done">Bitti</string>
   <string name="import_bookmarks_wizard_next">Sonraki</string>
   <string name="import_bookmarks_wizard_previous">Önceki</string>
-  <string name="importing_favorite_files">Veri alınıyor ...</string>
   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
   <string name="instant_search_label">Anında Arama ile Google (Labs)</string>
   <string name="is_first_history_item">İlk geçmiş öğesi </string>
@@ -303,10 +287,6 @@
   <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ağı</string>
   <string name="network_show_wifi_setting_tip_dialog_description">Kullanılabilir Wi-Fi ağları var. Bağlanmak istiyor musunuz?</string>
   <string name="network_show_wifi_setting_tip_dialog_notshow">Seçimimi hatırla</string>
-  <string name="navigation_button_close">Kapat</string>
-  <string name="navigation_button_newtab">Yeni</string>
-  <string name="navigation_button_tab">Kart</string>
-  <string name="navigation_button_view">Görünüm</string> 
   <string name="new_folder">Yeni klasör</string>
   <string name="new_incognito_tab">Yeni gizli sekme</string>
   <string name="new_tab">Yeni sekme</string>
@@ -327,7 +307,6 @@
   <string name="password">Şifre</string>
   <string name="permission_preload_label">Sonuçları önyükle</string>
   <string name="picasa">Picasa</string>
-  <string name="please_select_a_file_to_import">Lütfen dosya seçin</string>
   <string name="popup_window_attempt">Bu sitenin pop-up pencere açmasına izin verilsin mi?</string>
   <string name="pref_accessibility_title">Erişilebilirlik</string>
   <string name="pref_accessibility_url_shortcut_enter_summary">Adres çubuğundan girerken, ortak harf kombinasyonları bir tuşa basarak girilebilir</string>
@@ -400,7 +379,6 @@
   <string name="pref_file_download_save_title">Dosyayı indir ve kaydet</string>
   <string name="pref_fling_on_border_enabled">Ekran kenarından kaydır</string>
   <string name="pref_fling_on_border_enabled_title_summary">Ekranın kenarında parmağınızı hareket ettirin</string> 
-  <string name="pref_fling_on_border_operation">Ekran kenarından kaydırma işlemi</string>
   <string name="pref_font_size_category">Yazı tipi boyutu</string>
   <string name="pref_force_userscalable">Yakınlaştırmayı etkinleştirmeye zorla</string>
   <string name="pref_force_userscalable_summary">Web sitesinin yakınlaştırmayı denetleme isteğini geçersiz kıl</string>
@@ -539,9 +517,7 @@
   <string name="search_yahoo">Yahoo</string>
   <string name="security_warning">Güvenlik uyarısı!!!</string>
   <string name="select_dot">Metin seç</string>
-  <string name="selection_all">Tümünü seç</string>
   <string name="send_bookmark_to_home_screen">Yer imini ev ekranına gönder</string>
-  <string name="send_to_desktop">Masa üstüne gönder</string>
   <string name="set_as_homepage">Ana sayfa olarak ayarla</string>
   <string name="share_link">Linki paylaş</string>
   <string name="share_page">Sayfayı paylaş</string>
@@ -567,11 +543,8 @@
   <string name="storage_sd_card">SD kart</string>
   <string name="storage_usb">USB depolama</string> 
   <string name="tab_bookmarks">Favoriler</string>
-  <string name="tab_closed">Sekme kapatıldı.</string>
   <string name="tab_history">Geçmiş</string>
   <string name="tab_most_visited">En çok ziyaret edilenler</string>
-  <string name="tab_opened_background">Sekme arkaplanda açıldı.</string>
-  <string name="tab_opened_background_in_incognito">Yeni gizli pencere açıldı</string>
   <string name="tab_quicklinks">Hızlı linkler</string>
   <string name="tab_snapshots">Kayıtlı sayfalar</string>
   <string name="tab_yellowpage">Sarı sayfalar</string>
@@ -593,7 +566,6 @@
   <string name="webapp_addtodeskpop_append">Uygulama ev ekranına eklendi</string>
   <string name="webapp_app_name">MiMarket Web Mağazası</string>
   <string name="webapp_bottom_bar_addtodesk">Ev ekranına ekle</string>
-  <string name="webapp_bottom_bar_already_addtodesk">Ev ekranına zaten eklenmiş!</string>
   <string name="webapp_bottom_bar_exit">Çıkış</string>
   <string name="webapp_bottom_bar_hidebar">Alt çubuğu gizle</string>
   <string name="webapp_bottom_bar_openbrowser">Tarayıcıda aç</string>

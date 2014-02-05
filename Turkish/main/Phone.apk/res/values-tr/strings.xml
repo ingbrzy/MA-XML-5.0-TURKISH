@@ -68,7 +68,7 @@
   <string name="auto_answer_scenario_enteries_headset_only_miui">Kulaklık bağlandı</string>
   <string name="auto_answer_scenario_title_miui">Otomatik cevaplama Senaryosu</string>
   <string name="auto_answer_setting_title_miui">Otomatik cevaplama ayarları</string>
-  <string name="auto_answer_summary_delay">(süre:%ss)</string>
+  <string name="auto_answer_summary_delay">(Süre: %s Saniye)</string>
   <string name="auto_answer_summary_not_enabled">Devre dışı</string>
   <string name="auto_country_code_miui">Ülke kodunu otomatik ekle</string>
   <string name="auto_country_code_sum_miui">Bilinen kişilerin telefon numarasından önce ülke kodu ekleyin.</string>
@@ -169,8 +169,8 @@
   <string name="caller_manage_manage_done_text_miui">Aramaya dön</string>
   <string name="callind">Çağrı özellikleri</string>
   <string name="callind_multi_sim">Abonelik seçin</string>
-  <string name="calling_via_template">Çağrı %s</string>
-  <string name="calling_via_template_miui">"Çağrı ^1"</string>
+  <string name="calling_via_template">%s üzerinden ara</string>
+  <string name="calling_via_template_miui">^1 üzerinden ara</string>
   <string name="cancel">İptal</string>
   <string name="cancel_call">İptal</string>
   <string name="card_01">Kart 1</string>

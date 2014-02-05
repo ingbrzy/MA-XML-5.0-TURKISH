@@ -171,6 +171,7 @@
   <string name="sdcard_status_changed_dialog_message">"Çıkışa gidiyor, kaynaklar için uygulamayı tekrar yükleyin."</string>
   <string name="sdcard_status_changed_dialog_title">SD kart durumu değişti</string>
   <string name="selected_resource_file_invalid">Seçilen dosya geçersiz.</string>
+  <string name="settings">Ayarlar</string>
   <string name="short_ringtone_resource">Kısa</string>
   <string name="theme_another_import_running">Başka bir içe aktarma işlemi çalışıyor, sonra tekrar deneyin.</string>
   <string name="theme_batch_has_update_text">%1$d tema için güncelleme var</string>
@@ -243,6 +244,7 @@
   <string name="title_local">Yüklenenler</string>
   <string name="title_online">Tema Merkezi</string>
   <string name="title_system_resource">Sistem Temaları</string>
+   <string name="to_activate_the_account">Lütfen Xiaomi hesabınızı etkinleştirin</string>
   <string name="wallpaper_crop">Kırp</string>
   <string name="wallpaper_decoded_error">Çözümleme başarısız!</string>
   <string name="wallpaper_loading_text">Yükleniyor…</string>
@@ -250,5 +252,4 @@
   <string name="wallpaper_set_as_destop">Duvar kağıdı yap</string>
   <string name="wallpaper_set_as_lockscreen">Kilit ekranı arkaplanı yap</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
-  <string name="wrong_title">Hata!</string>
-</resources>
+  </resources>

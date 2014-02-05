@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="app_name">Xiaomi eşitleme</string>
+  <string name="app_name">Xiaomi senkronize</string>
   <string name="find_device">Aygıt bul</string>
   <string name="find_device_stop_noise">Uyarı sesini kapatmak için \"Tamam\" tuşuna dokunun</string>
-  <string name="pref_summary_sync_display_photo_on_wifi_only">Ekstra ücret ödememek için fotoğrafları kablosuz ağı kullanarak eşitleyin.</string>
-  <string name="pref_title_sync_contacts_title">Rehberi eşitle</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Ekstra ücret ödememek için fotoğrafları kablosuz ağı kullanarak senkronize edin.</string>
+  <string name="pref_title_sync_contacts_title">Rehberi senkronize et</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları görüntülemek için kablosuz ağı kullan</string>
-  <string name="sub_sync_item_sms_summary">Ekstra ücret ödememek için mesajları kablosuz ağı kullanarak eşitleyin.</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Mesajları kablosuz ağı kullanarak eşitleyin.</string>
-  <string name="sync_item_sms_summary">Mesajlar otomatik olarak eşitlenecek.</string>
-  <string name="sync_item_sms_title">Mesajları eşitle</string>
+  <string name="sub_sync_item_sms_summary">Ekstra ücret ödememek için mesajları kablosuz ağı kullanarak senkronize edin.</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Mesajları kablosuz ağı kullanarak senkronize edin.</string>
+  <string name="sync_item_sms_summary">Mesajlar otomatik olarak senkronize edilecek.</string>
+  <string name="sync_item_sms_title">Mesajları senkronize et</string>
 </resources>
