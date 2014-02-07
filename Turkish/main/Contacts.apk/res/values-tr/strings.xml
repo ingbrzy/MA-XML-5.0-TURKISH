@@ -1036,7 +1036,7 @@ Favoriler listenize kişi eklemek için:
   <string name="voicemail_status_action_configure">Yapılandır</string>
   <string name="voicemail_status_audio_not_available">Ses kullanılamıyor.</string>
   <string name="voicemail_status_configure_voicemail">Sesli mesaj ayarları.</string>
-  <string name="voicemail_status_messages_waiting">Sesli mesaj suncsuna bağlanılamıyor. Yeni sesli mesajlar bekliyor.</string>
+  <string name="voicemail_status_messages_waiting">Sesli mesaj suncusuna bağlanılamıyor. Yeni sesli mesajlar bekliyor.</string>
   <string name="voicemail_status_voicemail_not_available">Sesli mesaj sunucusuna bağlanılamıyor.</string>
   <string name="websiteLabelsGroup">Web sitesi</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
@@ -1050,9 +1050,9 @@ Favoriler listenize kişi eklemek için:
   <string name="yellowpage_navigation_search_offline_hint">Ağ bağlantısı yok!</string>
   <string name="yellowpage_navigation_search_result_network_error">"Ağa bağlanamıyor"</string>
   <string name="yellowpage_navigation_search_result_no_more">Daha fazla sonuç yok</string>
-  <string name="yellowpage_navigation_search_result_service_error">Servis şu an kullanımıyor</string>
+  <string name="yellowpage_navigation_search_result_service_error">Servis şu an kullanılamıyor</string>
   <string name="yellowpage_navigation_search_result_unknown_error">Bilinmeyen hata!</string>
-  <string name="yellowpage_navigation_search_select_city">Şehiri seçin</string>
+  <string name="yellowpage_navigation_search_select_city">Şehir seçin</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
   <string name="zero_items_selected">Seçili öğe yok</string>  
 </resources>
