@@ -2663,7 +2663,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="disable_adb_debug_summary">USB hata ayıklamayı kapat</string>
     <string name="disable_anti_spam_summary">Mesaj filtresi kapalı</string>
     <string name="disable_app_permission_summary">İzin izleme kapalı</string>
-    <string name="downloaded_rom_title">Paketi güncelle</string>
     <string name="edit_blacklist">Notu düzenle</string>
     <string name="edit_whitelist">Notu düzenle</string>
     <string name="emptylist_fwlog_call">Engellenen çağrıların logları burada tutulur.</string>
