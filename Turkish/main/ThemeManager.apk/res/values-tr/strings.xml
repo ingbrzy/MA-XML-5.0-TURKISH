@@ -84,7 +84,7 @@
   <string name="resource_comment_edit_comment_waiting">Kontrol ediliyor...</string>
   <string name="resource_comment_edit_text_default">Yorum yaz</string>
   <string name="resource_comment_edit_title">Yorumu düzenle: %1$s</string>
-  <string name="resource_comment_entry_tips">%1$s inceleme, tıkla ve gözat</string>
+  <string name="resource_comment_entry_tips">Yorumlara gözat</string>
   <string name="resource_comment_expand_full_text">Tam metine genişletin</string>
   <string name="resource_comment_footer">Boş yorumlar görüntülenmez</string>
   <string name="resource_comment_good_comments">Olumlu yorum</string>
