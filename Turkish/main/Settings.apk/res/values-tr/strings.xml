@@ -1231,7 +1231,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="miui_screensaver_state_on">Açık</string>
   <string name="miui_screensaver_title">Ekran Koruyucu</string>
   <string name="miui_screensaver_usage">Etkinleştirildiğinde, albümdeki resimler ekran kapandıktan sonra tekrarlanarak gösterilir.</string>
-  <string name="mms_log_tab_title">Message log</string>
   <string name="mms_vibrate_abbreviation">Mesajlar</string>
   <string name="model_number">Model numarası</string>
   <string name="move_app">Taşı</string>
