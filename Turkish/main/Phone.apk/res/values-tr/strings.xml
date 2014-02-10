@@ -421,7 +421,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="enable_sim_pin">SIM kart PIN kodu etkin</string>
   <string name="enable_sim_pin_miui">SIM kart PIN kodu etkin</string>
   <string name="enable_telocation_title_miui">Bölgemi kullan</string>
-  <string name="enforce_proximity_summary_miui">Kullanılmadığı zaman telefonun kötüye kullanımının önlenmesini sağlar</string>
+  <string name="enforce_proximity_summary_miui">Telefonunuz cebinizde veya uyku modunda ise, bu özellik yanlışlıkla arama yapılmasını engeller.</string>
   <string name="enforce_proximity_title_miui">Yakınlık sensörünü güçlendir</string>
   <string name="enterName">Adı girin:</string>
   <string name="enterNumber">Telefon numarasını girin:</string>

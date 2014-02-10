@@ -77,6 +77,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
     <string name="accessibility_toggle_script_injection_preference_title">Siteye kolay erişim</string>
     <string name="accessibility_toggle_speak_password_preference_title">konuşma şifreleri</string>
   <string name="account_settings">Hesaplar</string>
+  <string name="activate_miui_screensaver">Ekran koruyucuyu aç</string>
   <string name="account_sync_settings_title">Senkronizasyon ayarları</string>
   <string name="activating">Etkinleştiriliyor...</string>
   <string name="active_device_admin_msg">Cihaz yöneticisi</string>
@@ -523,7 +524,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="configure_input_method">Giriş yöntemlerini ayarla</string>
   <string name="confirm_erase">Silmeyi onayla</string>
   <string name="confirm_new_backup_pw_prompt">Buraya mevcut tam yedekleme şifrenizi yeniden yazın</string>
-  <string name="connected_wifi">Wi-Fi bağlantısı kuruldu</string>
+  <string name="connected_wifi">Bağlanılan Wi-Fi ağı</string>
   <string name="contributors_title">Katkıda bulunanlar</string>
   <string name="controls_label">Denetimler</string>
   <string name="controls_subtitle">Pil kullanımını ayarla</string>
@@ -1224,6 +1225,13 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="misc_files">Çeşitli dosyalar</string>
   <string name="misc_files_selected_count">Toplam %2$d dosyadan %1$d tanesi seçildi</string>
   <string name="misc_files_selected_count_bytes">%1$s / %2$s</string>
+  <string name="miui_screensaver_show_time">Süre</string>
+  <string name="miui_screensaver_show_time_select_title">Ekran koruyucu süresi</string>
+  <string name="miui_screensaver_state_off">Kapalı</string>
+  <string name="miui_screensaver_state_on">Açık</string>
+  <string name="miui_screensaver_title">Ekran Koruyucu</string>
+  <string name="miui_screensaver_usage">Etkinleştirildiğinde, albümdeki resimler ekran kapandıktan sonra tekrarlanarak gösterilir.</string>
+  <string name="mms_log_tab_title">Message log</string>
   <string name="mms_vibrate_abbreviation">Mesajlar</string>
   <string name="model_number">Model numarası</string>
   <string name="move_app">Taşı</string>
@@ -1864,11 +1872,12 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="sms_title">SMS</string>
   <string name="sort_order_alpha">Ada göre sırala</string>
   <string name="sort_order_size">Boyuta göre sırala</string>
-  <string name="sound_category_call_ringtone_vibrate_title">Zil Sesi ve Titreşim</string>
+  <string name="sound_category_call_ringtone_vibrate_title">Zil Sesleri</string>
   <string name="sound_category_calls_and_notification_title">Zil Sesi ve Bildirimler</string>
   <string name="sound_category_feedback_title">Sistem</string>
   <string name="sound_category_notification_title">Bildirimler</string>
   <string name="sound_category_sound_title">Genel</string>
+  <string name="sound_category_system_title">Sistem</string>
   <string name="sound_effects_enable_title">Dokunma sesleri</string>
   <string name="sound_settings">Ses ve Titreşim Ayarları</string>
   <string name="spellchecker_language">Dil</string>
@@ -2171,7 +2180,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="vibrate_in_silent_title">Sessiz modda titret</string>
   <string name="vibrate_input_devices">Titreşim kullan</string>
   <string name="vibrate_input_devices_summary">Oyun kumandası bağlandı ise titreşime yönlendirir.</string>
-  <string name="vibrate_when_ringing_title">Zilsesi çalarken titret</string>
+  <string name="vibrate_when_ringing_title">Zil sesi çalarken titret</string>
   <string name="virus_scan_app_continue">Taramaya devam et</string>
   <string name="virus_scan_app_find_risk">%d bir tehdit, hemen kaldırmanız tavsiye edilir!</string>
   <string name="virus_scan_app_finish">Tamamlandı</string>

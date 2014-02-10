@@ -196,8 +196,8 @@
   <string name="screen_button_notification_text">"Etkinleştirmek için 'Ev'+'Güç' tuşlarına basın"</string>
   <string name="screen_button_notification_title">Ekran tuşları devre dışı</string>
   <string name="screen_on_proximity_sensor_hint">"Zorla çıkmak için: 'Geri'+'Ses açma' tuşlarına basın"</string>
-  <string name="screen_on_proximity_sensor_summary">"Kötüye kullanımı önleme modu etkin. Telefon fonksiyonları devre dışı!"</string>
-  <string name="screen_on_proximity_sensor_title">Telefonun kötüye kullanımı önle</string>
+  <string name="screen_on_proximity_sensor_summary">"Telefonu cepta taşıma modu etkin. Telefon fonksiyonları devre dışı!"</string>
+  <string name="screen_on_proximity_sensor_title">Cepte taşıma modu ya da sensör kapalı</string>
   <string name="sd_not_available">SD kart çıkarılmış veya ulaşılamaz</string>
   <string name="sd_not_available_low_internal_storage">SD kart çıkarılmış, dahili hafıza dolmak üzere</string>
   <string name="sd_not_available_saved_to_internal_storage">Dahili hafızaya kaydedildi</string>

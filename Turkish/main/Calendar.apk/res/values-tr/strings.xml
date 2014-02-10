@@ -178,6 +178,7 @@
   <string name="timezone_label">Zaman dilimi</string>
   <string name="today">Bugün</string>
   <string name="today_at_time_fmt">Bugün şu zamanda %s</string>
+  <string name="today_no_events">Etkinlik yok</string>
   <string name="tomorrow">Yarın</string>
   <string name="tomorrow_at_time_fmt">Yarın şu zamanda %s</string>
   <string name="view_event_calendar_label">Takvim:</string>

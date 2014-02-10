@@ -286,4 +286,12 @@
   <string name="user_guide_for_notification">Yeni bir bildirim alındı, ayrıntılı kontrol için durum çubuğunu aşağı sürükleyebilirsiniz</string>
   <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
   <string name="user_guide_for_toggle_list">Tıkla ve geçiş listesini özelleştir</string>
+    <string name="settings_advanced">Gelişmiş Ayarlar</string>
+    <string name="settings_basic_settings">Ayarlar</string>
+    <string name="settings_custom_carrier">Özel Operatör adı</string>
+    <string name="settings_no_carrier">Başlık yok</string>
+    <string name="settings_show_carrier">Operatör adını göster</string>
+    <string name="settings_show_carrier_summary"/>
+    <string name="settings_show_screenshot_notification">Ekran görüntüsü bildirimleri</string>
+    <string name="status_bar_and_notification_bar">Bildirim listesi</string>
 </resources>
