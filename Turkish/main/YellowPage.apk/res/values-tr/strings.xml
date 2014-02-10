@@ -68,7 +68,6 @@
   <string name="navigation_search_no_city_list">Şehir bilgisi bulunamadı!</string>
   <string name="navigation_search_positioning">Konumlandırılıyor...</string>
   <string name="navigation_search_positioning_failed">Şehir konumlandırılamadı!</string>
-  <string name="network_unavaliable">Ağ bağlantısı yok !</string>
   <string name="order_empty_hint">Sipariş yok</string>
   <string name="order_id">Sipariş ref: %s</string>
   <string name="order_merchant_title">Siparişlerim</string>
@@ -90,7 +89,6 @@
   <string name="payment_unknown_status_title">"Couldn't confirm payment status"</string>
   <string name="phone_info_divider">" ｜ "</string>
   <string name="provider">Identified by %s</string>
-  <string name="provider_tag">Data source</string>
   <string name="recharge_actual_price">Price:</string>
   <string name="recharge_charge_range">Price: RMB %1$s-%2$s</string>
   <string name="recharge_charge_value">Price: RMB %s</string>
@@ -121,7 +119,6 @@ Total amount: RMB %3$s"</string>
   <string name="remind_user_suspect_number_message">"Suçlular, dolandırıcılık için diğer insanların kimlik bilgilerini çalmak isteyebilir. Şüpheli durumlarda arayanı doğrulamak için tekrar geri arayın. Bankalar, e-ticaret şirketleri ve kurye şirketleri parolanızı veya banka kartı bilgilerinizi istemez."</string>
   <string name="remind_user_suspect_number_title">Dikkat! Sahte/Dolandırıcı Aramaları</string>
   <string name="network_unavaliable">Ağ bağlantısı yok, lütfen bağlantı ayarlarını kontrol edin!</string>
-  <string name="phone_info_divider">" ｜ "</string>
   <string name="provider_tag">Veri kaynağı</string>
   <string name="scan">Tara</string>
   <string name="selected_category_format">%1$s(%2$d kişi işaretlenti, kabul etmek için tıklayın)</string>
