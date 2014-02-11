@@ -17,6 +17,8 @@
   <string name="accessibility_repeats">Tekrar</string>
   <string name="accessibility_sync_cal">Takvimi eşitle</string>
   <string name="accounts">Hesaplar &amp; eşitleme</string>
+  <string name="account_and_calendar">Hesap ve takvim</string>
+   <string name="account_and_calendar_to_display">Gösterilecek hesap ve takvim</string>
   <string name="acct_not_synced">Bu hesap eşitlenmiyor, takviminiz güncel olmayabilir.</string>
   <string name="acessibility_cal_notification">Takvim bildirimi</string>
   <string name="acessibility_selected_marker_description">Seçili etkinlik</string>
@@ -39,6 +41,8 @@
   <string name="birthday_notification_title_three_days_later">%1$s adlı kişinin doğum günü yaklaşıyor</string>
   <string name="birthday_notification_title_today">%1$s adlı kişinin doğum günü</string>
   <string name="birthday_notification_type_term_lunar"/>
+    <string name="button_day">G</string>
+  <string name="button_month">A</string>
   <string name="calendar_refresh">Yenile</string>
   <string name="change_response_title">Yanıtı değiştir</string>
   <string name="copy_db">Veri tabanını gönder</string>
@@ -52,6 +56,7 @@
    <string name="date_time_fmt" formatted="false">%s, %s</string>
   <string name="day_view">Gün</string>
   <string name="day_view_new_event_hint">Yeni etkinlik</string>
+   <string name="default_reminder_mode">Hatırlatma modu</string>
   <string name="delete_label">Sil</string>
   <string name="delete_recurring_event_title">Sil %s?</string>
   <string name="delete_this_event_title">Bu etkinlik silinsin mi?</string>
@@ -80,6 +85,7 @@
   <string name="event_info_reminders_label">Hatırlatıcılar</string>
   <string name="event_info_title">Etkinliği görüntüle</string>
   <string name="event_info_title_invite">Buluşma daveti</string>
+  <string name="event_show_more">Göster</string>
   <string name="event_view">Etkinliği görüntüle</string>
   <string name="every_weekday">Her hafta içi (Pazartesi-Cuma)</string>
   <string name="gadget_no_events">Yaklaşan herhangi bir etkinlik yok.</string>
@@ -91,7 +97,7 @@
   <string name="hint_what">Etkinlik adı</string>
   <string name="hint_where">Konum</string>
   <string name="jump_date">Atla</string>
-  <string name="jump_date_full">Tarihe atla</string>
+  <string name="jump_date_full">Tarihe git</string>
   <string name="loading">Yükleniyor...</string>
   <string name="local_calendar_display_name">Yerel takvim</string>
   <string name="local_owner_account_name">Yerel hesap</string>
@@ -105,6 +111,18 @@
   <string name="modify_all">Serideki tüm etkinlikleri değiştir</string>
   <string name="modify_all_following">Bu ve tüm gelecek etkinlikleri değiştir</string>
   <string name="modify_event">Sadece bu etkinliği değiştir</string>
+    <string name="month_medium_january">Oca</string>
+    <string name="month_medium_february">Şub</string>
+    <string name="month_medium_march">Mar</string>
+    <string name="month_medium_april">Nis</string>
+    <string name="month_medium_may">May</string>
+    <string name="month_medium_june">Haz</string>
+    <string name="month_medium_july">Tem</string>
+    <string name="month_medium_august">Ags</string>
+    <string name="month_medium_september">Eyl</string>
+    <string name="month_medium_october">Eki</string>
+    <string name="month_medium_november">Kas</string>
+    <string name="month_medium_december">Ara</string>
   <string name="month_view">Ay</string>
   <string name="monthly">Aylık</string>
   <string name="monthly_on_day">Aylık (%s günüde)</string>
@@ -122,7 +140,7 @@
   <string name="preferences_alerts_ringtone_title">Zil sesi seç</string>
   <string name="preferences_alerts_title">Bildirimler</string>
   <string name="preferences_alerts_vibrateWhen_title">Titret</string>
-  <string name="preferences_build_version">Yapım numarası</string>
+  <string name="preferences_build_version">Yapı numarası</string>
   <string name="preferences_category_account_title">Hesap</string>
   <string name="preferences_category_general_title">Genel</string>
   <string name="preferences_clear_search_history_summary">Tüm yaptığınız aramaları temizler.</string>
@@ -175,6 +193,7 @@
   <string name="synced">Eşitlendi</string>
   <string name="tardis">TARDIS</string>
    <string name="template_announce_item_index" formatted="false">Event %1$s of %2$s.</string>
+   <string name="time_zone">Zaman dilimi</string>
   <string name="timezone_label">Zaman dilimi</string>
   <string name="today">Bugün</string>
   <string name="today_at_time_fmt">Bugün şu zamanda %s</string>

@@ -16,7 +16,7 @@
   <string name="act_set_city_re_find_side">Bulunuyor...</string>
   <string name="act_weather_aqi_share">Paylaş</string>
   <string name="act_weather_aqi_title">Hava kalite indeksi</string>
-  <string name="act_weather_cycle_link_china">Çin hava durumu ağı</string>
+  <string name="act_weather_cycle_link_china"/>
   <string name="act_weather_cycle_low_temp">Düşük</string>
   <string name="act_weather_cycle_update">Güncelleniyor…</string>
   <string name="act_weather_find_city_connect_net">Ağ ayarlarını kontrol edin</string>
