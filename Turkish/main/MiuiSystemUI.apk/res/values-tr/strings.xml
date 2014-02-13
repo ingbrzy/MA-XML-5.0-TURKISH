@@ -53,8 +53,8 @@
   <string name="audio_effect_settings">Kulaklık türünü seç</string>
   <string name="audio_effect_info">Ses Optimizasyonu</string>
   <string name="audio_effect_custom">Özel</string>
-  <string name="battery_low_percent_format">Pil düzeyi :%d%% </string>
-  <string name="battery_low_subtitle">Dikkat: Pil azalıyor !</string>
+  <string name="battery_low_percent_format">Pil seviyesi :%d%% </string>
+  <string name="battery_low_subtitle">Dikkat: Pil seviyesi azalıyor !</string>
   <string name="battery_low_title">LÜTFEN ŞARJ CİHAZINI BAĞLAYIN!</string>
   <string name="battery_low_why">Pil kullanımı</string>
   <string name="bluetooth_tethered">Bluetooth paylaşımı tamam</string>
@@ -201,6 +201,8 @@
   <string name="status_bar_recent_inspect_item_title">Uygulama bilgileri</string>
   <string name="status_bar_recent_memory_info">%1$s / %2$s</string>
   <string name="status_bar_recent_remove_item_title">Listeden kaldır</string>
+  <string name="status_bar_recording_back">Ses kaydediciye dönmek için tıklayın</string>
+  <string name="status_bar_recording_pause">"Ses kaydedici duraklatıldı "</string>
   <string name="status_bar_settings_airplane">Uçak modu</string>
   <string name="status_bar_settings_auto_brightness_label">OTOMATİK</string>
   <string name="status_bar_settings_auto_rotation">Ekranı otomatik döndür</string>
@@ -243,7 +245,7 @@
   <string name="status_bar_toggle_sync_auto">Oto Senkronize</string>
   <string name="status_bar_toggle_sync_manual">Elle Senkronize</string>
   <string name="status_bar_toggle_syncing">Senkronize Ediliyor</string>
-  <string name="status_bar_toggle_torch">Elfeneri</string>
+  <string name="status_bar_toggle_torch">El feneri</string>
   <string name="status_bar_toggle_vibrate">Titreşim</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi İ.Paylaşımı</string> 
@@ -255,6 +257,8 @@
   <string name="to_vibrate_settings">Titreşim ayarları</string>
   <string name="torch_activity_hint">Elfenerini [icon] \'a basılı tutarak aç</string>
   <string name="torch_activity_name">El feneri</string>
+   <string name="torch_closed">El feneri kapat</string>
+  <string name="torch_opened">El fenerini aç</string>
   <string name="usb_accessory_confirm_prompt">Bu USB aksesuarı bağlandığında %1$s açılsın mı?</string>
   <string name="usb_accessory_permission_prompt">%1$s uygulamasının USB aksesuarına erişmesine izin verilsin mi?</string>
   <string name="usb_accessory_uri_prompt">Bu USB aksesuarıyla çalışan yüklü uygulama yok. Bu aksesuar hakkında bilgi içn: %1$s</string>
@@ -288,7 +292,7 @@
   <string name="user_guide_for_toggle_list">Tıkla ve geçiş listesini özelleştir</string>
     <string name="settings_advanced">Gelişmiş Ayarlar</string>
     <string name="settings_basic_settings">Ayarlar</string>
-    <string name="settings_custom_carrier">Özel Operatör adı</string>
+    <string name="settings_custom_carrier">Operatör adını değiştir</string>
     <string name="settings_no_carrier">Başlık yok</string>
     <string name="settings_show_carrier">Operatör adını göster</string>
     <string name="settings_show_carrier_summary"/>
