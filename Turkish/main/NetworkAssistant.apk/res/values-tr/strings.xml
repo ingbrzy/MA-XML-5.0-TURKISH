@@ -94,6 +94,11 @@
   <string name="mobile_traffic">2G/3G: %s</string>
   <string name="mobile_type">2G/3G</string>
   <string name="month_traffic_settings_title">Trafik ayarları</string>
+  <string name="network_control_service_notification_text">Ağ kontrolünü aç</string>
+  <string name="network_control_service_notification_title_mutiple">%1$d uygulama için %2$s bağlantısı reddedildi</string>
+  <string name="network_control_service_notification_title_nettype_mobile">mobile</string>
+  <string name="network_control_service_notification_title_nettype_wifi">Wi-Fi</string>
+  <string name="network_control_service_notification_title_single">%1$s reddedildi: %2$s bağlantısı</string>
   <string name="notify_carrier_settings_title">Ayarlı hizmet sağlayıcınız yok. Şimdi yapılandırmak istiyor musunuz?</string>
   <string name="notify_traffic_settings_cancel_hint">Trafik izleme ve bildirimler devre dışı. Çıkmak istiyor musunuz?</string>
   <string name="notify_traffic_settings_title">Veri planı yok. Şimdi yapılandırmak istiyor musunuz?</string>
@@ -120,6 +125,7 @@
   <string name="pref_traffic_settings">Trafik ayarları</string>
   <string name="process_kernel_label">Android İS</string>
   <string name="retry">Tekrar dene</string>
+  <string name="running_apps_activity_title">Çalışan Uygulamalar</string>
   <string name="save">Kaydet</string>
   <string name="settings_page_adjust_summary_no_carrier">Şebeke ayarlanamadı，otomatik ayar kapalı</string>
   <string name="settings_page_traffic_summary">Kullanılabilir: %1$s, Dikkat: %2$s, Yenilenme %3$d</string>

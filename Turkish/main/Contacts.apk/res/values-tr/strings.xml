@@ -999,6 +999,7 @@ Favoriler listenize kişi eklemek için:
   <string name="today">Bugün</string>
   <string name="type_incoming">Gelen çağrı</string>
   <string name="type_missed">Cevapsız çağrı</string>
+  <string name="type_mx_msg">Cloud Mesajlaşma</string>
   <string name="type_outgoing">Giden çağrı</string>
   <string name="type_vcard">vCard</string>
   <string name="type_voicemail">Sesli mesaj</string>

@@ -213,6 +213,7 @@
   <string name="mx_activate_hint_malformed_info">Çalışma kesintiye uğradı, Cloud mesajlaşma tekrar aktivasyonu gereklidir. Şimdi etkinleştirilsin mi?</string>
   <string name="mx_activate_hint_server">Cloud mesaj servisi için sunucu aktivasyonu başarısız. Şimdi etkinleştirilsin mi?</string>
   <string name="mx_activate_hint_sim_change">SIM kart değiştirilmiş, Cloud mesaj servisi için tekrar aktivasyon gerekiyor. Şimdi etkinleştirilsin mi?</string>
+  <string name="mx_activate_int_popup_msg">Cloud Mesajlaşma; MIUI kullanıcılarının, mobil veri kullanmadan birbirlerine mesaj göndermelerine izin verir.</string>
   <string name="mx_activate_int_hint_malformed_info">Hata!  Cloud Mesajlaşmayı yeniden etkinleştirmek için uluslararası bir SMS gönderilmesi gerekiyor. Şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="mx_activate_int_hint_server">Sunucu hatası!  Cloud Mesajlaşmayı yeniden etkinleştirmek için uluslararası bir SMS gönderilmesi gerekiyor. Şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="mx_activate_int_hint_sim_change">SIM kart durumu değişti!  Cloud Mesajlaşmayı yeniden etkinleştirmek için uluslararası bir SMS gönderilmesi gerekiyor. Şimdi etkinleştirmek istiyor musunuz??</string>
@@ -222,6 +223,7 @@
   <string name="mx_auto_resend_sms">Bir SMS gönder</string>
   <string name="mx_auto_resend_sms_summary">Cloud mesaj kullanılamıyorken SMS gönderir. Operatörünüzün mesajlaşma fiyatlar geçerli olabilir</string>
   <string name="mx_btn_enable">Etkinleştir</string>
+  <string name="mx_btn_enable_now">Cloud Mesajlaşmayı etkinleştir</string>
   <string name="mx_count_dspt">Aktivasyondan beri, MIUI sizin için %d Cloud mesajı gönderdi</string>
   <string name="mx_current_status">Durum: Online</string>
   <string name="mx_dspt">MIUI ile internet üzerinden mesaj göndermek kullanın</string>

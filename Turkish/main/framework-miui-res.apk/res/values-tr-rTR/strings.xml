@@ -58,7 +58,7 @@
   <string name="find_device_sim_change_instructions_no_network">"SIM kartınız kilitli olabilir, orjinal SIM kartı takın"</string>
   <string name="find_device_turn_off_flight_mode">Uçak modunu kapat</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Cihazınız kilitli olabilir, uçak modunu kapatın"</string>
-  <string name="firewall_setting">Anti-Spam</string>
+  <string name="firewall_setting">Kara Liste</string>
   <string name="first_back_long_press_message">"Geri tuşuna basılı tutarak uygulama veya arka plan hizmetlerini kapatmak istiyor musunuz? Etkinleştirmek için Ayarlar &gt; Sistem &gt; Tuş ayarlarına gidin"</string>
   <string name="fm_record_smaple_prefix_miui">FMKaydı</string>
   <string name="fools_day">Bir Nisan şaka günü</string>
@@ -230,6 +230,8 @@
   <string name="summer_solstice" />
   <string name="sync_one_time_sync">Senkronize için tıklayınız (%1$s)</string>
   <string name="teachers_day" />
+  <string name="text_copied">Metin panoya kopyalandı.</string>
+  <string name="text_cut">Metni kes</string>
   <string name="text_pastelist">Pano</string>
   <string name="the_armys_day" />
   <string name="the_double_ninth_festival" />
@@ -247,9 +249,9 @@
   <string name="unknown_caller">Bilinmeyen çağrı</string>
   <string name="unlock_string">Tamam</string>
   <string name="unlocking_sim_card">SIM kilidi açılıyor..</string>
-  <string name="unlockscreen_low_battery">Şarj aletini bağlayın!</string>
+  <string name="unlockscreen_low_battery">Lütfen şarj aletini bağlayın!</string>
   <string name="unlockscreen_recharge_completed">Şarj tamamlandı</string>
-  <string name="unlockscreen_recharging_message">Şarj oluyor %d%%</string>  
+  <string name="unlockscreen_recharging_message">Şarj oluyor : %d%%</string>  
   <string name="user_agreement1">Xiaomi servislerini kullanacaksanız, lütfen okuyun</string>
   <string name="user_agreement2">"Kullanıcı sözleşmesi"</string>
   <string name="user_agreement3">" ve "</string>
@@ -258,9 +260,10 @@
   <string name="v5_date_picker_label_day"/>
   <string name="v5_date_picker_label_month"/>
   <string name="v5_date_picker_label_year"/>
+  <string name="v5_date_time_picker_dialog_title">Hatırlatma zamanını ayarla</string>
   <string name="v5_deselect_all">Tüm seçimi iptal et</string>
   <string name="v5_edit_mode_title_empty">Öğeleri kontrol et</string>
-  <string name="v5_icon_menu_bar_more_item_label">Daha</string>
+  <string name="v5_icon_menu_bar_more_item_label">Daha fazla</string>
   <string name="v5_select_all">Tümünü seç</string>
   <string name="v5_time_picker_label_hour">Sa</string>
   <string name="v5_time_picker_label_minute">Dak</string>

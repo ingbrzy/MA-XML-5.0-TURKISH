@@ -20,6 +20,12 @@
         <item>Varsayılan</item>
         <item>Klasik</item>
     </string-array>
+	<string-array name="editing_mode_entries">
+        <item>Ev ekranını temizle</item>
+        <item>Widget ekle</item>
+        <item>Duvar kağıdını değiştir</item>
+        <item>Ekran geçişleri</item>
+    </string-array>
 	<string-array name="gadget_weather_image">
         <item>Açık</item>
         <item>Bulutlu</item>

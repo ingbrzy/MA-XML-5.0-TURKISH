@@ -10,6 +10,7 @@
   <string name="apply_font_tip">Yeni font kütüphanesi, bazı bölümlerde görünüm bozukluklarına sebep olabilir, bu sorunu çözmek için telefonunuzu tekrar başlatın!</string>
   <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvar kağıdı hemen uygulanmayabilir.</string>
   <string name="apply_theme_no_select_message">Bileşenleri seç</string>
+  <string name="apply_theme_with_ringtones">Temayı zil sesi ile uygula</string>
   <string name="backup_preference_title">Temayı yedekle</string>
   <string name="backup_theme_dialog_message">"Geçerli temayı yedekle"</string>
   <string name="backup_theme_dialog_ok">Yedekle</string>

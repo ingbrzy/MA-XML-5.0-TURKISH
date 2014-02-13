@@ -114,7 +114,9 @@
   <string name="confirm_delete_including_null">0 öğe</string>
   <string name="confirm_delete_items">%s öğe</string>
   <string name="confirm_delete_pictures">%s resim</string>
-  <string name="confirm_delete_system_album">%s sistem albümü, Silmek istiyor musunuz?</string>
+  <string name="confirm_delete_this_picture">Bu resimi silmek istiyor musunuz?</string>
+  <string name="confirm_delete_this_video">Bu videoyu silmek istiyor musunuz?</string>
+  <string name="confirm_delete_system_album">%s sistem albümü, silmek istiyor musunuz?</string>
   <string name="confirm_delete_videos">%s video</string>
   <string name="contact_photo">Kişi fotosu yap</string>
   <string name="context_menu_add_contact">Rehbere ekle</string>
@@ -238,6 +240,7 @@
   <string name="kick_sharer_successfully">Paylaşımcı başarıyla kaldırıldı</string>
   <string name="loading">Yükleniyor...</string>
   <string name="loading_failure">Foto yüklenemedi!</string>
+  <string name="loading_members">Üyeler yükleniyor...</string>
   <string name="loading_thumbnail">Önizleme resimleri yükleniyor...</string>
   <string name="local_albums">Yerel resimler</string>
   <string name="location">Yerel</string>
