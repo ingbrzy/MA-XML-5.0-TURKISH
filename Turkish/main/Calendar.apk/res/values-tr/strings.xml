@@ -93,8 +93,7 @@
   <string name="event_info_when">"Ne zaman: "</string>
   <string name="event_info_where">"Nereye: "</string>
   <string name="event_lunar_month"/>
-  <string name="event_show_more">Göster</string>
-   <string name="event_view">Etkinliğe gözat</string>
+  <string name="event_view">Etkinliğe gözat</string>
   <string name="event_show_more">Göster</string>
   <string name="event_view">Etkinliği görüntüle</string>
   <string name="every_weekday">Her hafta içi (Pazartesi-Cuma)</string>
