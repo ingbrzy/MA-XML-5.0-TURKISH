@@ -328,6 +328,31 @@
         <item>20 saniye</item>
         <item>Her zaman</item>
     </string-array>
+	   <string-array name="power_dialog_auto_clean_memory_items">
+        <item>1 dakika sonra</item>
+        <item>5 dakika sonra</item>
+        <item>10 dakika sonra</item>
+        <item>Hiçbir zaman</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Performans</item>
+        <item>Balans</item>
+        <item>Pil Tasarrufu</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 saniye</item>
+        <item>30 saniye</item>
+        <item>1 dakika</item>
+        <item>2 dakika</item>
+        <item>5 dakika</item>
+        <item>10 dakika</item>
+        <item>Hiçbir zaman</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Titreşim kapalı</item>
+        <item>Sessizde iken titret</item>
+        <item>Titreşim açık</item>
+    </string-array>
     <string-array name="power_mode_entries">
         <item>Performans modu</item>
         <item>Normal mod</item>
@@ -392,4 +417,11 @@
        <item>Müzik</item>
        <item>E-Posta</item>
    </string-array>
+   <string-array name="slideshow_time_entries">
+        <item>5 dakika</item>
+        <item>15 dakika</item>
+        <item>30 dakika</item>
+        <item>1 saat</item>
+        <item>Sınırsız</item>
+    </string-array>
 </resources>

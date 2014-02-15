@@ -28,4 +28,16 @@
         <item quantity="other">Parola en az %d  harften başka karakter içermelidir</item>
         <item quantity="one">Parola sadece bir harf değil en az bir karakter içermelidir</item>
     </plurals>
+	    <plurals name="power_center_battery_day">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
 </resources>
