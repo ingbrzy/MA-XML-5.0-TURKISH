@@ -2651,7 +2651,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="cancel_scan">İptal</string>
     <string name="check_all">Tümünü Seç</string>
     <string name="check_nothing">Seçimi iptal et</string>
-    <string name="checking">Kontrol ediliyor : </string>
     <string name="clean_confirm_title">Bu dosyalar silinsin mi?</string>
     <string name="cleaner">Temizleyici</string>
     <string name="clear_all_calllog">Çağrı loglarını temizle</string>
@@ -3064,7 +3063,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="start_optimize_memory">Start optimizing memory condition...</string>
     <string name="start_optimize_protection">Start optimizing realtime protection...</string>
     <string name="start_optimize_trash">Start optimizing application cache...</string>
-    <string name="storage_size_content">%1$s Kullanılan | %2$s Boş</string>
     <string name="storage_size_title">Depolama</string>
     <string name="summary_install_virus">Check apps for viruses before installation</string>
     <string name="summary_mms">Filter unwanted messages (sales, ads, etc.)</string>
