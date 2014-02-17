@@ -84,4 +84,7 @@
         <item quantity="other">Arama sonucu: %d</item>
         <item quantity="one">Arama sonucu: %d</item>
     </plurals> 	
+	<plurals name="Nvip_expired_remind">
+        <item quantity="other">Yüksek kaliteli müzik için erişim süresi dolmak üzere  (%d gün kaldı)</item>
+    </plurals>
 </resources>

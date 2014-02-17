@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet_table">
+        <item>" "</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>S</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>Y</item>
+        <item>Z</item>
+    </string-array>
+    <string-array name="equalizer_presents">
+        <item>Normal</item>
+        <item>Klasik</item>
+        <item>Dans</item>
+        <item>Yerel</item>
+        <item>Metal</item>
+        <item>Hip hop</item>
+        <item>Caz</item>
+        <item>Pop</item>
+        <item>Rock</item>
+    </string-array>
+    <string-array name="weeklist">
+        <item>1 hafta</item>
+        <item>2 hafta</item>
+        <item>3 hafta</item>
+        <item>4 hafta</item>
+        <item>5 hafta</item>
+        <item>6 hafta</item>
+        <item>7 hafta</item>
+        <item>8 hafta</item>
+        <item>9 hafta</item>
+        <item>10 hafta</item>
+        <item>11 hafta</item>
+        <item>12 hafta</item>
+    </string-array>
+</resources>

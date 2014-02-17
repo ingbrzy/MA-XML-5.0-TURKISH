@@ -78,6 +78,7 @@
   <string name="empty_edit_hint">Şarkı bilgisi kullanılamaz</string>
   <string name="empty_track_list">Parça listesi yok</string>
   <string name="emptyplaylist">Seçilen çalma listesi boş.</string>
+  <string name="enabled">Etkin</string>
   <string name="enter_sleep_mode">Uyku modunu ayarla</string>
   <string name="eq_auto">Özel</string>
   <string name="eq_blues">Blues</string>
@@ -97,7 +98,6 @@
   <string name="eq_preset_hint">Adı girin</string>
   <string name="eq_preset_rename">Yeniden adlandır</string>
   <string name="eq_preset_select">Ön ayarı seç</string>
-  <string name="eq_rb">R &amp; B</string>
   <string name="eq_rock">Rock</string>
   <string name="equalizer">Ekolayzır</string>
   <string name="equalizer_delete">Sil</string>
@@ -126,6 +126,9 @@
   <string name="folders_title">Klasörler</string>
   <string name="frequentlyplayed_title">Sık sık oynatılan</string>
   <string name="headphone_settings">Kulaklık ayarları</string>
+  <string name="high_quality">Yüksek kalite</string>
+  <string name="higher_quality_music">Yüksek kaliteli müzik</string>
+  <string name="higher_quality_music_summary">Yüksek kaliteli müzikleri dinleyin ve indirin..</string>
   <string name="hot_artists">Hit sanatçılar</string>
   <string name="id3_edit">ID3 bilgilerini düzenle</string>
   <string name="id3_edit_failed">ID3 düzenleme başarısız</string>
@@ -135,6 +138,15 @@
   <string name="impunity_declaration_title">Açıklama</string>
   <string name="keep_quit_position_settings">Son konumu kaydet</string>
   <string name="keep_quit_position_summary">Müzik çalar tekrar başlayınca şarkı kaldığı yerden devam eder</string>
+  <string name="ktv_alert_message">"Sorumlu QR kodunu görüntülemek ve KTV adlı konsolunun ana sayfasındaki şarkıyı eklemek için lütfen telefon dokunun"</string>
+  <string name="ktv_alert_title">Sadece desteklenen cihazlar şarkı ekleyebilir</string>
+  <string name="ktv_and_room">%1$s %2$s</string>
+  <string name="ktv_connected_alert_message">Seçilen şarkılar Benim KTV adlı çalma listesine eklenecektir</string>
+  <string name="ktv_connected_alert_titel">%1$s ile bağlantı kuruldu</string>
+  <string name="ktv_disconnect_alert_titel">%1$s bağlantısı kesilsin mi?</string>
+  <string name="ktv_song_vod_fail"> %1$s eklenemedi</string>
+  <string name="ktv_song_vod_success">%1$s eklendi</string>
+  <string name="ktv_unbind_message">"KTV konsol ile bağlantı kurulamadı.QR kodunu doğru taradığınızdan emin olun."</string>
   <string name="listen_to_music_online_settings">Çevrim içi  dinle</string>
   <string name="listen_to_online_summary">Wi-Fi veya mobil şebeke ile dinle</string>
   <string name="load_album_artist_failed">Albüm yüklenemedi. Tekrar deneyin.</string>
@@ -266,12 +278,32 @@
   <string name="start_to_download_album">Şarkınız için albüm kapağı indiriliyor</string>
   <string name="start_to_download_avatar">Şarkıcı resmi indiriliyor</string>
   <string name="streamloadingtext">Bağlanıyor %s</string>
+  <string name="synchronize_guide_toast">Sekronizeyi açmak için, Ayarlar &gt; Listeyi senkronize et\'e gidin.</string>
+  <string name="synchronize_playlist_setting">Listeyi senkronize et</string>
+  <string name="synchronize_playlist_summary">Listeyi MiCloud\'asenkronize et</string>
+  <string name="synchronize_to_baidu_cloud">Baidu Cloud kullanarak çalma listelerini online yedekleyin</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
+  <string name="track_bit_rate_hd">Yüksek</string>
+  <string name="track_bit_rate_standard">Normal</string>
+  <string name="track_bit_rate_uhd">Daha yüksek</string>
   <string name="track_edit">Şarkı</string>
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Tüm şarkılar</string>
+  <string name="ultra_high_quality">En yüksek kalite</string>
   <string name="unknown_album_name">Bilinmeyen albüm</string>
   <string name="unknown_artist_name">Bilinmeyen şarkıcı</string>
   <string name="use_local_album">Kayıtlı albüm kapağını kullan</string>
   <string name="use_local_lyric">Kayıtlı şarkı sözlerini kullan</string>
+  <string name="vip_bought">"You've already purchased higher quality music access"</string>
+  <string name="vip_expired">Your higher quality music access has expired</string>
+  <string name="vip_rebuy">Renew</string>
+  <string name="vip_recommend_buy">Purchase (RMB 5 for 1 month)</string>
+  <string name="vip_recommend_exchange">Use gift code</string>
+  <string name="vip_recommend_main_title">Unlimited CD quality (320 kbps)</string>
+  <string name="vip_recommend_rebuy">Renewing VIP access for 30 days costs 5 MiCredits</string>
+  <string name="vip_recommend_sub_title">Only 5 RMB per month</string>
+  <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
+  <string name="vip_recommend_title">Yüksek kaliteli müzik</string>
+  <string name="where_is_barcode">"QR kodu nerede?"</string>
+   <string name="xiaomi_account_setting">Xiaomi hesabı</string>
 </resources>

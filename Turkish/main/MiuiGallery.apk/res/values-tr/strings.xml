@@ -108,7 +108,7 @@
   <string name="confirm">OK</string>
   <string name="confirm_delete">Seçilen dosyaları silmek istiyor musunuz?</string>
   <string name="confirm_delete_album" formatted="false"> %s albümü silmek istiyor musunuz ( %s öğe içeriyor)?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false"> %s albümünde %s resim var, Silmek istiyor musunuz?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false"> %s albümünde %s resim var, silmek istiyor musunuz?</string>
   <string name="confirm_delete_folders_and_pictures">%s Silmek istiyor musunuz?</string>
   <string name="confirm_delete_folders_including" formatted="false">%s klasör (içeriyor %s)</string>
   <string name="confirm_delete_including_null">0 öğe</string>
@@ -225,7 +225,7 @@
   <string name="import_complete">İçe aktarma tamamlandı</string>
   <string name="import_fail">İçe aktarım başarısız!</string>
   <string name="initial_cloud_button_text">MiCloud\'u kullanmaya başlayın</string>
-  <string name="initial_cloud_text">Her zaman ve her yerde, fotolarınızı düzenleyebilir ve görüntüleyebilirsiniz</string>
+  <string name="initial_cloud_text">Her zaman ve her yerde, fotolarınıza ulaşabilir ve düzenleme yapabilirsiniz.</string>
   <string name="initializing_cloud">Cloud Albümü Başlatılıyor...</string>
   <string name="input_cloudfolder_name">Cloud klasör adı</string>
   <string name="internal_camera_folder_display_name">Dahili kamera fotoları</string>

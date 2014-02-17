@@ -235,7 +235,7 @@
   <string name="theme_is_imported">Tema içe aktarıldı!</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_sdcard_importing">Tema içe aktarılıyor...</string>
-  <string name="theme_select_others">Diğerleri</string>
+  <string name="theme_select_others">Gözat</string>
   <string name="theme_upgrade_request_cancel">İptal</string>
   <string name="theme_upgrade_request_content">Yerel temaların verimliliğini artırmak için dönüştürülmesi gerekir. Bu güncelleme bir kaç dakikanızı alabilir ve telefon yanıt vermeyebilir. Şimdi dönüştürülsün mü?</string>
   <string name="theme_upgrade_request_title">Temaların güncellenmesi gerekiyor</string>
