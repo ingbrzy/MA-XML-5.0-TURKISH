@@ -26,7 +26,7 @@
   <string name="act_weather_main_data_null">Hava durumu bilgisi için dokunun</string>
   <string name="act_weather_range_select">Şehir seç</string>
   <string name="act_weather_range_title">Yakınlardaki hava tahmini</string>
-  <string name="act_weather_update_time">%s Güncellendi</string>
+  <string name="act_weather_update_time">Güncelleme : %s</string>
   <string name="add_city">Konum ekle</string>
   <string name="alert_message_delete">Seçilen %d öğe silinsin mi?</string>
   <string name="alert_provider_message">Mobil ağ üzerinden konum erişimini etkinleştirmeniz gerekir.</string>
@@ -36,7 +36,7 @@
   <string name="app_love_sms_title">Mesaj içeriği</string>
   <string name="app_love_view_title">Önizle</string>
   <string name="app_name">Hava Durumu</string>
-  <string name="app_nohave_net">Ağ bulunamadı</string>
+  <string name="app_nohave_net">Ağ bağlantısı yok!</string>
   <string name="app_unquiet_net">Kötü ağ bağlantısı</string>
   <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
   <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
@@ -58,7 +58,7 @@
   <string name="enable_notification">Konum bildirimini aç</string>
   <string name="enable_notification_city">Have opened %s weather notification, system notification will be sent when unexpected weather such as rain, snow and temperature change occurs.</string>
   <string name="enable_notification_summary">Tahminler değişince bana bildir</string>
-  <string name="first_start_network_toast_text">Hava durumu bilgilerini almak için erişim ağı.</string>
+  <string name="first_start_network_toast_text">Hava durumu bilgilerini almak için ağ erişimi.</string>
   <string name="format_date_md">d/M kk:mm</string>
   <string name="format_date_trend_md">d/M</string>
   <string name="format_date_week">EEEE</string>
@@ -71,7 +71,7 @@
   <string name="location_notification">Hava durumu bildirimleri</string>
   <string name="menu_about">Hakkında</string>
   <string name="menu_add">Şehir ekle</string>
-  <string name="menu_around">Cevreleme</string>
+  <string name="menu_around">Cevresel</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_location">Konumlar</string>
   <string name="menu_main">Indeks</string>

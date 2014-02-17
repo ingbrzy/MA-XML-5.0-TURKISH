@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="send_item">
+        <item>Mesaj</item>
+        <item>E-posta</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Rüzgar hızı:</item>
+        <item>UV indeksi:　</item>
+        <item>Giyim:</item>
+        <item>Hissedilen:</item>
+        <item>Oto yıkama indeksi:</item>
+        <item>Kurutma indeksi:</item>
+        <item>Sabah egzersiz:</item>
+        <item>Boş zaman:</item>
+    </string-array>
+   <string-array name="weather_image">
+        <item>Açık</item>
+        <item>Bulutlu</item>
+        <item>Puslu</item>
+        <item>Sisli</item>
+        <item>Şiddetli yağmur</item>
+        <item>Yağmur fırtınası</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Gökgürültülü yağmur yağışı</item>
+        <item>Sağanak yağmur yağışı</item>
+        <item>Yoğun yağmur yağışı</item>
+        <item>Yağmur yağışı</item>
+        <item>Çiseleme</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Aralıklı kar yağışı</item>
+        <item>Yağun kar yağışı</item>
+        <item>Kar yağışı</item>
+        <item>Hafif kar yağışı</item>
+        <item>Kar fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Dolu</item>
+        <item>Toz </item>
+        <item>Puslu</item>
+    </string-array>
+</resources>
