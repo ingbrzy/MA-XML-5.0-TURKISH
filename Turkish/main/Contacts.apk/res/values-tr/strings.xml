@@ -670,6 +670,7 @@ Favoriler listenize kişi eklemek için:
   <string name="pref_key_photo_word_title">Kişi fotolarını otomatik seç</string>
   <string name="pref_key_rebuild_t9_index_message">Kişi arama hatalarını düzeltmek mümkündür</string>
   <string name="pref_key_rebuild_t9_index_title">İndeks verilerini tekrar oluştur</string>
+  <string name="pref_key_sim_manage">SIM Kart Yönetimi</string>
   <string name="pref_summary_import_from_account">Google ve Exchange hesabından Xiaomi hesabıma aktar</string>
   <string name="pref_title_account_import">Hesaptan aktar</string>
   <string name="pref_title_card_format">Kart paylaşım biçimi</string>

@@ -1,5 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="account_and_synchronization">Hesap ve Senkronize</string>
+  <string name="account_setting">Hesap ayarları</string>
   <string name="add">Ekle</string>
   <string name="add_to">Şuraya ekle</string>
   <string name="add_to_favorite">Favorilere ekle</string>
@@ -29,6 +31,8 @@
   <string name="auto_correct_id3_summary">Ses izi algoritması ID3 verilerini müzik çalarken doğrulayacak.</string>
   <string name="batch_correct_id3_completed">Yığın ID3 doğrulama tamamlandı!</string>
   <string name="billboard">Billboard</string>
+  <string name="bind_baidu_account_setting">Baidu Hesap bağla</string>
+  <string name="bind_baidu_account_summary">Çalma listesi ekleme ve diğer servizler için Baidu Müzik Hesabı kullanılacak.</string>
   <string name="buffering">Yükleniyor...</string>
   <string name="cancel">İptal Et</string>
   <string name="cancel_sleep_mode">Uyku zamanlayıcısını durdur</string>
@@ -36,6 +40,8 @@
   <string name="channel">FM</string>
   <string name="channel_format" formatted="false">"%s  %s MHZ"</string>
   <string name="channel_postfix">MHZ</string>
+  <string name="choose_download_quality">İndirme kalitesini seçin</string>
+  <string name="choose_stream_quality">Akış kalitesini seçin</string>
   <string name="click_to_shuffle">Hepsini karışık çal</string>
   <string name="complete">Tamamla</string>
   <string name="confirm">Onayla</string>
@@ -122,6 +128,7 @@
   <string name="filter_by_size_prefix">"Minimum boyut:"</string>
   <string name="filter_by_size_summary">Filtre ses dosyaları için çok küçük</string>
   <string name="filter_notification">Filtrelendi, filtre ayarlarında değişiklik yapabilirsiniz.</string>
+  <string name="find_ktv">KTV\'yi keşfet</string>
   <string name="folder_title_format" formatted="false">%s(%d)</string>
   <string name="folders_title">Klasörler</string>
   <string name="frequentlyplayed_title">Sık sık oynatılan</string>
@@ -130,6 +137,7 @@
   <string name="higher_quality_music">Yüksek kaliteli müzik</string>
   <string name="higher_quality_music_summary">Yüksek kaliteli müzikleri dinleyin ve indirin..</string>
   <string name="hot_artists">Hit sanatçılar</string>
+  <string name="i_know">TAMAM</string>
   <string name="id3_edit">ID3 bilgilerini düzenle</string>
   <string name="id3_edit_failed">ID3 düzenleme başarısız</string>
   <string name="id3_modify_confirm_check">ID3 değişikliklerini onaylıyor musunuz?</string>
@@ -162,6 +170,7 @@
   <string name="load_channel_failed">Kanal listesi yüklenemedi, lütfen tekrar deneyin</string>
   <string name="load_channel_in_process">Kanal listesi</string>
   <string name="loading">Yükleniyor...</string>
+  <string name="login">Oturum aç</string>
   <string name="lrc_progress_modify">Sözleri kaydırma hızını ayarla</string>
   <string name="lrc_progress_modify_helper">Yukarı veya aşağı  sürükleyerek sözleri kaydırma hızını ayarlayın</string>
   <string name="lrc_search_failed">Şarkı sözü bulunamadı!</string>
@@ -175,6 +184,7 @@
   <string name="lyric_picker_not_found">Dosya Yöneticisi cihazda bulunamadı</string>
   <string name="max_interval">90</string>
   <string name="mediaplaybacklabel">Müzik</string>
+  <string name="menu_higher_quality_music">Yüksek kaliteli müzik (aylık erişim)</string>
   <string name="mi_effect">MI Efektleri</string>
   <string name="mi_effect_summary">Hoparlör kullanırken her zaman MiSound arttırıcı kullanın</string>
   <string name="mi_effect_title">MiSound arttırıcı kullan</string>
@@ -191,6 +201,7 @@
   <string name="music_filter_helper">Mp3 formatında olmayan dosyaları gizlemek için 800kb altında ki dosyaları gizleyecek bir boyut filtresi uygulanmıştır.Bu ayarı Gelişmiş ayarlar &gt; dosya filtresi altından değiştirebilirsiniz.</string>
   <string name="music_open_other_connect">Mobil internet bağlantısını kullanarak müzik indir</string>
   <string name="music_picker_title">Şarkıyı seç</string>
+  <string name="music_quality">Müzik kalitesi</string>
   <string name="music_settings">Oynatıcı Ayarları</string>
   <string name="network_error">Bağlantı yok, Ağ ayarlarını kontrol edin</string>
   <string name="new_albums">Yeni Albüm</string>
@@ -199,11 +210,17 @@
   <string name="new_playlist_name_template">Yeni çalma listesi %d</string>
   <string name="no_effect">Efekt yok</string>
   <string name="no_song_downloaded">Şarkı indirilemedi</string>
+  <string name="normal_quality">Normal kalite</string>
   <string name="not_selected">Şarkıyı seçin</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">Online müzik ara</string>
   <string name="other_settings">Diğer</string>
   <string name="overwrite_confirm">Üstüne yaz</string>
+  <string name="pay_service_guide_dowload">İndirme kalitesi</string>
+  <string name="pay_service_guide_listen">Akış kalitesi</string>
+  <string name="pay_service_guide_new">Yüksek kaliteli müzik şimdi kullanılabilir</string>
+  <string name="payment_fail">Ödeme başarısız oldu!</string>
+  <string name="payment_success">Ödeme başarılı!</string>
   <string name="play_all">Tümünü oynat</string>
   <string name="play_and_download">Dinle ve indir</string>
   <string name="play_and_download_summary">İndirilirken müzik dinleyin</string>
@@ -217,6 +234,7 @@
   <string name="playlist_deleted_message">Çalma listesi silindi.</string>
   <string name="playlist_favorite">Favoriler</string>
   <string name="playlist_frequently_played">Sık çalınanlar</string>
+  <string name="playlist_my_ktv">KTV</string>
   <string name="playlist_recently_added">En son eklenenler</string>
   <string name="playlist_recently_played">En son çalınanlar</string>
   <string name="playlist_renamed_message">Çalma listesi adlandırıldı.</string>
@@ -244,6 +262,7 @@
   <string name="ringtone_not_support">Zil sesi formatı desteklenmiyor</string>
   <string name="ringtone_set">\"%s\" Zil sesi olarak ayarla.</string>
   <string name="save">Kaydet</string>
+  <string name="scan_barcode_to_connect">"Taramak için, KTV konsolun QR kodunu çerçeve içine hizalayın"</string>
   <string name="scanning">SD kart taranıyor...</string>
   <string name="scanning_nosdcard">USB depolama taranıyor...</string>
   <string name="screen_bright_wake">Ekran uyanık kalır</string>
@@ -280,7 +299,7 @@
   <string name="streamloadingtext">Bağlanıyor %s</string>
   <string name="synchronize_guide_toast">Sekronizeyi açmak için, Ayarlar &gt; Listeyi senkronize et\'e gidin.</string>
   <string name="synchronize_playlist_setting">Listeyi senkronize et</string>
-  <string name="synchronize_playlist_summary">Listeyi MiCloud\'asenkronize et</string>
+  <string name="synchronize_playlist_summary">Listeyi MiCloud\'a senkronize et</string>
   <string name="synchronize_to_baidu_cloud">Baidu Cloud kullanarak çalma listelerini online yedekleyin</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Yüksek</string>
@@ -294,15 +313,15 @@
   <string name="unknown_artist_name">Bilinmeyen şarkıcı</string>
   <string name="use_local_album">Kayıtlı albüm kapağını kullan</string>
   <string name="use_local_lyric">Kayıtlı şarkı sözlerini kullan</string>
-  <string name="vip_bought">"You've already purchased higher quality music access"</string>
-  <string name="vip_expired">Your higher quality music access has expired</string>
-  <string name="vip_rebuy">Renew</string>
-  <string name="vip_recommend_buy">Purchase (RMB 5 for 1 month)</string>
-  <string name="vip_recommend_exchange">Use gift code</string>
-  <string name="vip_recommend_main_title">Unlimited CD quality (320 kbps)</string>
-  <string name="vip_recommend_rebuy">Renewing VIP access for 30 days costs 5 MiCredits</string>
-  <string name="vip_recommend_sub_title">Only 5 RMB per month</string>
-  <string name="vip_recommend_summary">Stream or download all your favorite artists from Baidu Music at 320 kbps.</string>
+  <string name="vip_bought">"Zaten yüksek kaliteli müzik erişimi satın aldınız"</string>
+  <string name="vip_expired">Yüksek kaliteli müzik erişim süresi doldu</string>
+  <string name="vip_rebuy">Yenile</string>
+  <string name="vip_recommend_buy">Satınal (1 aylık 5 RMB)</string>
+  <string name="vip_recommend_exchange">Hediye kodu kullan</string>
+  <string name="vip_recommend_main_title">Sınırsız CD kalitesi (320 kbps)</string>
+  <string name="vip_recommend_rebuy">30 gün boyunca VIP erişimini 5 MiKredisine yenileyin</string>
+  <string name="vip_recommend_sub_title">Aylık sadece 5 RMB</string>
+  <string name="vip_recommend_summary">Baidu Müzikten tüm favori sanatçıları 320 kbps ile dinleyin ve indirin.</string>
   <string name="vip_recommend_title">Yüksek kaliteli müzik</string>
   <string name="where_is_barcode">"QR kodu nerede?"</string>
    <string name="xiaomi_account_setting">Xiaomi hesabı</string>

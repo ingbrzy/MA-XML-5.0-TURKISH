@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
-<title>Bu sayfa kullanılamıyor</title>
-<link rel="icon" href="file:///android_asset/webkit/favicon.png">
+<title>Uygulama kullanılamıyor !</title>
+<link rel="icon" href="favicon.png">
 <style>
 html,
 body,
@@ -105,20 +105,17 @@ body {
 <body>
 <div class="wrap">
     <div class="error">
-        Bu sayfa kullanılamıyor !
-        <p><a href="%s">%s</a></p>
+        Maalesef uygulama başlatılamadı !
     </div>
     <div class="reason">
-        <p>Hiçbir internet bağlantısı yok.</p>
-        <p>URL adresi geçersiz.</p>
-        <p>Sayfa geçici olarak kullanılamıyor.</p>
+        <p>Uygulama geçici olarak kullanılamıyor olabilir</p>
+        <p>Hiçbir internet bağlantısı yok</p>
     </div>
     <div class="button">
         <a class="reload" onclick="location.reload()">Yenile</a>
-        <a class="detail" onclick="location.href = 'file:///android_asset/errordetail_sk.html?var=' + this.name" name="%e">Ayrıntılar</a>
+        <a class="detail" onclick="location.href = 'file:///android_asset/errordetail_en.html?var=' + this.name" name="%e">Ayrıntılar</a>
         <a class="setting" onclick="window.wirelessSetting.openWirelessSetting()">Ayarlar</a>
     </div>
 </div>
 </body>
 </html>
-

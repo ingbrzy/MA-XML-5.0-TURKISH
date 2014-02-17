@@ -38,7 +38,7 @@
   <string name="answer_state_setting_summary">Susturmak için çevir, yakınlık sensörü, vb ayarlar.</string>
   <string name="answer_state_setting_title">Çağrı Cevaplama Ayarları</string>
   <string name="answer_state_setting_title_miui">Çağrı Cevaplama Ayarları</string>
-  <string name="answer_widget_dialog_title_miui">Cevaplamak için hareketi seçin</string>
+  <string name="answer_widget_dialog_title_miui">Cevaplama hareketini seçin</string>
   <string name="answer_widget_sliding_horizontal_miui">Yatay kaydırma</string>
   <string name="answer_widget_sliding_vertical_miui">Dikey kaydırma</string>
   <string name="answer_widget_title_miui">Cevaplama hareketi</string>
@@ -129,7 +129,7 @@
   <string name="callFailed_simError">SIM kart yok, veya SIM kart hatası!</string>
   <string name="callFailed_timedOut">Zaman aşımına uğradı. Yanıt yok!</string>
   <string name="callFailed_unobtainable_number">Geçersiz numara!</string>
-  <string name="callFailed_userBusy">Hat meşgul!</string>
+  <string name="callFailed_userBusy">Numara meşgul!</string>
   <string name="callUnanswered_forwarded">Çağrı cevaplanamadı ve yönlendirildi</string>
   <string name="call_assistant_miui">Arama asistanı</string>
   <string name="call_forwarding_number_hint_miui">Numarayı gir ve yönlendir</string>
@@ -178,7 +178,7 @@
   <string name="card_title_MOcall_forwarding">Yönlendirilmiş giden çağrı</string>
   <string name="card_title_MTcall_forwarding">Gelen çağrı yönlendirildi</string>
   <string name="card_title_call_deflected">Çağrı yönlendirildi</string>
-  <string name="card_title_call_ended">Çağrı sonlandırıldı</string>
+  <string name="card_title_call_ended">Arama sonlandırıldı.</string>
   <string name="card_title_callconnectedect">Çağrı bağlandı ECT</string>
   <string name="card_title_callconnectingect">Çağrı bağlandı ECT</string>
   <string name="card_title_calliswaiting">Çağrı bekliyor</string>

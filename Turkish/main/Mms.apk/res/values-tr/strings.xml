@@ -10,6 +10,7 @@
   <string name="add_nickname_title">Takma ad düzenleme</string>
   <string name="add_phrase">Şablon Ekle</string>
   <string name="add_picture">Resim ekle</string>
+  <string name="add_private_contact">Özel kişi ekle</string>
   <string name="add_slide">Slayt ekle</string>
   <string name="add_slide_before">Slayt ekle (önce)</string>
   <string name="add_slide_hint">Yeni slayt için seç.</string>
@@ -263,6 +264,7 @@
   <string name="pick_too_many_recipients">Çok fazla alıcı</string>
   <string name="play">Yürüt</string>
   <string name="pref_advanced_settings_title">Gelişmiş Ayarlar</string>
+  <string name="pref_collapse_sp_messages_summary">Operatörden gelen aynı mesajları birleştir</string>
   <string name="pref_conversation_show_avatar">Kişi resmini göster</string>
   <string name="pref_edit_smsc_address">SMS merkezi numarası</string>
   <string name="pref_forward_title">Yönlendir</string>
@@ -425,6 +427,7 @@ Eksik ve hataları Xiaomi\'e bildirin.”</string>
   <string name="timed_message_expired_title_2">Şimdi göndermek ister misiniz?</string>
   <string name="timed_message_in_total">... (toplam %d)</string>
   <string name="timed_message_to"></string>
+   <string name="title_collapse_sp_messages">Operatör grup mesajları</string>
   <string name="title_date_type">Mesaj zamanı</string>
   <string name="title_timed_message_dialog">Lütfen zamanlanmış mesaj zamanını ayarlayın</string>
   <string name="to_address_label">"Alıcı: "</string>

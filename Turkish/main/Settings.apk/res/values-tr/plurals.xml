@@ -9,11 +9,11 @@
         <item quantity="one">Parola en az bir harf içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Parola arka arkaya %d adet küçük harf içermelidir</item>
+        <item quantity="other">Parola %d adet küçük harf içermelidir</item>
         <item quantity="one">Parola en az bir adet küçük harf içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Parola en az %d adet sadece küçük harf içermelidir</item>
+        <item quantity="other">Parola en az %d adet büyük harf içermelidir</item>
         <item quantity="one">Parola en az bir büyük harf içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
@@ -22,11 +22,11 @@
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
         <item quantity="other">Parola en az %d adet özel karakter içermelidir</item>
-        <item quantity="one">Parola en az bir özel sembol içermelidir</item>
+        <item quantity="one">Parola en az bir özel karakter içermelidir</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Parola en az %d  harften başka karakter içermelidir</item>
-        <item quantity="one">Parola sadece bir harf değil en az bir karakter içermelidir</item>
+        <item quantity="other">Parola en az %d  adet harf olmayan başka karakter içermelidir</item>
+        <item quantity="one">Parola sadece bir adet harf olmayan karakter içermelidir</item>
     </plurals>
 	    <plurals name="power_center_battery_day">
         <item quantity="other">%d gün</item>
