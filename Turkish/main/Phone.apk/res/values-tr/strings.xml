@@ -295,7 +295,7 @@
   <string name="custom_location_number_hint_miui">Alan kodu bu gibi 010, grup numarası bu gibi 68#####</string>
   <string name="cw_title_miui">Çağrı bekletme</string>
   <string name="data_connected_change">
-Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti durdurup ve başka bir şebekeye seçmek istiyor musunuz?</string>
+Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti durdurup, başka bir şebekeyi seçmek istiyor musunuz?</string>
   <string name="data_enable_summary">Mobil şebekede veri kullanımını etkinleştirir</string>
   <string name="data_enabled">Mobil Veriyi etkinleştir</string>
   <string name="deact_all_sub_not_supported">Abonelikler desteklenmiyor.</string>

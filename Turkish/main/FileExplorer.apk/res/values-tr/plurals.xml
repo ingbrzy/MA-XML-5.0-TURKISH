@@ -4,4 +4,20 @@
         <item quantity="other">%d öğe</item>
         <item quantity="one">1 öğe</item>
     </plurals>
+	<plurals name="delete_files_confirm">
+        <item quantity="other">(%1$d) Dosyaları sil</item>
+        <item quantity="one">Dosyayı sil</item>
+    </plurals>
+    <plurals name="delete_folders_confirm">
+        <item quantity="other">"(%1$d) ve klasör silinsin mi?"</item>
+        <item quantity="one">"1 klasör silinsin mi??"</item>
+    </plurals>
+    <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Kalan indirme dosyası: %1$d</item>
+        <item quantity="one">Kalan indirme dosyası: 1</item>
+    </plurals>
+    <plurals name="ui_bar_txt_upload_progress">
+        <item quantity="other">Kalan yükleme dosyaları: %1$d</item>
+        <item quantity="one">Kalan yükleme dosyası: 1</item>
+    </plurals>
 </resources>

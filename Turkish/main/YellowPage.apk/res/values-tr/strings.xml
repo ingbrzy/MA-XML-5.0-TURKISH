@@ -68,6 +68,7 @@
   <string name="navigation_search_no_city_list">Şehir bilgisi bulunamadı!</string>
   <string name="navigation_search_positioning">Konumlandırılıyor...</string>
   <string name="navigation_search_positioning_failed">Şehir konumlandırılamadı!</string>
+  <string name="no_more_result">Sonuç yok</string>
   <string name="order_empty_hint">Sipariş yok</string>
   <string name="order_id">Sipariş ref: %s</string>
   <string name="order_merchant_title">Siparişlerim</string>

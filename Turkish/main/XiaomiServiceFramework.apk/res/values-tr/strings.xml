@@ -127,6 +127,7 @@
   <string name="login_failed">Oturum açma başarısız</string>
   <string name="login_instead_reg">Telefon numaranız ile giriş yapın</string>
   <string name="login_notice">Oturum açılıyor...</string>
+  <string name="logout_failed">Oturum açılamadı !</string>
   <string name="master_alert_notif_dspt" formatted="false">"Bu süre zarfında %s kişi, %s SMS, %s foto, %s not ve diğer veriler eklendi.
 
 

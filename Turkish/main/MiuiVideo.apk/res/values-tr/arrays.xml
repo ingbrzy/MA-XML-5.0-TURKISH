@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="channel_tabs">
+        <item></item>
+        <item>Popüler</item>
+        <item>Öne çıkanlar</item>
+		<item>Yeniler</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Seçilenler</item>
+        <item>Öne çıkanlar</item>
+        <item>Yeniler</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Yerel</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Bölüm</item>
+        <item>Açıklama</item>
+    </string-array>
+</resources>
