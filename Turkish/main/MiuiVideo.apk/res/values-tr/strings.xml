@@ -216,8 +216,7 @@
   <string name="nowifi_alert_dialog_message">Video akışı için mobil ağ kullanımı, devam etmek istiyor musunuz?</string>
   <string name="nowifi_alert_dialog_title">Trafik uyarısı !</string>
   <string name="offline_alert_title">Caching Notification</string>
-
-  <string name="offline_alert_wifi">Mobil veri ağı kullanıyorsanız, veri kullanımını kaydetmek için, duraklatılmış olan önbelleğe alma görevleri wifi ağına geçiş yaptıktan sonra devam edilecektir.</string>
+  <string name="offline_alert_wifi">Mobil veri ağı kullanıyorsanız, duraklatılmış olan önbelleğe alma görevleri wifi ağına geçiş yaptıktan sonra devam edilecektir.</string>
   <string name="offline_continue">Devam</string>
   <string name="offline_episode">%d</string>
   <string name="offline_max_promote">Önbellek bekleniyor, en fazla 2 önbelleğe alma görevleri aynı anda çalıştırılabilir.</string>
