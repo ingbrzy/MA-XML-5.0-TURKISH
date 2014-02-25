@@ -41,4 +41,29 @@
         <item>Toz </item>
         <item>Puslu</item>
     </string-array>
+	<string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>"Bir şemsiye almayı unutmayın, şiddetli yağmur yağıyor."</item>
+        <item>"Bir şemsiye almayı unutmayın, şiddetli yağmur yağıyor."</item>
+        <item>"Bir şemsiye almayı unutmayın, şiddetli yağmur yağıyor."</item>
+        <item>Dışarı çıkacaksanız, şemsiye almayı unutmayın!</item>
+        <item>Dışarı çıkacaksanız, şemsiye almayı unutmayın!</item>
+        <item>Dışarı çıkacaksanız, şemsiye almayı unutmayın!</item>
+        <item>"Bugün yağmur yağacak, şemsiye almayı unutmayın!"</item>
+        <item>"Yağmur çiseliyor, şemsiye alsanız iyi olur!"</item>
+        <item>"Karla karışık yağmur yağıyor, şemsiye alsanız iyi olur!"</item>
+        <item>"Sağanak kar yağıyor, bir şapka veye eşarp giymeyi unutmayın!"</item>
+        <item>"Bugün kar yağacak, şapka ve atkı almayı unutmayın!"</item>
+        <item>"Sağanak kar yağıyor, bir şapka veye eşarp giymeyi unutmayın!"</item>
+        <item>"Hafif kar yağıyor, bir şapka ve eşarp giymeyi unutmayın!"</item>
+        <item>Hafif bir kar yağışı var, şapka ve atkı giymeyi unutmayın.</item>
+        <item>Çok güçlü bir kum fırtınası var, bir yüz maskesi giymeyi unutmayın.</item>
+        <item>"Bir şemsiye almayı unutmayın,hafif yağmur yağıyor."</item>
+        <item>Çok güçlü bir kum fırtınası var, bir yüz maskesi giymeyi unutmayın.</item>
+        <item>Çok güçlü bir kum fırtınası var, bir yüz maskesi giymeyi unutmayın.</item>
+        <item>"Dolu yağıyor! Dikkatli yürüyün!"</item>
+    </string-array>
 </resources>

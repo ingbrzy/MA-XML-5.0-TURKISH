@@ -3,15 +3,15 @@
     <plurals name="uninstall_dialog_title_format">
        <item quantity="other">\"%1$s\" ve diğer %2$d uygulama kaldırılsın mı?</item>
        <item quantity="one">Kaldır \"%s\"</item>
-       <item quantity="two"> \"%s\" ve diğer 1 uygulama kaldırılsın mı</item>
+       <item quantity="two"> \"%s\" ve diğer 1 uygulama kaldırılsın mı?</item>
     </plurals>
    <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$ uygulama kaldırıldı</item>
+        <item quantity="other">%1d uygulama kaldırıldı</item>
         <item quantity="one">Uygulama kaldırıldı</item>
     </plurals>
     <plurals name="uninstall_result_failed">
         <item quantity="other">"\"%1$s\" ve diğer %2$d uygulama kaldırılamadı!"</item>
-        <item quantity="one">"\"%s\" kaldırılamadı!"</item>
+        <item quantity="one">Uygulama kaldırılamadı!"</item>
         <item quantity="two">"\"%s\" ve diğer 1 uygulama kaldırılamadı!"</item>
     </plurals>
 </resources>

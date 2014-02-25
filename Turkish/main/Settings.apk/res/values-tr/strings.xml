@@ -2763,7 +2763,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="item_mms">Filter unwanted messages</string>
     <string name="item_usb_debug">USB hata ayıklama</string>
     <string name="item_virus">Virüs</string>
-    <string name="item_virus_lib">Update virus definitions automatically</string>
+    <string name="item_virus_lib">Virüs veri tabanını otomatik güncelle</string>
     <string name="just_checked">Herşey iyi görünüyor!</string>
     <string name="last_check_canceled">Tarama yapmanız tavsiye edilir</string>
     <string name="last_check_date_today">En son tarama: Bugün</string>
@@ -3032,7 +3032,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="quick_scan_doing_title">Taranıyor...</string>
 	<string name="quick_scan_done_title">Tarama Bitti!</string>
     <string name="quick_scan_list_loading_hits">Taranıyor...</string>
-    <string name="quick_scan_result_summary">Temizleme %d saniye içinde başlayacak</string>
+    <string name="quick_scan_result_summary">Temizlik %d saniye içinde başlayacak</string>
     <string name="quick_scan_result_title">%s öğe bulundu</string>
     <string name="realtime_protection">Koruma</string>
     <string name="realtime_protection_title">Koruma</string>
@@ -3046,8 +3046,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="remove_sms">Delete all message logs?</string>
     <string name="residual_cancel">İptal</string>
     <string name="residual_clean">Temizle</string>
-    <string name="residual_tips_hints">%s residual files found on SD card</string>
-    <string name="restore_default_settings">Restore default settings</string>
+    <string name="residual_tips_hints">SD kartta %s artık dosya bulundu</string>
+    <string name="restore_default_settings">Varsayılan ayarları geri yükle</string>
     <string name="rubbish_cleaning">Sistem temizleme</string>
     <string name="save_button">Kaydet</string>
     <string name="scan_done">Tarama bitti</string>
@@ -3096,12 +3096,12 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="turn_on_smart_antispam_summary_on">Only available when connected to WLAN or 3G network</string>
     <string name="turn_on_smart_antispam_title">Bilinmeyen numaraları belirle</string>
     <string name="valuation">Temizleme tavsiye edilir</string>
-    <string name="virus_activity_title">Virus</string>
+    <string name="virus_activity_title">Virüs</string>
     <string name="virus_button_clear">Temizle</string>
     <string name="virus_scan">Virus taraması</string>
-    <string name="virus_scan_app_solve">All the processing</string>
+    <string name="virus_scan_app_solve">Tüm işlemler</string>
     <string name="virus_scan_app_stop">Durdur</string>
-    <string name="virus_scan_can_use_wifi">Use online definitions to scan</string>
+    <string name="virus_scan_can_use_wifi">Online veri tabanı kullanarak tara</string>
 	<string name="virus_scan_clean_dialog_message">Temizleniyor...</string>
     <string name="virus_scan_clear">Temiz</string>
     <string name="virus_scan_dangerous">Risk</string>
@@ -3117,7 +3117,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="virus_scan_installed_package">%s (yüklenmiş uyg)</string>
     <string name="virus_scan_is_scanning">Taranıyor...</string>
     <string name="virus_scan_judge_is_virus">Uygulamayı yüklemeden önce virüs kontrolü yap</string>
-    <string name="virus_scan_last_risk">En son taramada keşfedilen şüpheli uygulamalar henüz kaldırılmış değil.</string>
+    <string name="virus_scan_last_risk">En son taramada bulunan şüpheli uygulamalar henüz kaldırılmış değil.</string>
     <string name="virus_scan_last_scan_date">Son tarama %d gün önce yapıldı</string>
     <string name="virus_scan_last_scan_today">Son tarama: Bugün</string>
     <string name="virus_scan_last_scan_yesterday">Son tarama: Dün</string>

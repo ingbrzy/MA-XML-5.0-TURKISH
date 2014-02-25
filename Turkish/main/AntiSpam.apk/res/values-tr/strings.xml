@@ -59,6 +59,8 @@
   <string name="st_block_all">Çağrı ve mesajları engelle</string>
   <string name="st_block_mute">Çağrı ve mesajları engelle</string>
   <string name="st_block_private_call_button">Özel numara çağrılarını engelle</string>
+  <string name="st_block_setting_group">Kara liste ayarları</string>
+  <string name="st_block_setting_title">Çağrı ve mesajlar</string>
   <string name="st_block_title">Engelle ve log tut</string>
   <string name="st_block_unknown_call">Bilinmeyen num. çağrılarını engelle</string>
   <string name="st_block_unknown_sms">Bilinmeyen num. mesajları engelle</string>
@@ -73,7 +75,7 @@
   <string name="st_mute_block">Çağrılar ve engellenen mesajlar sessize alındı.</string>
   <string name="st_mute_title">Sessiz Mod</string>
   <string name="st_other_setting_group">Diğer Ayarlar</string>
-  <string name="st_settings_name">Ayarlar</string>
+  <string name="st_settings_name">Genel Ayarlar</string>
   <string name="st_show_block_notification">Engelleme bildirimlerini göster</string>
   <string name="st_sms_group">Mesajlar</string>
   <string name="tab_blacklist">Kara liste</string>
