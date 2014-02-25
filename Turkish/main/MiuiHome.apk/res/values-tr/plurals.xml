@@ -6,7 +6,7 @@
        <item quantity="two"> \"%s\" ve diğer 1 uygulama kaldırılsın mı?</item>
     </plurals>
    <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1d uygulama kaldırıldı</item>
+        <item quantity="other">%d uygulama kaldırıldı</item>
         <item quantity="one">Uygulama kaldırıldı</item>
     </plurals>
     <plurals name="uninstall_result_failed">
