@@ -114,6 +114,8 @@
   <string name="pref_connect_settings_enable_backgroung_hint">Uygulama arka planda çalışırken otomatik ağ bağlantısı sağlar</string>
   <string name="pref_connect_settings_exceed_limit">Veri hizmetini kapat</string>
   <string name="pref_connect_settings_exceed_limit_hint">Aylık trafik limiti aşıldığında İnterneti bağlantısını kes ve beni uyar</string>
+  <string name="pref_connect_settings_monitor_running_app">Engellenen uygulamaları göster</string>
+  <string name="pref_connect_settings_monitor_running_app_summary"/>
   <string name="pref_connect_settings_notify_in_statusbar">Bildirim çubuğunda göster</string>
   <string name="pref_connect_settings_title">Ağ izleme ayarları</string>
   <string name="pref_network_speed_internal_title">Ağ hızı aralığı</string>

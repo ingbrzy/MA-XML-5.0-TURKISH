@@ -7,7 +7,7 @@
   <string name="app_name">Temalar</string>
   <string name="apply_font_btn_exclude">Fontsuz Uygula</string>
   <string name="apply_font_btn_reboot">Uygula</string>
-  <string name="apply_font_tip">Yeni font kütüphanesi, bazı bölümlerde görünüm bozukluklarına sebep olabilir, bu sorunu çözmek için telefonunuzu tekrar başlatın!</string>
+  <string name="apply_font_tip">Tema yeni font kütüphanesi içeriyor, tema uygulandıktan sonra telefonunuz tekrar başlatılacak!</string>
   <string name="apply_lockscreen_paper_tips">Kişisel kilitleme ekranı halen kullanımda, yeni duvar kağıdı hemen uygulanmayabilir.</string>
   <string name="apply_theme_no_select_message">Bileşenleri seç</string>
   <string name="apply_theme_with_ringtones">Temayı zil sesi ile uygula</string>
@@ -53,7 +53,7 @@
   <string name="menu_refresh">Yenile</string>
   <string name="mi_wallpaper">Mi Duvar Kağıtları</string>
   <string name="online_no_network">Ağ bağlantısı yok!</string>
-  <string name="online_search_hint">Çevrimiçi Tema ara</string>
+  <string name="online_search_hint">Online Tema ara</string>
   <string name="payment_info">MiKredisi</string>
   <string name="purchased_list">Satın alınanlar</string>
   <string name="resource_account_abnormal_state">Daha sonra tekrar deneyin</string>
@@ -74,11 +74,11 @@
   <string name="resource_comment_3_star">3 Yıldız</string>
   <string name="resource_comment_4_star">4 Yıldız</string>
   <string name="resource_comment_5_star">5 Yıldız</string>
-  <string name="resource_comment_account_need_activitied">Hesabınız şimdi etkinleştirilsin mi?</string>
+  <string name="resource_comment_account_need_activitied">Hesabınız şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="resource_comment_all_comments">Tüm yorumlar</string>
   <string name="resource_comment_average_score">Ortalama</string>
   <string name="resource_comment_bad_comments">Olumsuz</string>
-  <string name="resource_comment_count">%1$s sonuç %2$s toplam yorum(%3$s version)</string>
+  <string name="resource_comment_count">%1$s sonuç %2$s toplam yorum (sürüm %3$s)</string>
   <string name="resource_comment_current_version">Geçerli sürüm</string>
   <string name="resource_comment_description">%1$s yorum %2$s:%3$s:%4$s</string>
   <string name="resource_comment_edit_comment">Yorum ekle</string>
@@ -106,10 +106,10 @@
   <string name="resource_comment_version_name">(%1$s version)</string>
   <string name="resource_default">Varsayılan Zil Sesi</string>
   <string name="resource_default_name">Kaynak</string>
-  <string name="resource_delete_all">Seçilen %1$d Temayı silmek istiyor musunuz?</string>
+  <string name="resource_delete_all">Seçilen %1$d temayı silmek istiyor musunuz?</string>
   <string name="resource_delete_confirm">Temayı silmek istiyor musunuz?</string>
-  <string name="resource_delta_update_failed">Yama güncelleme başarısız!</string>
-  <string name="resource_delta_update_successful">Yama güncelleme başarılı, %1$s kaydedildi.</string>
+  <string name="resource_delta_update_failed">Tema güncelleme başarısız!</string>
+  <string name="resource_delta_update_successful">Tema güncelleme başarılı, %1$s kaydedildi.</string>
   <string name="resource_delta_update_total">%1$d yama güncellemeleri. Toplam kaydedilen: %2$s</string>
   <string name="resource_detail">Detaylar</string>
   <string name="resource_detail_comment_title">Yorumlar</string>
@@ -206,10 +206,10 @@
   <string name="theme_component_title_ringtone">Zil Sesleri</string>
   <string name="theme_component_title_statusbar">Durum Çubuğu Stili</string>
   <string name="theme_component_title_wallpaper">Duvar Kağıtları</string>
-  <string name="theme_current_using_has_update">Mevcut tema güncellendi, uygulama için buraya dokunun</string> 
+  <string name="theme_current_using_has_update">Mevcut tema güncellendi, uygulamak için buraya dokunun</string> 
   <string name="theme_description_title_customized">Kullanıcı Tanımlı</string>
   <string name="theme_description_title_default">Geçerli</string>
-  <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulansın mı?</string>
+  <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulamak istiyor musunuz</string>
   <string name="theme_import_activity_label">Temayı güncelle</string>
   <string name="theme_import_data">Başlatılıyor. Lütfen bekleyin...</string>
   <string name="theme_import_fail"> %1$s İçe aktarılamadı!</string>
@@ -228,7 +228,7 @@
   <string name="theme_import_oper_complete">Tamamlandı</string>
   <string name="theme_import_oper_start">Tümünü güncelle</string>
   <string name="theme_import_oper_stop">İptal</string>
-  <string name="theme_import_oper_stop_request_content">Temaları kullanabilmeniz için güncellenmesi gerekir. Güncelleme işlemi iptal edilsin mi?</string>
+  <string name="theme_import_oper_stop_request_content">Temaları kullanabilmeniz için güncellenmesi gerekir. Güncelleme işlemi iptal etmek istiyor musunuz?</string>
   <string name="theme_import_preparing">Hazırlanıyor..</string>
   <string name="theme_import_stoping">Durduruluyor...</string>
   <string name="theme_importing">Tema içe aktarılıyor...</string>
