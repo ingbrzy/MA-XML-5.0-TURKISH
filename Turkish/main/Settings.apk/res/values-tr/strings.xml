@@ -2853,7 +2853,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="perm_log_empty">Boş</string>
     <string name="perm_manage_tab_title">İzinler</string>
     <string name="perm_mian_name">İzin</string>
-    <string name="perm_su_enable_summary">Applications may gain root permission</string>
     <string name="permission_mgr">İzinler</string>
     <string name="power_autorun_apps_empty">No auto-start apps</string>
     <string name="power_autorun_control_desc">"Increasing the number of auto-start programs may increase you're phone's power consumption"</string>
