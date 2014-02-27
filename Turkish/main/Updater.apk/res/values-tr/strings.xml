@@ -169,4 +169,5 @@
     <string name="wifi_not_available_body">Bu dosya boyutu büyük olabilir. Güncellemeleri indirmek için Wi-Fi bağlantısı kullanmanız tavsiye edilir. Devam etmek istiyor musunuz?</string>
     <string name="wifi_not_available_title">Wi-Fi bağlantısı yok!</string>
     <string name="worst_update">3. En kötü güncelleme</string>
+	<string name="new_update_content_notification_shade" />
 </resources>

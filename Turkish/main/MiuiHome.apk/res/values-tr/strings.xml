@@ -267,4 +267,8 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="widget_favorite_contacts_style">Sık Görüşülen Kişiler Stili</string>
   <string name="widget_gadget_player">Müzik</string>
   <string name="widget_global_search">Genel arama</string>
+  <string name="apply_as_lock_wallpaper">Uygula</string>
+    <string name="apply_as_lock_wallpaper_message">Kilit ekranı duvar kağıdı yapmak istiyor musunuz</string>
+    <string name="lock_screen_failed_message">Duvar kağıdı uygulanamadı !</string>
+    <string name="lock_screen_success_message">Duvar kağıdı başarıyla uygulandı</string>
 </resources>

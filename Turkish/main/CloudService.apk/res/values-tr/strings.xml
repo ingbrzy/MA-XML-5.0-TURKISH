@@ -11,4 +11,7 @@
   <string name="sub_sync_item_sms_title_wifi_only">Mesajları kablosuz ağı kullanarak senkronize edin.</string>
   <string name="sync_item_sms_summary">Mesajlar otomatik olarak senkronize edilecek.</string>
   <string name="sync_item_sms_title">Mesajları senkronize et</string>
+  <string name="find_device_noise_title">Telefonu ses ile bul</string>
+  <string name="sync_item_calllog_title">Çağrı loglarını senkronize et</string>
+  <string name="sync_item_calllog_summary"/>
 </resources>
