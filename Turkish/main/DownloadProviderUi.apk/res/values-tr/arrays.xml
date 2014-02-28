@@ -8,7 +8,7 @@
         <item>2MB</item>
         <item>1MB</item>
         <item>512KB</item>
-        <item>Her zaman Wi-Fi ağını bekle</item>
+        <item>Sadece Wi-Fi ile indir</item>
     </string-array>
 	<string-array name="prefValues_max_bytes_limit">
         <item>2147483647</item>

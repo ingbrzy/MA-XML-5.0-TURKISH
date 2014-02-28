@@ -131,7 +131,7 @@ Artık dosya"</string>
   <string name="header_text_scanned">Artık dosya bulundu</string>
   <string name="header_text_scanning">Artık dosyalar aranıyor…</string>
   <string name="instruction">FTP Client için aşağıdaki adresi girin:</string>
-  <string name="instruction_pre">Servis başlayınca FTP server kullanılabilir</string>
+  <string name="instruction_pre">FTP Sunucusunu kullanmak için servisi başlatın..</string>
   <string name="item_name">Adsız</string>
   <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">MiDrive alanınız doldu.</string>
@@ -143,7 +143,7 @@ Artık dosya"</string>
   <string name="login_reg_content">MiDrive; dosyaları depolamanıza ve birden fazla cihaz arasında bunları senkronize etmenize yardımcı olur.</string>
   <string name="login_reg_content0">MiDrive Cloud Depolama Birimi</string>
   <string name="menu_item_cleanup">Dosyaları temizle</string>
-  <string name="menu_item_ftp">FTP</string>
+  <string name="menu_item_ftp">FTP Sunucusu</string>
   <string name="menu_item_search">Ara</string>
   <string name="menu_item_sort">Sırala</string>
   <string name="menu_item_sort_date">Tarih</string>
@@ -171,9 +171,9 @@ Artık dosya"</string>
   <string name="no_temp_file_indication">Çerez dosyası yok</string>
   <string name="no_thumbnail_indication">Ön izleme dosyası yok</string>
   <string name="no_wifi"> Wi-Fi bağlantısı yok</string>
-  <string name="no_wifi_hint">Wi-Fi bağlantısı bulunamadı</string>
-  <string name="notif_server_starting">FTP Server başladı</string>
-  <string name="notif_title">FTP Server</string>
+  <string name="no_wifi_hint">Wi-Fi bağlantısı yok!</string>
+  <string name="notif_server_starting">FTP Sunucusu başladı</string>
+  <string name="notif_title">FTP Sunucusu</string>
   <string name="open_changed_file_message">"Açmaya çalıştığınız dosya değiştirildi, bunları deneyin:
 1. İndir (Yerel dosyaları güncelle)
 2. Karşıya yükle (Uzak dosyaları güncelle)"</string>
@@ -246,7 +246,7 @@ Boş alanınız %1$s"</string>
   <string name="start_cleanup">Temizliği başlat</string>
   <string name="start_server">Servisi başlat</string>
   <string name="start_use_xiaomi_account">Giriş yap</string>
-  <string name="stay_awake_summary">FTP kullanırken ekranı uyanık tutar</string>
+  <string name="stay_awake_summary">FTP Sunucusu kullanılırken ekranı uyanık tutar</string>
   <string name="stay_awake_title">Uyanık kal</string>
   <string name="stop_server">Servisi durdur</string>
   <string name="storage_internal">Dahili depolama</string>
@@ -301,7 +301,7 @@ Boş alanınız %1$s"</string>
   <string name="waiting_for_cleaning">Temizlik için bekliyor</string>
   <string name="waiting_for_scanning">Taramak için bekliyor</string>
   <string name="wangpan_root_path">Diskim</string>
-  <string name="wifi_state">Wi-Fi durumu</string>
+  <string name="wifi_state">Wi-Fi Bağlantısı:</string>
   <string name="xiaomi_account">Xiaomi hesabı</string>
   <string name="yes">Evet</string>
 </resources>

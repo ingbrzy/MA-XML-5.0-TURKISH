@@ -391,6 +391,7 @@
   <string name="group_delete_success_toast">Grup silindi</string>
   <string name="group_edit_field_hint_text">Grup adı</string>
   <string name="group_member_remove_toast">Kişi gruptan başarıyla kaldırıldı</string>
+  <string name="group_name">Gruplarım</string>
   <string name="group_name_hint">"Grubun adı"</string>
   <string name="group_read_only">Bu cihazda düzenlenemez.</string>
   <string name="group_rename_dialog_title">Grubu adlandır</string>

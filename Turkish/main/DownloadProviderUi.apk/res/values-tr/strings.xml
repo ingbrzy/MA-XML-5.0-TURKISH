@@ -62,7 +62,7 @@
   <string name="paused_waiting_to_retry">Yeniden denemek için bekleniyor</string>
   <string name="prefDefault_max_bytes_limit">1048576</string>
   <string name="pref_dialog_title_max_bytes_limit">Dosya boyutu limiti</string>
-  <string name="pref_download_settings_title">Veri kullanımı isteği</string>
+  <string name="pref_download_settings_title">Mobil veri indirme limiti</string>
   <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu, limiti aşarsa beni uyar"</string>
   <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s \'ı aşarsa Wi-Fi ile indir</string>
   <string name="pref_summary_any_bytes_popup">Sadece Wi-Fi ile indir</string>
@@ -80,7 +80,7 @@
   <string name="selected_count">Seçilen %1$d dışında %2$d</string>
   <string name="turn_off_xunlei_message">İndirme hızı yavaşlayabilir</string>
   <string name="turn_off_xunlei_title"> Xunlei indirme motorunu kapat</string>
-   <string name="xunlei_brand">Powered by Xunlei</string>
+   <string name="xunlei_brand"/>
    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_switch">Xunlei indirme motoru</string>
 </resources>
