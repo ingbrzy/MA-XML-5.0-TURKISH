@@ -36,7 +36,7 @@
   <string name="app_love_sms_title">Mesaj içeriği</string>
   <string name="app_love_view_title">Önizle</string>
   <string name="app_name">Hava Durumu</string>
-  <string name="app_nohave_net">Ağ bağlantısı yok!</string>
+  <string name="network_unavailable">Ağ bağlantısı yok!</string>
   <string name="app_unquiet_net">Kötü ağ bağlantısı</string>
   <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
   <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
@@ -114,11 +114,12 @@ Today %1$s's weather is %2$s, %3$s, %4$s. %5$s."</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
   <string name="sms_notification">Share via SMS</string>
   <string name="tip_weather">MIUI hava durumu bildirimleri</string>
-  <string name="tip_weather_info_content_1">Bring layers!</string>
-  <string name="tip_weather_info_title_1">%1$s expected temperature difference of %2$d degrees</string>
-  <string name="tip_weather_info_title_2">%1$s temperature today is estimated at %2$s</string>
+  <string name="tip_weather_info_content_1">Giymek için bir şeyler al!</string>
+  <string name="tip_weather_info_title_1">%1$s beklenen sıcaklık farkı %2$d derece</string>
+  <string name="tip_weather_info_title_2">%1$s sıcaklık %2$s derece tahmin ediliyor</string>
   <string name="trend_weather_today">Bugün</string>
   <string name="trend_weather_tomorrow">Yarın</string>
+  <string name="weather_data_unreachable">"Hava durumu verileri yüklenemiyor. Lütfen sonra tekrar deneyin."</string>
   <string name="weather_notification">Hava durumu bildirimleri</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>

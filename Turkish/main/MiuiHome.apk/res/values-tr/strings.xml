@@ -3,7 +3,7 @@
   <string name="account_abnormal_state">Anormal hesap bilgileri, kontrol edip tekrar deneyin!</string> 
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil!</string>
   <string name="all_resources">Tümü</string>
-  <string name="application_name">MiHome Başlatıcı Ayarları</string>
+  <string name="application_name">MiHome Başlatıcı</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
   <string name="aqi_quality_index_good">İyi</string>
   <string name="aqi_quality_index_hazardous">Şüpheli</string>
@@ -61,7 +61,7 @@
   <string name="free_style_edit_move_tip">Taşımak için basılı tutun</string>
   <string name="free_style_edit_tab_free_component">Serbest bileşenler</string>
   <string name="free_style_edit_tab_shortcut">Kısayollar</string>
-  <string name="free_style_edit_tab_widget">Widget\'lar</string>
+  <string name="free_style_edit_tab_widget">Widgetler</string>
   <string name="free_style_enter_tip">MiSpace\'e geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
   <string name="free_style_exit_tip">MiSpace\'den çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
   <string name="gadget_clear_button_label">Görev Temizleyici</string>
@@ -268,7 +268,7 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="widget_gadget_player">Müzik</string>
   <string name="widget_global_search">Genel arama</string>
   <string name="apply_as_lock_wallpaper">Uygula</string>
-    <string name="apply_as_lock_wallpaper_message">Kilit ekranı duvar kağıdı yapmak istiyor musunuz</string>
+    <string name="apply_as_lock_wallpaper_message">Duvar kağıdını kilit ekranınada uygulamak istiyor musunuz ?</string>
     <string name="lock_screen_failed_message">Duvar kağıdı uygulanamadı !</string>
     <string name="lock_screen_success_message">Duvar kağıdı başarıyla uygulandı</string>
 </resources>

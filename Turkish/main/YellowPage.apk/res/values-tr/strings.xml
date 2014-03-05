@@ -21,6 +21,7 @@
   <string name="custom_mark_category">Özel</string>
   <string name="data_error">Üzgünüm, geçerli hizmet kullanılamaz, lütfen daha sonra tekrar deneyin</string>
   <string name="delete">Sil</string>
+  <string name="do_not_remind_me">"Hatırlatma"</string>
    <string name="express_inqiury_select_logistics">Operatörü seç</string>
   <string name="express_inquiry">İzleme</string>
   <string name="express_inquiry_button_text">İzleme</string>
@@ -68,6 +69,7 @@
   <string name="navigation_search_no_city_list">Şehir bilgisi bulunamadı!</string>
   <string name="navigation_search_positioning">Konumlandırılıyor...</string>
   <string name="navigation_search_positioning_failed">Şehir konumlandırılamadı!</string>
+  <string name="notify_connect_every_time">Ağ iletişimi için fer seferinde izin iste</string>
   <string name="no_more_result">Sonuç yok</string>
   <string name="order_empty_hint">Sipariş yok</string>
   <string name="order_id">Sipariş ref: %s</string>
@@ -109,6 +111,7 @@
   <string name="recharge_payment_result_ok_title">Added RMB %s</string>
   <string name="recharge_payment_result_progress_summary">Checking payment result…</string>
   <string name="recharge_phone_number_error">The phone number you entered is invalid</string>
+  <string name="recharge_phone_number_empty">The phone number you entered should not be empty</string>
   <string name="recharge_select_money_title">Select top-up value</string>
   <string name="recharge_status_description">Status:</string>
   <string name="recharge_title">Top-up</string>

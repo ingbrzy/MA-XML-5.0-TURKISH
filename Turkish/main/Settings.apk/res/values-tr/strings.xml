@@ -3181,7 +3181,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="list_sub_view_item_view_file">Dosya</string>
     <string name="list_sub_view_item_uninstall">Kaldır</string>
     <string name="list_sub_view_item_backup_uninstall">Yedekle ve Kaldır</string>
-   <string name="pref_category_title_garbage_cleanup_check">Ayarları temizle</string>
+   <string name="pref_category_title_garbage_cleanup_check">Ayarlar</string>
     <string name="pref_title_garbage_cleanup_check_time">Artıkları bildir</string>
     <string name="pref_summary_garbage_cleanup_check_time">Gereksiz dosya ve uygulamalar azami boyuta ulaşınca bana bildir</string>
     <string name="pref_title_garbage_cleanup_check_size">Boyutu ayarla</string>
@@ -3210,4 +3210,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="item_garbage_size_1000m">1GB</string>
     <string name="item_title_garbage_time">Tarih</string>
     <string name="item_title_garbage_size">Boyut</string>
+	<string name="menu_item_force_stop">Zorla kapat</string>
+    <string name="menu_item_uninstall">Kaldır</string>
+    <string name="menu_item_app_details">Ayrıntılar</string>
 </resources>
