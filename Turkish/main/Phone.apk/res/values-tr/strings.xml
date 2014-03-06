@@ -139,6 +139,7 @@
   <string name="call_lost">Çağrı kayboldu!</string>
   <string name="call_number">Kime:</string>
   <string name="call_record_button_label">Kayıt ediliyor %s</string>
+  <string name="call_record_error_access">"Ziyaretçi modunda kayıt yapılamaz"</string>
   <string name="call_record_notification_message_low_space_miui">Yeterli alan olmadığı için kayıt durdu,tıklayıp bakın %s.</string>
   <string name="call_record_notification_message_miui">Tıklayıp bakın %s.</string>
   <string name="call_record_notification_message_sd_unmounted_miui">SD kart takılmadığı için kayıt durdu.</string>

@@ -227,6 +227,7 @@
   <string name="offline_select_better_source">Mevcut önbelleğe alma kaynağına geçildi</string>
   <string name="offline_setting">Çevrim dışı medya</string>
   <string name="ok">Tamam</string>
+   <string name="online_video">Online</string>
   <string name="open_camera">Kamera</string>
   <string name="other_setting">Diğer ayarlar</string>
   <string name="others">Diğer</string>
@@ -273,6 +274,7 @@
   <string name="souhu">Souhu</string>
   <string name="special_subject">Özel</string>
   <string name="start_download">Önbelleği başlat</string>
+  <string name="start_time">Başlangıç</string>
   <string name="subchannel_all">Tümü</string>
   <string name="success_add_myfavorite">Yıldızlı</string>
   <string name="success_cancel_myfavorite">Yıldızsız</string>

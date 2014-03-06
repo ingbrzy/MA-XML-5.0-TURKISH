@@ -145,6 +145,7 @@
   <string name="toast_fm_not_stated">FM belirtilmemiş!</string>
   <string name="toast_fm_recorder_internal_error">FM kayıt hatası!</string>
   <string name="toast_fm_recorder_storage_full">Hafıza birimi dolu!</string> 
+  <string name="toast_fm_recorder_access_error">"Ziyaretçi modunda kayıt yapılamaz"</string>
   <string name="toast_removed_from_presets">Ön ayardan kaldırıldı</string>
   <string name="toast_save_station">%sMHz kaydedildi</string>
   <string name="toast_sleep_mode">Radyoyu durdur %s</string>
