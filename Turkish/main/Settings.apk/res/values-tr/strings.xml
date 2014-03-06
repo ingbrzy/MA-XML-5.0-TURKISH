@@ -2427,7 +2427,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
   <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>
   <string name="spellcheckers_settings_title">Yazım düzeltme</string>
-  <string name="ssid_label">SSID:</string>,
+  <string name="ssid_label">SSID:</string>
     <string name="start_checking_memory">Hazırlanıyor...</string>
     <string name="start_checking_protection">Hazırlanıyor..</string>
     <string name="start_checking_trash">Hazırlanıyor..</string>
