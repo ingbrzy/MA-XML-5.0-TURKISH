@@ -224,7 +224,7 @@ Artık dosya"</string>
   <string name="scanning" formatted="false"> %d uygulama taranıyor ... (toplam %d uygulama)</string>
   <string name="scanning_on_going">Taranıyor...</string>
   <string name="scanned">Tarama tamamlandı</string>
-  <string name="sd_card_available">Kullanılabilir alan:%1$s</string>
+  <string name="sd_card_available">Boş Alan:%1$s</string>
   <string name="sd_card_size">SD Kart:%1$s</string>
   <string name="sd_full">SD kart dolu</string>
   <string name="sd_size_label">SD kart hafızası</string>

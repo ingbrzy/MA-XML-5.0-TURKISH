@@ -183,8 +183,8 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="app_factory_reset">Güncellemeleri kaldır</string>
   <string name="app_factory_reset_dlg_text">Bu Android sistem uygulaması ile ilgili tüm güncellemeler kaldırılacak.</string>
   <string name="app_factory_reset_dlg_title">Güncellemeler kaldırılsın mı?</string>
-  <string name="app_floating_window_dlg_disable">"%1$s, açılır pencere ayarlarını devre dışı bırakmak için uygulamayı zorla durdurulacak. Devre dışı bırakmak istiyor musunuz?"</string>
-  <string name="app_floating_window_dlg_enable">"%%1$s, açılır pencere ayarlarını etkinleştirmek için uygulama tekrar başlatılacak. Etkinleştirmek istiyor musunuz?"</string>
+  <string name="app_floating_window_dlg_disable">"%1$s, açılır pencere ayarlarını devre dışı bırakmak için zorla durdurulacak. Devre dışı bırakmak istiyor musunuz?"</string>
+  <string name="app_floating_window_dlg_enable">"%1$s, açılır pencere ayarlarını etkinleştirmek için uygulama tekrar başlatılacak. Etkinleştirmek istiyor musunuz?"</string>
   <string name="app_forward_locked">Uygulama, kopyalamaya karşı korumalı.</string>
   <string name="app_install_location_summary">Yeni uygulamalar için tercih edilen yükleme konumunu değiştir</string>
   <string name="app_install_location_title">Tercih edilen yükleme konumu</string>
@@ -1622,7 +1622,7 @@ please follow the steps to complete installation"</string>
   <string name="percentage">%%%d</string>
   <string name="perm">Yetkiler</string>
   <string name="perm_app">Uygulamalar</string>
-  <string name="perm_app_enable">izin yönetimini aç-kapat</string>
+  <string name="perm_app_enable">Uygulama izinlerini kontrol etmenizi sağlar</string>
   <string name="perm_app_header">İzin Yönetimi</string>
   <string name="perm_app_name">Yetkiler</string>
   <string name="perm_app_title">Uygulama izinlerini yönet</string>

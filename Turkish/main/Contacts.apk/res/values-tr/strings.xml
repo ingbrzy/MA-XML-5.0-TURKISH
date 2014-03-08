@@ -629,6 +629,7 @@ Favoriler listenize kişi eklemek için:
   <string name="option_view_group">Bak</string>
   <string name="organizationLabelsGroup">Kuruluş</string>
   <string name="organization_company_and_title">%2$s, %1$s</string>
+  <string name="other_contacts">Kişiler</string>
   <string name="payphone">Ankesörlü telefon</string>
   <string name="people">Kişiler</string>
   <string name="percent_sign">%</string>

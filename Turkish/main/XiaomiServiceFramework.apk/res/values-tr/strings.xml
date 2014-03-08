@@ -140,6 +140,7 @@
   <string name="mibi_license_message_span">Mi kredi sözleşmesi</string>
   <string name="mibi_license_title">Mi kredi sözleşmesi</string>
   <string name="micloud_account">Xiaomi hesabı</string>
+  <string name="micloud_account_details">Hesap detayları</string>
   <string name="micloud_account_label">Hesap: %1$s</string>
   <string name="micloud_account_name">Xiaomi Hesabı</string>
   <string name="micloud_account_not_actived">Hesap etkin değil</string>
@@ -157,8 +158,10 @@
   <string name="micloud_activing_account_delayed">"Aktivasyon işlemi 30 saniye içinde tamamlanacak.
   Lütfen bekleyin..."</string> 
   <string name="micloud_activing_account_failed">Aktivasyon başarısız!</string> 
+  <string name="micloud_app_data">MiCloud uygulama yedekleri</string>
   <string name="micloud_click_email">Xiaomi Hesabınızı etkinleştirmek için e-postadaki bağlantıyı tıklayın</string>
   <string name="micloud_click_email_to_valid">Mesaj kutunuzdaki aktivasyon postasına tıklayın</string>
+  <string name="micloud_data_loading">Yükleniyor...</string>
   <string name="micloud_delete_account">Hesabı sil</string>
    <string name="micloud_dspt">MiCloud Hizmeti ile, arama, mesajlaşma, senkronize ve diğer pek çok işlemi yapabilirsiniz. Ayrıca çevrimiçi olarak istediğiniz zaman verilerinizi düzenleyebilirsiniz.</string> 
   <string name="micloud_email">E-posta adresi</string>
@@ -168,6 +171,17 @@
   <string name="micloud_error_empty_username">Kullanıcı adı boş</string>
   <string name="micloud_error_empty_vcode">Doğrulama kodunu girin</string>
   <string name="micloud_error_illegal_pwd">Geçersiz şifre</string>
+  <string name="micloud_full_influence_dspt">"Tüm fotoğraflar, videolar, notlar ve uygulamalar MiCloud\'a yedeklenir.
+
+Eğer telefonunuzu kaybederseniz veya zarar verirseniz, verileriniz yinede güvende olur.
+
+ MiCloud alanınız dolduğunda, eski veri kaldırılmaz. 
+Ancak, eklediğiniz herhangi bir yeni içeriğin (örn. fotoğraflar, videolar, notlar ya da uygulamalar) yedeklemesi olmayacaktır.
+
+Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı satın alabilirsiniz."</string>
+  <string name="micloud_full_influence_title">MiCloud alanınız dolduğunda</string>
+  <string name="micloud_gallery_image">MiCloud resimleri</string>
+  <string name="micloud_gallery_video">MiCloud videoları</string>
   <string name="micloud_input_password_prompt">Şifrenizi girin</string>
   <string name="micloud_intro_01_part_01">SMS mesajlarını kaydet</string>
   <string name="micloud_intro_01_part_02">MIUI Cloud Hizmeti, internet üzerinden ücretsiz mesaj göndermenizi sağlar</string>
@@ -184,6 +198,8 @@
   <string name="micloud_proceed">Devam et</string> 
   <string name="micloud_reg_new">Yeni</string>
   <string name="micloud_resend_active_email">Aktivasyon E-postasını tekrar gönder</string>
+   <string name="micloud_space_full_influence">Kullanım alanım biterse ne yapacağım?</string>
+  <string name="micloud_storage_space">MiCloud depolama alanı</string>
   <string name="micloud_summary">Bağlantıları, fotoğrafları ve diğer birçok özellikleri senkronize etmek için Xiaomi hesabınız ile oturum açın.</string> 
   <string name="micloud_title_dspt" formatted="false">"Toplam alan %s
  Kullanılan %s | Boş %s"</string>
@@ -208,7 +224,7 @@
   <string name="mili_center">Mi Kredisi</string>
   <string name="my_xiaomi_account">Xiaomi Hesabım</string>
   <string name="next">Sonraki</string>
-  <string name="nobind">Yetkilendirilmemiş</string>
+  <string name="nobind">Yetkilendirilmedi</string>
   <string name="order_price">%1$s MiKredisi</string>
   <string name="other_settings">Diğer ayarlar</string>
   <string name="password">Şifreniz</string>
@@ -257,7 +273,7 @@
   <string name="title_voucher">Mi kredi kuponu kullanarak yükle</string>
   <string name="trust_device">Güvenli cihaz</string>
   <string name="unactivated_user">Etkin değil</string>
-  <string name="unbind">Yetkisini kaldır</string>
+  <string name="unbind">Yetkiyi kaldır</string>
   <string name="update_contacts">Kişileri güncelle</string>
   <string name="update_contacts_description">Telefon rehberlerini ve diğer verileri güncelle</string>
   <string name="updated_contacts"> %s kişi güncellendi</string>
