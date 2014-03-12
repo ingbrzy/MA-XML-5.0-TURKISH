@@ -4,6 +4,8 @@
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil!</string>
   <string name="all_resources">Tümü</string>
   <string name="application_name">MiHome Başlatıcı</string>
+  <string name="apply_as_lock_wallpaper">Uygula</string>
+  <string name="apply_as_lock_wallpaper_message">Duvar kağıdını kilit ekranınada uygulamak istiyor musunuz ?</string>
   <string name="aqi_quality_index_dangerous">Tehlikeli</string>
   <string name="aqi_quality_index_good">İyi</string>
   <string name="aqi_quality_index_hazardous">Şüpheli</string>
@@ -65,19 +67,22 @@
   <string name="free_style_enter_tip">MiSpace\'e geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
   <string name="free_style_exit_tip">MiSpace\'den çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
   <string name="gadget_clear_button_label">Görev Temizleyici</string>
+  <string name="gadget_clock_label">Saat</string>
   <string name="gadget_clock_12_label">1x2 Saat</string>
   <string name="gadget_clock_22_label">2x2 Saat</string>
   <string name="gadget_clock_24_label">2x4 Saat</string>
   <string name="gadget_error_text">Widget yüklenirken hata!</string>
   <string name="gadget_google_search_label">Google ARA</string>
-  <string name="gadget_search_label">Search</string>
+  <string name="gadget_search_label">Arama</string>
   <string name="gadget_clock_label">Saat</string>
   <string name="gadget_photo_label">Resim</string>
   <string name="gadget_weather_title">Hava Durumu</string>
   <string name="gadget_load_error">Widget yükleniyor...</string>
+  <string name="gadget_photo_label">Resim</string>
   <string name="gadget_photo_22_label">2x2 Resim</string>
   <string name="gadget_photo_24_label">2x4 Resim</string>
   <string name="gadget_photo_44_label">4x4 Resim</string>
+  <string name="gadget_search_label">Arama</string>
   <string name="gadget_weather_app_not_installed">MIUI Hava Durumunu yüklemek için tıklayın</string>
   <string name="gadget_weather_aqi_title">Hava Kalitesi</string>
   <string name="gadget_weather_download_message">İndirme Paketi: %1$s. size: %2$s. İndirme bittikten sonra tekrar deneyin!</string>
@@ -88,6 +93,7 @@
   <string name="gadget_weather_low_temp">Düşük Sıcaklık</string>
   <string name="gadget_weather_theme_type">Gadget tipi</string>
   <string name="gadget_weather_time_format">dd.MM.yyyy</string>
+  <string name="gadget_weather_title">Hava durumu</string>
   <string name="gadget_weather_title_14">Hava Durumu 1x4</string>
   <string name="gadget_weather_title_24">Hava Durumu 2x4</string>
   <string name="global_search_hint">Tıkla ve ara</string>
@@ -104,6 +110,8 @@
   <string name="loading_desktop">MiHome Başlatıcı yükleniyor...</string>
   <string name="loading_resource_detail_fail">Kaynak yüklenemedi!</string>
   <string name="loading_resource_detail_info">Yükleniyor ...</string>
+  <string name="lock_screen_failed_message">Duvar kağıdı uygulanamadı !</string>
+  <string name="lock_screen_success_message">Duvar kağıdı başarıyla uygulandı</string>
   <string name="maml_component_customization_title">Bileşen Ayarları</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_back_desktop">Geri dön</string>
@@ -205,6 +213,7 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="sdcard_status_changed_dialog_title">SD kart durumu değişti</string>
   <string name="select_frame">Çerçeve</string>
   <string name="select_photo">Fotoğraf</string>
+  <string name="settings_shortcut">Ayarlar</string>
   <string name="sharedUserId"/>
   <string name="sort_by_abc">Alfebetik sırala</string>
   <string name="sort_by_frequency">Kullanıma göre sırala</string>
@@ -247,7 +256,7 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="title_select_live_folder">Klasör seçin</string>
   <string name="title_select_shortcut">Kısayol seçin</string>
   <string name="toggle_select_title">Geçişi seçin</string>
-  <string name="toggle_title">Geçiş</string>
+  <string name="toggle_title">Geçişler</string>
   <string name="transformation_type_classic">Klasik</string>
   <string name="transformation_type_classic_no_overshoot">Klasik (Sallantı yok)</string>
   <string name="transformation_type_crossfade">Kaydır</string>
@@ -266,9 +275,5 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="widget_favorite_contacts_label">Sık Görüşülen Kişiler</string>
   <string name="widget_favorite_contacts_style">Sık Görüşülen Kişiler Stili</string>
   <string name="widget_gadget_player">Müzik</string>
-  <string name="widget_global_search">Genel arama</string>
-  <string name="apply_as_lock_wallpaper">Uygula</string>
-    <string name="apply_as_lock_wallpaper_message">Duvar kağıdını kilit ekranınada uygulamak istiyor musunuz ?</string>
-    <string name="lock_screen_failed_message">Duvar kağıdı uygulanamadı !</string>
-    <string name="lock_screen_success_message">Duvar kağıdı başarıyla uygulandı</string>
+  <string name="widget_global_search">Genel arama</string>    
 </resources>

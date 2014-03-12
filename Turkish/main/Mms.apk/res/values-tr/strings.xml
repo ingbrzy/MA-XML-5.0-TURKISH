@@ -124,7 +124,7 @@
   <string name="edit_slideshow_activity">Slayt gösterisini düzenle</string>
   <string name="enable_password_protect">Şifre korumasını etkinleştir</string>
   <string name="enable_visible_pattern_title">Görünür desen çiz</string>
-  <string name="enter_edit_mode">Düzenleyici</string>
+  <string name="enter_edit_mode">Çoklu seçim</string>
   <string name="error_code_label">"Hata kodu: "</string>
   <string name="error_state">Tutarsız durum</string>
   <string name="error_state_text">İleti zincirleri ve alıcıların durumu tutarsız. Lütfen bir hata raporu alın ve http://go/droidanizer üzerinden bildirin</string>
