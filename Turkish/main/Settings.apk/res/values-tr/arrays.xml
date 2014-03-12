@@ -424,4 +424,9 @@
         <item>1 saat</item>
         <item>Sınırsız</item>
     </string-array>
+	<string-array name="network_speed_slow_summary">
+        <item>Ağ tıkanıklık nedeniyle yavaş</item>
+        <item>Ağ zayıf sinyal nedeniyle yavaş</item>
+        <item>Taşınıyor…</item>
+    </string-array>
 </resources>

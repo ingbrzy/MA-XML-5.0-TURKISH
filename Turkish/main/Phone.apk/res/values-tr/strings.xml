@@ -424,6 +424,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="enable_telocation_title_miui">Bölgemi kullan</string>
   <string name="enforce_proximity_summary_miui">Telefonunuz cebinizde veya uyku modunda ise, bu özellik yanlışlıkla arama yapılmasını engeller.</string>
   <string name="enforce_proximity_title_miui">Yakınlık sensörünü güçlendir</string>
+  <string name="enter_input">Birşeyler girmeniz gerekiyor, tekrar deneyin!</string>
   <string name="enterName">Adı girin:</string>
   <string name="enterNumber">Telefon numarasını girin:</string>
   <string name="enter_pin2_text">PIN2 kodu</string>
@@ -566,6 +567,13 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="manage_fdn_list">FDN listesi</string>
   <string name="manage_fdn_list_miui">FDN listesi</string>
   <string name="manage_fdn_list_sum_miui">Kişi listesini yönet</string>
+  <string name="managed_roaming_dialog_cancel_button">İptal</string>
+  <string name="managed_roaming_dialog_content">Ağ hizmetleri sınırlı, şebekeyi elle seçmek istiyor musunuz</string>
+  <string name="managed_roaming_dialog_ok_button">Tamam</string>
+  <string name="managed_roaming_title">Yönetilen dolaşım</string>
+  <string name="managed_roaming_title_sub1">Yönetilen dolaşım (SUB1)</string>
+  <string name="managed_roaming_title_sub2">Yönetilen dolaşım (SUB2)</string>
+  <string name="managed_roaming_title_sub3">Yönetilen dolaşım (SUB3)</string>
   <string name="menu_add">Kişi ekle</string>
   <string name="menu_delete">Kişiyi sil</string>
   <string name="menu_deselect_all">Tüm işaretleri kaldır</string>
@@ -663,14 +671,17 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="old_pin_hint_miui">Geçerli PIN kodu</string>
   <string name="onHold">Beklemede</string>
   <string name="onscreenAddCallText">Çağrı ekle</string>
+  <string name="onscreenAddParticipant">Katılımcı ekle</string>
   <string name="onscreenAudioText">Ses</string>
   <string name="onscreenEndCallText">Son</string>
   <string name="onscreenHoldText">Beklet</string>
   <string name="onscreenManageCallsText">Çağrıları yönet</string>
   <string name="onscreenManageConferenceText">Konferansı yönet</string>
   <string name="onscreenMergeCallsText">Çağrıları birleştir</string>
+  <string name="onscreenModifyCallText">Çağrıyı değiştir</string>
   <string name="onscreenMuteText">Sessiz</string>
   <string name="onscreenShowDialpadText">Tuş takımı</string>
+  <string name="onscreenSwitchText">Aboneliğe geç</string>
   <string name="onscreenSwapCallsText">Karşılıklı değiş</string>
   <string name="onscreen_add_call_text_miui">Çağrı ekle</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
@@ -821,6 +832,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="reject_via_sms_summary_miui">Arama reddedildiğinde arayana gönderilecek SMS\'i ayarlayın</string>
   <string name="reject_via_sms_title_miui">SMS ile reddet ayarları</string>
   <string name="remember_my_choice">Her zaman internet çağrıları için kullanabilirsiniz</string>
+  <string name="remove_ims_account">Hesabı sil</string>
   <string name="remove_miui">Sil</string>
   <string name="remove_sip_account">Hesabı kaldır</string>
   <string name="removing_account">Hesap kaldırılıyor...</string>
@@ -849,6 +861,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="respond_via_sms_confirmation_format">Mesaj %s gönderildi.</string>
   <string name="respond_via_sms_custom_message">Özel mesaj...</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı cevaplar</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulama</string>
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Hızlı cevaplar</string>
   <string name="respond_via_sms_setting_title_2">Hızlı cevapları düzenle</string>
@@ -1070,6 +1083,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="voicemail_settings_number_hint_miui">Sesli posta kutusu numarasını girin</string>
   <string name="voicemail_settings_number_label">Sesli mesaj numarası</string>
   <string name="voicemail_settings_number_title_miui">Sesli mesaj numarası</string>
+  <string name="vt_init_fail_str">"VT yüklemesi başarısız. Çağrı VoLTE\'ye düşürülecek
+
+ "</string>
   <string name="wait_prompt_str">"Yönlendirme sesi gönderilsin mi?"</string>
   <string name="wild_prompt_str">Karakteri ile değiştirin</string>
   <string name="xdivert_active">Active</string>

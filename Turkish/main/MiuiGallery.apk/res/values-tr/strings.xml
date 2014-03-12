@@ -389,7 +389,7 @@
   <string name="set_screensaver_path_message_if_only_charging">Telefonunuz şarj olduğunda bu albümdeki fotoğraflar ekran koruyucu olarak görüntülenir.</string> 
   <string name="set_wallpaper">Duvar kağıdı uygulanıyor...</string>
   <string name="settings">Ayarlar</string>
-  <string name="settings_i_xiaomi_com">i.xiaomi.com\'a giriş yaparak Cloud deponuzu yönetibilirsiniz</string>
+  <string name="settings_i_xiaomi_com">i.xiaomi.com\'a giriş yaparak Cloud deponuzu yönetebilirsiniz</string>
   <string name="shadow">Gölgeler</string>
   <string name="share_album">Albüm paylaş</string>
   <string name="share_album_owner">Sahip</string>
