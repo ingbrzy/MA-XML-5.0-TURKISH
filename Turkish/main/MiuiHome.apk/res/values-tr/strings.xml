@@ -73,10 +73,6 @@
   <string name="gadget_clock_24_label">2x4 Saat</string>
   <string name="gadget_error_text">Widget yüklenirken hata!</string>
   <string name="gadget_google_search_label">Google ARA</string>
-  <string name="gadget_search_label">Arama</string>
-  <string name="gadget_clock_label">Saat</string>
-  <string name="gadget_photo_label">Resim</string>
-  <string name="gadget_weather_title">Hava Durumu</string>
   <string name="gadget_load_error">Widget yükleniyor...</string>
   <string name="gadget_photo_label">Resim</string>
   <string name="gadget_photo_22_label">2x2 Resim</string>
