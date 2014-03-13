@@ -503,9 +503,9 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_visibility_timeout_summary">Cihazın ne süreyle keşfedilebilir olacağını ayarla</string>
   <string name="breathing_light_color_menu_title">Işık rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirimler için LED rengi</string>
-  <string name="breathing_light_color_title">"LED rengi"</string>
+  <string name="breathing_light_color_title">" - LED rengi"</string>
   <string name="breathing_light_freq_summary">LED parlamaları arası geçen süre</string>
-  <string name="breathing_light_freq_title">"LED parlama frekansı"</string>
+  <string name="breathing_light_freq_title">" - LED parlama frekansı"</string>
   <string name="brightness">Parlaklık</string>
   <string name="brightness_auto_adjust_off">Çubuğu kaydırarak ekran parlaklığını ayarlayın.</string>
   <string name="brightness_auto_adjust_on">Ekran parlaklığı sensör tarafından otomatik olarak ayarlanır.</string>
