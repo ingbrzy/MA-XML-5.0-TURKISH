@@ -503,9 +503,9 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_visibility_timeout_summary">Cihazın ne süreyle keşfedilebilir olacağını ayarla</string>
   <string name="breathing_light_color_menu_title">Işık rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirimler için LED rengi</string>
-  <string name="breathing_light_color_title">LED rengi</string>
+  <string name="breathing_light_color_title">"LED rengi"</string>
   <string name="breathing_light_freq_summary">LED parlamaları arası geçen süre</string>
-  <string name="breathing_light_freq_title">LED parlama frekansı</string>
+  <string name="breathing_light_freq_title">"LED parlama frekansı"</string>
   <string name="brightness">Parlaklık</string>
   <string name="brightness_auto_adjust_off">Çubuğu kaydırarak ekran parlaklığını ayarlayın.</string>
   <string name="brightness_auto_adjust_on">Ekran parlaklığı sensör tarafından otomatik olarak ayarlanır.</string>
@@ -1037,7 +1037,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="font_size_medium">Orta</string>
   <string name="font_size_normal">Normal</string>
   <string name="font_size_preview">MIUI</string>
-  <string name="font_size_preview_text">Ne mutlu Türküm diyene!</string>
+  <string name="font_size_preview_text">NE MUTLU TÜRKÜM DİYENE!</string>
   <string name="font_size_save">Tamam</string>
   <string name="font_size_small">Küçük</string>
   <string name="font_size_summary">Ne mutlu Türküm diyene!</string>
@@ -1065,8 +1065,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
     <string name="free_wifi_connect_fail2">Giriş yapılamıyor. Lütfen sonra tekrar deneyin.</string>
     <string name="free_wifi_login_again">Tekrar giriş yapın</string>
     <string name="free_wifi_connected_count">Bağlandı: %1$s</string>
-    <string name="free_wifi_speed_title">Bağlantı yavaş mı</string>
-    <string name="free_wifi_connected_time">Bağlantı süresi %1$s</string>
+    <string name="free_wifi_speed_title">Bağlantı yavaş mı?</string>
+    <string name="free_wifi_connected_time">Bağlantı süresi : %1$s</string>
     <string name="free_wifi_confirm">Onaylayın</string>
    <string name="fw_action_settings">Filtre ayarları</string>
     <string name="fw_add_keyword">Anahter kelime ekle</string>
@@ -1442,8 +1442,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="memory">RAM</string>
   <string name="memory_available_suffix">Boş</string>
   <string name="memory_apps_usage">Uygulamalar</string>
-  <string name="memory_available">Kullanılabilir</string>
-    <string name="memory_available_read_only">Kullanılabilir (sadece okunabilir)</string>
+  <string name="memory_available">Boş</string>
+    <string name="memory_available_read_only">Boş (sadece okunabilir)</string>
   <string name="memory_calculating_size">Hesaplanıyor...</string>
     <string name="memory_clear_cache_message">Bu işlem tüm uygulamaların bellek verilerini temizleyecek</string>
     <string name="memory_clear_cache_title">Bellek verileri temizlensin mi?</string> 
@@ -1455,12 +1455,12 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="memory_music_usage">Ses (müzik, zil sesleri, oynatıcı yayın abonelği vb.)</string>
   <string name="memory_size">Toplam alan</string>
   <string name="memory_suffix">GB</string>
-  <string name="memory_title">Kullanılabilir %1$s\u0009\u0009Toplam %2$s</string> 
+  <string name="memory_title">Boş %1$s\u0009\u0009Toplam %2$s</string> 
   <string name="memory_used_suffix">Kullanılan</string>
   <string name="menu_cancel">Yoksay</string>
   <string name="menu_delete">Sil</string>
   <string name="menu_edit">Düzenle</string>
-  <string name="menu_item_about_content">Güvenlik: %s</string>
+  <string name="menu_item_about_content">Araçlar: %s</string>
   <string name="menu_item_about_summary">Sürüm:%s</string>
   <string name="menu_item_about_title">Hakkında</string>
   <string name="menu_item_force_stop">Zorla kapat</string>
@@ -1516,7 +1516,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
 please follow the steps to complete installation"</string>
     <string name="msg_cleanup_db_update_checking">Kontrol ediliyor...</string>
     <string name="msg_update_error_code_success">Güncellendi</string>
-    <string name="msg_update_error_code_no_newer_db">Güncellemeye gerek yok</string>
+    <string name="msg_update_error_code_no_newer_db">Yeni güncelleme yok..</string>
     <string name="msg_update_error_code_already_running">Güncelleme</string>
     <string name="msg_update_error_code_network_error">Hata!</string>
     <string name="msg_update_error_code_unknown_error">Hata!</string>
@@ -1602,9 +1602,9 @@ please follow the steps to complete installation"</string>
     <string name="opt_state_running">Optimize ediliyor...</string>
     <string name="opt_virus_scan">Şimdi tara</string>
     <string name="opt_virus_suggest">Şüpheli dosya sayısı:%d,virüs taraması yapmanız tavsiye edilir.</string>
-    <string name="opt_waiting">Bekliyor</string>
+    <string name="opt_waiting">Bekliyor...</string>
     <string name="optimize_ad_header_left">Reklam dosyası: %d</string>
-    <string name="optimize_ad_list_empty_content">reklam dosyası yok.</string>
+    <string name="optimize_ad_list_empty_content">Reklam dosyası yok.</string>
     <string name="optimize_apk_header_left">Yükleme paketi: %d</string>
     <string name="optimize_apk_list_empty_content">Yükleme paketi bulunmadı.</string>
     <string name="optimize_cache_header_left">Önbellek dosyası: %d</string>
@@ -1764,7 +1764,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_privacy_app_trust_dialog_title">Bu uygulama güvenli</string>
   <string name="perm_privacy_app_trust_summary">Güvenilir</string>
   <string name="perm_privacy_app_trust_summary_off">MIUI bu uygulamayı izleyecek</string>
-  <string name="perm_privacy_app_trust_summary_on">MIUI Bu uygulamaya güveniyor</string>
+  <string name="perm_privacy_app_trust_summary_on">MIUI bu uygulamaya güveniyor</string>
   <string name="perm_privacy_app_uninstall">Kaldır</string>
   <string name="perm_privacy_count">İzin verilen: %1$d Reddedilen: %2$d</string>
   <string name="perm_service_disabled">Hizmet kapatıldı</string>
@@ -2047,7 +2047,7 @@ please follow the steps to complete installation"</string>
   <string name="process_mediaserver_label">Medya sunucusu</string>
   <string name="process_provider_in_use_description">Sağlayıcı %1$s kullanımda.</string>
   <string name="process_service_in_use_description">%1$s hizmeti kullanımda.</string>
-  <string name="progress_scanning">Arıyor</string>
+  <string name="progress_scanning">Aranıyor...</string>
     <string name="protection_adb">USB hata ayıklama</string>
     <string name="protection_category_dangerous_title">Risks (%d)</string>
     <string name="protection_category_recommend_title">Optimize tavsiye edilir (%d)</string>
@@ -2389,7 +2389,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
     <string name="show_user_info_on_lockscreen_label">Kilit ekranında kullanıcıyı göster</string>
   <string name="silent_mode_title">Sessiz mod</string>
   <string name="sim_absent">SIM/RUIM Kart Yok !</string>
-  <string name="sim_bad_pin">Yanlış PIN</string>
+  <string name="sim_bad_pin">PIN kodu yanlış!</string>
   <string name="sim_change_failed">"PIN kodu değiştirilemiyor. Girilen kod yanlış olabilir !"</string>
   <string name="sim_change_failed_enable_sim_lock">"SIM kart PIN kodu değiştirilemiyor !"</string>
   <string name="sim_change_pin">SIM Kart PIN kodu</string>
@@ -2811,7 +2811,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="virus_scan_clear">Temiz</string>
   <string name="virus_scan_dangerous">Risk</string>
   <string name="virus_scan_description">"Bu uygulama güvenliğiniz için risk oluşturuyor."</string>
-  <string name="virus_scanner_date_formater">dd MMM. yyyy</string>
+  <string name="virus_scanner_date_formater">dd MMMM. yyyy</string>
   <string name="virus_scan_file_type_risk_apk">Şüpheli uygulama (yükleme pkt)</string>
   <string name="virus_scan_file_type_risk_installed">Şüpheli uygulama (yüklenmiş uyg)</string>
   <string name="virus_scan_file_type_virus_apk">Virüs (yükleme pkt)</string>
@@ -3070,7 +3070,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_p2p_menu_rename">Cihazı adlandır</string>
   <string name="wifi_p2p_menu_search">Ara</string>
   <string name="wifi_p2p_menu_searching">Aranıyor…</string>
-  <string name="wifi_p2p_peer_devices">Şş cihazlar</string>
+  <string name="wifi_p2p_peer_devices">Eş cihazlar</string>
   <string name="wifi_p2p_persist_network">Bu bağlantıyı hatırla</string>
     <string name="wifi_p2p_remembered_groups">Hatırlanan gruplar</string>
   <string name="wifi_p2p_settings_summary">Eşler arası bağlantı kurulumu</string>
@@ -3175,7 +3175,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_show_password">Şifreyi göster</string>
   <string name="wifi_signal">Sinyal gücü</string>
    <string name="wifi_skip_anyway">Atla</string>
-   <string name="wifi_skipped_message">"UYARI: Operatörünüzün veri ücretlerine tabi olabilir.
+   <string name="wifi_skipped_message">"UYARI: Operatörünüzün mobil veri ücretlerini arttırabilir.
 
 Telefon ayarları önemli ağ etkinliği gerektirebilir."</string> 
   <string name="wifi_speed">Bağlantı hızı</string>
