@@ -770,7 +770,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
     <string name="deep_clean_title_residual">Artıklar</string>
 	<string name="deep_clean_title_uninstall_apps">Uygulamalar</string>
     <string name="deep_clean_summary_install_apps_today">%1$s| bugün kullanılan</string>
-    <string name="deep_clean_summary_install_apps_interval">%1$s|önce %2$d gün önce</string>
+    <string name="deep_clean_summary_install_apps_interval">%d gün önce</string>
     <string name="deep_clean_summary_install_apps_new">%s| kullanılmayan</string>
     <string name="deep_clean_summary_install_apps_virus">%s|virüs</string>
     <string name="deep_clean_summary_install_apps_risk">%s|risk</string>
