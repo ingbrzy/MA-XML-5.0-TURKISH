@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="date_of_traffic">
+        <item>Dün\u0020</item>
+        <item>Bugün\u0020</item>
+        <item>Aylık\u0020</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dünki 2G/3G\u0020</item>
+        <item>Bugünki 2G/3G\u0020</item>
+        <item>Buayki 2G/3G\u0020</item>
+        <item>Dünki Wi-Fi\u0020</item>
+        <item>Bugünki Wi-Fi\u0020</item>
+        <item>Buayki Wi-Fi\u0020</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Dünki 2G/3G</item>
+        <item>Bugünki 2G/3G</item>
+        <item>Buayki 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>2G/3G kullanımı</item>
+        <item>Wi-Fi kullanımı</item>
+        <item>Kullanılan toplam veri</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Otomatik raporlama</item>
+        <item>Elle raporlama</item>
+    </string-array>
+</resources>
