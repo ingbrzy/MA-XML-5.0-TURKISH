@@ -272,10 +272,10 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
     <string name="battery_desc_users">Kullanıcı tarafından kullanılan pil</string>
   <string name="battery_desc_voice">Sesli aramalar tarafından kullanılan pil</string>
   <string name="battery_desc_wifi">Wi-Fi tarafından kullanılan pil</string>
-  <string name="battery_history_days">%1$dg %2$ds %3$dd %4$ds</string>
-  <string name="battery_history_hours">%1$ds %2$dd %3$ds</string>
-  <string name="battery_history_minutes">%1$dd %2$ds</string>
-  <string name="battery_history_seconds">%1$ds</string>
+  <string name="battery_history_days">%1$d gün %2$d saat %3$d dakika %4$d saniye</string>
+  <string name="battery_history_hours">%1$d saat %2$d dakika %3$d saniye</string>
+  <string name="battery_history_minutes">%1$d dakika %2$d saniye</string>
+  <string name="battery_history_seconds">%1$d saniye</string>
   <string name="battery_indicator_style">Pil göstergesi stili</string>
   <string name="battery_info_awake_battery">Pil ile uyanık geçen süre:</string>
   <string name="battery_info_awake_plugged">Şarj ederken uyanık geçen süre:</string>
@@ -317,7 +317,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="battery_settings_title">Pil Seçenekleri</string>
   <string name="battery_since_reset">Sıfırlamadan itibaren pil kullanımı</string>
   <string name="battery_since_unplugged">Fişten çekildikten sonra pil kullanımı</string>
-  <string name="battery_stats_charging_label">Şarj oluyor</string>
+  <string name="battery_stats_charging_label">Şarj oluyor...</string>
   <string name="battery_stats_duration">Fişten çekildikten itibaren %1$s</string>
   <string name="battery_stats_gps_on_label">GPS açık</string>
   <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
@@ -524,9 +524,12 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
 	<string name="button_text_a_key_clean_up">Temizle</string>
 	<string name="button_text_a_key_uninstall">Kaldır</string>
     <string name="button_text_a_key_optimize">Şimdi Optimize Et</string>
+	<string name="button_text_cleanup_apps">Verileri temizle</string>
+    <string name="button_text_backup_and_cleanup_apps">Yedekle</string>
 	<string name="button_text_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
     <string name="button_text_cancel">İptal</string>
     <string name="button_text_delete">Sil</string>
+	<string name="button_text_delete_from_white_list">Al</string>
     <string name="button_text_done">Tamam</string>
     <string name="button_text_fix">Düzelt</string>
 	<string name="button_text_quick_scan">Taramaya Başla</string>
@@ -814,9 +817,19 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="device_status_activity_title">Durum</string>
   <string name="device_status_summary">Telefon numarası, sinyal vb.</string>
   <string name="dialog_title_font_size">Yazı tipi boyutu</string>
+  <string name="dialog_title_check_all">Tümünü seç</string>
+  <string name="dialog_msg_check_all">%2$d :%1$s öğe içeriyor.</string>
   <string name="dialog_title_color_calibration">Renk düzeltme ön ayar</string>
   <string name="dialog_title_backup_and_uninstall_apps">Yedekle ve Kaldır</string>
   <string name="dialog_title_hdmi_color_calibration">Renk düzeltme ön ayar</string>
+  <string name="dialog_title_cleanup_system_cache">Sistem önbelleği temizlensin mi?</string>
+  <string name="dialog_msg_cleanup_system_cache">Tüm uygulamalar için önbelleği temizler.</string>
+   <string name="dialog_title_cleanup_apps">Uygulama verileri temizlensin mi?</string>
+   <string name="dialog_title_backup_and_cleanup_apps">Uygulama verileri temizlensin mi?</string>
+   <string name="dialog_title_load_cleanup_engine_error">Hata!</string>
+   <string name="dialog_msg_cleanup_apps">"Ayarlar ve hesap bilgileri dahil uygulamanın tüm verileri temizlenecek!"</string>
+   <string name="dialog_msg_backup_and_cleanup_apps">Yedekleme tamamlandıktan sonra, tüm uygulama verileri silinecektir!</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Temizleme aracı zarar görmüş, lütfen ROM\'u tekrar yükleyin!</string>
   <string name="dialog_msg_uninstall_apps">Bu uygulamaları kaldırmak istiyor musunuz?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Lütfen uygulamaları onaylayın</string>
   <string name="dirac_control">Dirac Control</string>
@@ -933,6 +946,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
    <string name="edit_whitelist">Notu düzenle</string>
   <string name="emergency_tone_summary">Acil çağrı yapıldığında nasıl işlev göreceğini ayarlayın</string>
   <string name="emergency_tone_title">Acil sesi</string>
+   <string name="empty_folder_title_hints">Boş klasör</string>
   <string name="emptylist_fwlog_call">Engellenen çağrıların logları burada tutulur.</string>
   <string name="emptylist_fwlog_ms">Engellenen SMS ve MMS logları burada tutulur.</string>
   <string name="empty_list_msg">Yüklü üçüncü taraf uygulamanız yok.</string>
@@ -1138,7 +1152,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="gadget_toggle_bluetooth">Bluetooth ayarları güncelleniyor..</string>
   <string name="gadget_toggle_wifi">Wi-Fi ayaları güncelleniyor..</string>
     <string name="gadget_wifi">Wi-Fi</string> 
-  <string name="game_controller_settings_category">Oyun Kontrolleri</string>  
+  <string name="game_controller_settings_category">Oyun Kontrolleri</string> 
+<string name="garbage_white_list_empty_content">Beyaz liste boş</string>  
   <string name="getConfiguredNetworks">getConfiguredNetworks</string>
   <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="global_change_warning">Bu ayar telefondaki tüm kullanıcıları etkiler.</string>
@@ -1241,6 +1256,19 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="internal_media_format_final_desc">"Telefon yeniden başladığında tüm veriler silinecek ve bu işlemden dönüş olmayacak!"</string>
   <string name="internal_media_format_title">Dahili depolamayı sil</string>
   <string name="internal_memory">Dahili hafıza birimi</string>
+  <string name="internal_available_memory_hint">Hesaplanıyor...</string>
+    <string name="internal_available_memory">Kullanılabilir: %s</string>
+    <string name="internal_used_memory_hint">Hesaplanıyor...</string>
+    <string name="internal_used_memory">Kullanılan: %s</string>
+    <string name="internal_memory_item_cache_hint">Veri ve önbellek: Hesaplanıyor...</string>
+    <string name="internal_memory_item_cache">Veri ve önbellek: %s</string>
+    <string name="internal_memory_item_app_hint">Uygulamalar: Hesaplanıyor...</string>
+    <string name="internal_memory_item_app">Uygulamalar: %s</string>
+    <string name="internal_memory_item_image_video_hint">Resim, Video, Ses: Hesaplanıyor...</string>
+    <string name="internal_memory_item_image_video">Resim, Video, Ses: %s</string>
+    <string name="internal_memory_item_other_hint">Diğer: Hesaplanıyor...</string>
+    <string name="internal_memory_item_other">Diğer: %s</string>
+    <string name="internal_memory_low_waring_hint">Bu uygulamayı yüklemek için yeterli boş alan yok!!</string>
   <string name="internal_storage">Sistem depolama birimi</string>
   <string name="invalid_location">Yükleme konumu geçerli değil.</string>
   <string name="invalid_size_value">Paket boyutu hesaplanamıyor</string>
@@ -1255,6 +1283,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="item_garbage_size_300m">300MB</string>
   <string name="item_garbage_size_500m">500MB</string>
   <string name="item_garbage_size_1000m">1GB</string>
+  <string name="item_title_system_cache">Veri ve Önbellek</string>
   <string name="item_title_garbage_time">Tarih</string>
   <string name="item_title_garbage_size">Boyut</string>
   <string name="item_mms">İstenmeyen mesajları filtrele</string>
@@ -1283,6 +1312,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="language_settings">Dil ve Giriş</string>
   <string name="language_settings_category">Dil ayarları</string>
   <string name="large_font">Büyük</string>
+  <string name="large_file_sort_type_size">Boyuta göre sırala</string>
+  <string name="large_file_sort_type_name">Ada göre sırala</string>
     <string name="last_check_canceled">Tarama yapmanız tavsiye edilir</string>
     <string name="last_check_date_today">En son tarama: Bugün</string>
     <string name="last_check_date_yesterday">En son tarama: Dün</string>
@@ -1301,6 +1332,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="legal_information">Yasal bilgiler</string>
   <string name="license_title">Lisans</string>
   <string name="link_speed_label">Link hızı:</string>
+  <string name="list_sub_view_item_cleanup">Temizle</string>
+  <string name="list_sub_view_item_backup_cleanup">Yedekle</string>
   <string name="list_sub_view_item_clean">Temiz</string>
   <string name="list_sub_view_item_install">Yükle</string>
   <string name="list_sub_view_item_lock">Kilitlendi</string>
@@ -1521,6 +1554,7 @@ please follow the steps to complete installation"</string>
     <string name="msg_update_error_code_network_error">Hata!</string>
     <string name="msg_update_error_code_unknown_error">Hata!</string>
     <string name="msg_cleanup_db_update_time_unknown">Güncelleme: Bilinmiyor</string>
+	<string name="msg_system_cache_hints"/>
   <string name="multi_sim_settings_summary">Set up Multi Sim Settings for Voice, Data and SMS</string>
   <string name="multi_sim_settings_title">Multi SIM Settings</string>
   <string name="multi_touch_points_category_title">Çoklu Dokunma noktaları</string>
@@ -1551,6 +1585,9 @@ please follow the steps to complete installation"</string>
   <string name="no_services">Etkin değil</string>
   <string name="noise_suppression">Gürültü engelleme</string>
   <string name="normal_date_format">Bölgesel (%s)</string>
+  <string name="notification_button_text_of_low_memory">Düşük hafıza!</string>
+    <string name="notification_title_of_low_memory">%s için kullanılan sistem alanı</string>
+    <string name="notification_summary_of_low_memory">Yeterli alan yok, uygulama yüklenemiyor!</string>
   <string name="notification_pulse_title">Bildirim ışığını yakıp söndür</string>
   <string name="notification_sound_dialog_title">Bildirim zil sesini seçin</string>
   <string name="notification_sound_title">Bildirim sesi</string>
@@ -1823,6 +1860,8 @@ please follow the steps to complete installation"</string>
   <string name="pointer_location_summary">Mevcut dokunmatik verilerini gösteren yer paylaşımı</string>
   <string name="pointer_settings_category">Fare/dokunmatik alan</string>
   <string name="pointer_speed">İşaretçi hızı</string>
+  <string name="power_20s_enter_mode">%1$ds saniye, Geçiş modu %2$s</string>
+  <string name="power_apply_toast">%s moduna geç ve kurtar</string>
     <string name="power_autorun_apps_empty">Uygulama yok</string>
     <string name="power_autorun_control_desc"></string>
     <string name="power_autorun_control_title">Oto-Başlangıç</string>
@@ -1832,9 +1871,11 @@ please follow the steps to complete installation"</string>
     <string name="power_battery_history_minutes">%1$d Dakika</string>
     <string name="power_battery_history_zero_minutes">0 Dakika</string>
   <string name="power_bluetooth">Bluetooth</string>
+  <string name="power_button_delete">Sil</string>
   <string name="power_cell">Telefon beklemede</string>
   <string name="power_center_battery_full">Pil tam dolu</string>
-    <string name="power_center_charge_time">Şarj %1$s içinde 
+    <string name="power_center_charge_time">Şarj %1$s içinde
+	
 	tamamlanacak</string>
 	<string name="power_center_consume_rank">Pil kullanımı</string>
     <string name="power_center_consume_time">%1$s Kaldı</string>
@@ -1870,6 +1911,7 @@ please follow the steps to complete installation"</string>
     <string name="power_consume_total_software">Yazılım: %1$d%%</string>
     <string name="power_customizer_cancel">İptal</string>
     <string name="power_customizer_delete">Sil</string>
+	<string name="power_customize_giveup_change">Vazgeç</string>
     <string name="power_customizer_my_mode">Özel</string>
     <string name="power_customizer_ok">TAMAM</string>
     <string name="power_customizer_save">Kaydet</string>
@@ -1893,9 +1935,9 @@ please follow the steps to complete installation"</string>
     <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Can't delete: Your device is set to switch to this profile when battery is low, 
  You need to change this configuration before you can delete this profile."</string>
     <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Can't delete: Your device is scheduled to switch to this profile, 
- You need to change this configuration before you can delete this profile."</string>
+ You need to change this configuration before you can delete this profile.!"</string>
     <string name="power_dialog_delete_dialog_delete">"Delete custom profile and associated settings data? You can't reverse this action!"</string>
-    <string name="power_dialog_delete_dialog_title">Delete custom profile</string>
+    <string name="power_dialog_delete_dialog_title">Özel profili sil</string>
     <string name="power_dialog_ok">TAMAM</string>
     <string name="power_dialog_screen_brightness_automatic">Parlaklığı otomatik ayarla</string>
     <string name="power_dialog_screen_brightness_automatic_off">Ekran parlaklığı her ortamda sabit kalır</string>
@@ -1903,6 +1945,7 @@ please follow the steps to complete installation"</string>
     <string name="power_dialog_screen_brightness_title">Parlaklık</string>
     <string name="power_dialog_sleep_title">Uyku</string>
     <string name="power_dialog_vibration_title">Titreşim</string>
+	<string name="power_exitlowbattery_whencharge">Şarja bağlanınca profile dön</string>
     <string name="power_idle">Telefon boşta</string>
      <string name="power_mode">Güç modu</string>
     <string name="power_mgr">Pil</string>
@@ -1925,6 +1968,8 @@ please follow the steps to complete installation"</string>
     <string name="power_mode_cpu_state_save_desc">Performansı pil ömrüne göre ayarlayın</string>
     <string name="power_mode_gps">GPS</string>
     <string name="power_mode_internet">2G/3G</string>
+	<string name="power_mode_my_mode">Profilim</string>
+    <string name="power_mode_my_mode_summary"/>
     <string name="power_mode_screen_brightness">Parlaklık</string>
     <string name="power_mode_screen_brightness_automatic">Otomatik: %1$d%%</string>
     <string name="power_mode_screen_brightness_manual">Elle: %1$d%%</string>
@@ -1944,8 +1989,10 @@ please follow the steps to complete installation"</string>
     <string name="power_mode_vibration_silence">Telefon sessizde iken titret</string>
     <string name="power_mode_vibration_yes">Titreşim açık</string>
     <string name="power_mode_wifi">Wi-Fi</string>
+	<string name="power_notify_lowbattery">Pil azaldı: %1$d%%</string>
 	<string name="power_perm_logs_empty">Log yok</string>
     <string name="power_phone">Sesli aramalar</string>
+	<string name="power_recovery_mode">%1$s moduna dön</string>
 	<string name="power_save_choose_mode">Profil seç</string>
 	<string name="power_save_choose_recovery_mode">Profili geri yükle</string>
     <string name="power_save_low_battery_auto_save_title">Pil seviyesi düşükse güç tasarrufu</string>
@@ -1975,6 +2022,8 @@ please follow the steps to complete installation"</string>
     <string name="power_settings_shape">Grafik</string>
     <string name="power_settings_top">Yatay çizgi</string>
     <string name="power_settings_title">Sistem Performansı</string>
+	<string name="power_subtitle_lowbattery">Pil seviyesi düşük olduğunda güç tasarrufu</string>
+	<string name="power_subtitle_ontime">Planlanan geçiş performans profili: Etkin</string>
     <string name="power_usage_history">Pil kullanımı</string>
     <string name="power_used_hours">Saat</string>
     <string name="power_used_hours_test">8</string>
@@ -1990,7 +2039,10 @@ please follow the steps to complete installation"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Tuş ışıkları</string>
   <string name="pref_button_light_summary">Menü, Ev ve Geri tuşu ışıkları</string>
+   <string name="pref_category_title_cleanup_white_list">Beyaz listeyi temizle</string>
   <string name="pref_category_title_auto_update_cleanup_db">Veritabanı ayarları</string>
+   <string name="pref_category_title_securitycenter_settings">Optimize ayarları</string>
+   <string name="pref_category_title_module_settings">Modül Ayarları</string>
   <string name="pref_category_title_garbage_cleanup_check">Ayarlar</string>
     <string name="pref_key_last_check_canceled">last_check_canceled</string>
     <string name="pref_key_last_scan_data">lastScanDate</string>
@@ -2008,9 +2060,13 @@ please follow the steps to complete installation"</string>
     <string name="pref_key_virus_lib_version">virusLibVersion</string>
   <string name="pref_operational_key">Opsiyonel tuş</string>
   <string name="pref_title_auto_update_cleanup_db">Otomatik güncelle</string>
+  <string name="pref_title_cleanup_white_list">Beyaz listeyi temizle</string>
+   <string name="pref_title_expand_cache_group">Grubu genişlet</string>
   <string name="pref_title_garbage_cleanup_check_time">Artıkları bildir</string>
   <string name="pref_title_garbage_cleanup_check_size">Boyutu ayarla</string>
   <string name="pref_summary_auto_update_cleanup_db">Güncelleme: %s</string>
+  <string name="pref_summary_cleanup_white_list">Temizlerken beyaz listedeki dosyalar göz ardı edilir</string>
+  <string name="pref_summary_expand_cache_group"/>
   <string name="pref_summary_garbage_cleanup_check_time">Gereksiz dosya ve uygulamalar azami boyuta ulaşınca bana bildir</string>
   <string name="pref_title_manual_check_cleanup_db_update">Güncelle</string>
   <string name="pref_volume_wake_summary">Ses tuşlarına basarak cihazı uyandır. </string>
@@ -2360,6 +2416,11 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="settings_safetylegal_activity_unreachable">"Veri bağlantınız yok. Bu bilgileri şimdi görüntülemek için İnternet\'e bağlı herhangi bir bilgisayardan %s adresine gidin."</string>
   <string name="settings_safetylegal_title">Güvenlik bilgileri</string>
   <string name="settings_shortcut">Ayarlar kısayolu</string>
+   <string name="Settings_title_garbage_cleanup">Temizleme Ayarları</string>
+    <string name="Settings_title_network_assistants">Veri kullanım ayarları</string>
+    <string name="Settings_title_anti_spam">Kara liste ayarları</string>
+    <string name="Settings_title_power_center">Pil ayarları</string>
+    <string name="Settings_title_anti_virus"> AntiVirüs ayarları</string>
   <string name="show_all_anrs">"Tüm ANR\'leri göster"</string>
   <string name="show_all_anrs_summary">Arka plan uygulamalar için Uygulama Yanıt Vermiyor mesajını göster</string>
   <string name="show_background_processes">Önbelleğe alınan işlemleri göster</string>
@@ -2525,6 +2586,9 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="system_package">Sistem güncellemeleri, harici medyaya yüklenemez.</string>
   <string name="system_update_settings_list_item_summary"/>
   <string name="system_update_settings_list_item_title">Sistem güncellemeleri</string>
+  <string name="tab_title_internal_storage">Dahili Depolama</string>
+  <string name="tab_title_external_storage">Harici Depolama</string>
+  <string name="tab_title_sdcard_storage">SD kart</string>
   <string name="terms_title">Şartlar ve koşullar</string>
   <string name="testing">Test ediliyor</string>
   <string name="testing_battery_info">Pil bilgileri</string>
@@ -2563,10 +2627,15 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
     <string name="title_virus_update_no">Virüs veritabanı güncelleme kapalı</string>
     <string name="title_virus_update_yes">Virüs veritabanı güncelleme açık</string>
     <string name="title_virus_yes">Virüs bulunmadı</string>
+	<string name="toast_add_white_list_success">Beyaz listeye eklendi</string>
+	<string name="toast_backup_cleanup_success">Veri yedekleme ve temizleme başarılı</string>
+    <string name="toast_cleanup_success">Veriler temizlendi</string>
 	<string name="toast_backup_is_running">Yedekleme çalışıyor. Bir süre bekleyin ve tekrar deneyin.</string>
     <string name="toast_backup_uninstall_failed">%d başarısız oldu. Bir süre bekleyin ve tekrar deneyin.</string>
     <string name="toast_backup_uninstall_success">Yedekleme ve kaldırma tamamlandı</string>
+	<string name="toast_garbage_cleanup_success">Temizleme başarılı</string>
 	<string name="toast_qucik_scan_list_empty">Herşey iyi görünüyor, temizliğe gerek yok!</string>
+	<string name="toast_removed_from_white_list">Beyaz listeden kaldırıldı</string>
 	<string name="toast_application_no_residual_on_sdcard">"Uygulamanın Hafıza biriminde (SD-Kart) artık dosyaları yok"</string>
   <string name="total_size">%s Toplam</string>
   <string name="total_size_label">Toplam</string>
@@ -2963,6 +3032,12 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wfd_wps_keypad">Tuş tercihi</string>
   <string name="wfd_wps_pbc">Giriş PIN kodu tercihi</string>
   <string name="whitelist_tab_title">Beyaz liste</string>
+  <string name="white_list_cache_header">Önbellek: %d</string>
+    <string name="white_list_ad_header">Reklam: %d</string>
+    <string name="white_list_apk_header">Yüklü uygulama: %d</string>
+    <string name="white_list_large_file_header">Büyük dosyalar: %d</string>
+    <string name="white_list_residual_header">Artıklar: %d</string>
+    <string name="white_list_title">Yoksay</string>
   <string name="wifi_access_points">Wi-Fi ağları</string>
   <string name="wifi_add_network">Ağ ekle</string>
   <string name="wifi_advanced_ip_address_title">IP adresi</string>
