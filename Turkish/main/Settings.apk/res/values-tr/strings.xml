@@ -1256,9 +1256,9 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="internal_media_format_final_desc">"Telefon yeniden başladığında tüm veriler silinecek ve bu işlemden dönüş olmayacak!"</string>
   <string name="internal_media_format_title">Dahili depolamayı sil</string>
   <string name="internal_memory">Dahili hafıza birimi</string>
-  <string name="internal_available_memory_hint">Hesaplanıyor...</string>
-    <string name="internal_available_memory">Kullanılabilir: %s</string>
-    <string name="internal_used_memory_hint">Hesaplanıyor...</string>
+  <string name="internal_available_memory_hint">Boş hafıza: Hesaplanıyor...</string>
+    <string name="internal_available_memory">Boş: %s</string>
+    <string name="internal_used_memory_hint">Kullanılan hafıza: Hesaplanıyor...</string>
     <string name="internal_used_memory">Kullanılan: %s</string>
     <string name="internal_memory_item_cache_hint">Veri ve önbellek: Hesaplanıyor...</string>
     <string name="internal_memory_item_cache">Veri ve önbellek: %s</string>
