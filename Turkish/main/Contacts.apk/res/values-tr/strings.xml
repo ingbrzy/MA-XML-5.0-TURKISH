@@ -6,6 +6,7 @@
   <string name="account_default">Telefon</string>
   <string name="account_phone">Sadece telefon, senkronize edilmemiş</string>
   <string name="account_sim">Sadece SIM kayıtları</string>
+  <string name="account_sim2">SIM kart %d</string>
   <string name="account_type_format">%1$s kişi</string>
   <string name="actionIncomingCall">Gelen Çağrılar</string>
   <string name="action_menu_overflow_description">Daha çok ayar</string>
@@ -106,6 +107,7 @@
   <string name="callrecordview_menu_delete_confirm">%s silinsin mi?</string>
   <string name="callrecordview_menu_delete_missed">Cevaplanmayan çağrıları temizle</string>
   <string name="callrecordview_menu_delete_one">Bu kaydı listeden temizle</string>
+   <string name="callrecordview_menu_delete_sim">Çağrı listesini sil %s</string>
   <string name="callrecordview_menu_delete_stranger">Bilinmeyen numara çağrılarını temizle</string>
   <string name="callrecordview_menu_edit_call_note">Çağrı notunu düzenle</string>
   <string name="callrecordview_menu_paste">Yapıştır</string>
@@ -116,6 +118,7 @@
   <string name="callrecordview_menu_show_called">Giden çağrıları göster</string>
   <string name="callrecordview_menu_show_missed">Cevaplanmayan çağrıları göster</string>
   <string name="callrecordview_menu_show_new">Yeni Kişiler</string>
+  <string name="callrecordview_menu_show_sim">Çağrılar: %s</string>
   <string name="callrecordview_menu_show_stranger">Bilinmeyen numaralardan gelen çağrıları göster</string>
   <string name="callrecordview_menu_show_title">Gösterilecek arama kaydı tipini seçiniz</string>
   <string name="cancel_confirmation_dialog_message">Değişiklikleriniz silinsin mi?</string>
@@ -341,11 +344,13 @@
   <string name="empty_divider_title">Şunları yapabilirsiniz</string>
   <string name="enter_contact_name">Kişinin adını yazın</string>
   <string name="eventLabelsGroup">Etkinlikler</string>
+   <string name="eventTypeCustom">Sahibi</string>
   <string name="event_edit_field_hint_text">Tarih</string>
   <string name="export_sim_contact_finish">SIM karta aktarım tamamlandı</string>
   <string name="export_sim_contacts_dialog_message">SIM kartınızın %d kartvizit kapasitesi var, İşleme devam etmek istiyor musunuz?</string>
   <string name="export_to_sdcard">Depolama birimine aktar</string>
   <string name="export_to_sim">SIM karta aktar</string>
+  <string name="export_to_sim2">SIM 2 kartına aktar</string>
   <string name="export_to_sim_title">SIM karta aktarılıyor...</string>
   <string name="export_vcard_description">SD karta vCard olarak aktar</string>
   <string name="exporting_contact_failed_message">"Rehber aktarılamadı. Sebep: \"%s\""</string>
@@ -412,6 +417,7 @@
   <string name="ic_menu_done">Tamam</string>
   <string name="imLabelsGroup">IM</string>
   <string name="imei">IMEI</string>
+  <string name="imei_invalid">IMEI numarası hatalı</string>
   <string name="import_all_sim_entries_miui">Tüm kişileri içe aktar</string>
   <string name="import_all_vcard_string">Tüm vCard dosyalarını içe aktar</string>
   <string name="import_contact_card_button">İçe aktar</string>
@@ -419,6 +425,7 @@
   <string name="import_from_other_phone">Başka bir telefondan içe aktar</string>
   <string name="import_from_sdcard">Depolama biriminden içe aktar</string>
   <string name="import_from_sim">SIM karttan içe aktar</string>
+  <string name="import_from_sim2">SIM kart 2\'den içe aktar</string>
   <string name="import_multiple_vcard_string">Birden fazla vCard dosyasını içe aktar</string>
   <string name="import_name">adı</string>
   <string name="import_one_vcard_string">Bir vCard dosyasını içe aktar</string>
@@ -493,6 +500,7 @@
   <string name="map_other">Adresi görüntüle</string>
   <string name="map_work">İş adresini görüntüle</string>
   <string name="meid">MEID</string>
+  <string name="meid_invalid">MEID numarası hatalı</string>
   <string name="menu_accounts">Hesaplar</string>
   <string name="menu_addStar">Sık kullanılanlara ekle</string>
   <string name="menu_bar_group_add">Ekle</string>
@@ -673,6 +681,7 @@ Favoriler listenize kişi eklemek için:
   <string name="pref_key_rebuild_t9_index_message">Kişi arama hatalarını düzeltmek mümkündür</string>
   <string name="pref_key_rebuild_t9_index_title">İndeks verilerini tekrar oluştur</string>
   <string name="pref_key_sim_manage">SIM Kart Yönetimi</string>
+  <string name="pref_key_sim_manage2">SIM Kart 2 Yönetimi</string>
   <string name="pref_summary_import_from_account">Google ve Exchange hesabından Xiaomi hesabıma aktar</string>
   <string name="pref_title_account_import">Hesaptan aktar</string>
   <string name="pref_title_card_format">Kart paylaşım biçimi</string>
@@ -920,6 +929,7 @@ Favoriler listenize kişi eklemek için:
   <string name="sim_card_no_free_space_title">SIM kart dolu</string>
   <string name="sim_contact_dropdown_menu_deselect_all_miui">Tüm seçimi iptal et</string>
   <string name="sim_contact_dropdown_menu_select_all_miui">Tümünü seç</string>
+  <string name="sim_contact_number_missing">SIM karttaki numara kayıp!</string>
   <string name="sim_contact_search_error">SIM Kart içerisinde kişi aranırken sorun oluştu</string>
   <string name="sim_contacts">SIM Kişileri</string>
   <string name="sim_error_anr_full">Numara hafızası dolu!</string>
