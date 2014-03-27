@@ -381,7 +381,7 @@
         <item>Görev Yöneticisini Başlat</item>
         <item>Ses Asistanını Başlat</item>
         <item>Google Now\'ı Başlat</item>
-        <item>Açık Uygulamaları Zorla Kapat</item>
+        <item>Açık Uygulamayı Zorla Kapat</item>
     </string-array>
 	<string-array name="screen_key_long_press_timeout">
         <item>0.5 saniye</item>
@@ -428,5 +428,113 @@
         <item>Ağ tıkanıklık nedeniyle yavaş</item>
         <item>Ağ zayıf sinyal nedeniyle yavaş</item>
         <item>Taşınıyor…</item>
+    </string-array>
+<string-array name="app_ops_categories">
+        <item>Konum</item>
+        <item>Özel</item>
+        <item>Mesajlar</item>
+        <item>Medya</item>
+        <item>Cihaz</item>
+    </string-array>
+	 <string-array name="app_ops_summaries">
+        <item>Yaklaşık konum</item>
+        <item>Tam konum</item>
+        <item>GPS</item>
+        <item>Titreşim</item>
+        <item>Kişileri okuma</item>
+        <item>Kişileri düzenleme</item>
+        <item>Çağrı listesini okuma</item>
+        <item>Çağrı listesini düzenleme</item>
+        <item>Takvimi okuma</item>
+        <item>Takvimi düzenleme</item>
+        <item> Wi-Fi erişimi</item>
+        <item>Uyarılar</item>
+        <item> BTS arama</item>
+        <item>Çağrılar</item>
+        <item>SMS okuma</item>
+        <item>SMS yazma</item>
+        <item>SMS</item>
+        <item>Acil SMS</item>
+        <item>MMS kabul etme</item>
+        <item>WAP push</item>
+        <item>SMS gönderme</item>
+        <item>čítať ICC SMS</item>
+        <item>ICC SMS okuma</item>
+        <item>Ayarları düzenleme</item>
+        <item>Tasvir etme</item>
+        <item>Uyarılara erişim</item>
+        <item>Kamera</item>
+        <item>Ses kaydı</item>
+        <item>Zil sesi çalma</item>
+        <item>Panoyu okuma</item>
+        <item>Düzenleme kutusu</item>
+        <item>Medya butonları</item>
+        <item>Ses</item>
+        <item>Ana ses</item>
+        <item>Konuşma ses seviyesi</item>
+        <item>Zil sesi</item>
+        <item>Medya ses seviyesi</item>
+        <item>Alarm sesi</item>
+        <item>Uyarı ses seviyesi</item>
+        <item>Bluetooth ses seviyesi</item>
+        <item>Uyku modu</item>
+        <item>Konumu izleme</item>
+        <item>Tam  konumu izleme</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Konum</item>
+        <item>Titreşim</item>
+        <item>Kişileri okuma</item>
+        <item>Kişileri düzenleme</item>
+       <item>Çağrı listesini okuma</item>
+        <item>Çağrı listesini düzenleme</item>
+        <item>Takvimi okuma</item>
+        <item>Takvimi düzenleme</item>
+        <item>Konum</item>
+        <item>Uyarılar</item>
+        <item>Konum</item>
+        <item>Telefon</item>
+        <item>SMS/MMS alma</item>
+        <item>SMS/MMS gönderme</item>
+        <item>SMS/MMS alma</item>
+        <item>SMS/MMS alma</item>
+        <item>SMS/MMS alma</item>
+        <item>SMS/MMS alma</item>
+        <item>SMS/MMS gönderme</item>
+        <item>SMS/MMS alma</item>
+        <item>SMS/MMS gönderme</item>
+        <item>Ayarlama</item>
+        <item>fade</item>
+        <item>Uyarılara erişim</item>
+        <item>Kamera</item>
+        <item>Ses kaydı</item>
+        <item>Ses</item>
+        <item>Güncelleme</item>
+        <item>Düzenleme kutusu</item>
+        <item>Medya düğmeleri</item>
+        <item>Ses</item>
+        <item>Ses seviyesi</item>
+        <item>Zil sesi seviyesi</item>
+        <item>Medya </item>
+        <item>Medya sesi seviyesi</item>
+        <item>Alarm</item>
+        <item>Alarm sesi seviyesi</item>
+        <item>Bluetooth sesi seviyesi</item>
+        <item>Uyku modu</item>
+        <item>Konum</item>
+        <item>Konum</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Kapalı</item>
+        <item>Mavi alan klibi</item>
+        <item>Yeşil oluşturma komut testi</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Kapalı</item>
+        <item>Sütun şeklinde ekran</item>
+        <item>Satır şeklinde ekran</item>
+        <item>adb shell dumpsys gfxinfo içinde</item>
     </string-array>
 </resources>
