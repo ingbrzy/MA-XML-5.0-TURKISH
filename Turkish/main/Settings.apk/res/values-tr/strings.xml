@@ -304,7 +304,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="battery_info_status_discharging">Oranında dolu</string>
   <string name="battery_info_status_full">Dolu</string>
   <string name="battery_info_status_label">Pil durumu:</string>
-  <string name="battery_info_status_not_charging">Şarj etmiyor</string>
+  <string name="battery_info_status_not_charging">Şarj edilmiyor</string>
   <string name="battery_info_status_unknown">Bilinmiyor</string>
   <string name="battery_info_technology_label">Pil teknolojisi:</string>
   <string name="battery_info_temperature_label">Pil sıcaklığı:</string>
@@ -1373,14 +1373,14 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lock_title">Telefonunuzu güvenlik altına alın</string>
   <string name="lockpassword_cancel_label">İptal</string>
   <string name="lockpassword_choose_lock_generic_header">Kilit açma seçimi</string>
-  <string name="lockpassword_choose_your_password_header">Şifrenizi seçin</string>
-  <string name="lockpassword_choose_your_pattern_header">Deseninizi seçin</string>
-  <string name="lockpassword_choose_your_pin_header">"PIN kodunuzu seçin"</string>
+  <string name="lockpassword_choose_your_password_header">Şifrenizi girin</string>
+  <string name="lockpassword_choose_your_pattern_header">Deseninizi çizin</string>
+  <string name="lockpassword_choose_your_pin_header">"PIN kodunuzu girin"</string>
   <string name="lockpassword_confirm_passwords_dont_match">Şifreler eşleşmiyor</string>
   <string name="lockpassword_confirm_pins_dont_match">PIN kodları eşleşmiyor</string>
   <string name="lockpassword_confirm_your_password_header">Şifrenizi onaylayın</string>
   <string name="lockpassword_confirm_your_pattern_header">Deseninizi onaylayın</string>
-  <string name="lockpassword_confirm_your_pin_header">"PIN kodunu onaylayın"</string>
+  <string name="lockpassword_confirm_your_pin_header">"PIN kodunuzu onaylayın"</string>
   <string name="lockpassword_continue_label">Devam</string>
   <string name="lockpassword_illegal_character">Şifre geçersiz bir karakter içeriyor</string>
   <string name="lockpassword_ok_label">Tamam</string>
@@ -1392,11 +1392,11 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lockpassword_password_too_long">Şifre %d karakterden kısa olmalıdır</string>
   <string name="lockpassword_password_too_short">Şifre en az %d karakter olmalıdır</string>
   <string name="lockpassword_pattern_set_toast">Desen ayarlandı</string>
-  <string name="lockpassword_pin_contains_non_digits">PIN yalnızca 0-9 arasındaki rakamları içermelidir</string>
+  <string name="lockpassword_pin_contains_non_digits">PIN kodu yalnızca 0-9 arasındaki rakamları içermelidir</string>
   <string name="lockpassword_pin_recently_used">"Cihaz yöneticisi yakında kullanılmış PIN koduna izin vermiyor"</string>
   <string name="lockpassword_pin_set_toast">PIN kodu ayarlandı</string>
   <string name="lockpassword_pin_too_long">PIN kodu en çok %d basamaklı olmalıdır</string>
-  <string name="lockpassword_pin_too_short">PIN kodu en az %d karakter olmalıdır</string>
+  <string name="lockpassword_pin_too_short">PIN kodu en az %d basamaklı olmalıdır</string>
   <string name="lockpassword_press_continue">İşlem tamamlandığında Devam düğmesine basın</string>
   <string name="lockpattern_change_lock_pattern_label">Kilit açma desenini değiştir</string>
   <string name="lockpattern_change_lock_pin_label">"Kilit açma PIN kodunu değiştir"</string>
@@ -1407,10 +1407,10 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lockpattern_need_to_unlock_wrong">Tekrar deneyin:</string>
   <string name="lockpattern_pattern_confirmed_header">Yeni kilit açma deseniniz:</string>
   <string name="lockpattern_pattern_entered_header">Desen kaydedildi!</string>
-  <string name="lockpattern_recording_incorrect_too_short">En az %d noktayı birleştirin. Yeniden deneyin:</string>
+  <string name="lockpattern_recording_incorrect_too_short">En az %d noktayı birleştirin ve yeniden deneyin:</string>
   <string name="lockpattern_recording_inprogress">Bittiğinde parmağınızı kaldırın.</string>
   <string name="lockpattern_recording_intro_footer">"Yardım için Menü\'ye basın."</string>
-  <string name="lockpattern_recording_intro_header">Kilit açma deseni çiz</string>
+  <string name="lockpattern_recording_intro_header">Kilit açma desenini çizin</string>
   <string name="lockpattern_restart_button_text">Yeniden çiz</string>
   <string name="lockpattern_retry_button_text">Tekrar Dene</string>
   <string name="lockpattern_settings_change_lock_pattern">Kilit açma desenini değiştir</string>
@@ -1878,7 +1878,7 @@ please follow the steps to complete installation"</string>
 	
 	tamamlanacak</string>
 	<string name="power_center_consume_rank">Pil kullanımı</string>
-    <string name="power_center_consume_time">%1$s Kaldı</string>
+    <string name="power_center_consume_time">%1$s kaldı</string>
     <string name="power_center_custom_summary_default">Ayarları optimize edin</string>
     <string name="power_center_custom_title">Pil Tasarrufu</string>
     <string name="power_center_low_battery_summary_default">Pil azaldığında modu değiştirir</string>
@@ -1931,17 +1931,17 @@ please follow the steps to complete installation"</string>
     <string name="power_dialog_cpu_state_save">Pil Tasarrufu</string>
     <string name="power_dialog_cpu_state_save_desc">CPU performansı pil ömrü üzerinde önemli bir etkendir.</string>
     <string name="power_dialog_cpu_state_title">CPU kullanımı</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_default">"Can't delete: you're currently using this profile."</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Can't delete: Your device is set to switch to this profile when battery is low, 
- You need to change this configuration before you can delete this profile."</string>
-    <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Can't delete: Your device is scheduled to switch to this profile, 
- You need to change this configuration before you can delete this profile.!"</string>
-    <string name="power_dialog_delete_dialog_delete">"Delete custom profile and associated settings data? You can't reverse this action!"</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_default">"Silinemez: Şu an bu profili kullanıyorsunuz"</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Silinemez: Bu profil düşük pil seviyesi için ayarlanmış.
+	Silmek için ayarları değiştirin!!"</string>
+    <string name="power_dialog_delete_dialog_cannot_delete_on_time">"Silinemez: Bu profil planlama ile ayarlanmış.
+	Silmek için ayarları değiştirin!!!"</string>
+    <string name="power_dialog_delete_dialog_delete">"Özel profil ve ilgili ayarlar silinecek. Bu eylemi geri alamazsınız!"</string>
     <string name="power_dialog_delete_dialog_title">Özel profili sil</string>
     <string name="power_dialog_ok">TAMAM</string>
     <string name="power_dialog_screen_brightness_automatic">Parlaklığı otomatik ayarla</string>
     <string name="power_dialog_screen_brightness_automatic_off">Ekran parlaklığı her ortamda sabit kalır</string>
-    <string name="power_dialog_screen_brightness_automatic_on">Ekran parlaklığı ortamda ışığına göre değişir</string>
+    <string name="power_dialog_screen_brightness_automatic_on">Ekran parlaklığı ortam ışığına göre değişir</string>
     <string name="power_dialog_screen_brightness_title">Parlaklık</string>
     <string name="power_dialog_sleep_title">Uyku</string>
     <string name="power_dialog_vibration_title">Titreşim</string>
@@ -1956,7 +1956,7 @@ please follow the steps to complete installation"</string>
     <string name="power_mode_auto_clean_memory_in_one_minute">Bir dakika sonra</string>
     <string name="power_mode_auto_clean_memory_in_ten_minutes">On dakika sonra</string>
     <string name="power_mode_auto_clean_memory_never">Asla</string>
-	<string name="power_mode_balanced_title">Dengeli Gücü etkinleştir</string>
+	<string name="power_mode_balanced_title">Balans modunu etkinleştir</string>
     <string name="power_mode_bluetooth">Bluetooth</string>
 	<string name="power_mode_chooser_button_text">Uygula</string>
     <string name="power_mode_cpu_state">CPU Kullanımı</string>
@@ -2077,12 +2077,12 @@ please follow the steps to complete installation"</string>
   <string name="preferred_app_settings_reset">Varsayılan ayarlara dön</string>
   <string name="preferred_app_settings_reset_message">Varsayılan uygulama ayarlarına dönmek istiyor musunuz?</string>
   <string name="preferred_application_title">%s Başlatıcı değiştirilecek!</string>
-  <string name="preferred_application_warning_message">Varsayılan %1$s başlatıyıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atar. Varsayılan %2$s kullanmanız tavsiye edilir.</string>
+  <string name="preferred_application_warning_message">Varsayılan %1$s başlatıyıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atabilir. Varsayılan %2$s kullanmanız tavsiye edilir!</string>
   <string name="preferred_application_warning_replace">Değiştir</string>
   <string name="preferred_application_warning_title">Varsayılan %s kullan</string>
   <string name="preferred_application_warning_use_system">%s kullan</string>
   <string name="preferred_launcher_title">MiHome Başlatıcı ayarları</string>
-  <string name="preferred_launcher_warning_message">Varsayılan başlatıcıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atar</string>
+  <string name="preferred_launcher_warning_message">Varsayılan başlatıcıyı değiştirmeniz, güç tüketimini arttırır ve cihaz güvenliğini riske atabilir!!</string>
   <string name="preferred_launcher_warning_replace">Değiştir</string>
   <string name="preferred_launcher_warning_title">Geçerli Başlatıcı</string>
   <string name="preferred_launcher_warning_use_system">Geçerli başlatıcı</string>
@@ -2695,8 +2695,8 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="turn_off_security_lock">Kilidi devre dışı bırak</string>
   <string name="turn_on_radio">Radyoyu aç</string>
     <string name="turn_on_smart_antispam_hint">İstenmeyen çağrıları tespit et</string>
-    <string name="turn_on_smart_antispam_summary_off">Filter using local number database</string>
-    <string name="turn_on_smart_antispam_summary_on">Only available when connected to WLAN or 3G network</string>
+    <string name="turn_on_smart_antispam_summary_off">Yerel veritabanını kullanarak filtrele</string>
+    <string name="turn_on_smart_antispam_summary_on">Sadece  Wi-Fi veya 3G şebekesine bağlı olduğunda kullanılır</string>
     <string name="turn_on_smart_antispam_title">Bilinmeyen numaraları belirle</string>
   <string name="under_keyguard">Kilit ekranında</string>
   <string name="uninstall_all_users_text">Tüm kullanıcılar için kaldır</string>
@@ -2719,13 +2719,13 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="unlock_set_unlock_launch_picker_change_summary">Şekil, PIN veya şifre güvenliğini değiştir veya devre dışı bırak</string>
   <string name="unlock_set_unlock_launch_picker_change_title">Ekran kilidini değiştir</string>
   <string name="unlock_set_unlock_launch_picker_enable_summary">Ekranı kilitlemek için bir yöntem seçin</string>
-  <string name="unlock_set_unlock_launch_picker_title">Ekran kilidi</string>
+  <string name="unlock_set_unlock_launch_picker_title">Kilit açma yöntemi</string>
   <string name="unlock_set_unlock_mode_biometric_weak">Yüz Tanıma Kilidi</string>
   <string name="unlock_set_unlock_mode_none">Kaydırma</string>
   <string name="unlock_set_unlock_mode_off">Hiçbiri</string>
   <string name="unlock_set_unlock_mode_password">Şifre ile güvenlik etkin</string>
   <string name="unlock_set_unlock_mode_pattern">Desen ile güvenlik etkin</string>
-  <string name="unlock_set_unlock_mode_pin">PIN ile güvenlik etkin</string>
+  <string name="unlock_set_unlock_mode_pin">PIN kodu ile güvenlik etkin</string>
   <string name="unlock_set_unlock_none_summary">Güvenlik yok</string>
   <string name="unlock_set_unlock_none_title">Kaydırma</string>
   <string name="unlock_set_unlock_off_title">Yok</string>
@@ -2734,7 +2734,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="unlock_set_unlock_pattern_summary">Orta düzey güvenlik</string>
   <string name="unlock_set_unlock_pattern_title">Desen</string>
   <string name="unlock_set_unlock_pin_summary">Orta-yüksek düzey güvenlik</string>
-  <string name="unlock_set_unlock_pin_title">PIN</string>
+  <string name="unlock_set_unlock_pin_title">PIN kodu</string>
   <string name="unlock_set_unlock_summary">Şifre koruma için bir ekran şifresi belirleyin</string>
   <string name="unmount_inform_text">SD kart bağlantısı kesilecek.</string>
   <string name="untitled_apn">Başlıksız</string>
