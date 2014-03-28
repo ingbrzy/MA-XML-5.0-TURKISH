@@ -119,6 +119,7 @@ Kullanılan"</string>
     <string name="pref_month_begin_date">Mobil veri yenilenme tarihi</string>
     <string name="pref_month_first_day">Ayın ilk günü</string>
     <string name="pref_more_traffic_settings">Diğer ayarlar</string>
+	<string name="pref_new_installed_preconfig_title">Yeni uygulamalar için varsayılan ayar.</string>
     <string name="pref_open_adjust_traffic">"Veri kullanımını operatör ile senkronize et"</string>
     <string name="pref_package_traffic_leisure">%1$s | Limit: %2$s</string>
     <string name="pref_package_traffic_normal">Limit: %s</string>
