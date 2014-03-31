@@ -84,7 +84,7 @@
     <string name="my_rank">Güncelleme sıralaması:</string>
     <string name="my_update_feel">Duygularım</string>
     <string name="my_worst_update">En kötü güncellemem</string>
-    <string name="network_error">Ağ bağlantısı hatası, lütfen tekrar deneyin!</string>
+    <string name="network_error">Ağ bağlantısı yok!</string>
     <string name="new_update_content_title">Yeni versiyon bulundu</string>
     <string name="new_update_download_complete_body">Güncellenebilir yeni sürüm:%s</string>
     <string name="new_update_downloading_body">Yeni versiyon indiriliyor:%s</string>

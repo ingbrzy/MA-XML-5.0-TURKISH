@@ -1030,6 +1030,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="filter_apps_running">Çalışanlar</string>
   <string name="filter_apps_third_party">İndirilenler</string>
   <string name="filter_dlg_title">Filtre seçeneklerini belirleyin</string>
+  <string name="finish_application">Durdur</string>
   <string name="finish_button_label">Bitti</string>
   <string name="finish_checking_memory">Bellek durum kontrolünü bitir...</string>
     <string name="finish_checking_protection">Eşzamanlı koruma kontrolünü bitir...</string>

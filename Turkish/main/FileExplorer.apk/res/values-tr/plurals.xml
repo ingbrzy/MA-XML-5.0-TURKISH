@@ -9,7 +9,7 @@
         <item quantity="one">Dosyayı sil</item>
     </plurals>
     <plurals name="delete_folders_confirm">
-        <item quantity="other">"(%1$d) ve klasör silinsin mi?"</item>
+        <item quantity="other">"(%1$d)  klasör silinsin mi?"</item>
         <item quantity="one">"1 klasör silinsin mi??"</item>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">

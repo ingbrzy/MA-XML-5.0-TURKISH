@@ -252,7 +252,7 @@
 	<string-array name="change_security_lock_picker">
         <item>Yüz tanıma</item>
         <item>Desen</item>
-        <item>Sayısal şifre</item>
+        <item>PIN Kodu</item>
         <item>Karışık şifre</item>
     </string-array> 
     <string-array name="app_process_limit_entries">

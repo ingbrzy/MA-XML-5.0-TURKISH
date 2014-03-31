@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="uninstall_dialog_title_format">
-        <item quantity="other">%1$s ve %2$d diğer uygulama kaldırılsın mı?</item>
-        <item quantity="one">%s kaldırılsın mı?</item>
-        <item quantity="two">%s kaldırılsın mı?</item>
+        <item quantity="other">\"%1$s\" kaldırılsın mı?</item>
+        <item quantity="one">\"%s\" kaldırılsın mı?</item>
+        <item quantity="two">\"%s\" kaldırılsın mı?</item>
     </plurals>
     <plurals name="uninstall_result_succeeded">
-        <item quantity="other">%1$d uygulama kaldırıldı</item>
+        <item quantity="other">%1$d kaldırıldı</item>
         <item quantity="one">Uygulama kaldırıldı</item>
     </plurals>
     <plurals name="uninstall_result_failed">
-        <item quantity="other">"%1$s ve %2$d diğer uygulama kaldırılamadı !"</item>
-        <item quantity="one">"%s kaldırılamadı !"</item>
-        <item quantity="two">"%s kaldırılamadı !"</item>
+        <item quantity="other">\"%1$s\" kaldırılamadı!"</item>
+        <item quantity="one">"Uygulama kaldırılamadı!"</item>
+        <item quantity="two">"\"%s\" kaldırılamadı!"</item>
     </plurals>
 </resources>

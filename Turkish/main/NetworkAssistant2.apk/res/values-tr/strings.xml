@@ -90,7 +90,7 @@ Kullanılan"</string>
     <string name="pkg_traffic">Mobil veri limiti</string>
     <string name="power_save_on_time_end_time_summary">Bitiş</string>
     <string name="power_save_on_time_start_time_summary">Başlangıç</string>
-    <string name="pref_about">Uygulamalar</string>
+    <string name="pref_about">Hakkında</string>
     <string name="pref_about_traffic_title">Veri kullanım ayarları</string>
     <string name="pref_add_traffic_pkg">Ayrıca satın alınan veri</string>
     <string name="pref_adjust_data_usage">Operatör mesaj deseni</string>
@@ -138,13 +138,13 @@ Kullanılan"</string>
     <string name="pref_title_traffic_speed_state">Ağ hızını göster</string>
     <string name="pref_title_update_notification">Veri kullanımını göster</string>
     <string name="pref_version">Sürüm: %s</string>
-    <string name="pref_warning_values">Dipnot</string>
+    <string name="pref_warning_values">Mobil veri uyarı değeri</string>
     <string name="settings">Veri kullanım ayarları</string>
     <string name="sorted_button">Gruplandır</string>
     <string name="sorted_dialog_title">Sırala</string>
     <string name="stop_app_button">Durdur</string>
     <string name="system_app">Sistem uygulaması</string>
-    <string name="text_day">" gün"</string>
+    <string name="text_day">" "</string>
     <string name="tips_dialog_title">"Mobil veri limitini bilmiyorum?"</string>
     <string name="tips_message">"Eğer mobil veri limitini bilmiyorsanız, %2$s arayarak kontrol edebilirsiniz(%1$s) (Sadece Çin)."</string>
     <string name="traffic_correction_failed">"Mobil veri kullanım bilgileri alınamadı!"</string>
