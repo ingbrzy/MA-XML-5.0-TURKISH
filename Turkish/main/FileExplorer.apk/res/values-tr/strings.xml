@@ -65,7 +65,7 @@
   <string name="decompress_confirm">Ayrıştırmak istiyor musunuz?</string>
   <string name="decompress_fail">Ayrıştırma hatası!</string>
   <string name="decompress_success">Ayrıştırma başarıyla tamamlandı</string>
-  <string name="decompress_to">Ayrıştır:</string>
+  <string name="decompress_to">Ayrıştırma klasörünü seç:</string>
   <string name="decompress_to_here">Buraya ayrıştır</string>
   <string name="delete_failed">Silinemedi!</string>
   <string name="delete_file">Dosyayı silmek istiyor musunuz?</string>
@@ -145,7 +145,7 @@ Artık dosya"</string>
   <string name="menu_item_cleanup">Dosyaları temizle</string>
   <string name="menu_item_ftp">FTP Sunucusu</string>
   <string name="menu_item_search">Ara</string>
-  <string name="menu_item_sort">Sırala</string>
+  <string name="menu_item_sort">Dosyaları Sırala</string>
   <string name="menu_item_sort_date">Tarih</string>
   <string name="menu_item_sort_name">Ad</string>
   <string name="menu_item_sort_size">Boyut</string>
@@ -187,7 +187,7 @@ Artık dosya"</string>
   <string name="operation_copying_detail">Dosya kopyalanıyor (%1$d/%2$d)</string>
   <string name="operation_create_folder">Yeni klasör</string>
   <string name="operation_create_folder_message">Klasör adını girin</string>
-  <string name="operation_decompressing">Çıkartılıyor...</string>
+  <string name="operation_decompressing">Dosyalar ayrıştırılıyor...</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_delete_confirm_message">Silme işlemini onaylayın!</string>
   <string name="operation_delete_confirm_message_folder">"Klasördeki tüm dosyalar silinecek."</string>
@@ -226,7 +226,7 @@ Artık dosya"</string>
   <string name="scanned">Tarama tamamlandı</string>
   <string name="sd_card_available">Boş Alan:%1$s</string>
   <string name="sd_card_size">SD Kart:%1$s</string>
-  <string name="sd_full">SD kart dolu</string>
+  <string name="sd_full">SD kart doldu</string>
   <string name="sd_size_label">SD kart hafızası</string>
   <string name="search_hint">Dosyalar aranıyor</string>
   <string name="search_title">Dosyalar aranıyor</string>
@@ -258,9 +258,9 @@ Boş alanınız %1$s"</string>
   <string name="tab_category">Gözat</string>
   <string name="tab_networkdisk">MiDrive</string>
   <string name="tab_phone">Telefon</string>
-  <string name="temp_file_cleanup_indication">%s çerez dosyaları</string>
+  <string name="temp_file_cleanup_indication">%s çerez dosyası</string>
   <string name="temp_file_title">Çerez dosyaları</string>
-  <string name="thumbnail_cleanup_indication">%s ön izleme</string>
+  <string name="thumbnail_cleanup_indication">%s ön izleme dosyası</string>
   <string name="thumbnail_title">Ön izleme dosyaları</string>
   <string name="toast_file_not_can_read">Dosya okunamıyor ya da bozuk.</string>
   <string name="trans_task">Ağ transferi</string>
@@ -293,7 +293,7 @@ Boş alanınız %1$s"</string>
   <string name="user_guide_upload_to_kuaipan">"Dosyaları MiDrive'a kopyalayıp yapıştırın"</string>
   <string name="utf8_summary">Geçerli kodlama türü</string>
   <string name="utf8_title">UTF-8</string>
-  <string name="version_text">Versiyon %1$s</string>
+  <string name="version_text">Sürüm: %1$s</string>
   <string name="wait_net">Ağ bağlantısı bekleniyor</string>
   <string name="wait_sdcard">SD Kartın takılması bekleniyor</string>
   <string name="wait_wifi">Wi-Fi bağlantısı için bekliyor</string>

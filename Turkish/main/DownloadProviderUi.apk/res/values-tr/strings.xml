@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="all_downloads">Tüm indirmeler</string>
+  <string name="all_downloads">İNDİRME İŞLEMLERİ</string>
   <string name="app_downloads">%s uygulama indirmesi</string>
   <string name="app_label">İndirmeler</string>
   <string name="button_sort_by_date">Tarihe göre sırala</string>
@@ -26,10 +26,10 @@
   <string name="dialog_title_not_available">İndirme hatası</string>
   <string name="dialog_title_queued_body">Dosya mevcut değil.</string>
   <string name="disable_download_only_in_wifi_title">Sadece Wi-Fi ile indiri kapat</string>
-  <string name="download_complete">İndirme tamamlandı</string>
+  <string name="download_complete">Tamamlanan</string>
   <string name="download_error">Hata</string>
   <string name="download_error_insufficient_space">Yeterli bol alan yok!</string>
-  <string name="download_in_process">İndiriliyor</string>
+  <string name="download_in_process">Devam eden</string>
   <string name="download_info_count_deleted_tasks">%s İndirme kaldırıldı</string>
   <string name="download_info_start_deleted_tasks">İndirilenleri sil</string>
   <string name="download_no_application_title">Dosya açılamıyor</string>
@@ -66,7 +66,7 @@
   <string name="pref_summary_enable_max_bytes_popup">"Dosya boyutu, limiti aşarsa beni uyar"</string>
   <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s \'ı aşarsa Wi-Fi ile indir</string>
   <string name="pref_summary_any_bytes_popup">Sadece Wi-Fi ile indir</string>
-  <string name="pref_summary_no_limit_popup">İndirme boyutu sınırsız</string>
+  <string name="pref_summary_no_limit_popup">Sınırsız indirme boyutu</string>
   <string name="pref_title_enable_max_bytes_popup">Veri indirme uyarısı</string>
   <string name="pref_title_max_bytes_limit">Dosya boyutu limiti</string>
   <string name="preferences_title">Ayarlar</string>

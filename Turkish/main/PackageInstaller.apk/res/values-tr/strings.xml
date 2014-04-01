@@ -20,12 +20,12 @@
   <string name="install">Yükle</string>
   <string name="install_confirm_question">Uygulamayı yüklemek istiyor musunuz?</string>
   <string name="install_done">Yüklendi</string>
-  <string name="install_failed">Yükleme başarısız!</string>
+  <string name="install_failed">Yükleme işlemi başarısız !</string>
   <string name="install_failed_cpu_abi_incompatible">"Uygulama telefonunuzun İşlemcisi ile uyumlu değil!"</string>
   <string name="install_failed_file_not_found">Yüklemenin tamamlanması için belirtilen paket silindi!</string>
   <string name="install_failed_inconsistent_certificates">Aynı ad ve imzaya sahip bir uygulama zaten yüklenmiş. Mevcut uygulamayı kaldırıp tekrar deneyin!</string>
   <string name="install_failed_invalid_apk">Paket bozuk görünüyor!</string>
-  <string name="install_failed_msg">%1$s yüklenemedi!</string>
+  <string name="install_failed_msg">%1$s yükleme işlemi başarısız !</string>
   <string name="install_failed_older_sdk">Paket sadece eski Android sürümlerinde çalışır!</string>
   <string name="install_failed_system_incompatible">Bu uygulama, MIUI sistemi ile uyumlu değildir!</string>
   <string name="install_failed_verify_failed">Paket doğrulanamadı, yükleme işlemi iptal edildi!</string>
@@ -45,7 +45,7 @@
   <string name="perm_action_reject">Engelle</string>
   <string name="perm_notice">Güvenlik Uyarısı</string>
   <string name="perm_privacy_app_finish">Bitti</string>
-  <string name="perm_privacy_app_installed">Yükleme başarılı!</string>
+  <string name="perm_privacy_app_installed">Yükleme başarıyla tamamlandı.</string>
   <string name="perm_privacy_app_launch">Aç</string>
   <string name="perm_privacy_app_trust">Bu uygulama güvenilir</string>
   <string name="perm_privacy_app_trust_summary">MIUI bu uygulamayı izleyecek</string>
@@ -53,7 +53,7 @@
   <string name="perm_sysopt_boost_auto_start_summary">Bu uygulama otomatik başlatılacak!</string>
   <string name="privacy_relative">Gizlilik izinleri</string>
   <string name="safe_guard_support">%1$s tarafından sağlanan teknik destek</string>
-  <string name="safe_relative">Güvenli izinler</string>
+  <string name="safe_relative">Güvenlik izinleri</string>
   <string name="security_settings_desc">Uygulamaya izin ver:</string>
   <string name="settings">Ayarlar</string>
   <string name="trust_switch_dialog_msg">"MIUI tekrar güvenlik uyarısı yapmayacak, bu uygulamanın güvenli olduğundan emin misiniz？"</string>
@@ -74,7 +74,7 @@
   <string name="unknown_apps_dlg_title">Yükleme durduruldu!</string>
   <string name="unknown_installer">Bilinmeyen yükleyici!</string>
   <string name="virus_scan_clear">Sil</string>
-  <string name="virus_scan_install">" "&lt;u&gt;&amp;#32487;&amp;#32493;&amp;#23433;&amp;#35013;&lt;/u&gt;" "</string>
+  <string name="virus_scan_install">" "<u>Yüklemeye devam et</u>" "</string>
   <string name="virus_scan_is_risk">Bu uygulama risk oluşturuyor!</string>
   <string name="virus_scan_is_virus">Bu uygulama virüs içeriyor, lütfen hemen silin!</string>
 </resources>

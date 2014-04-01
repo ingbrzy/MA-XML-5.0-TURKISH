@@ -26,7 +26,6 @@
   <string name="default_folder_title_security">Güvenlik merkezi</string>
   <string name="default_folder_title_tools">Araçlar</string>
   <string name="default_name">Varsayılan</string>
-  <string name="default_shortcut_title_10086">google.com</string>
   <string name="deleting">Siliniyor...</string>
   <string name="description_author">Yazar:</string>
   <string name="description_designer">Tasarımcı:</string>
@@ -37,9 +36,6 @@
   <string name="description_version">Sürüm:</string>
   <string name="download_failed">İçe aktarım hatası!</string>
   <string name="download_preview_failed">Önizleme yüklenemedi!</string>
-  <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
-  <string name="durationformatshort">%2$2d:%5$02d</string>
-  <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
   <string name="edit_folder_title">Klasörü adlandır</string>
   <string name="editing_tips">Widget ekle veya düzenle</string>
   <string name="editing_add_widget_tips">Widget Ekle</string>
@@ -115,14 +111,14 @@
   <string name="menu_edit">Widgetleri Yönet</string>
   <string name="menu_exit_scene">MiSpace\'den Çık</string>
   <string name="menu_item_add_item">Ana ekrana ekle</string>
-  <string name="menu_launcher_setting">MiHome Başlatıcı Ayarları</string>
+  <string name="menu_launcher_setting">MIUI Başlatıcı Ayarları</string>
   <string name="menu_picktheme">Temayı seç</string>
   <string name="menu_reset_scene">Sahneyi varsayılana sıfırla</string>
   <string name="menu_search">Arama yap</string>
   <string name="menu_settings">MIUI Sistem Ayarları</string>
   <string name="menu_sort">Ana ekran simgelerini sırala</string>
   <string name="menu_wallpaper">Duvar Kağıtları</string>
-  <string name="menu_workspace_preview">MiHome Başlatıcı Ekranları</string>
+  <string name="menu_workspace_preview">MIUI Başlatıcı Ekranları</string>
   <string name="multi_selecting_tips">Başlamak için simgeye dokunun</string>
   <string name="online_no_network">Ağ bağlantısı yok!</string>
   <string name="online_search_hint">Online kaynak ara</string>
@@ -157,7 +153,7 @@
   <string name="preferences_general_title">Genel Ayarlar</string>
   <string name="preferences_title">MiHome Başlatıcı Ayarları</string>
   <string name="process"/>
-  <string name="reset_scene_prompt">Sahne düzeni varsayılan sıfırlansın mı?</string>
+  <string name="reset_scene_prompt">Sahne düzeni varsayılan ayarlara sıfırlansın mı?</string>
   <string name="resource_alarm_default">Alarm</string>
   <string name="resource_app_name">Kaynak Tarayıcı</string>
   <string name="resource_apply">Uygula</string>
@@ -200,8 +196,8 @@
   <string name="resource_title_select_ringtone">Zil Sesini seç</string>
   <string name="resource_update">Güncelle</string>
   <string name="resource_waiting_download">Bekleniyor...</string>
-  <string name="screen_button_disabled_message">Ekranın altındaki tuşlar devre dışı. Etkinleştirmek için \"Ev\" ve \"Güç\" tuşlarına basın</string>
-  <string name="screen_button_enabled_message">Ekranın altındaki tuşlar etkin</string>
+  <string name="screen_button_disabled_message">Ekran altındaki tuşlar devre dışı. Etkinleştirmek için \"Ev\" ve \"Güç\" tuşlarına basın</string>
+  <string name="screen_button_enabled_message">Ekran altındaki tuşlar etkin</string>
   <string name="screen_rotation_freeze_message">Yatay mod için ekran döndürme kilitli</string>
   <string name="scroll_tip_format_when_announce_accessibility">Sayfa %1$d, %2$d Uygulama</string>
   <string name="sdcard_status_changed_dialog_message">"Uygulama çıkışa gidiyor.

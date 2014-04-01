@@ -106,6 +106,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="active_input_method_subtypes">Etkin giriş yöntemleri</string>
     <string name="activity_not_found">Uygulama telefonunuzda yüklü değil!</string> 
   <string name="activity_picker_label">Etkinlik seçin</string>
+  <string name="activity_title_settings">Ayarlar</string>
   <string name="adb_warning_message">USB hata ayıklaması yalnızca geliştirme amaçlıdır. Verileri bilgisayarınızla cihazınız arasında kopyalamak, bildirim göndermeksizin uygulamaları cihazınıza yüklemek ve günlük verilerini okumak için kullanın.</string>
   <string name="adb_warning_title">USB hata ayıklamasına izin verilsin mi?</string>
   <string name="add_blacklist">Kara Listeye ekle</string>

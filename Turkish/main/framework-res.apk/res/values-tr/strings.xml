@@ -1012,14 +1012,14 @@ Kapatmak istiyor musunuz?"</string>
     <string name="sms_control_no">Reddet</string>
     <string name="sim_removed_title">SIM kart çıkarıldı</string>
     <string name="sim_removed_message">Geçerli bir SIM kart yerleştirilmiş olarak tekrar başlatana kadar mobil veri ağı kullanılamayacak.</string>
-    <string name="sim_done_button">Tamamlandı</string>
+    <string name="sim_done_button">Tamam</string>
     <string name="sim_added_title">SIM kart eklendi</string>
     <string name="sim_added_message">Mobil veri ağına erişmek için cihazınızı tekrar başlatın.</string>
     <string name="sim_restart_button">Tekrar başlat</string>
     <string name="time_picker_dialog_title">Saati ayarlayın</string>
     <string name="date_picker_dialog_title">Tarihi ayarlayın</string>
     <string name="date_time_set">Ayarla</string>
-    <string name="date_time_done">Tamamlandı</string>
+    <string name="date_time_done">Tamam</string>
     <string name="default_permission_group">Varsayılan</string>
     <string name="no_permissions">İzin gerektirmez</string>
     <string name="perms_hide">" "<b>Gizle</b>" "</string>
