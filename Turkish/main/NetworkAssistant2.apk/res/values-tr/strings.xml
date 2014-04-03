@@ -156,7 +156,7 @@ Kullanılan"</string>
     <string name="traffic_protection_label">Veri kullanım uyarısı</string>
     <string name="traffic_protection_next">Sonraki</string>
     <string name="traffic_protection_summary">Kullanım sınırına ulaştığında uyarı ayarla</string>
-    <string name="traffic_protection_text_hint">Mobil veri limitini ayarla</string>
+    <string name="traffic_protection_text_hint">Mobil veri limiti: %s</string>
     <string name="traffic_protection_unknown"><u>Daha sonra ayarla</u></string>
     <string name="traffic_protection_use_data">Mobil veri etkinleştirildi</string>
     <string name="traffic_setting_fragment_area">Yerel</string>

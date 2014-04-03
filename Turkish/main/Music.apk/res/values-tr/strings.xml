@@ -209,6 +209,7 @@
   <string name="new_playlist">Yeni</string>
   <string name="new_playlist_name_template">Yeni çalma listesi %d</string>
   <string name="no_effect">Efekt yok</string>
+  <string name="no_music_to_play">Müzik parçası yok</string>
   <string name="no_song_downloaded">Şarkı indirilemedi</string>
   <string name="normal_quality">Normal kalite</string>
   <string name="not_selected">Şarkıyı seçin</string>
