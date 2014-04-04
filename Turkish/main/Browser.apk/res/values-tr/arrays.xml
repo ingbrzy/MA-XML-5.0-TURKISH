@@ -15,7 +15,6 @@
     </string-array>
     <string-array name="pref_homepage_choices">
         <item>Ana Sayfa</item>
-        <item>Sık Kullanılanlar</item>
         <item>Özel</item>
     </string-array>
     <string-array name="pref_text_size_choices">
