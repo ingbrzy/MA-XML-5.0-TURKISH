@@ -43,7 +43,7 @@
   <string name="err_resource_leak">Maalesef, %1$s bir kaynak sızıntısı nedeniyle durdu </string> 
   <string name="error_forbidden">Hesabınızda problemler var, senkronize iptal edildi!</string>
   <string name="error_not_acceptable">Sunucu hatası. Senkronize devre dışı!</string>
-  <string name="error_title">Senkronize hatası %s</string>
+  <string name="error_title">Senkronize hatası</string>
   <string name="error_unauthorized">Kimliğiniz doğrulanırken hatalar oluştu. Senkronize devre dışı!</string>
   <string name="every_day">Hergün</string>
   <string name="experimental_validate">Doğrula</string>
