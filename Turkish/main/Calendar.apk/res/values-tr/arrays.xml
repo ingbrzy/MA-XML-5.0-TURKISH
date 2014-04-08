@@ -7,48 +7,35 @@
         <item>Alarm</item>
     </string-array> 
     <string-array name="reminder_minutes_labels">
+        <item>None</item>
         <item>0 dakika</item>
-        <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
         <item>15 dakika</item>
-        <item>20 dakika</item>
-        <item>25 dakika</item>
         <item>30 dakika</item>
-        <item>45 dakika</item>
         <item>1 saat</item>
-        <item>2 saat</item>
-        <item>3 saat</item>
-        <item>12 saat</item>
-        <item>24 saat</item>
+        <item>1 gün</item>
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
     <string-array name="preferences_default_reminder_labels">
         <item>None</item>
         <item>0 dakika</item>
-        <item>1 dakika</item>
         <item>5 dakika</item>
         <item>10 dakika</item>
         <item>15 dakika</item>
-        <item>20 dakika</item>
-        <item>25 dakika</item>
         <item>30 dakika</item>
-        <item>45 dakika</item>
         <item>1 saat</item>
-        <item>2 saat</item>
-        <item>3 saat</item>
-        <item>12 saat</item>
-        <item>24 saat</item>
+        <item>1 gün</item>
         <item>2 gün</item>
         <item>1 hafta</item>
     </string-array>
-		<string-array name="preferences_week_start_day_labels">
+    <string-array name="preferences_week_start_day_labels">
         <item>Dile göre</item>
         <item>Cumartesi</item>
         <item>Pazar</item>
         <item>Pazartesi</item>
-	</string-array>	
+    </string-array>	
     <string-array name="timezone_labels">
         <item>Marshall Islands</item>
         <item>Midway Island</item>
@@ -135,7 +122,7 @@
         <item>Fiji</item>
         <item>Tonga</item>
     </string-array>
-	<string-array name="availability">
+    <string-array name="availability">
         <item>Meşgul</item>
         <item>Uygun</item>
         <item>Belirsiz</item>
@@ -145,25 +132,25 @@
         <item>Özel</item>
         <item>Genel</item>
     </string-array>
-	<string-array name="ordinal_labels">
+    <string-array name="ordinal_labels">
         <item>1.</item>
         <item>2.</item>
         <item>3.</item>
         <item>4.</item>
         <item>Son</item>
     </string-array>
-	<string-array name="response_labels1">
+    <string-array name="response_labels1">
         <item>(Cevap yok)</item>
         <item>Evet</item>
         <item>Belki</item>
         <item>Hayır</item>
     </string-array>
-	<string-array name="delete_repeating_labels">
+    <string-array name="delete_repeating_labels">
         <item>Sadece bu hafta</item>
         <item>Bu ve ileriki etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
-	<string-array name="delete_repeating_labels_no_selected">
+    <string-array name="delete_repeating_labels_no_selected">
         <item>Bu ve ileriki etkinlikler</item>
         <item>Tüm etkinlikler</item>
     </string-array>
@@ -171,7 +158,7 @@
         <item>Sadece bu</item>
         <item>Bu serideki tüm etkinlikler</item>
     </string-array>
-		<string-array name="buttons_list">
+    <string-array name="buttons_list">
         <item>Gün</item>
         <item>Hafta</item>
         <item>Ay</item>

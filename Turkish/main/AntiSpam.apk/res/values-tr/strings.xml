@@ -33,8 +33,8 @@
   <string name="fw_blocked">Engellendi:</string>
   <string name="fw_blocked_count" formatted="false">Durduruldu: %d Çağrı ve %d Mesaj</string>
   <string name="log_count">(%d)</string>
-  <string name="marked_by_others">%d olarak işaretlenmiş</string>
-  <string name="marked_by_user">kullanıcı tarafından işaretlenen</string>
+  <string name="marked_by_others">"%d olarak işaretlenmiş "</string>
+  <string name="marked_by_user">"kullanıcı tarafından işaretlenen "</string>
   <string name="menu_add">Ekle</string>
   <string name="menu_add_into_contact">Mevcut kişilere ekle</string>
   <string name="menu_add_new_contact">Yeni kişi</string>

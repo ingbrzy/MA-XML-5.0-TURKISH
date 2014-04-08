@@ -24,7 +24,7 @@
   <string name="backup_data">Verileri Yedekle</string>
   <string name="backup_delete">Sil:</string>
   <string name="backup_empty">Yedekleme Dosyası Bulunamadı</string>
-  <string name="backup_empty_info">Ayarlarınızı Uygulamaları ve Verilerinizi Yedekleyin</string>
+  <string name="backup_empty_info">" Ayarlarınızı Uygulamaları ve Verilerinizi Yedekleyin"</string>
   <string name="backup_error">Yedekleme Hatalı</string>
   <string name="backup_failed">Yedekleme Başarısız Lütfen Tekrar Deneyin</string>
   <string name="backup_file_error">Yedekleme ile ilgili bir sorun oluştu.</string>
