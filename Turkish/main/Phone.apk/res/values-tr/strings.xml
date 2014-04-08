@@ -81,7 +81,7 @@
   <string name="auto_ip_setting_miui">Otomatik IP ön eki ayarları</string>
   <string name="auto_ip_summary_not_enabled">Etkin değil</string>
   <string name="auto_ip_support_local_numbers">Bölgesel numara desteği</string>
-  <string name="auto_record_call_summary_miui">Arama bağlandığında ses kayıt başlayacak, MIUI/sound_recorder/call_rec klasörüne kaydedilecek</string>
+  <string name="auto_record_call_summary_miui">Arama bağlandığında ses kayıtı başlayacak, MIUI/sound_recorder/call_rec klasörüne kaydedilecek</string>
   <string name="auto_record_call_title_miui">Otomatik ses kaydı</string>
   <string name="auto_record_scenario_enteries_always_miui">Tüm numaralarda otomatik ses kaydı</string>
   <string name="auto_record_scenario_enteries_whitelist_miui">Seçilen numaralarda otomatik ses kaydı</string>
@@ -119,7 +119,7 @@
   <string name="callFailed_fdn_only">Giden aramalar FDN ile sınırlandırıldı.</string>
   <string name="callFailed_invalid_credentials">Geçersiz kullanıcı adı ve şifre</string>
   <string name="callFailed_limitExceeded">ACM sınırı aşıldı</string>
-  <string name="callFailed_noSignal">Sinyal Yok!</string>
+  <string name="callFailed_noSignal">SİNYAL YOK !!!</string>
   <string name="callFailed_number_unreachable">Numaraya ulaşılamıyor</string>
   <string name="callFailed_outOfService">Kapsama alanı dışında</string>
   <string name="callFailed_out_of_network">Kapsama alanı dışındaki çağrılar</string>
@@ -358,9 +358,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="disable_fdn">FDN devre dışı</string>
   <string name="disable_fdn_ok">FDN etkin</string>
   <string name="disable_miui">Devre dışı</string>
-  <string name="disable_pin_ok">SIM PIN devre dışı</string>
-  <string name="disable_sim_pin">SIM PIN\'i devre dışı bırak</string>
-  <string name="disable_sim_pin_miui">SIM PIN\'i devre dışı bırak</string>
+  <string name="disable_pin_ok">SIM kart PIN kodu devre dışı</string>
+  <string name="disable_sim_pin">SIM kart PIN kodunu devre dışı bırak</string>
+  <string name="disable_sim_pin_miui">SIM kart PIN kodunu devre dışı bırak</string>
   <string name="display_name">Ad</string>
   <string name="display_name_summary">&lt;Kullanıcı adı aynı&gt;</string>
   <string name="display_name_title">Ad</string>
@@ -463,7 +463,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="fw_change_failed">"Yönlendirme numarası değiştirilemedi. Operatörünüz ile temasa geçin."</string>
   <string name="fw_get_in_vm_failed">"Mevcut yönlendirme numarası ayarları kaydedilemedi. Yeni sağlayıcıya geçilsin mi?"</string>
   <string name="general_news_settings">Genel haberler</string>
-  <string name="get_pin2">PIN2 kodunu gir</string>
+  <string name="get_pin2">PIN2 kodu</string>
   <string name="get_smsc_address_error_miui">Mesaj merkezi numarası alınamadı, tekrar deneyin.</string>
   <string name="get_smsc_address_timeout_miui">Mesaj merkezi numarası alınırken zaman aşımı, tekrar deneyin.</string>
   <string name="goPrivate">Özele git</string>
@@ -639,11 +639,11 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="notification_action_end_call">Çağrıyı sonlandır</string>
    <string name="notification_dialing">Arama</string>
   <string name="notification_incoming_call">Gelen çağrı</string>
-  <string name="notification_missedCallTicker">%s Cevapsız çağrı</string>
+  <string name="notification_missedCallTicker">%s Cevapsız çağrınız var.</string>
   <string name="notification_missedCallTitle">Cevapsız çağrı</string>
-  <string name="notification_missedCall_call_back">Çağrıya dön</string>
+  <string name="notification_missedCall_call_back">ARA</string>
   <string name="notification_missedCall_message">Mesaj</string>
-  <string name="notification_missedCallsMsg">%s Cevapsız çağrı</string>
+  <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var.</string>
   <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
   <string name="notification_network_selection_text">Seçilen şebeke (%s) kullanılamaz!</string>
   <string name="notification_network_selection_title">Şebeke yok!</string>
@@ -711,7 +711,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ota_progress">Programlama başlarken bekleyin.</string>
   <string name="ota_skip_activation_dialog_message">"Eğer aktivasyonu atlarsanız, aramaları veya mobil veri ağları kullanamazsınız.Aktivasyon yapılana kadar, her açılışta uyarı mesajı görüntülenir."</string>
   <string name="ota_skip_activation_dialog_skip_label">Atla</string>
-  <string name="ota_skip_activation_dialog_title">Aktivasyon atlansın mı?</string>
+  <string name="ota_skip_activation_dialog_title">Aktivasyonu atlamak istiyor musunuz?</string>
   <string name="ota_spc_failure">SPC HATALARI</string>
   <string name="ota_speaker">Hoparlör</string>
   <string name="ota_successful">Telefonunuz etkinleştirildi, servislerin başlaması 15 dakika kadar sürebilir.</string>
@@ -751,12 +751,12 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="pin_changed">SIM kart PIN kodu değiştirildi</string>
   <string name="pin_changed_miui">SIM kart PIN kodu değiştirildi</string>
   <string name="pin_failed">Girilen PIN kodu geçersiz!</string>
-  <string name="pin_lock_warning_miui">"Yine başarısız olursa telefonunuz kilitlenecek, Lütfen dikkat!"</string>
-  <string name="pin_progress_change_pin2_miui">PIN2 kodudeğiştiriliyor…</string>
+  <string name="pin_lock_warning_miui">"Yine başarısız olursa telefonunuz kilitlenecek, Lütfen dikkatli olun!"</string>
+  <string name="pin_progress_change_pin2_miui">PIN2 kodu değiştiriliyor…</string>
   <string name="pin_progress_change_pin_miui">PIN kodu değiştiriliyor…</string>
   <string name="pin_progress_set_fdn_lock_miui">FDN kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_set_icc_lock_miui">icc kilit durumu ayarlanıyor…</string>
-  <string name="pin_progress_unlock_icc_miui">SIM kilidi açılıyor…</string>
+  <string name="pin_progress_unlock_icc_miui">SIM kart kilidi açılıyor…</string>
   <string name="port">Port</string>
   <string name="port_title">Port numarası</string>
   <string name="pref_custom_location_summary_miui">Bölge ve numara özelliklerini değiştir</string>
@@ -858,7 +858,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="respond_via_sms_canned_response_3_miui">"Şu anda felaket yoğunum yahu, sonra döncem ben sana ."</string>
   <string name="respond_via_sms_canned_response_4">"Konuşamamıyorum, Sonra bana tekrar dön?"</string>
   <string name="respond_via_sms_canned_response_4_miui">"Yahu işim var yine ne oldu?"</string>
-  <string name="respond_via_sms_confirmation_format">Mesaj %s gönderildi.</string>
+  <string name="respond_via_sms_confirmation_format">Mesaj gönderildi:%s</string>
   <string name="respond_via_sms_custom_message">Özel mesaj...</string>
   <string name="respond_via_sms_edittext_dialog_title">Hızlı cevaplar</string>
   <string name="respond_via_sms_menu_reset_default_activity">Varsayılan uygulama</string>
@@ -932,7 +932,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="sim_lock_title_miui">SIM kilit ayarları</string>
   <string name="sim_ndp_dismiss_text">Reddet</string>
   <string name="sim_ndp_unlock_text">Kilidi aç</string>
-  <string name="sim_pin_change_miui">SIM PIN kodunu değiştir</string>
+  <string name="sim_pin_change_miui">SIM kart PIN kodunu değiştir</string>
   <string name="sim_pin_toggle_miui">SIM kartı kilitle</string>
   <string name="sim_unlock_failed">SIM SIM unlock request unsuccessful.</string>
   <string name="sim_unlock_success">SIM SIM unlock successful.</string>

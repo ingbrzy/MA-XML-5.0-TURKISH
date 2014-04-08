@@ -171,8 +171,8 @@
   <string name="menu_item_disable_3d_mode">3D etkisini kapat</string>
 <string name="menu_item_disable_audio_enhance">Ses geliştiriciyi kapat</string>
   <string name="menu_item_enable_3d_mode">3D etkisini aç</string>
-  <string name="menu_item_hide_media_info_label">Medya bilgilerini göster</string>
-  <string name="menu_item_media_info_label">Medya bilgilerini gizle</string>
+  <string name="menu_item_hide_media_info_label">Medya bilgilerini gizle</string>
+  <string name="menu_item_media_info_label">Medya bilgilerini göster</string>
   <string name="menu_item_orientation_auto_sensor_action">Döndürme etkin</string>
   <string name="menu_item_orientation_fixed_by_videosize_action">Döndürme devre dışı</string>
   <string name="menu_item_screen_shot">Ekran görüntüsü al</string>
@@ -196,7 +196,7 @@
   <string name="network_setting">Ağ Ayarları</string>
   <string name="no_comment_tip">"Boş yorum gönderilemez"</string>
   <string name="no_favorite">Favori yok</string>
-  <string name="no_filter_media">"Bir şey bulamadı. Aramanızı değiştirmeyi deneyin."</string>
+  <string name="no_filter_media">"Bir şey bulamadı. Arama terimini değiştirmeyi deneyin."</string>
   <string name="no_login_xiaomi_account">Xiaomi hesabı ile oturum açarak yorum gönderebilirsiniz</string>
   <string name="no_media">Medya yok</string>
   <string name="no_myfavorite">Yıldızlı değil</string>
@@ -213,14 +213,14 @@
   <string name="notshow_hidemedia">"Gizli dosyaları gösterme"</string>
   <string name="nowifi_alert_dialog_continue">Devam et</string>
   <string name="nowifi_alert_dialog_exit">Çıkış</string>
-  <string name="nowifi_alert_dialog_message">Video akışı için mobil ağ kullanımı, devam etmek istiyor musunuz?</string>
+  <string name="nowifi_alert_dialog_message">Video akışı için mobil ağ kullanılacak, devam etmek istiyor musunuz?</string>
   <string name="nowifi_alert_dialog_title">Trafik uyarısı !</string>
-  <string name="offline_alert_title">Caching Notification</string>
+  <string name="offline_alert_title">Önbellek bildirimleri</string>
   <string name="offline_alert_wifi">Mobil veri ağı kullanıyorsanız, duraklatılmış olan önbelleğe alma görevleri wifi ağına geçiş yaptıktan sonra devam edilecektir.</string>
   <string name="offline_continue">Devam</string>
   <string name="offline_episode">%d</string>
   <string name="offline_max_promote">Önbellek bekleniyor, en fazla 2 önbelleğe alma görevleri aynı anda çalıştırılabilir.</string>
-  <string name="offline_media">Çevrimdışı kullanılabilir</string>
+  <string name="offline_media">Çevrim dışı medya</string>
   <string name="offline_media_more">Daha fazla</string>
   <string name="offline_no_source">Kullanılabilir kaynak yok</string>
   <string name="offline_no_wifi">Wi-Fi kulanımda değil, önbelleğe almak için ayarlar sayfasında Hücresel seçeneğini kontrol edin.</string>
