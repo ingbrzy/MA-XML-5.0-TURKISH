@@ -9,7 +9,6 @@
   <string name="auth_notif_message">%1$s kaynağının bağlantı şifresini girin</string>
   <string name="auth_notif_ticker">OBEX doğrulaması gerekiyor</string>
   <string name="auth_notif_title">PBAP bağlantı şifresi isteniyor</string>
-  <string name="bluetooth_share_file_name">bluetooth_content_share</string>
   <string name="bpp_authentication_timeout_message">%1$s hedefinin bağlantı şifresinin girilmesi sırasında zaman aşımı oluştu</string>
   <string name="bpp_cancel">İptal</string>
   <string name="bpp_main">Bluetooth ile Yazdırma</string>
@@ -118,9 +117,7 @@
   <string name="permlab_bluetoothShareManager">İndirme yöneticisne giriş.</string>
   <string name="permlab_bluetoothWhitelist">Bluetooth cihazları beyaz listesine giriş.</string>
   <string name="permlab_handoverStatus">Receive BT handover transfer broadcasts.</string>
-  <string name="process"/>
   <string name="share_prepare">Bluetooth paylaşımı hazırlanıyor</string>
-  <string name="sharedUserId"/>
   <string name="start_server">TCP sunucusunu başlat</string>
   <string name="status_bpp_aborted_by_printer">Yazıcı durduruldu. Yazıcı tarafından iptal edildi.</string>
   <string name="status_bpp_canceled_by_user">Yazdırma kullanıcı tarafından iptal edildi.</string>

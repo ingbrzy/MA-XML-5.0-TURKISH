@@ -5,7 +5,7 @@
         <item></item>
         <item>Popüler</item>
         <item>Öne çıkanlar</item>
-		<item>Yeniler</item>
+        <item>Yeniler</item>
     </string-array>
     <string-array name="channel_featured_tabs">
         <item>Seçilenler</item>

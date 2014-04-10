@@ -33,7 +33,7 @@
         <item>10 saniye</item>
         <item>Diğer...</item>
     </string-array>
-	 <string-array name="resent_via_entries_sms">
+    <string-array name="resent_via_entries_sms">
         <item>SMS hizmetini kullan</item>
         <item>Cloud SMS hizmetini kullan</item>
     </string-array>

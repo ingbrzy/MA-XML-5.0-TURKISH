@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="format_for_exported_note">
-        <item>-%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-    </string-array>
     <string-array name="menu_share_ways">
         <item>Mesaj</item>
         <item>E-posta</item>
     </string-array>
-	<string-array name="contact_entries">
+    <string-array name="contact_entries">
         <item>Adı</item>
         <item>Takma adı</item>
         <item>Telefon</item>

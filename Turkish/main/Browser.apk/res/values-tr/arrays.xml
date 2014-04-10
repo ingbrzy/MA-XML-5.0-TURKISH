@@ -57,7 +57,7 @@
         <item>Sadece Wi-Fi ile</item>
         <item>Her zaman</item>
     </string-array>
-	<string-array name="menu_theme_setting">
+    <string-array name="menu_theme_setting">
         <item>Beyaz</item>
         <item>Sarı</item>
         <item>Gri</item>

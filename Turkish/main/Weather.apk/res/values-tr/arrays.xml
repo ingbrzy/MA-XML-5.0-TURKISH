@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string-array name="send_item">
+    <string-array name="send_item">
         <item>Mesaj</item>
         <item>E-posta</item>
     </string-array>
@@ -14,7 +14,7 @@
         <item>Sabah egzersiz:</item>
         <item>Boş zaman:</item>
     </string-array>
-   <string-array name="weather_image">
+    <string-array name="weather_image">
         <item>Açık</item>
         <item>Bulutlu</item>
         <item>Puslu</item>
@@ -41,7 +41,7 @@
         <item>Toz </item>
         <item>Puslu</item>
     </string-array>
-	<string-array name="weather_image_tips">
+    <string-array name="weather_image_tips">
         <item></item>
         <item></item>
         <item></item>

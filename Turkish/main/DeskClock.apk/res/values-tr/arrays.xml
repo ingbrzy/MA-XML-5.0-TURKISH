@@ -29,7 +29,7 @@
         <item>Dün</item>
         <item>Bugün</item>
         <item>Yarın</item>
-	</string-array>
+    </string-array>
     <string-array name="alarm_count_entries">
         <item>1</item>
         <item>2</item>

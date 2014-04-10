@@ -80,7 +80,7 @@
   <string name="selected_count">Seçilen :%1$d / %2$d</string>
   <string name="turn_off_xunlei_message">İndirme hızı yavaşlayabilir</string>
   <string name="turn_off_xunlei_title"> Xunlei indirme motorunu kapat</string>
-   <string name="xunlei_brand"/>
-   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_brand"/>
+  <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
   <string name="xunlei_switch">Xunlei indirme motoru</string>
 </resources>

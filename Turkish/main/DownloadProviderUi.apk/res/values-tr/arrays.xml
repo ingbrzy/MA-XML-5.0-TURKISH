@@ -2,7 +2,7 @@
 <resources>
       <string-array name="prefEntries_max_bytes_limit">
         <item>Sınırsız</item> 
-		<item>1GB</item>
+        <item>1GB</item>
         <item>100MB</item>
         <item>50MB</item>
         <item>20MB</item>
@@ -15,7 +15,7 @@
         <item>100KB</item>
         <item>Sadece Wi-Fi ile indir</item>
     </string-array>
-	<string-array name="prefValues_max_bytes_limit">
+    <string-array name="prefValues_max_bytes_limit">
         <item>2147483647</item>
         <item>1048576000</item>
         <item>104857600</item>

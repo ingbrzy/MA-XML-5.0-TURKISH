@@ -28,7 +28,7 @@
   <string name="defalut_nameofnewfile">Yeni Klasör</string>
   <string name="delete">SİL</string>
   <string name="delete_history_message">Tüm geçmişi silmek istiyor musunuz?</string>
-  <string name="device_default_name">Xiaomi MI2</string>
+  <string name="device_default_name">Xiaomi</string>
   <string name="device_name">Cihaz adı</string>
   <string name="device_name_tip">Telefon bilgisi için Git\'e basın, daha sonra aygıt adını düzenleyin.</string>
   <string name="doc">Dosyalar</string>

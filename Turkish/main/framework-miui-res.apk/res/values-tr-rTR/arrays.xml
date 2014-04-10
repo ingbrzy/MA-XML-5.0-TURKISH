@@ -10,7 +10,7 @@
         <item>Yaklaşık %2$s %3$s</item>
         <item>Yaklaşık %1$s %2$s %3$s</item>
     </string-array>
-	<string-array name="contact_entries">
+    <string-array name="contact_entries">
         <item>Adı</item>
         <item>Takma Adı</item>
         <item>Telefon</item>

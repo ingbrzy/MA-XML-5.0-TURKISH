@@ -236,7 +236,7 @@
         <item>Animasyon 5x</item>
         <item>Animasyon 10x</item>
     </string-array>
-	<string-array name="overlay_display_devices_entries">
+    <string-array name="overlay_display_devices_entries">
         <item>Hiçbiri</item>
         <item>720 x 480 mdpi</item>
         <item>1 280 x 720 tvdpi</item>
@@ -249,7 +249,7 @@
         <item>Systrace (grafik)</item>
         <item>glGetError çağrı yığını</item>
     </string-array> 
-	<string-array name="change_security_lock_picker">
+    <string-array name="change_security_lock_picker">
         <item>Yüz tanıma</item>
         <item>Desen</item>
         <item>PIN Kodu</item>
@@ -328,7 +328,7 @@
         <item>20 saniye</item>
         <item>Her zaman</item>
     </string-array>
-	   <string-array name="power_dialog_auto_clean_memory_items">
+    <string-array name="power_dialog_auto_clean_memory_items">
         <item>1 dakika sonra</item>
         <item>5 dakika sonra</item>
         <item>10 dakika sonra</item>
@@ -383,13 +383,13 @@
         <item>Google Now\'ı Başlat</item>
         <item>Açık Uygulamayı Zorla Kapat</item>
     </string-array>
-	<string-array name="screen_key_long_press_timeout">
+    <string-array name="screen_key_long_press_timeout">
         <item>0.5 saniye</item>
         <item>1 saniye</item>
         <item>1.5 saniye</item>
         <item>2 saniye</item>
     </string-array>
-	<string-array name="entries_color_calibration">
+    <string-array name="entries_color_calibration">
         <item>sRGB</item>
         <item>Doğal</item>
     </string-array>
@@ -397,17 +397,17 @@
         <item>Gürültü engelleme kapalı</item>
         <item>Gürültü engelleme açık</item>
     </string-array>
-	<string-array name="media_feedback_level_entries">
+    <string-array name="media_feedback_level_entries">
         <item>Güçlü</item>
         <item>Orta</item>
         <item>Zayıf</item>
     </string-array>
-	<string-array name="security_settings_premium_sms_values">
+    <string-array name="security_settings_premium_sms_values">
         <item>Sor</item>
         <item>Engelle</item>
         <item>Her zaman izin ver</item>
     </string-array> 
-	<string-array name="preferred_app_entries">
+    <string-array name="preferred_app_entries">
        <item>MiHome</item>
        <item>Telefon</item>
        <item>SMS</item>
@@ -424,19 +424,19 @@
         <item>1 saat</item>
         <item>Sınırsız</item>
     </string-array>
-	<string-array name="network_speed_slow_summary">
+    <string-array name="network_speed_slow_summary">
         <item>Ağ tıkanıklık nedeniyle yavaş</item>
         <item>Ağ zayıf sinyal nedeniyle yavaş</item>
         <item>Taşınıyor…</item>
     </string-array>
-<string-array name="app_ops_categories">
+    <string-array name="app_ops_categories">
         <item>Konum</item>
         <item>Özel</item>
         <item>Mesajlar</item>
         <item>Medya</item>
         <item>Cihaz</item>
     </string-array>
-	 <string-array name="app_ops_summaries">
+    <string-array name="app_ops_summaries">
         <item>Yaklaşık konum</item>
         <item>Tam konum</item>
         <item>GPS</item>
@@ -488,7 +488,7 @@
         <item>Titreşim</item>
         <item>Kişileri okuma</item>
         <item>Kişileri düzenleme</item>
-       <item>Çağrı listesini okuma</item>
+        <item>Çağrı listesini okuma</item>
         <item>Çağrı listesini düzenleme</item>
         <item>Takvimi okuma</item>
         <item>Takvimi düzenleme</item>
