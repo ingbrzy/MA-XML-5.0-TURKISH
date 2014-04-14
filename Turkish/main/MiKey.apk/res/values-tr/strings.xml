@@ -70,6 +70,6 @@
   <string name="sms_template">SMS taslağı</string>
   <string name="sms_to">SMS alıcısı:</string>
   <string name="splash_tip">MiKey\'e bağlan</string>
-  <string name="task_title_prefix">"Görev: "</string>
+  <string name="task_title_prefix">"Görev N: "</string>
   <string name="times">süre</string>
 </resources>
