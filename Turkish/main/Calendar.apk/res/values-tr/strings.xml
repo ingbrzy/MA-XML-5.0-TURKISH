@@ -144,6 +144,7 @@
   <string name="no_title_label">(Başlık yok)</string>
   <string name="not_synced">Eşitlenmedi</string>
   <string name="prefDialogTitle_vibrateWhen">Titret</string>
+  <string name="pref_title_alarm_remind">Sesli uyarı</string>
   <string name="preferences_about_title">Hakkında</string>
   <string name="preferences_alerts_popup_title">Açılır pencere bildirimi</string>
   <string name="preferences_alerts_ringtone_title">Zil sesi seç</string>
@@ -244,7 +245,7 @@
     <string name="subscribe_all">Tümünü ekle</string>
     <string name="enter_calendar">Takvim</string>
     <string name="pref_title_no_remind">Hatırlatma yok</string>
-    <string name="pref_title_notification_remind">Dikkat</string>
+    <string name="pref_title_notification_remind">Bildirim uyarısı</string>
     <string name="pref_title_alert_remind">Açılır pencere</string>
     <string name="huangli_label">Tatil</string>
     <string name="holiday_label">Tatil</string>

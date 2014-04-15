@@ -82,6 +82,7 @@
   <string name="menu_stats">FM RF Bilgileri</string>
   <string name="msg_callactive">Aktif bir arama yapılıyorken FM Tx özelliği kullanılamaz</string>
   <string name="msg_do_not_support_fm">FM bu cihazda desteklenmiyor!</string>
+  <string name="msg_fm_starting">Başlatılıyor...</string>
   <string name="msg_headsetpluggedin">FM Tx özelliğini kullanmadan önce kulaklığı çıkarın.</string>
   <string name="msg_noantenna_message">Kullanmadan önce kulaklığınızı takın.</string>
   <string name="msg_scanning">Tüm FM radyo kanalları taranıyor</string>

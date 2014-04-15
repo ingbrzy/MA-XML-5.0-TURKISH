@@ -73,6 +73,7 @@
   <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi？</string>
   <string name="confirm_restore_positive">Kurtar</string>
   <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string> 
+  <string name="confirm_send_mms">Alıcıların biri bir e-posta adresi içeriyor. Bu rapor MMS olarak gönderilecektir.</string>
   <string name="context_menu_call">Çağrı</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
   <string name="context_menu_add_to_browser_favorite">Tarayıcı favorilerine ekle</string>
