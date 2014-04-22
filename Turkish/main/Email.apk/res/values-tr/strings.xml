@@ -182,6 +182,7 @@
   <string name="accounts_welcome_exchange_alternate">Sadece birkaç adımda bir Exchange ActiveSync hesabı kurabilirsiniz.</string>
   <string name="action_bar_mailbox_list_title">Klasörler</string>
   <string name="add_account_action">Hesap ekle</string>
+   <string name="add_account">Hesap ekle</string>
   <string name="add_cc_bcc_menu">Cc/Bcc ekle</string>
   <string name="add_file_attachment">Dosya ekle</string>
   <string name="add_quick_responses_action">Yeni</string>
@@ -283,6 +284,8 @@
   <string name="format_date_uploaded">Yüklenen %s</string>
   <string name="format_progress_percent">%d%%</string>
   <string name="forward_action">Yönlendir</string>
+  <string name="forward_attribution">---------- Yönlendirilmiş mesaj ----------Kimden:%1$s, Tarih:%2$s, Konu:%3$s, Kime:%4$s,</string>
+    <string name="forward_attribution_no_headers">---------- Yönlendirilmiş mesaj ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
   <string name="from_heading">"Kimden: "</string>
