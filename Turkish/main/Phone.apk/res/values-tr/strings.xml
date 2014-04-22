@@ -642,7 +642,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="notification_missedCallTicker">%s Cevapsız çağrınız var.</string>
   <string name="notification_missedCallTitle">Cevapsız çağrı</string>
   <string name="notification_missedCall_call_back">ARA</string>
-  <string name="notification_missedCall_message">Mesaj</string>
+  <string name="notification_missedCall_message">SMS Gönder</string>
   <string name="notification_missedCallsMsg">%s Cevapsız çağrınız var.</string>
   <string name="notification_missedCallsTitle">Cevapsız çağrı</string>
   <string name="notification_network_selection_text">Seçilen şebeke (%s) kullanılamaz!</string>

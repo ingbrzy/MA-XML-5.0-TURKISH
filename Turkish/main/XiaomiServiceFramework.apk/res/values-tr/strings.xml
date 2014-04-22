@@ -75,7 +75,7 @@
   <string name="cloud_messaging">MiCloud mesajlaşma</string>
   <string name="completed">Bitti</string>
   <string name="confirm">Onayla</string>
-  <string name="current_account">Mevcut hesap</string> 
+  <string name="current_account">Varolan hesap</string> 
   <string name="data_keep_in_phone">Cihazdaki verileri koru</string>
   <string name="data_sync_notice">Xiaomi hesabı kullanarak verilerinizi senk edin</string>
   <string name="data_wipe_from_phone">Cihazımdan sil</string>
@@ -83,7 +83,7 @@
   <string name="dirty_mms_count">%d mesaj</string>
   <string name="dirty_note_count">%d not</string>
   <string name="disable_find_device_error">%1$s, Cihaz bulma devre dışı bırakılamadı</string>
-  <string name="disable_micloud">&lt;u&gt;MiCloud\'u etkinleştirmeyin&lt;/u&gt;</string> 
+  <string name="disable_micloud">&lt;u&gt;MiCloud\'u etkinleştirme&lt;/u&gt;</string> 
   <string name="enable_micloud">Cloud hizmetlerine izin ver</string> 
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
   <string name="enableAll">Hepsini etkinleştir</string>
@@ -104,12 +104,12 @@
   <string name="find_device_disabled_title">Cihaz bulma kapalı</string>
   <string name="find_device_disabling">Kapatılıyor...</string>
   <string name="find_device_enabling">Açılıyor...</string>
-  <string name="find_device_error_network">Ağ kullanılamaz</string>
+  <string name="find_device_error_network">Ağ bağlantısı hatası</string>
   <string name="find_device_error_server">Sunucu hatası</string>
   <string name="find_device_notice_p1">Telefonunuzu kaybettiğinizde burayı ziyaret edin</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
-  <string name="find_device_notice_p3">Bul, Kilitle, yada verileri sil</string>
-  <string name="find_device_success_title">Cihaz bulma etkin</string>
+  <string name="find_device_notice_p3">Cihazınızı uzaktan kontrol edebilirsiniz.</string>
+  <string name="find_device_success_title">Cihazımı bul etkin</string>
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
   <string name="forget_password">Şifremi unuttum</string> 
   <string name="get_back_pwd">Şifreyi kurtar</string> 
@@ -118,7 +118,7 @@
   <string name="input_captcha_hint">Güvenlik kodunu girin</string>
   <string name="imported_contacts"> %s kişi içe aktarıldı</string>
   <string name="input_password_hint">Şifrenizi giriniz</string>
-  <string name="int_phone_user_notice">Çin dışında bir numara kaydederken, ülke kodunu girin örnek. +44xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Çin dışında bir numara kaydederken, ülke kodunu girin örnek. +90xxxxxxxxx</string>
   <string name="internet_comm">Mesajlar</string>
   <string name="internet_message">MiCloud mesajları</string> 
   <string name="label_order_name">Ürün adı: </string>
@@ -204,7 +204,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_title_dspt" formatted="false">"Toplam alan %s
  Kullanılan %s | Boş %s"</string>
  <string name="micloud_title_full_dspt">Depolama alanınız doldu!</string>
-  <string name="micloud_use_existing">Mevcut</string>
+  <string name="micloud_use_existing">Varolan hesap</string>
    <string name="micloud_user_base_info">Kullanıcı bilgisi</string>
   <string name="micloud_user_email">E-mail</string>
   <string name="micloud_user_id">Xiaomi ID</string>
@@ -278,11 +278,11 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="update_contacts_description">Telefon rehberlerini ve diğer verileri güncelle</string>
   <string name="updated_contacts"> %s kişi güncellendi</string>
   <string name="updated_nothing">Senkronize için öğe yok</string>
-  <string name="user_agreement_p1">"Giriş yaparak, kabul etmiş olursunuz "</string>
+  <string name="user_agreement_p1">"Giriş yaparak"</string>
   <string name="user_agreement_p2">Xiaomi Hizmet Şartları</string>
   <string name="user_agreement_p3"> ve </string>
-  <string name="user_agreement_p4">Gizlilik Politikası</string>
-  <string name="user_agreement_p5">"Kayıt ederek, kabul etmiş oluyorsunuz "</string>
+  <string name="user_agreement_p4">Gizlilik Politikasını</string>
+  <string name="user_agreement_p5">"Kabul etmiş oluyorsunuz.. "</string>
   <string name="value">Değer</string>
   <string name="vcode">Doğrulama kodu</string>
   <string name="vcode_notification_title">Giriş doğrulamanız tamamlanmadı</string>

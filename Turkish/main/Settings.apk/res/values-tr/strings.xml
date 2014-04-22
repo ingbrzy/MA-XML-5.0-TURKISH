@@ -1877,7 +1877,8 @@ please follow the steps to complete installation"</string>
   <string name="power_center_battery_full">Pil tam dolu</string>
     <string name="power_center_charge_time">"Şarj: %1$s içinde
 	
-	tamamlanacak"</string>
+	
+tamamlanacak"</string>
 	<string name="power_center_consume_rank">Pil kullanımı</string>
     <string name="power_center_consume_time">%1$s kaldı</string>
     <string name="power_center_custom_summary_default">Ayarları optimize edin</string>
