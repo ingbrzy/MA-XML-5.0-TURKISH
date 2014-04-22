@@ -238,7 +238,6 @@
   <string name="contextmenu_send_mail">E-posta gönder</string>
   <string name="contextmenu_sharelink">Linki paylaş</string>
   <string name="contextmenu_sms_dot">SMS...</string>
-  <string name="contextmenu_feedback">Geri bildirim gönder</string>
   <string name="copy_email">E-posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="create_action">Yeni</string>
