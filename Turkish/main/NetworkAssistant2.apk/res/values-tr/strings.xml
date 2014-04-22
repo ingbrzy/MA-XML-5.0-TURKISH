@@ -65,7 +65,7 @@
     <string name="main_alert_message_no_mobile_package">Mobil veri limiti ayarlı değil!</string>
 	<string name="main_alert_message_slot_no_data_connection">"SIM kart yuvası desteklenmiyor.
 
-+Mobil internet erişimi yok!"</string>
+Mobil internet erişimi yok!"</string>
     <string name="main_button_idel_traffic">Limit</string>
     <string name="main_button_normal_traffic">Üst Limit</string>
     <string name="main_button_usage_adjust">Kullanılan verileri girin</string>
