@@ -8,4 +8,4 @@
     <plurals name="webview_last_num_days">
         <item quantity="other">Son %d gün</item>
     </plurals>
-+</resources>
+</resources>
