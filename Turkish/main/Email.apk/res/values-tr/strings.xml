@@ -187,6 +187,7 @@
   <string name="add_quick_responses_action">Yeni</string>
   <string name="alert_selected_all_message">" en az %d mesaj, tümü seçilsin mi？"</string>
   <string name="alert_title_selected">Tümünü seç</string>
+  <string name="always_bcc_myself">Postaları daima gizle</string>
   <string name="app_name">E-posta</string>
   <string name="application_name">Hızlı Yükleme</string>
   <string name="attachment_info_apk_install_disabled">"Uygulama E-postadan doğrudan yüklenemez. Öncelikle bu uygulamayı kaydedin ve  sonra da Dosyalar uygulamasını kullanarak yükleyin."</string>
@@ -202,6 +203,9 @@
   <string name="attachment_info_wifi_settings">Wi-Fi ayarları</string>
   <string name="attachment_not_found">"Ek indirilemedi!"</string>
   <string name="att_mgr_no_attachment">Ek yok!</string>
+  <string name="auto_advance_label">Gelişmiş </string>
+    <string name="auto_advance_summary">Bir mesajı sildikten sonra gösterilecek ekranı seçin</string>
+    <string name="auto_advance_help_title"/>
   <string name="bcc">Bcc</string>
   <string name="body_hint">Yeni E-posta</string>
   <string name="build_number">20080722-0001</string>
@@ -212,6 +216,7 @@
   <string name="cannot_move_special_mailboxes_toast">"Taslaklar, gelen kutusu içindeki mesajlar taşınamaz."</string>
   <string name="category_general_preferences">Uygulama</string>
   <string name="cc">Cc</string>
+  <string name="change_account_confirm"> \"%1$s\" hesabı silinecek!</string>
   <string name="choose_attachment_dialog_title">Eki seç</string>
   <string name="choosertitle_sharevia">İle paylaş</string>
   <string name="close_action">Kapat</string>
@@ -232,6 +237,7 @@
   <string name="contextmenu_send_mail">E-posta gönder</string>
   <string name="contextmenu_sharelink">Linki paylaş</string>
   <string name="contextmenu_sms_dot">SMS...</string>
+  <string name="contextmenu_feedback">Geri bildirim gönder</string>
   <string name="copy_email">E-posta adresini kopyala</string>
   <string name="copy_number">Telefon numarasını kopyala</string>
   <string name="create_action">Yeni</string>
@@ -270,6 +276,8 @@
   <string name="failed_network_error">Ağ hatası</string>
   <string name="failed_server_auth">Kimlik doğrulama hatası</string>
   <string name="favorite_action">Yıldız</string>
+  <string name="feedback">Geribildirim gönder</string>
+    <string name="feedback_body">Açıklamanızı yazın</string>
   <string name="finished_empty">Liste boş.</string>
   <string name="Folders">Klasörler</string>
   <string name="format_date_uploaded">Yüklenen %s</string>
@@ -286,6 +294,10 @@
   <string name="general_preference_auto_advance_newer">Yeni mesaj</string>
   <string name="general_preference_auto_advance_older">Eski mesaj</string>
   <string name="general_preference_auto_advance_summary">Silinen mesajın hangi ekranda görüntüleneceğini seçin</string>
+  <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
+    <string name="general_preference_confirm_delete_summary">Mesajlar</string>
+    <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
+    <string name="general_preference_confirm_send_summary">Mesajlar</string>
   <string name="general_preference_reply_all_label">Tümünü Yanıtla</string>
   <string name="general_preference_reply_all_summary"> \"Reply all\" varsayılan mesaj yanıtları yap</string>
   <string name="general_preference_text_zoom_dialog_title">Mesaj yazı boyutu</string>
@@ -298,6 +310,7 @@
   <string name="general_preferences_clear_trusted_senders_summary">"Mesajların içindeki resimler otomatik olarak gösterilmeyecektir"</string>
   <string name="general_preferences_clear_trusted_senders_title">Resim göstermeyi sor</string>
   <string name="header_label_general_preferences">Genel</string>
+  <string name="local_search">Yerel arama</string>
   <string name="login_failed_ticker">%s oturum açma başarısız.</string>
   <string name="login_failed_title">"Oturum açılamadı"</string>
   <string name="long_string">-----------------------------------------------------------------</string>
@@ -483,6 +496,7 @@ CC: %4$s
   <string name="picker_mailbox_name_all_unread">Gelen kutusu (okunmamış)</string>
   <string name="plus_cc_label">+ Cc/Bcc</string>
   <string name="position_of_count">%1$d of %2$s</string>
+  <string name="prefDialogTitle_conversationListIcon">Gönderici resmi</string>
   <string name="preference_category_title_about">Hakkında</string>
   <string name="preference_category_title_general">Genel</string>
   <string name="preference_category_title_photos">Fotolar</string>
@@ -506,12 +520,20 @@ CC: %4$s
   <string name="preference_plus_sync_while_roaming_summary">Dolaşımda iken foto ve video yükle</string>
   <string name="preference_plus_title">Hızlı yükleme ayarları</string>
   <string name="preference_plus_upload_status">Yükleme durumu</string>
+  <string name="preference_sender_image_title">Gönderici resmi</string>
+    <string name="preference_sender_image_description">Konuşma listesinde adının yanındaki resmi göster</string>
+    <string name="preferences_signature_title">İmza</string>
+    <string name="preferences_signature_dialog_title">İmza</string>
+    <string name="preferences_signature_summary_not_set">Ayarlanmadı</string>
   <string name="preference_summary_header_format">%1$s: %2$s</string>
   <string name="preference_summary_need_power">Telefon şarj olduğunda yükle.</string>
   <string name="preference_summary_need_wifi">Wi-Fi kullanılabilir olduğunda yükle.</string>
   <string name="preference_summary_uploading_format">: %1$d of %2$d</string>
   <string name="preference_summary_uploading_paused">Duraklatıldı: devam etmek için dokunun</string>
   <string name="preference_summary_uploading_percent">Yükleniyor (%1$d%%)</string>
+   <string name="preference_swipe_title_archive">Arşivlemek için kaydırın</string>
+    <string name="preference_swipe_title_delete">Silmek için kaydırın</string>
+    <string name="preference_swipe_description">Sohbet listesindeki öğeler için.</string>
   <string name="preference_title_camera_sync_version">Hızlı yükleme sürümü</string>
   <string name="preference_title_need_power">Güç</string>
   <string name="preference_title_need_wifi">Wi-Fi bağlantısı gerekiyor</string>
@@ -531,6 +553,8 @@ CC: %4$s
   <string name="refresh_action">Yenile</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing">Yenileniyor…</string>
+  <string name="remove_account">Hesabı kaldır</string>
+  <string name="remove_account_confirm"> \"%1$s\" hesabı kaldırılacak.</string>
   <string name="remove_star_action">Yıldızı kaldır</string>
   <string name="reply_action">Cevapla</string>
   <string name="reply_all_action">Tümünü cevapla</string>

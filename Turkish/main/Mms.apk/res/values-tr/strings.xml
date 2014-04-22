@@ -255,7 +255,7 @@
   <string name="number_add_hint">Özel kişileri de dahil etmek için numarasını girin</string> 
   <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
   <string name="notification_failed_multiple_title">İletiler gönderilmedi</string>
-  <string name="notification_multiple">%s okunmamış ileti.</string>
+  <string name="notification_multiple">%s okunmamış mesajınız var</string>
   <string name="notification_multiple_title">Yeni iletiler</string>
   <string name="overwrite_edited_content">Düzenlenen içeriğin üzerine yazılacak. Devam edilsin mi?</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
