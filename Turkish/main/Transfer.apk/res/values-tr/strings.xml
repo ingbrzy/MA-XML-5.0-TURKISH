@@ -56,6 +56,7 @@
   <string name="failed">Başarısız</string>
    <string name="file_download">Dosyayı indir</string>
   <string name="file_downloading">Dosya indiriliyor...</string>
+   <string name="file_not_exist">Dosya mevcut değil!</string>
   <string name="file_restore">Dosyaları geri yükle</string>
   <string name="file_share_download_complete">Paylaşılan dosyalar başarıyla alındı!</string>
   <string name="file_share_upload_complete">Paylaşılan dosya başarıyla yüklendi</string>

@@ -63,6 +63,9 @@
     <string name="lock_screen_traffic_warn_title">Mobil veri uyarısı</string>
     <string name="main_alert_message_no_imsi">SIM kart yok!</string>
     <string name="main_alert_message_no_mobile_package">Mobil veri limiti ayarlı değil!</string>
+	<string name="main_alert_message_slot_no_data_connection">"SIM kart yuvası desteklenmiyor.
+
++Mobil internet erişimi yok!"</string>
     <string name="main_button_idel_traffic">Limit</string>
     <string name="main_button_normal_traffic">Üst Limit</string>
     <string name="main_button_usage_adjust">Kullanılan verileri girin</string>
@@ -84,6 +87,7 @@ Kullanılan"</string>
     <string name="network_control">Uygulama ayarları</string>
     <string name="notification_content_title">Kısıtlı ike %1$s kullanıldı</string>
     <string name="notification_title">%1$s-%2$s: %3$s Kullanılan</string>
+	<string name="ok_button">TAMAM</string>
     <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
     <string name="permit_running_network">Arka plan verilerini aç</string>
     <string name="person_hotpot">Mobil İnternet paylaşımı</string>

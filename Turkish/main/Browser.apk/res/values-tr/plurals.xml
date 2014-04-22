@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <plurals name="webview_matches_found">
+        <item quantity="other">%1$d / %2$d</item>
+        <item quantity="one">1 sonuç bulundu.</item>
+    </plurals>
+    <plurals name="webview_last_num_days">
+        <item quantity="other">Son %d gün</item>
+    </plurals>
++</resources>
