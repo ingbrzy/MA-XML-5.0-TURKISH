@@ -454,6 +454,7 @@ CC: %4$s
   <string name="move_action">Taşı</string>
   <string name="move_to_folder_dialog_title">Buraya taşı</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
+   <string name="new_messages">%1$d yeni mesajınız var.</string>
   <string name="newer_action">Daha yeni</string>
   <string name="next_action">Sonraki</string>
      <string name="no_mails">Posta yok!</string>
@@ -463,6 +464,7 @@ CC: %4$s
   <string name="notify_paused">Yüklemeler durduruldu</string>
   <string name="notify_resolved">Yüklemeler bitti</string>
   <string name="notify_uploads">Hızlı Yükleme</string>
+  <string name="not_updated_yet">Güncellenmedi</string>
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
   <string name="older_action">Daha eski</string>
@@ -548,11 +550,13 @@ CC: %4$s
   <string name="previous_action">Önceki</string>
   <string name="provider_note_live">"Sadece bazı Plus hesaplara bu programın bağlanmasına izin veren POP erişimi içerir. Eğer doğru E-posta adresi ve şifre ile oturum açamıyorsanız, ücretli bir Plus hesabınız yok demektir. Bu E-posta hesaplarına erişmek için Web tarayıcınızı başlatın."</string>
   <string name="provider_note_t_online">Bu E-posta hesabını ayarlamadan önce, T-Online web sitesini ziyaret edin ve POP3 e-posta erişimi için bir şifre oluşturun.</string>
+  <string name="pull_to_refresh">Yenilemek için çekin</string>
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="read_action">Okundu olarak işaretle</string>
   <string name="refresh_action">Yenile</string>
   <string name="refresh">Yenile</string>
   <string name="refreshing">Yenileniyor…</string>
+  <string name="release_to_refresh">Yenilemek için bırakın</string>
   <string name="remove_account">Hesabı kaldır</string>
   <string name="remove_account_confirm"> \"%1$s\" hesabı kaldırılacak.</string>
   <string name="remove_star_action">Yıldızı kaldır</string>
@@ -612,6 +616,8 @@ CC: %4$s
   <string name="toast_mailbox_not_found">"Klasör bulunamadı, kaldırılmış olabilir."</string>
   <string name="trusted_senders_cleared">Resimleri Göster temizlendi.</string>
   <string name="unread_action">Okunmamış olarak işaretle</string>
+  <string name="updated_at">Son güncelleme: %1$s</string>
+  <string name="updated_just_now">Şimdi güncellendi.</string>
   <string name="upload">Yükle</string>
   <string name="upload_state_completed">Bitti</string>
   <string name="upload_state_failed">Başarısız</string>
