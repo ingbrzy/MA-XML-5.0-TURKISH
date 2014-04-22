@@ -1,15 +1,48 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="general_preference_text_zoom_summary_array">
-        <item>Çok küçük yazı tipi</item>
-        <item>Küçük yazı tipi</item>
-        <item>Norml yazı tipi</item>
-        <item>Büyük yazı tipi</item>
-        <item>Çok büyük yazı tipi</item>
+    <string-array name="compose_modes">
+        <item>Cevapla</item>
+        <item>Tümünü cevapla</item>
+        <item>Yönlendir</item>
     </string-array>
-    <string-array name="general_preference_auto_advance_summary_array">
-        <item>"Mesajları temizledikten sonra en son mesajları göster"</item>
-        <item>"Mesajları temizledikten sonra daha eski mesajları göster"</item>
-        <item>"Mesajları temizledikten sonra daha eski mesajları göster"</item>
+    <string-array name="sync_status">
+        <item>Başarılı</item>
+        <item>Bağlantı yok.</item>
+        <item>"Giriş yapılamıyor."</item>
+        <item>Güvenlik hatası.</item>
+        <item>"Senkronize edilemiyor."</item>
+        <item>Hata</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Sistem</item>
+        <item>Sık kullanılan</item>
+        <item>Tüm klasörler</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Yeni</item>
+        <item>Eski</item>
+        <item>Sohbet listesi</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Sildikten sonra yeni mesajları göster</item>
+        <item>Sildikten sonra eski mesajları göster</item>
+          <item>Sildikten sonra sohbet listesini göster</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Arşivi göster</item>
+        <item>Silinenleri göster</item>
+        <item>Arşiv ve silinenleri göster</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+       <item>Arşivi göster</item>
+        <item>Silinenleri göster</item>
+        <item>Arşiv ve silinenleri göster</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Varsayılan</item>
+        <item>Biçim</item>
+        <item>Adı</item>
+        <item>Gönderen</item>
+        <item>Tarih</item>
     </string-array>
 </resources>

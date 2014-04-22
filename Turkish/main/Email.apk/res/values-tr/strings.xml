@@ -201,6 +201,7 @@
   <string name="attachment_info_wifi_only">Ek boyutu mobil şebeke için çok büyük, daha sonra Wi-Fi bağlantısı ile indirin.</string>
   <string name="attachment_info_wifi_settings">Wi-Fi ayarları</string>
   <string name="attachment_not_found">"Ek indirilemedi!"</string>
+  <string name="att_mgr_no_attachment">Ek yok!</string>
   <string name="bcc">Bcc</string>
   <string name="body_hint">Yeni E-posta</string>
   <string name="build_number">20080722-0001</string>
@@ -217,6 +218,9 @@
   <string name="completed_no_file">Dosya bulunamadı</string>
   <string name="compose_action">Oluştur</string>
   <string name="compose_title">Oluştur</string>
+  <string name="contact_list_title">Kişiler</string>
+  <string name="contact_list_add_btn">Ekle</string>
+   <string name="contact_list_search_hint">Kişilerde ara</string>
   <string name="contextmenu_add_contact">Kişi ekle</string>
   <string name="contextmenu_copy">Kopyala</string>
   <string name="contextmenu_copylink"> URL adresini kopyala</string>
@@ -267,11 +271,14 @@
   <string name="failed_server_auth">Kimlik doğrulama hatası</string>
   <string name="favorite_action">Yıldız</string>
   <string name="finished_empty">Liste boş.</string>
+  <string name="Folders">Klasörler</string>
   <string name="format_date_uploaded">Yüklenen %s</string>
   <string name="format_progress_percent">%d%%</string>
   <string name="forward_action">Yönlendir</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
   <string name="forward_download_failed_title">Ekler yönlendirilemedi</string>
+  <string name="from_heading">"Kimden: "</string>
+  <string name="from">Kimden</string>
   <string name="gal_searching_fmt">Aranıyor %s...</string>
   <string name="general_preference_auto_advance_dialog_title">Gelişmiş</string>
   <string name="general_preference_auto_advance_label">Gelişmiş</string>
@@ -305,9 +312,18 @@
   <string name="mailbox_name_display_junk">Önemsiz</string>
   <string name="mailbox_name_display_outbox">Giden kutusu</string>
   <string name="mailbox_name_display_sent">Giden</string>
+   <string name="mailbox_name_display_starred">Yıldızlı</string>
   <string name="mailbox_name_display_trash">Çöp</string>
   <string name="mailbox_name_display_unread">Okunmamış</string>
   <string name="mailbox_preferences_header">Senkronize ayarları</string>
+  <string name="mailbox_name_server_inbox">Gelen kutusu</string>
+    <string name="mailbox_name_server_outbox">Giden kutusu</string>
+    <string name="mailbox_name_server_drafts">Taslaklar</string>
+    <string name="mailbox_name_server_trash">Çöp</string>
+    <string name="mailbox_name_server_sent">Gönderilen</string>
+    <string name="mailbox_name_server_junk">Artık</string>
+    <string name="mailbox_name_server_starred">Yıldızsız</string>
+    <string name="mailbox_name_server_all_unread">Okunmamış</string>
   <string name="mailbox_settings_action">Senkronize ayarları</string>
   <string name="mailbox_settings_activity_title">Senkronize ayarları</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Senkronize ayarları(%s)</string>
@@ -330,11 +346,20 @@
   <string name="manager_view_media">Bak</string>
   <string name="manager_view_pending">Bekleyenlere gözat</string>
   <string name="mark_as_unread_action">Okunmamış olarak işaretle</string>
+  <string name="menu_att_mgr">Ekler</string>
+    <string name="menu_att_mgr_order_default">Varsayılan</string>
+    <string name="menu_att_mgr_order_mime">Biçime göre sırala</string>
+    <string name="menu_att_mgr_order_name">Ada göre sırala</string>
+    <string name="menu_att_mgr_order_sender">Göndericiye göre sırala</string>
+    <string name="menu_att_mgr_order_rev_date">Tarihe göre sırala</string>
+	<string name="menu_att_mgr_order_size">Boyuta göre sırala</string>
+  <string name="menu_compose">Yaz</string>
   <string name="menu_hide_completed_items">Detayları gizle</string>
   <string name="menu_hide_pending_items">Bekleyen yüklemeleri gizle</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_show_completed_items">Detayları göster</string>
   <string name="menu_show_pending_items">Bekleyen yüklemeleri göster</string>
+   <string name="menu_search">Ara</string>
   <string name="menu_view_online">Çevrimiçi gözat</string>
   <string name="message_compose_attachment_size">Ek dosyası çok büyük.</string>
   <string name="message_compose_bcc_hint">Bcc</string>
@@ -418,6 +443,7 @@ CC: %4$s
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
   <string name="newer_action">Daha yeni</string>
   <string name="next_action">Sonraki</string>
+     <string name="no_mails">Posta yok!</string>
   <string name="notification_multiple_new_messages_fmt">%1$d yeni mesaj</string>
   <string name="notification_to_account">to %1$s</string>
   <string name="notify_activation_reminder">"Hızlı yükleme henüz etkin değil"</string>
@@ -503,6 +529,8 @@ CC: %4$s
   <string name="quick_responses_empty_view">Hızlı cevap yok</string>
   <string name="read_action">Okundu olarak işaretle</string>
   <string name="refresh_action">Yenile</string>
+  <string name="refresh">Yenile</string>
+  <string name="refreshing">Yenileniyor…</string>
   <string name="remove_star_action">Yıldızı kaldır</string>
   <string name="reply_action">Cevapla</string>
   <string name="reply_all_action">Tümünü cevapla</string>
@@ -514,9 +542,11 @@ CC: %4$s
   <string name="save_action">Kaydet</string>
   <string name="save_draft_action">Taslağı kaydet</string>
   <string name="search_action">Ara</string>
+  <string name="search_attachment">Ara</string>
   <string name="search_header_text_fmt">Sonuçlar</string>
   <string name="search_hint">E-posta ara</string>
   <string name="search_mailbox_hint">Ara %1$s</string>
+  <string name="search_result">Arama sonucu :</string>
   <string name="search_slow_warning_message">Bazı sunucularda bu işlem uzun zaman alabilir.</string>
   <string name="search_slow_warning_title">Sonuçlar bekleniyor</string>
   <string name="security_notification_content_title">Güvenlik güncellemesi gerekiyor</string>
@@ -528,6 +558,7 @@ CC: %4$s
   <string name="show_quick_text_list_dialog_action">Hızlı cevap ekle</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+<string name="sort_attachment">Sırala</string>
   <string name="status_loading_messages">Mesaj yükleniyor…</string>
   <string name="status_network_error">Bağlantı hatası.</string>
   <string name="subject_hint">Konu</string>
@@ -547,6 +578,7 @@ CC: %4$s
   <string name="summary_title_finished">Bitti</string>
   <string name="summary_title_paused">Duraklatıldı</string>
   <string name="summary_title_uploading">Yükleniyor</string>
+  <string name="swipe_down_to_refresh">Yenilemek için aşağıya kaydırın</string>
   <string name="system_account_create_failed">"Yeni hesap oluşturulamadı, tekrar deneyin"</string>
   <string name="to">Kime</string>
   <string name="toast_account_not_found">"Hesap bulunamadı, kaldırılmış olabilir."</string>
