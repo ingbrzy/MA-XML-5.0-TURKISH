@@ -327,4 +327,11 @@
   <string name="vip_recommend_title">Yüksek kaliteli müzik</string>
   <string name="where_is_barcode">"QR kodu nerede?"</string>
    <string name="xiaomi_account_setting">Xiaomi hesabı</string>
+     <string name="load_recommend_in_process">Yükleniyor ...</string>
+    <string name="load_recommend_failed">Yüklenemedi!</string>
+    <string name="click_to_play_all">Hepsini Oynat</string>
+    <string name="collect_topic_success">Albüm favorite eklendi</string>
+    <string name="collect_bill_success">Bill favorite eklendi</string>
+    <string name="collect_fm_success">Yer imlerine eklendi</string>
+    <string name="uncollect_success">Favorilere toplandı</string>
 </resources>

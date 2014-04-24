@@ -1222,6 +1222,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="immediately_destroy_activities_summary">Kullanıcının ayrıldığı her etkinliği hemen yok et</string>
   <string name="ims_reg_required_off">IMS kaydını gerektirmeyi kapat</string>
   <string name="ims_reg_required_on">IMS kaydını gerektirmeyi aç</string>
+  <string name="incoming_call_breathing_light_freq_title">Gelen aramalar için LED frekansı</string>
+  <string name="incoming_call_breathing_light_color_title">Gelen aramalar LED rengi</string>
   <string name="incoming_call_vibrate_abbreviation">Aramalar</string>
   <string name="incoming_call_volume_title">Zil sesi</string>
   <string name="input_method">Giriş yöntemi</string>
@@ -1527,6 +1529,8 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="miui_screensaver_state_on">Açık</string>
   <string name="miui_screensaver_title">Ekran Koruyucu</string>
   <string name="miui_screensaver_usage">Etkinleştirildiğinde, albümdeki resimler ekran kapandıktan sonra tekrarlanarak gösterilir.</string>
+  <string name="mms_breathing_light_freq_title">Mesajlar için LED frekansı</string>
+  <string name="mms_breathing_light_color_title">Mesajlar LED rengi</string>
   <string name="mms_vibrate_abbreviation">Mesajlar</string>
   <string name="mms_log_tab_title">Message log</string>
   <string name="model_number">Model numarası</string>
@@ -1586,6 +1590,8 @@ please follow the steps to complete installation"</string>
   <string name="no_services">Etkin değil</string>
   <string name="noise_suppression">Gürültü engelleme</string>
   <string name="normal_date_format">Bölgesel (%s)</string>
+  <string name="notification_breathing_light_color_title">Bildirim LED rengi</string>
+  <string name="notification_breathing_light_freq_title">Bildirimler için LED frekansı</string>
   <string name="notification_button_text_of_low_memory">Düşük hafıza!</string>
     <string name="notification_title_of_low_memory">%s için kullanılan sistem alanı</string>
     <string name="notification_summary_of_low_memory">Yeterli alan yok, uygulama yüklenemiyor!</string>
@@ -2098,8 +2104,12 @@ tamamlanacak"</string>
   <string name="private_sms_need_to_unlock">Özel SMS şifrenizi giriniz</string>
   <string name="private_sms_recording_intro_header">Kilit şifresi oluşturmak için deseni çiziniz</string>
   <string name="private_sms_reset_by_account">Özel SMS şifrenizi sıfırlamak için Xiaomi hesabınızla giriş yapınız</string>
+   <string name="preferred_sms_warning_message"> \"%1$s\" , mobil veri kullanımını yükseltebilir. Ayrıca güvenliğinizi tehlikeye atabilir.</string>
+   <string name="preferred_sms_warning_use_system">Kullanılmayan</string>
+   <string name="preferred_sms_settings">Bu uygulama, SMS mesajlarını almak ve göndermek için varsayılan olacaktır.</string>
+   <string name="preferred_sms_title">Varsayılan SMS uygulaması</string>
   <string name="process_kernel_label">Android İS</string>
-  <string name="process_list_empty_hints">No cached processes.</string>
+  <string name="process_list_empty_hints">Önbelleğe alınan işlem yok.</string>
   <string name="process_manage_title"> %1$d işlem temizlendi,  %2$s boş bellek</string>
   <string name="process_manager_actionbar_title">Bellek kullanımı</string>
   <string name="process_mediaserver_label">Medya sunucusu</string>

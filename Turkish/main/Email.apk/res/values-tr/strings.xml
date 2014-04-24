@@ -209,6 +209,7 @@
     <string name="auto_advance_help_title"/>
   <string name="bcc">Bcc</string>
   <string name="body_hint">Yeni E-posta</string>
+  <string name="blank_feedback_toast">Lütfen bir geribildirim yazın!</string>
   <string name="build_number">20080722-0001</string>
   <string name="cancel">İptal</string>
   <string name="cancel_action">İptal</string>
@@ -224,6 +225,8 @@
   <string name="completed_no_file">Dosya bulunamadı</string>
   <string name="compose_action">Oluştur</string>
   <string name="compose_title">Oluştur</string>
+  <string name="conversation_item_mark_read">Okunmuş</string>
+  <string name="conversation_item_mark_unread">Okunmamış</string>
   <string name="contact_list_title">Kişiler</string>
   <string name="contact_list_add_btn">Ekle</string>
    <string name="contact_list_search_hint">Kişilerde ara</string>
@@ -250,7 +253,7 @@
   <string name="debug_force_one_minute_refresh_label">POP/IMAP için güçlü 1-dakika yenileme</string>
   <string name="debug_title">Hata ayıklama</string>
   <string name="debug_version_fmt">Sürüm: %s</string>
-  <string name="default_signature">MiPHONE ile gönderildi</string>
+  <string name="default_signature">MIUI ile gönderildi</string>
   <string name="delete_action">Sil</string>
   <string name="delete_quick_response_action">Sil</string>
   <string name="destination_format">%1$s \"%2$s\"</string>
@@ -470,6 +473,10 @@ CC: %4$s
   <string name="ok">Tamam</string>
   <string name="okay_action">Tamam</string>
   <string name="older_action">Daha eski</string>
+  <string name="outbox_alert_title_sent_failed">Gönderilemedi!</string>
+  <string name="outbox_alert_description_sent_failed">"Dosya ek boyut limitini aşıyor
+"</string>
+  <string name="outbox_alert_button_confirm">Upraviť</string>
   <string name="password_expire_warning_content_title">Kilit ekranı şifre süresi doldu</string>
   <string name="password_expire_warning_dialog_content_fmt">Yakında zamanda kilit ekranı PIN veya parolasını değiştirmelisiniz, ya da  %s için veriler silinecek. Şimdi değiştirilsin mi?</string>
   <string name="password_expire_warning_dialog_title">Kilit ekranı şifre süresi doldu</string>

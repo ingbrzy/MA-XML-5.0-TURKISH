@@ -91,10 +91,14 @@
         <item quantity="other">%1$d eski mesaj var.</item>
     </plurals>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">%1$d okunmamış mesaj</item>
+        <item quantity="other">%1$d okunmamış mesajınız var</item>
     </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d mesaj kalıcı olarak silinecektir.</item>
         <item quantity="one">%1$d mesaj kalıcı olarak silinecektir.</item>
+    </plurals>
+	<plurals name="contact_num_selected">
+        <item quantity="other">%d numara seçildi</item>
+        <item quantity="one">1 numara seçildi</item>
     </plurals>
 </resources>
