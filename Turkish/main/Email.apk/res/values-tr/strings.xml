@@ -184,13 +184,17 @@
   <string name="add_account_action">Hesap ekle</string>
    <string name="add_account">Hesap ekle</string>
   <string name="add_cc_bcc_menu">Cc/Bcc ekle</string>
+    <string name="add_cc_label">Cc/Bcc ekle</string>
+    <string name="add_bcc_label">Bcc ekle</string>
   <string name="add_file_attachment">Dosya ekle</string>
   <string name="add_quick_responses_action">Yeni</string>
+  <string name="add_star">Yıldız ekle</string>
   <string name="alert_selected_all_message">" en az %d mesaj, tümü seçilsin mi？"</string>
   <string name="alert_title_selected">Tümünü seç</string>
   <string name="always_bcc_myself">Postaları daima gizle</string>
   <string name="app_name">E-posta</string>
   <string name="application_name">Hızlı Yükleme</string>
+   <string name="archived">Arşivlendi</string>
   <string name="attachment_info_apk_install_disabled">"Uygulama E-postadan doğrudan yüklenemez. Öncelikle bu uygulamayı kaydedin ve  sonra da Dosyalar uygulamasını kullanarak yükleyin."</string>
   <string name="attachment_info_application_settings">Uygulama Ayarları</string>
   <string name="attachment_info_dialog_default_title">Ek bilgisi</string>
@@ -213,6 +217,7 @@
   <string name="build_number">20080722-0001</string>
   <string name="cancel">İptal</string>
   <string name="cancel_action">İptal</string>
+  <string name="cancel_attachment">İptal</string>
   <string name="cannot_move_multiple_accounts_toast">"Seçim birden fazla hesap içerdiğinden taşınamaz."</string>
   <string name="cannot_move_protocol_not_supported_toast">"POP3 hesaplarında taşıma desteklenmez."</string>
   <string name="cannot_move_special_mailboxes_toast">"Taslaklar, gelen kutusu içindeki mesajlar taşınamaz."</string>
@@ -254,6 +259,13 @@
   <string name="debug_title">Hata ayıklama</string>
   <string name="debug_version_fmt">Sürüm: %s</string>
   <string name="default_signature">MIUI ile gönderildi</string>
+  <string name="default_imap">IMAP</string>
+    <string name="default_pop3">POP3</string>
+    <string name="default_exchange">EXCHANGE</string>
+    <string name="default_setup">Varsayılan ayarlar</string>
+    <string name="default_">Varsayılan</string>
+  <string name="delete">Sil</string>
+   <string name="deleted">Silindi</string>
   <string name="delete_action">Sil</string>
   <string name="delete_quick_response_action">Sil</string>
   <string name="destination_format">%1$s \"%2$s\"</string>
@@ -270,6 +282,12 @@
   <string name="discard_action">Sil</string>
   <string name="done">Tamam</string>
   <string name="done_action">Tamam</string>
+   <string name="download_confirm_title">İndirme onayı</string>
+    <string name="download_confirm_message">Bu dosyayı açmak için,%1$s ekin 180KBını indirmeniz gerekiyor.</string>
+    <string name="downlaod_confirm_download">İndir</string>
+    <string name="download_cancel_confirm_title">İndirme iptal edilsin mi?</string>
+    <string name="downlaod_cancel_confirm_download">İndirmeyi iptal et</string>
+    <string name="downlaod_cancel_continue_download">İptal</string>
   <string name="edit_quick_response_dialog">Hızlı cevap düzenle</string>
   <string name="eml_view_title">Görüntüleniyor %s</string>
   <string name="error_loading_message_body">"Mesaj metni yüklenemedi.Mesajı görüntülemek için çok büyük olabilir."</string>
@@ -286,6 +304,7 @@
   <string name="format_date_uploaded">Yüklenen %s</string>
   <string name="format_progress_percent">%d%%</string>
   <string name="forward_action">Yönlendir</string>
+   <string name="forward_attachment">Yönlendir</string>
   <string name="forward_attribution">---------- Yönlendirilmiş mesaj ----------Kimden:%1$s, Tarih:%2$s, Konu:%3$s, Kime:%4$s,</string>
     <string name="forward_attribution_no_headers">---------- Yönlendirilmiş mesaj ----------</string>
   <string name="forward_download_failed_ticker">"Bir veya daha fazla ek yönlendirilemedi."</string>
@@ -315,6 +334,7 @@
   <string name="general_preferences_clear_trusted_senders_summary">"Mesajların içindeki resimler otomatik olarak gösterilmeyecektir"</string>
   <string name="general_preferences_clear_trusted_senders_title">Resim göstermeyi sor</string>
   <string name="header_label_general_preferences">Genel</string>
+  <string name="input_password_prompt">Lütfen şifrenizi girin:</string>
   <string name="local_search">Yerel arama</string>
   <string name="login_failed_ticker">%s oturum açma başarısız.</string>
   <string name="login_failed_title">"Oturum açılamadı"</string>
@@ -363,6 +383,8 @@
   <string name="manager_view_completed">Bitenlere gözat</string>
   <string name="manager_view_media">Bak</string>
   <string name="manager_view_pending">Bekleyenlere gözat</string>
+   <string name="mark_read">Okunmuş</string>
+    <string name="mark_unread">Okunmamış</string>
   <string name="mark_as_unread_action">Okunmamış olarak işaretle</string>
   <string name="menu_att_mgr">Ekler</string>
     <string name="menu_att_mgr_order_default">Varsayılan</string>
@@ -374,6 +396,9 @@
   <string name="menu_compose">Yaz</string>
   <string name="menu_hide_completed_items">Detayları gizle</string>
   <string name="menu_hide_pending_items">Bekleyen yüklemeleri gizle</string>
+  <string name="menu_manage_folders">Klasörleri yönet</string>
+  <string name="menu_move_to">Taşı</string>
+    <string name="menu_move_to_inbox">Gelen kutusuna taşı</string>
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_show_completed_items">Detayları göster</string>
   <string name="menu_show_pending_items">Bekleyen yüklemeleri göster</string>
@@ -458,11 +483,20 @@ CC: %4$s
   <string name="more_than_999">999+</string>
   <string name="move_action">Taşı</string>
   <string name="move_to_folder_dialog_title">Buraya taşı</string>
+  <string name="move_to_selection_dialog_title">Başka klasöre taşındı</string>
   <string name="multiple_new_message_notification_item">"%1$s  %2$s"</string>
    <string name="new_messages">%1$d yeni mesajınız var.</string>
   <string name="newer_action">Daha yeni</string>
   <string name="next_action">Sonraki</string>
      <string name="no_mails">Posta yok!</string>
+	 <string name="notification_action_reply">Cevapla</string>
+    <string name="notification_action_reply_all">Tümünü cevapla</string>
+    <string name="notification_action_archive">Arşivle</string>
+    <string name="notification_action_remove_label">Etiketi kaldır</string>
+    <string name="notification_action_delete">Sil</string>
+    <string name="notification_action_undo_archive">Arşivlendi</string>
+    <string name="notification_action_undo_remove_label">etiket kaldırıldı</string>
+    <string name="notification_action_undo_delete">Silindi</string>
   <string name="notification_multiple_new_messages_fmt">%1$d yeni mesaj</string>
   <string name="notification_to_account">to %1$s</string>
   <string name="notify_activation_reminder">"Hızlı yükleme henüz etkin değil"</string>
@@ -568,7 +602,11 @@ CC: %4$s
   <string name="release_to_refresh">Yenilemek için bırakın</string>
   <string name="remove_account">Hesabı kaldır</string>
   <string name="remove_account_confirm"> \"%1$s\" hesabı kaldırılacak.</string>
+  <string name="remove_folder">%1$s\'den kaldır</string>
   <string name="remove_star_action">Yıldızı kaldır</string>
+  <string name="remove_star">Yıldızı kaldır</string>
+  <string name="reply">Cevapla</string>
+  <string name="reply_all">Tümünü cevapla</string>
   <string name="reply_action">Cevapla</string>
   <string name="reply_all_action">Tümünü cevapla</string>
   <string name="require_manual_sync_message">Dolaşım sırasında bu hesap için arka plan senkronize hizmetleri devre dışı bırakılır.</string>
@@ -577,6 +615,7 @@ CC: %4$s
   <string name="retry_in_5min">5 dakika</string>
   <string name="retry_no_data">Bağlantı yok</string>
   <string name="save_action">Kaydet</string>
+  <string name="save_attachment">Kaydet</string>
   <string name="save_draft_action">Taslağı kaydet</string>
   <string name="search_action">Ara</string>
   <string name="search_attachment">Ara</string>
@@ -592,12 +631,15 @@ CC: %4$s
   <string name="set_star_action">Yıldız ekle</string>
   <string name="settings_action">Ayarlar</string>
   <string name="settings_activity_title">Ayarlar</string>
+  <string name="sharing">Paylaş</string>
   <string name="show_quick_text_list_dialog_action">Hızlı cevap ekle</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
 <string name="sort_attachment">Sırala</string>
   <string name="status_loading_messages">Mesaj yükleniyor…</string>
   <string name="status_network_error">Bağlantı hatası.</string>
+  <string name="str_select_all">Tümünü seç</string>
+  <string name="str_select_none">Seçimi kaldır</string>
   <string name="subject_hint">Konu</string>
   <string name="summary_menu_show_finished">Biten yüklemeleri göster</string>
   <string name="summary_menu_show_pending">Bekleyen yüklemeleri göster</string>
@@ -646,4 +688,6 @@ CC: %4$s
   <string name="widget_starred">Yıldızlı</string>
   <string name="widget_touch_to_configure">Ayarlamak için dokunun.</string>
   <string name="widget_unread">Okunammış</string>
+  <string name="wrong_password">Şifre yanlış!</string>
+  <string name="zip_viewer_no_file">Dosya yok!</string>
 </resources>
