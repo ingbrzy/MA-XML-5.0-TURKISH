@@ -58,7 +58,7 @@
   <string name="callDetailTitle">Çağrı ayrıntıları</string> 
   <string name="callDetailsDurationFormat" formatted="false">%s dak %s san</string>  
   <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
-  <string name="call_assistant">Çağrı %s</string>
+  <string name="call_assistant">Ara: %s</string>
   <string name="call_callback">Çağrı yap (geri arama)</string>
   <string name="call_car">Çağrı yap (araç)</string>
   <string name="call_company_main">Çağrı yap (şirket ana hattı)</string>
@@ -993,7 +993,9 @@ Favoriler listenize kişi eklemek için:
   <string name="success_message_import_from_account">İçe aktarım başarılı</string>
   <string name="summary_kind_title">Sonuç</string>
   <string name="sync_xiaomi_cloud_contacts">Yedekten çevrimiçi geri yükle</string>
-  <string name="t9_search_guide">Numarayı girin veya T9 fihristinde isimle arama yapın.</string>
+  <string name="t9_search_guide">Tuş takımını kullanarak kişileri hızlıca bulun.</string>
+  <string name="t9_search_guide_pinyin">Celloyu aramak için 6 ve 1 yazın</string>
+  <string name="t9_search_guide_zhuyin">Celloyu aramak için 6 ve 1 yazın</string>
   <string name="take_new_photo">Yeni fotoğraf çek</string>
   <string name="take_photo">Fotoğraf çek</string>
   <string name="titleJoinContactDataWith">Kişileri birleştir</string>

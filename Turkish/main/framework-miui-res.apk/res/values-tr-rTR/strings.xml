@@ -276,7 +276,9 @@
   <string name="volume_icon_description_notification">Bildirim</string>
   <string name="volume_icon_description_ringer">Zil sesi</string>
   <string name="volume_ring_description">Zil sesleri ve bildirimler</string>
-  <string name="wake_alarm_message">Telefon kapatılınca alarm duraklatılacak. %s \'den sonra tekrar hatırlat!</string>
+  <string name="wake_alarm_message">Telefon kapatılınca alarm duraklatılacak.
+
+%s \'den sonra tekrar hatırlat!</string>
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />
