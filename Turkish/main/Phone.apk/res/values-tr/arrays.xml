@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources> <!-- do not include them in /main, not all device have same arrays !
    <string-array name="preferred_network_mode_choices">
         <item>CDMA/EvDo/GSM/WCDMA</item>
         <item>Otomatik CDMA / EvDo</item>
         <item>Sadece WCDMA</item>
         <item>Sadece GSM</item>
         <item>GSM / WCDMA öncelikli</item>
-    </string-array>
+    </string-array> -->
     <string-array name="preferred_network_mode_choices_lte">
         <item>LTE / CDMA</item>
         <item>CDMA</item>

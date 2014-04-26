@@ -236,13 +236,14 @@
         <item>Animasyon 5x</item>
         <item>Animasyon 10x</item>
     </string-array>
+ <!-- do not include them in /main, not all device have same arrays !
     <string-array name="overlay_display_devices_entries">
         <item>Hiçbiri</item>
         <item>720 x 480 mdpi</item>
         <item>1 280 x 720 tvdpi</item>
         <item>1 920 x 1 080 xhdpi</item>
         <item>1 280 x 720 tvdpi a 1 920 x 1 080 xhdpi</item>
-    </string-array>
+    </string-array> -->
     <string-array name="enable_opengl_traces_entries">
         <item>Hiçbiri</item>
         <item>Logcat</item>
@@ -389,11 +390,7 @@
         <item>1.5 saniye</item>
         <item>2 saniye</item>
     </string-array>
-    <string-array name="entries_color_calibration">
-        <item>sRGB</item>
-        <item>Doğal</item>
-    </string-array>
-	    <string-array name="phone_call_noise_suppression_title">
+    <string-array name="phone_call_noise_suppression_title">
         <item>Gürültü engelleme kapalı</item>
         <item>Gürültü engelleme açık</item>
     </string-array>
