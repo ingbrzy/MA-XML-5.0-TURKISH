@@ -504,7 +504,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="incall_error_supp_service_unknown">Desteklenmiyor!</string>
   <string name="incall_screen_background_summary_miui">"Kişi fotoğrafı olmadığı zaman kilit ekranı duvar kağıdını kullanın"</string>
   <string name="incall_screen_background_title_miui">Çağrı sırasındaki arka plan resmi</string>
-  <string name="incall_status_dialed_mmi">MMI dizi başlatılıyor…</string>
+  <string name="incall_status_dialed_mmi">MMI kodu başlatılıyor…</string>
   <string name="information">Bilgi</string>
   <string name="international_disable">Yabancı haberler devre dışı</string>
   <string name="international_enable">Yabancı haberler etkin</string>
@@ -598,8 +598,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="missed_call_notify_times_summary_miui">Cevapsız aramalar için varsayılan olarak her 5 dakikada bir tekrar</string>
   <string name="missed_call_notify_times_title_miui">Cevapsız çağrı hatırlatma süresi</string>
   <string name="missed_call_notify_twice_miui">2 kez</string>
-  <string name="mmiCancelled">MMI kod iptal edildi</string>
-  <string name="mmiStarted">MMI kod başladı</string>
+  <string name="mmiCancelled">MMI kodu iptal edildi</string>
+  <string name="mmiStarted">MMI kodu başladı</string>
   <string name="mobile_network_setting">Mobil şebeke ayarları</string>
   <string name="mobile_networks">Mobil şebeke ayarları</string>
   <string name="mobile_networks_miui">Mobil şebeke ayarları</string>

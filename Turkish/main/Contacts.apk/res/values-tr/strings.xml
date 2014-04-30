@@ -539,7 +539,7 @@
   <string name="menu_new_contact_action_bar">Yeni</string>
   <string name="menu_new_favorite_action_bar">Yeni</string>
   <string name="menu_new_group_action_bar">Yeni</string>
-  <string name="menu_not_redirect_calls_to_vm">Sesli mesaj gönderilmedi</string>
+  <string name="menu_not_redirect_calls_to_vm">Sesli mesaj kapalı</string>
   <string name="menu_redirect_calls_to_vm">Sesli mesaja gelen tüm çağrılar</string>
   <string name="menu_refresh">Yenile</string>
   <string name="menu_removeStar">Sık kullanılan listesinden kaldır</string>
