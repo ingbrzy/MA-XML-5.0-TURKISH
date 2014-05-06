@@ -63,7 +63,7 @@
   <string name="description_label">Tanım</string>
   <string name="directory_searching_fmt">Aranıyor %s...</string>
   <string name="discard_label">İptal</string>
-  <string name="dismiss_all_label">Artık hiçbirini anımsatma</string>
+  <string name="dismiss_all_label">Hiçbirini hatırlatma</string>
   <string name="do_not_check">Kontrol etme -&gt;</string>
   <string name="does_not_repeat">Tek seferlik etkinlik</string>
   <string name="done">Geri dön</string>
@@ -238,7 +238,7 @@
     <string name="calendar_server_error">Sunucu hatası!</string>
     <string name="label_recent_events">Son etkinlikler</string>
     <string name="no_local_calendar">Yerel takvim yok</string>
-   <string name="no_network">Hiçbir internet bağlantısı yok!</string>
+   <string name="no_network">Ağ bağlantısı yok!</string>
     <string name="refresh">Yenile</string>
     <string name="movable_list_header_label">Tanım</string>
     <string name="today_weather_unavailable">Hava durumu bilgilerini almak için açılamıyor!</string>

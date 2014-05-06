@@ -138,7 +138,7 @@
     <string name="menu_bl_call_log">Engellenen çağrılara gözat</string>
     <string name="menu_bl_sms_log">Engellenen mesajlara gözat</string>
     <string name="menu_bl_remove">Engellemeyi kaldır</string>
-    <string name="menu_wh_remove">移出白名单</string>
+    <string name="menu_wh_remove">Beyaz listeden kaldır</string>
     <string name="menu_bl_clear">Kara Listeyi temizle</string>
     <string name="menu_bl_add_manual">Ekle</string>
     <string name="menu_bl_add_contact">Kişiler</string>
@@ -198,7 +198,7 @@
     <string name="st_title_man_addwhitelist">Numarayı Beyaz listeye ekle</string>
     <string name="st_title_man_editblacklist">Choose an location code to add to Kara Liste</string>
     <string name="st_title_man_editwhitelist">Choose an location code to add to Beyaz liste</string>
-    <string name="st_title_back_sound_choose">Arka ses</string>
+    <string name="st_title_back_sound_choose">Engelleme sesi</string>
     <string name="st_title_back_sound_busy">Hat meşgul</string>
     <string name="st_title_back_sound_none">Numara kullanılmıyor</string>
     <string name="st_title_back_sound_closed">Telefon kapalı</string>

@@ -172,7 +172,7 @@ Kullanılan"</string>
     <string name="traffic_setting_fragment_null">Boş</string>
     <string name="traffic_setting_fragment_operator">Operatör</string>
     <string name="traffic_setting_fragment_send_num">Operatör numarası</string>
-    <string name="traffic_setting_fragment_send_num_tips">Bir telefon numarası girin</string>
+    <string name="traffic_setting_fragment_send_num_tips">Telefon numarası girin</string>
     <string name="traffic_setting_fragment_sms_content">Mesaj içeriği</string>
     <string name="traffic_setting_fragment_sms_content_tips">Bir mesaj yaz</string>
     <string name="traffic_setting_fragment_template">Mesaj taslağı</string>

@@ -807,7 +807,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="device_info_settings">Telefon durumu</string>
   <string name="device_internal_memory">Dahili hafıza (ROM) </string>
   <string name="device_memory">Hafıza (RAM)</string>
-  <string name="device_miui_version">MIUI Sürümü</string>
+  <string name="device_miui_version">MIUI Çevirmen: C.Madencan</string>
   <string name="device_name">Cihaz adı</string>
   <string name="device_name_input_hint">Cihazınızın adını girin</string>
   <string name="device_name_usage_point">Cihaz dosya transferi ve diğer fonksiyonları sağlamak için diğer Bluetooth cihazları tarafından keşfedilmeye izin ver.</string>
@@ -1055,7 +1055,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="font_size_preview_text">NE MUTLU TÜRKÜM DİYENE!</string>
   <string name="font_size_save">Tamam</string>
   <string name="font_size_small">Küçük</string>
-  <string name="font_size_summary">Ne mutlu Türküm diyene!</string>
+  <string name="font_size_summary">NE MUTLU TÜRKÜM DİYENE!</string>
   <string name="force_hw_ui">GPU oluşturmayı zorla</string>
   <string name="force_hw_ui_summary">Uygulamalarda 2D donanım hızlandırmayı kullan</string>
     <string name="force_msaa">4x MSAA\'a zorla</string>
@@ -1713,7 +1713,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_hips_desc"> %1$d uygulama güvenlik için izleniyor</string>
   <string name="perm_hips_desc1">Güvenlik ve gizlilik için uygulamaları izleme</string>
   <string name="perm_hips_desc2">%1$d uygulama güvenlik için izleniyor</string>
-  <string name="perm_hips_disable_content">"Kapatılırsa MIUI güvenlik ve gizlilik için izleme yapmayı durduracak, kapatmak istiyor musunuz?"</string>
+  <string name="perm_hips_disable_content">"Kapatılırsa MIUI güvenlik ve gizlilik için izleme yapmayı durduracak, yinede kapatmak istiyor musunuz?"</string>
   <string name="perm_hips_disable_title">Yetki İzleme</string>
   <string name="perm_hips_end_call">Geçerli aramayı kapatma</string>
   <string name="perm_hips_get_call_state">Çağrı durumlarını alma</string>
@@ -2117,7 +2117,7 @@ tamamlanacak"</string>
   <string name="process_service_in_use_description">%1$s hizmeti kullanımda.</string>
   <string name="progress_scanning">Aranıyor...</string>
     <string name="protection_adb">USB hata ayıklama</string>
-    <string name="protection_category_dangerous_title">Risks (%d)</string>
+    <string name="protection_category_dangerous_title">Risk (%d)</string>
     <string name="protection_category_recommend_title">Optimize tavsiye edilir (%d)</string>
     <string name="protection_category_security_title">Temiz (%d)</string>
     <string name="protection_perm">İzin ayarları</string>
