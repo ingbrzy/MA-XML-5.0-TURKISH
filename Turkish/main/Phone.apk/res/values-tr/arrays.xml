@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources> <!-- do not include them in /main, not all device have same arrays !
-   <string-array name="preferred_network_mode_choices">
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Otomatik CDMA / EvDo</item>
-        <item>Sadece WCDMA</item>
-        <item>Sadece GSM</item>
-        <item>GSM / WCDMA öncelikli</item>
-    </string-array> -->
-    <string-array name="preferred_network_mode_choices_lte">
-        <item>LTE / CDMA</item>
-        <item>CDMA</item>
-    </string-array>
-    <string-array name="gsm_umts_network_preferences_choices">
-        <item>GSM/WCDMA (otomatik mod)</item>
-        <item>Sadece WCDMA</item>
-        <item>Sadece GSM</item>
-        <item>GSM/WCDA (WCDMA öncelikli)</item>
-    </string-array>
-    <string-array name="tty_mode_entries">
-        <item>TTY kapalı</item>
-        <item>Tam TTY</item>
-        <item>TTY HCO</item>
-        <item>TTY VCO</item>
-    </string-array>
+<resources>
     <string-array name="dtmf_tone_entries">
         <item>Normal</item>
         <item>Uzun</item>

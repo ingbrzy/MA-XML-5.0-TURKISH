@@ -510,8 +510,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="brightness_auto_adjust_off">Çubuğu kaydırarak ekran parlaklığını ayarlayın.</string>
   <string name="brightness_auto_adjust_on">Ekran parlaklığı sensör tarafından otomatik olarak ayarlanır.</string>
   <string name="brightness_summary">Ekranın parlaklığını ayarla</string>
-  <string name="bssid_label">BSSID:</string>
-    <string name="bugreport_in_power">Güç menüsü hata raporları</string>
+  <string name="bugreport_in_power">Güç menüsü hata raporları</string>
     <string name="bugreport_in_power_summary">Bir hata raporu almak için güç menüsünde seçenek içerir</string> 
     <string name="bugreport_tool_log_toast">Buraya kaydedildi %s</string> 
 	<string name="bugreport_tool_log_toast_generate_bugreport">Hata raporu oluşturuluyor, birkaç dakika sürebilir...</string> 
@@ -601,10 +600,6 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="common_settings">Genel Ayarlar</string>
   <string name="complete_settings">Tüm Ayarlar</string>
   <string name="computing_size">Hesaplanıyor…</string>
-  <string name="config_list_label">Yapılandırılmış ağlar</string>
-  <string name="config_mass_storage_function_name">mass_storage</string>
-  <string name="config_mtp_function_name">mtp</string>
-  <string name="config_ptp_function_name">ptp</string>
   <string name="configure_input_method">Giriş yöntemlerini ayarla</string>
   <string name="comfirm">Onayla</string>
   <string name="comfirm_exit">Çıkmak istiyor musunuz?</string>
@@ -1155,8 +1150,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
     <string name="gadget_wifi">Wi-Fi</string> 
   <string name="game_controller_settings_category">Oyun Kontrolleri</string> 
 <string name="garbage_white_list_empty_content">Beyaz liste boş</string>  
-  <string name="getConfiguredNetworks">getConfiguredNetworks</string>
-  <string name="getConnectionInfo">getConnectionInfo</string>
     <string name="global_change_warning">Bu ayar telefondaki tüm kullanıcıları etkiler.</string>
     <string name="global_font_change_title">Yazı boyutunu değiştir</string>
     <string name="global_locale_change_title">Dili değiştir</string> 
@@ -1200,20 +1193,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="headset_no_contected">Kulaklık bağlı değil</string>
   <string name="headset_settings">Kulaklık ayarları</string>
   <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Durdurursanız, mevcut çalışmanızın bir kısmını kaybedebilirsiniz.</string>
-  <string name="hello_world">Merhaba dünya!</string>
   <string name="help_label">Yardım</string>
-     <string name="help_url_bluetooth"/>
-    <string name="help_url_choose_lockscreen"/>
-    <string name="help_url_data_usage"/> 
-	<string name="help_url_dreams"/>
-    <string name="help_url_location_access"/> 
-	<string name="help_url_more_networks"/>
-    <string name="help_url_security"/>
-    <string name="help_url_sound"/>
-    <string name="help_url_tether"/>
-    <string name="help_url_users"/>
-    <string name="help_url_vpn"/>
-    <string name="help_url_wifi"/>
   <string name="hidden_ssid_label">Gizli SSID:</string>
   <string name="history_details_title">Geçmiş ayrıntıları</string>
   <string name="home_key">Ev tuşu</string>
@@ -1275,7 +1255,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="internal_storage">Sistem depolama birimi</string>
   <string name="invalid_location">Yükleme konumu geçerli değil.</string>
   <string name="invalid_size_value">Paket boyutu hesaplanamıyor</string>
-  <string name="ipaddr_label">IPaddr:</string>
   <string name="item_app_permission">Uygulama izinleri</string>
   <string name="item_install_monitor">Yüklemeleri izle</string>
   <string name="item_garbage_time_daily">Her gün</string>
@@ -1334,7 +1313,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="led_settings">LED Ayarları</string>
   <string name="legal_information">Yasal bilgiler</string>
   <string name="license_title">Lisans</string>
-  <string name="link_speed_label">Link hızı:</string>
   <string name="list_sub_view_item_cleanup">Temizle</string>
   <string name="list_sub_view_item_backup_cleanup">Yedekle</string>
   <string name="list_sub_view_item_clean">Temiz</string>
@@ -2266,7 +2244,6 @@ tamamlanacak"</string>
     <string name="roaming_warning_multiuser">"Veri dolaşımına izin vermeniz, size önemli dolaşım ücretlerine neden olabilir!
 
 Bu işlem tüm kullanıcılara etki edecek."</string>
-  <string name="rssi_label">RSSI:</string>
   <string name="rubbish_cleaning">Sistem temizleme</string>
     <string name="running_process_item_removed_user_label">Kaldırılan Kullanıcı</string>
     <string name="running_process_item_user_label">Kullanıcı: %1$s</string> 
@@ -2517,7 +2494,6 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="spellchecker_quick_settings">Ayarlar</string>
   <string name="spellchecker_security_warning">Bu yazım denetleyici, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yazım denetleyici, %1$s uygulamasından gelmektedir. Bu yazım denetleyiciyi kullanmak istiyor musunuz?</string>
   <string name="spellcheckers_settings_title">Yazım düzeltme</string>
-  <string name="ssid_label">SSID:</string>
     <string name="start_checking_memory">Hazırlanıyor...</string>
     <string name="start_checking_protection">Hazırlanıyor..</string>
     <string name="start_checking_trash">Hazırlanıyor..</string>
@@ -2566,7 +2542,6 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="subscription_02_summary">SUB2 için şebeke ayarları</string>
   <string name="subscription_02_title">SUB 2</string>
   <string name="sum_carrier_select">Bir ağ operatörü seçin</string>
-  <string name="summary_font_size">%1$s</string>
   <string name="summary_install_virus">Uygulamayı yüklemeden önce virüs kontrolü yap</string>
     <string name="summary_mms">İstenmeyen mesajları filitrele</string>
     <string name="summary_permission">Güvenliğimi üçüncü parti uygulamalardan koru</string>
@@ -3057,7 +3032,6 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_advanced_settings_label">IP ayarları</string>
   <string name="wifi_advanced_titlebar">Gelişmiş Wi-Fi Ayarları</string>
     <string name="wifi_and_mobile_skipped_message">"UYARI: Telefon yazılımınızın güncel olduğunu doğrulamadıkça mümkün olmayacaktır."</string> 
-  <string name="wifi_api_test">Wi-Fi API</string>
     <string name="wifi_auto_connect">Otomatik bağlan</string>
   <string name="wifi_cancel">İptal</string>
   <string name="wifi_certificate">Sertifika</string>
@@ -3092,10 +3066,6 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
     <string name="wifi_display_summary_disabled">Devre dışı</string>
     <string name="wifi_display_summary_off">Kapalı</string>
     <string name="wifi_display_summary_on">Açık</string> 
-  <string name="wifi_dns1">Server DNS 1</string>
-  <string name="wifi_dns1_hint">8.8.8.8</string>
-  <string name="wifi_dns2">Server DNS 2</string>
-  <string name="wifi_dns2_hint">4.4.4.4</string>
     <string name="wifi_dont_skip">"Atlama"</string> 
   <string name="wifi_eap_anonymous">Anonim kimlik</string>
   <string name="wifi_eap_ca_cert">CA sertifikası</string>
@@ -3113,10 +3083,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_failed_save_message">Ağı kaydetme başarısız!</string>
   <string name="wifi_forget">Unut</string>
   <string name="wifi_gateway">Geçit</string>
-  <string name="wifi_gateway_hint">192.168.1.1</string>
   <string name="wifi_in_airplane_mode">Uçak modunda</string>
   <string name="wifi_ip_address">IP adresi</string>
-  <string name="wifi_ip_address_hint">192.168.1.128</string>
   <string name="wifi_ip_settings">IP ayarları</string>
   <string name="wifi_ip_settings_invalid_dns">Geçerli bir DNS adresi yazın.</string>
   <string name="wifi_ip_settings_invalid_gateway">Geçerli bir ağ geçidi adresi yazın.</string>
@@ -3136,7 +3104,6 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_menu_wps_pin">WPS Pin Girişi</string>
   <string name="wifi_more">Daha Fazla Ayar</string>
   <string name="wifi_network_prefix_length">Ağ ön ek uzunluğu</string>
-  <string name="wifi_network_prefix_length_hint">24</string>
   <string name="wifi_not_in_range">Kapsama alanı dışında</string>
   <string name="wifi_notify_open_networks">Ağ bildirimi</string>
   <string name="wifi_notify_open_networks_summary">Açık bir ağ kullanılabilir olduğunda bana bildir</string>
@@ -3176,19 +3143,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_secured_first_item">Güvenliği %1$s ile sağlanıyor</string>
   <string name="wifi_secured_second_item">, güvenliği %1$s ile sağlanıyor</string>
   <string name="wifi_security">Güvenlik</string>
-  <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
-  <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-  <string name="wifi_security_eap">802.1x EAP</string>
   <string name="wifi_security_none">Yok</string>
-  <string name="wifi_security_short_eap">802.1x</string>
-  <string name="wifi_security_short_wep">WEP</string>
-  <string name="wifi_security_short_wpa">WPA</string>
-  <string name="wifi_security_short_wpa2">WPA2</string>
-  <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-  <string name="wifi_security_wep">WEP</string>
-  <string name="wifi_security_wpa">WPA PSK</string>
-  <string name="wifi_security_wpa2">WPA2 PSK</string>
-  <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
   <string name="wifi_setting_frequency_band_error">Frekans bandı ayarlanırken bir sorun oldu.</string>
   <string name="wifi_setting_frequency_band_summary">İşlemin sıklık aralığını belirtin</string>
   <string name="wifi_setting_frequency_band_title">Wi-Fi frekans bandı</string>
