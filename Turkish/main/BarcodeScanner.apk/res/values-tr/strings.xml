@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barkod Okuyucu</string>
+    <string name="copy">Kopyala</string>
+    <string name="name">Adı:</string>
+    <string name="nickname">Takma adı:</string>
+    <string name="company">Şirket:</string>
+    <string name="title">Başlık:</string>
+    <string name="phone">Telefon:</string>
+    <string name="email">E-Posta:</string>
+    <string name="web">Web:</string>
+    <string name="address">Adres:</string>
+    <string name="birthday">Doğum günü:</string>
+    <string name="note">Not:</string>
+    <string name="add_to_contacts">Kişilere ekle</string>
+    <string name="recognize">Tanı</string>
+    <string name="place_barcode_into_rectangle">QR kodu veya Barkodu dikdörtgenin içine yerleştirin</string>
+    <string name="open_flash_error">Flaş açılamadı !</string>
+    <string name="close_flash_error">Flaş kapatılamadı !</string>
+    <string name="scan_fail">Taranamadı!</string>
+    <string name="vcard_prompt">Adı eksik olduğu için kişi eklenemedi !</string>
+    <string name="copy_succeed">Kopyalandı</string>
+    <string name="fail_generate_barcode">Barkod / QR kodu oluşturulamadı !</string>
+    <string name="scan_result">Sonuç</string>
+    <string name="flash_lable">Flaş</string>
+    <string name="picker_lable">Galeri</string>
+</resources>
