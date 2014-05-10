@@ -958,7 +958,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
     <string name="enable_drive_mode">Sürüş modunu etkinleştir</string>
 	<string name="enable_firewall">İstenmeyen çağrıları engelle</string>
 	<string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
-  <string name="enable_snapshot_screenlock">Geri tuşu ile ekran önizlemesi al</string>
+  <string name="enable_snapshot_screenlock">Kamera için Geri tuşuna basılı tut</string>
   <string name="enable_text">Etkinleştir</string>
   <string name="enable_traces_dialog_title">Etkinleştirilecek izleri seç</string>
   <string name="enable_traces_summary_all">Tüm izler etkin</string>
