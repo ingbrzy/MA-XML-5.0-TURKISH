@@ -88,8 +88,8 @@
     <string name="one_address_choose_hint">%s1 konum</string>
     <string name="marked_by_user">"olarak işaretlenmiş "</string>
     <string name="marked_by_others">"%d other users marked it as "</string>
-    <string name="dlg_black_antispam_message">Mesaj Kara Listeye eklensin mi?</string>
-    <string name="dlg_white_antispam_message">Mesaj Beyaz Listeye eklensin mi?</string>
+    <string name="dlg_black_antispam_message">Numara Kara Listeye eklensin mi?</string>
+    <string name="dlg_white_antispam_message">Numara Beyaz Listeye eklensin mi?</string>
     <string name="dlg_black_address_antispam_message">Konum Kara Listeye eklensin mi?</string>
     <string name="dlg_white_address_antispam_message">Konum Beyaz Listeye eklensin mi?</string>
     <string name="dlg_white_antispam_hint">Beyaz liste</string>
