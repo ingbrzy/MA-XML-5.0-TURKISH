@@ -267,5 +267,6 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="widget_favorite_contacts_label">Sık Görüşülen Kişiler</string>
   <string name="widget_favorite_contacts_style">Sık Görüşülen Kişiler Stili</string>
   <string name="widget_gadget_player">Müzik</string>
-  <string name="widget_global_search">Genel arama</string>    
+  <string name="widget_global_search">Genel arama</string>  
+<string name="free_wifi_manage_summary">%1$s  görüntülemek için dokunun.</string>  
 </resources>

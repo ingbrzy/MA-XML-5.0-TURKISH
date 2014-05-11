@@ -261,4 +261,9 @@
   <string name="wallpaper_set_as_destop">Duvar kağıdı yap</string>
   <string name="wallpaper_set_as_lockscreen">Kilit ekranı arkaplanı yap</string>
   <string name="wallpaper_settings">Duvar kağıdı ayarları</string>
+  <string name="resource_delete">Sil</string>
+  <string name="theme_yes">Evet</string>
+  <string name="theme_no">Hayır</string>
+  <string name="theme_fresh_man_notifaction">Bazı yeni temaları deneyin.</string>
+  <string name="apply_default_font_tip">"Sistemin mevcut yazı tipi korunsun mu?"</string>
   </resources>

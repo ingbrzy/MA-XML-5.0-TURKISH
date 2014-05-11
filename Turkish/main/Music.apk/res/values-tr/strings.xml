@@ -334,4 +334,14 @@
     <string name="collect_bill_success">Bill favorite eklendi</string>
     <string name="collect_fm_success">Yer imlerine eklendi</string>
     <string name="uncollect_success">Favorilere toplandı</string>
+	<string name="dirac_mode_general_earbuds">Genel kulaklık başlıkları</string>
+    <string name="dirac_mode_general_inear">Genel inear</string>
+    <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+    <string name="sync_alert_title">Müziği Senkronize et</string>
+    <string name="sync_alert_message">Favori müziklerinizi MiCloud hesabınıza senkronize edin.</string>
+    <string name="not_now">Şimdi değil</string>
+    <string name="sync_disable_toast">Senkronize işlemini Sistem Ayarlarından etkinleştirebilirsiniz.</string>
+    <string name="login_and_enable">Oturum Aç ve Senk et</string>
+    <string name="sync_enable_toast"/>
 </resources>

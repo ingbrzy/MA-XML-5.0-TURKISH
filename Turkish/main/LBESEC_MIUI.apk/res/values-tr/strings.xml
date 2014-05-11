@@ -186,4 +186,7 @@
   <string name="SysOpt_Boost_Boot">Açılış</string>
   <string name="SysOpt_Boost_Receiver">Arkaplan</string>
   <string name="app_name">LBE Koruma</string>
+  <string name="HIPS_Perm_DisableKeyguard">Ekran kilidini aç</string>
+  <string name="HIPS_Perm_DisableKeyguard_Desc">Ekran kilidini aç</string>
+  <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s uygulama ekran kilidini açabilir</string>
 </resources>

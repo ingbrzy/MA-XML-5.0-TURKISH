@@ -478,4 +478,20 @@
   <string name="widget_type_shuffle">Tüm resimleri karıştır</string>
   <string name="width">Genişlik</string>
   <string name="yes">Evet</string>
+  <string name="bigscreen_video_quit">Çıkmak için dokunun</string>
+  <string name="confirm_delete_home_merge_item">%s resim telefondan ve Cloud hesabınızdan silinsin mi?</string>
+  <string name="deselect_all">Seçimi iptal et</string>
+  <string name="device_model">Cihaz</string>
+  <string name="error_forbidden">Hesabınızdaki problemlerden dolayı senkronize devre dışı!</string>
+  <string name="error_not_acceptable">Sunucu hatası!</string>
+  <string name="error_title">Senkronize hatası</string>
+  <string name="error_unauthorized">Çok fazla oturum açma denemesi!</string>
+  <string name="fail_to_download_n_items">%s indirme başarısız!</string>
+  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_local">Yerel</string>
+  <string name="home_page_tab_photo">Foto</string>
+  <string name="modified_time">Değiştirilme zamanı</string>
+  <string name="photo_size">Boyut</string>
+  <string name="taken_time">Alınma zamanı</string>
+  <string name="yellow_page">Dizin</string>
 </resources>

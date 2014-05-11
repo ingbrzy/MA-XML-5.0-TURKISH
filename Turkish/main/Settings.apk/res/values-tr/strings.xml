@@ -3298,4 +3298,20 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
   <string name="zone_auto_summaryOn">Ağ tarafından sağlanan zaman dilimini kullan</string>
   <string name="zone_list_menu_sort_alphabetically">Alfabetik olarak sırala</string>
   <string name="zone_list_menu_sort_by_timezone">Zaman dilimine göre sırala</string>
+  <string name="dirac_mode_general_earbuds">General earbuds</string>
+    <string name="dirac_mode_general_inear">General inear</string>
+    <string name="dirac_mode_piston_1">Xiaomi piston-1</string>
+    <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+    <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+    <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer versions of Windows, 
+%1$s will appear automatically as a USB mass storage"</string>
+    <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
+ device when connected to your computer."</string>
+    <string name="msd_pc_system_install_finish_summary_xp">"After you install this driver
+%1$s will appear as a USB mass storage device when connected to a computer."</string>
+    <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
+the %1$s music player will appear on your computer automatically"</string>
+<string name="dialog_title_auto_start_tips">About auto start</string>
+    <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
+    <string name="button_text_known">I know</string>
   </resources>

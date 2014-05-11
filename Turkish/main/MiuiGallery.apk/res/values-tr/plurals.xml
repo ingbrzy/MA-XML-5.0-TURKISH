@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="number_of_items_selected">
-        <item quantity="other">%1$d seçildi</item>
-        <item quantity="zero">%1$d seçildi</item>
-        <item quantity="one">%1$d seçildi</item>
+        <item quantity="other">%1$d öğe seçildi</item>
+        <item quantity="zero">%1$d öğe seçildi</item>
+        <item quantity="one">%1$d öğe seçildi</item>
     </plurals>
     <plurals name="number_of_pictures">
         <item quantity="other">%1$d</item>
@@ -14,5 +14,10 @@
         <item quantity="other">%1$d resim</item>
         <item quantity="zero">%1$d resim</item>
         <item quantity="one">%1$d resim</item>
+    </plurals>
+	<plurals name="number_of_items">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="zero">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
     </plurals>
 </resources>

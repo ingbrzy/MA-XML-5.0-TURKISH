@@ -119,10 +119,20 @@ Today %1$s's weather is %2$s, %3$s, %4$s. %5$s."</string>
   <string name="tip_weather_info_title_2">%1$s sıcaklık %2$s derece tahmin ediliyor</string>
   <string name="trend_weather_today">Bugün</string>
   <string name="trend_weather_tomorrow">Yarın</string>
-  <string name="weather_data_unreachable">"Hava durumu verileri yüklenemiyor. Lütfen sonra tekrar deneyin."</string>
+  <string name="weather_data_unreachable">"Hava durumu verileri yüklenemiyor.
+Lütfen sonra tekrar deneyin."</string>
   <string name="weather_notification">Hava durumu bildirimleri</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Hava durumu bilgisi yok</string>  
+  <string name="location_tag">Konum</string>
+  <string name="act_weather_find_city_no_result">Sonuç yok</string>
+  <string name="act_weather_find_city_added">Şehir eklendi</string>
+  <string name="act_weather_find_city_net_no_good">"Ağa bağlanılamıyor"</string>
+  <string name="act_weather_find_city_click_retry">Tekrar denemek için dokunun</string>
+  <string name="button_abandon">Vazgeç</string>
+  <string name="act_weather_cycle_no_forcast">Bilinmeyen</string>
+  <string name="edit_city">Düzenle</string>
+  <string name="gps_hint">Geçerli konum</string>
 </resources>

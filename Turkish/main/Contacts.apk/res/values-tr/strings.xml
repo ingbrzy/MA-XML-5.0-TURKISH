@@ -1072,5 +1072,6 @@ Favoriler listenize kişi eklemek için:
   <string name="yellowpage_navigation_search_select_city">Şehir seçin</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
   <string name="zero_items_selected">Seçili öğe yok</string>  
+  <string name="resource_delete">Sil</string>
 </resources>
 

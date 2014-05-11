@@ -511,4 +511,8 @@
         <item>Satır şeklinde ekran</item>
         <item>adb shell dumpsys gfxinfo içinde</item>
     </string-array>
+	<string-array name="perm_disable_keyguard_action">
+        <item>İzin ver</item>
+        <item>Engelle</item>
+    </string-array>
 </resources>
