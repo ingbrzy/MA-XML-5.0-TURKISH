@@ -75,7 +75,7 @@
   <string name="unknown_installer">Bilinmeyen yükleyici!</string>
   <string name="virus_scan_clear">Sil</string>
   <string name="virus_scan_caller_unknown">Bilinmeyen</string>
-  <string name="virus_scan_install">" "<u>Yüklemeye devam et</u>" "</string>
+  <string name="virus_scan_install">" "Yüklemeye devam et" "</string>
   <string name="virus_scan_is_risk">Bu uygulama risk oluşturuyor!</string>
   <string name="virus_scan_is_virus">Bu uygulama virüs içeriyor, lütfen hemen silin!</string>
 </resources>

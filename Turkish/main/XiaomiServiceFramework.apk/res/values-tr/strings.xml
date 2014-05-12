@@ -55,7 +55,7 @@
   <string name="dirty_mms_count">%d mesaj</string>
   <string name="dirty_note_count">%d not</string>
   <string name="disable_find_device_error">%1$s, Cihaz bulma devre dışı bırakılamadı</string>
-  <string name="disable_micloud">&lt;u&gt;MiCloud\'u etkinleştirme&lt;/u&gt;</string> 
+  <string name="disable_micloud">MiCloud\'u etkinleştirme</string> 
   <string name="enable_micloud">Cloud hizmetlerine izin ver</string> 
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
   <string name="enableAll">Hepsini etkinleştir</string>
@@ -63,11 +63,11 @@
   <string name="error_dup_phone">Telefon kaydedilmiş</string>
   <string name="error_invalid_dev_id">Geçersiz cihaz kimliği!</string>
   <string name="error_mili_title">Yetersiz Mi Kredisi</string>
-  <string name="error_network">ağ hatası</string>
+  <string name="error_network">Ağ bağlantısı hatası!</string>
   <string name="error_no_sms_service">SMS hizmeti kullanılamaz</string>
   <string name="error_server">Sunucu hatası</string>
-  <string name="error_sim_not_ready">SIM hazır değil</string>
-  <string name="error_unknown">Bilinmeyen hata: %1$s</string>
+  <string name="error_sim_not_ready">SIM kart hazır değil</string>
+  <string name="error_unknown">Bilinmeyen hata!</string>
   <string name="error_user_name">Geçersiz kullanıcı adı!</string>
   <string name="failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
   <string name="find_device">Cihazımı Bul</string>
@@ -218,7 +218,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="sim_changed_notification_content">SIM kart etkin değil, lütfen tekrar etkinleştirin</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Girişi atla</string>
-  <string name="skip_login_u">&lt;u&gt;Girişi atla&lt;/u&gt;</string>
+  <string name="skip_login_u">Girişi atla</string>
   <string name="skip_setup_account_msg">Xiaomi Hesabınızı kullanarak, SMS, Rehber, fotoğraflar, notlar, vs senkronize ve yedekleme yapabilirsiniz.  Devam edip daha sonra kurulsun mu?</string>
   <string name="skip_setup_account_title">Hesap ayarlarını atla</string>
   <string name="start_micloud">Başlat</string>
@@ -246,7 +246,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="user_agreement_p2">Xiaomi Hizmet Şartları</string>
   <string name="user_agreement_p3"> ve </string>
   <string name="user_agreement_p4">Gizlilik Politikasını</string>
-  <string name="user_agreement_p5">"Kabul etmiş oluyorsunuz.. "</string>
+  <string name="user_agreement_p5">"Kabul etmiş olursunuz.. "</string>
   <string name="vcode">Doğrulama kodu</string>
   <string name="vcode_notification_title">Giriş doğrulamanız tamamlanmadı</string>
   <string name="vcode_prompt_long">Xiaomi güvenlik belirteci ile oluşturulan doğrulama kodunu girin</string>  
@@ -318,7 +318,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
 <string name="activate_status_desc_sending_sms_fail">"Aktivasyon SMS\'i gönderilemiyor!"</string>
 <string name="activate_status_desc_wait_for_phone_service">Telefon servisi bekleniyor...</string>
     <string name="activate_status_desc_wait_for_sms">Sunucudan aktivasyon SMS\'i bekleniyor...</string>
-    <string name="activate_status_desc_wait_for_sms_fail">"Sunucudan aktivasyon SMS\'i alıaıyor!"</string>
+    <string name="activate_status_desc_wait_for_sms_fail">"Sunucudan aktivasyon SMS\'i alınamıyor!"</string>
     <string name="activate_status_desc_wait_for_sms_success">Sunucudan aktivasyon SMS\'i başarıyla alındı</string>
  <string name="error_phone_error">Geçersiz telefon numarası</string>
  <string name="foreign_login"><u>Ülke/Alan kodu</u></string>
@@ -326,6 +326,6 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
     <string name="micloud_area_code_title">Ülke/Alan kodu</string>
 <string name="micloud_error_invalid_phone_num">Geçersiz telefon numarası</string> 
 <string name="phone_num_hint_text">Telefon numarası</string>
-<string name="sim_unactivated_title">SIM kartınız deaktive edildi.</string>
-<string name="find_device_notice_p4">SIM kart değiştiğinde cihazımı bul özelliğinin çalışması için yeniden aktivasyon işlemi yapılamlıdır.</string>
+<string name="sim_unactivated_title">SIM kart etkin değil!</string>
+<string name="find_device_notice_p4">SIM kart değiştiğinde cihazımı bul özelliğinin çalışması için yeniden aktivasyon işlemi yapılmalıdır.</string>
 </resources>

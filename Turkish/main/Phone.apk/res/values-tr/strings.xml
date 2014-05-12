@@ -306,7 +306,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
    <string name="default_notification_description">Varsayılan Zilsesi (%1$s)</string>
    <string name="default_port">5060</string> 
    <string name="default_transport">UDP</string>
-   <string name="default_preference_summary">&lt;Ayarlanmadı&gt;</string>
+   <string name="default_preference_summary">Ayarlanmadı</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kayıtlarını sil</string>
   <string name="deleteSimContacts">SIM kayıtları siliniyor...</string>
@@ -362,7 +362,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="disable_sim_pin">SIM kart PIN kodunu devre dışı bırak</string>
   <string name="disable_sim_pin_miui">SIM kart PIN kodunu devre dışı bırak</string>
   <string name="display_name">Ad</string>
-  <string name="display_name_summary">&lt;Kullanıcı adı aynı&gt;</string>
+  <string name="display_name_summary">Kullanıcı adı aynı</string>
   <string name="display_name_title">Ad</string>
   <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Sunucu</string>
@@ -702,7 +702,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="onscreen_swap_calls_text_miui">Karşılıklı değiştir</string>
   <string name="onscreen_tools_off_miui">Araçlar</string>
   <string name="onscreen_tools_on_miui">Araçlar</string>
-  <string name="optional_summary">&lt;Opsiyon&gt;</string>
+  <string name="optional_summary">Opsiyonel</string>
   <string name="ota_activate">Etkinleştir</string>
   <string name="ota_call_end">Geri</string>
   <string name="ota_failure">Programlama başarısız</string>

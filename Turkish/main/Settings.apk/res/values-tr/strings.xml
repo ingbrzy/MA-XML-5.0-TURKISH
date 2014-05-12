@@ -351,7 +351,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_ask_enablement_and_lasting_discovery">"Telefonunuzdaki bir uygulama, Bluetooth\'u açmak ve telefonunuzu diğer cihazlar tarafından bulunabilir duruma getirmek istiyor. İzin veriyor musunuz?"</string>
   <string name="bluetooth_ask_lasting_discovery">Telefonunuzdaki bir uygulama, telefonunuzu diğer Bluetooth cihazları tarafından \"her zaman bulunabilir\" duruma getirmek için izin istiyor. Buna izin veriyor musunuz?</string>
   <string name="bluetooth_auto_connect">Otomatik bağlan</string>
-  <string name="bluetooth_confirm_passkey_msg">Şu cihazla eşleştirmek için:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Şu passkey kodunun göründüğünden emin olun:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Şu cihazla eşleştirmek için: %1$s,Şu passkey kodunun göründüğünden emin olun:\nŞifre : %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Bağlan…</string>
   <string name="bluetooth_connected">Bağlandı</string>
   <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)</string>
@@ -379,10 +379,10 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_device_name">Cihaz adı</string>
   <string name="bluetooth_device_searchable">Cihaz görünür</string>
   <string name="bluetooth_devices">Bluetooth cihazlar</string>
-  <string name="bluetooth_disable_profile_message">Şu devre dışı bırakılacak:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Şu cihazdan:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_disable_profile_message">%1$s Cihaz:%2$s</string>
   <string name="bluetooth_disable_profile_title">Profil devre dışı bırakılsın mı?</string>
   <string name="bluetooth_disconnect_a2dp_profile">%1$s medya ses profilinden ayrılacak.</string>
-  <string name="bluetooth_disconnect_all_profiles">Şu cihazla bağlantınız kesilecek:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Şu cihazla bağlantınız kesilecek:%1$s</string>
   <string name="bluetooth_disconnect_headset_profile">%1$s eller serbest ses profilinden ayrılacak.</string>
   <string name="bluetooth_disconnect_hid_profile">%1$s giriş cihazından ayrılacak.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">%1$s, bu telefonun İnternet bağlantısı paylaşımından çıkarılacak.</string>
@@ -390,7 +390,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_disconnect_title">Bağlantı kesilsin mi?</string>
   <string name="bluetooth_disconnected">Bağlantı kesildi</string>
   <string name="bluetooth_disconnecting">Bağlantı kesiliyor…</string>
-  <string name="bluetooth_display_passkey_pin_msg">&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihaz üzerinde &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; yazarak Return veya Enter tuşuna basın.</string>
+  <string name="bluetooth_display_passkey_pin_msg"> %1$s girin: %2$s ve ardından GERİ tuşuna veya GİRİŞ\'e basın</string>
   <string name="bluetooth_dock_settings">Yuva Ayarları</string>
   <string name="bluetooth_dock_settings_a2dp">Müzik ve medya için</string>
   <string name="bluetooth_dock_settings_headset">Telefon hoparlörü olarak</string>
@@ -406,9 +406,9 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_empty_list_bluetooth_off">"Cihazları görmek için, Bluetooth\'u açın."</string>
   <string name="bluetooth_enable">Bluetooth\'u aç</string>
   <string name="bluetooth_enable_alphanumeric_pin">PIN, harfler veya simgeler içerir</string>
-  <string name="bluetooth_enter_passkey_msg">&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen passkey kodunu yazın:</string>
+  <string name="bluetooth_enter_passkey_msg">%1$s ile eşleştirmek için cihazın istenen passkey kodunu yazın:</string>
   <string name="bluetooth_enter_passkey_other_device">Bu passkey kodunu diğer cihazda da girmeniz gerekebilir.</string>
-  <string name="bluetooth_enter_pin_msg">"&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt; ile eşleştirmek için cihazın istenen PIN\'ini yazın:"</string>
+  <string name="bluetooth_enter_pin_msg">"%1$s ile eşleştirmek için cihazın istenen PIN\'ini yazın:"</string>
   <string name="bluetooth_enter_pin_msg_hs">"Type PIN to pair with \"%1$s\". [High Security Enabled: Needs 16 character key]"</string>
   <string name="bluetooth_enter_pin_other_device">"Bu PIN\'i diğer cihazda da girmeniz gerekebilir."</string>
   <string name="bluetooth_ftp_acceptance_dialog_text">%1$s would like to access your files and folders. Give access to %2$s?</string>
@@ -419,7 +419,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_headset_profile_summary_use_for">Telefon sesi için kullan</string>
   <string name="bluetooth_hid_profile_summary_connected">Giriş cihazına bağlı</string>
   <string name="bluetooth_hid_profile_summary_use_for">Giriş için kullan</string>
-  <string name="bluetooth_incoming_pairing_msg">Kaynak:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Bu cihaz ile eşleştirilsin mi?</string>
+  <string name="bluetooth_incoming_pairing_msg">Kaynak:%1$s Bu cihaz ile eşleştirilsin mi?</string>
   <string name="bluetooth_is_discoverable">Tüm Bluetooth cihazlar tarafından görülebilir (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Tüm Bluetooth cihazlar tarafından her zaman görülebilir</string>
   <string name="bluetooth_lock_voice_dialing">Sesli aramayı kilitle</string>
@@ -3047,7 +3047,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_disabled_network_failure">Kötü İnternet bağlantısından kaçınıldı</string>
     <string name="wifi_display_available_devices">Kullanılabilir cihazlar</string>
     <string name="wifi_display_details">Gösterim ayarları</string>
-    <string name="wifi_display_disconnect_text">Bu bağlantı ile sona erecek::&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+    <string name="wifi_display_disconnect_text">%1$s ile bağlantı bitirilecek</string>
     <string name="wifi_display_disconnect_title">Bağlantı kesilsin mi?</string>
     <string name="wifi_display_no_devices_found">Yakınlarda Wi-Fi ağı bulunamadı.</string>
     <string name="wifi_display_options_done">Tamam</string>
@@ -3157,7 +3157,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
   <string name="wifi_setup_back">Geri</string>
   <string name="wifi_setup_cancel">İptal</string>
   <string name="wifi_setup_connect">Bağlan</string>
-  <string name="wifi_setup_description_connected">Kuruluma devam etmek için <b>İleri</b>"\'ye dokunun. Farklı bir Wi-Fi ağına bağlanmak için "<b>Geri</b>"\'ye dokunun."</string>
+  <string name="wifi_setup_description_connected">Kuruluma devam etmek için İleriye dokunun. Farklı bir Wi-Fi ağına bağlanmak için Geriye dokunun."</string>
   <string name="wifi_setup_description_connecting">Bağlanma birkaç dakika sürebilir...</string>
   <string name="wifi_setup_detail">Ağ ayrıntıları</string>
   <string name="wifi_setup_eap_not_supported">Kurulum sırasında EAP Wi-Fi bağlantısı yapılandıramazsınız. Kurulumdan sonra Ayarlar &gt; Wi-Fi ve ağlar bölümünde bunu yapabilirsiniz.</string>
