@@ -287,8 +287,8 @@
     <string name="sync_data_merge_warning_desc">Telefonunzdaki %s verileri, Cloud verileri ile birleştirilecek, lütfen dikkatli olun!!</string>
     <string name="sync_data_recover_warning_title">Veri Kurtarma Uyarısı!!!</string>
     <string name="sync_data_recover_warning_desc">Telefonunzdaki %s verileri, Cloud verilerinden kurtarılacak, lütfen dikkatli olun!!</string>
-    <string name="sync_data_merge_warning_ok">MBirleştir</string>
-    <string name="sync_data_merge_warning_cancel">Cİptal</string>
+    <string name="sync_data_merge_warning_ok">Birleştir</string>
+    <string name="sync_data_merge_warning_cancel">İptal</string>
     <string name="sync_data_recover_warning_ok">Kurtar</string>
     <string name="sync_data_recover_warning_cancel">İptal</string>
     <string name="sync_data_contact">Kişi</string>
