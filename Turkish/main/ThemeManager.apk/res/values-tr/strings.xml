@@ -109,7 +109,7 @@
   <string name="resource_delete_all">Seçilen %1$d temayı silmek istiyor musunuz?</string>
   <string name="resource_delete_confirm">Temayı silmek istiyor musunuz?</string>
   <string name="resource_delta_update_failed">Tema güncelleme başarısız!</string>
-  <string name="resource_delta_update_successful">Tema güncelleme başarılı, %1$s kaydedildi.</string>
+  <string name="resource_delta_update_successful">Temalar güncellendi.</string>
   <string name="resource_delta_update_total">%1$d tema güncellendi, %2$s kaydedildi</string>
   <string name="resource_detail">Detaylar</string>
   <string name="resource_detail_comment_title">Yorumlar</string>

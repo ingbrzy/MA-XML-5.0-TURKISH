@@ -272,8 +272,8 @@ EEEE"</string>
   <string name="usb_mode_mount_storage_title">USB depolama açılsın mı?</string>
   <string name="usb_mode_notification">USB depolama</string>
   <string name="usb_mtp_text">Dosyalar</string>
-  <string name="usb_notification">USB bağlantısı kuruldu</string>
-  <string name="usb_notification_mtp_info">Bilgisayar ile dosyalara erişim</string>
+  <string name="usb_notification">USB bağlandı</string>
+  <string name="usb_notification_mtp_info">Bilgisayar ile dosyalara ulaşabilirsiniz</string>
   <string name="usb_notification_mtp_problem">Yardım &gt;</string>
   <string name="usb_notification_mtp_ticker_text">USB bağlantısı:(Dosyalar)</string>
   <string name="usb_notification_ptp_info">Bilgisayar ile Fotolara erişim</string>
@@ -282,12 +282,12 @@ EEEE"</string>
   <string name="usb_storage_error_message">SD kart için USB kullanımında sorun var!</string>
   <string name="usb_storage_message">USB bağlantısı kuruldu. SD karttan veri aktarımın yapılabilir.</string>
   <string name="usb_storage_notification_message">Kopyalanacak dosyaları seçin</string>
-  <string name="usb_storage_notification_title">USB bağlantısı kuruldu</string>
+  <string name="usb_storage_notification_title">USB bağlandı</string>
   <string name="usb_storage_stop_message"> USB depolamayı kaldırmadan önce telefonunuzu bilgisayardan güvenli kaldır ile ayırın.</string>
   <string name="usb_storage_stop_notification_message">USb depolamayı seç</string>
   <string name="usb_storage_stop_notification_title">USB depolamayı kapat</string>
   <string name="usb_storage_stop_title">USB depolama kullanımda</string>
-  <string name="usb_storage_title">USB bağlantısı kuruldu</string>
+  <string name="usb_storage_title">USB bağlandı</string>
   <string name="user_guide_for_notification">Yeni bir bildirim alındı, ayrıntılı kontrol için durum çubuğunu aşağı sürükleyebilirsiniz</string>
   <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
   <string name="user_guide_for_toggle_list">Tıkla ve geçiş listesini özelleştir</string>
