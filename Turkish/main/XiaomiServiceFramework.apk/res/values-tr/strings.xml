@@ -40,7 +40,7 @@
   <string name="button_cancel">İptal</string>
   <string name="captcha">Güvenlik Kodu</string>
   <string name="btn_voucher">Mi kredi kartı(%1$s)</string>
-  <string name="check_phone_error_title">Senk hizmeti başlatılamadı</string>
+  <string name="check_phone_error_title">Senkronize hizmeti başlatılamadı</string>
   <string name="check_phone_io_error">Ağ hatası</string>
   <string name="checking_account">Hesap duğrulanıyor...</string>
   <string name="checking_input">Giriş kontrol ediliyor...</string>
@@ -49,14 +49,14 @@
   <string name="confirm">Onayla</string>
   <string name="current_account">Varolan hesap</string> 
   <string name="data_keep_in_phone">Cihazdaki verileri koru</string>
-  <string name="data_sync_notice">Xiaomi hesabı kullanarak verilerinizi senk edin</string>
+  <string name="data_sync_notice">Xiaomi hesabı kullanarak verilerinizi senkronize edin</string>
   <string name="data_wipe_from_phone">Cihazımdan sil</string>
   <string name="dirty_contacts_count">%d kişi</string>
   <string name="dirty_mms_count">%d mesaj</string>
   <string name="dirty_note_count">%d not</string>
-  <string name="disable_find_device_error">%1$s, Cihaz bulma devre dışı bırakılamadı</string>
-  <string name="disable_micloud">MiCloud\'u etkinleştirme</string> 
-  <string name="enable_micloud">Cloud hizmetlerine izin ver</string> 
+  <string name="disable_find_device_error">%1$s, Cihazımı bul devre dışı bırakılamadı</string>
+  <string name="disable_micloud">MiCloud hizmetini kapat</string> 
+  <string name="enable_micloud">MiCloud hizmetini aç</string> 
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
   <string name="enableAll">Hepsini etkinleştir</string>
   <string name="enable_find_device_error">%1$s, Cihaz bulma etkinleştirilemedi</string>
@@ -71,9 +71,9 @@
   <string name="error_user_name">Geçersiz kullanıcı adı!</string>
   <string name="failed_to_send_activate_email">Aktivasyon e-postası gönderilemedi</string>
   <string name="find_device">Cihazımı Bul</string>
-  <string name="find_device_check_phone_error_title">Cihaz bulma hizmetini etkinleştirme başarısız oldu</string>
+  <string name="find_device_check_phone_error_title">Cihazımı bul hizmetini etkinleştirme başarısız!</string>
   <string name="find_device_disabled_notice">"Ayarlar - Hesaplar ve Senk - Xiaomi Hesabı\'ndan tekrar açınız"</string>
-  <string name="find_device_disabled_title">Cihaz bulma kapalı</string>
+  <string name="find_device_disabled_title">Cihazımı bul kapalı</string>
   <string name="find_device_disabling">Kapatılıyor...</string>
   <string name="find_device_enabling">Açılıyor...</string>
   <string name="find_device_error_network">Ağ bağlantısı hatası</string>
@@ -150,7 +150,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_gallery_video">MiCloud videoları</string>
   <string name="micloud_input_password_prompt">Şifrenizi girin</string>
   <string name="micloud_intro_01_part_01">SMS mesajlarını kaydet</string>
-  <string name="micloud_intro_01_part_02">MIUI Cloud Hizmeti, internet üzerinden ücretsiz mesaj göndermenizi sağlar</string>
+  <string name="micloud_intro_01_part_02">Cloud Hizmeti, internet üzerinden ücretsiz mesaj göndermenizi sağlar</string>
   <string name="micloud_intro_02_part_01">Hiçbir şey yapmanız gerekmez</string>
   <string name="micloud_intro_02_part_02">Cloud Hizmetleri; kişiler, mesajlar, fotoğraflar ve farklı cihazlar arasındaki diğer veri senkronize işlemlerine yardımcı olur.</string> 
   <string name="micloud_intro_03_part_01">Verilerinizi asla kaybetmezsiniz, her zaman güvendedir.</string>
@@ -189,7 +189,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_welcome_skip_login">Kayıt işlemini atla</string>
   <string name="mili_center">Mi Kredisi</string>
   <string name="my_xiaomi_account">Xiaomi Hesabım</string>
-  <string name="next">Sonraki</string>
+  <string name="next">İleri</string>
   <string name="nobind">Yetkilendirilmedi</string>
   <string name="other_settings">Diğer ayarlar</string>
   <string name="password">Şifreniz</string>
@@ -262,7 +262,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
     <string name="activate_desc_intl_sim_card">SIM kart aktivasyonu için uluslar arası SMS gönderilecek</string>
     <string name="activate_desc_mixed_sim_cards">2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek</string>
     <string name="activate_desc_sim_card">SIM kart aktivasyonu için uluslar arası SMS gönderilecek</string>
-    <string name="activate_feature_call_log_sync">Çağrı kaydı senkronize</string>
+    <string name="activate_feature_call_log_sync">Çağrı kaydı senkronize işlemi</string>
     <string name="activate_feature_find_device">Cihazımı bul</string>
     <string name="activate_feature_mms_sync">SMS Senkronize</string>
     <string name="activate_feature_mx">Ücretsiz Cloud Mesajlaşma</string>
@@ -321,7 +321,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
     <string name="activate_status_desc_wait_for_sms_fail">"Sunucudan aktivasyon SMS\'i alınamıyor!"</string>
     <string name="activate_status_desc_wait_for_sms_success">Sunucudan aktivasyon SMS\'i başarıyla alındı</string>
  <string name="error_phone_error">Geçersiz telefon numarası</string>
- <string name="foreign_login"><u>Ülke/Alan kodu</u></string>
+ <string name="foreign_login">Ülke/Alan kodu</string>
  <string name="micloud_area_code_hot">Sıcak</string>
     <string name="micloud_area_code_title">Ülke/Alan kodu</string>
 <string name="micloud_error_invalid_phone_num">Geçersiz telefon numarası</string> 

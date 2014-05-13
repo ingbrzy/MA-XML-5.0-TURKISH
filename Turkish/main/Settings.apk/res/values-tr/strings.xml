@@ -235,7 +235,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="auto_startup_count">%d Uygulamaya otomatik başlama izni verildi</string>
   <string name="auto_startup_dialog_msg">"Miui uygulamayı otomatik olarak başlatacak. Bu uygulama fazladan güç harcanmasına ve veri trafiğinin artmasına neden olabilir. İzin vermek istiyor musunuz?"</string>
   <string name="automatic_brightness">Otomatik parlaklık</string>
-  <string name="available_size">%s Mevcut</string>
+  <string name="available_size">Kullanılabilir: %s</string>
   <string name="awake">Cihazın açılma zamanı</string>
   <string name="back_key">Geri tuşu</string>
   <string name="background_data">Arka plan verileri</string>
@@ -297,7 +297,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="battery_info_power_unplugged">Prize takılı değil</string>
   <string name="battery_info_power_usb">USB</string>
   <string name="battery_info_scale_label">Pil skalası:</string>
-  <string name="battery_info_screen_on">Ekran AÇIK kalma süresi:</string>
+  <string name="battery_info_screen_on">Ekran açık kalma süresi:</string>
   <string name="battery_info_status_charging">Şarj oluyor</string>
   <string name="battery_info_status_charging_ac">(AC)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
@@ -2624,7 +2624,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
 	<string name="toast_qucik_scan_list_empty">Herşey iyi görünüyor, temizliğe gerek yok!</string>
 	<string name="toast_removed_from_white_list">Beyaz listeden kaldırıldı</string>
 	<string name="toast_application_no_residual_on_sdcard">"Uygulamanın Hafıza biriminde (SD-Kart) artık dosyaları yok"</string>
-  <string name="total_size">%s Toplam</string>
+  <string name="total_size">Toplam : %s</string>
   <string name="total_size_label">Toplam</string>
     <string name="touch_title">Dokunmalar</string>
     <string name="touch_sensitive_title">Dokunma hassasiyeti</string>
