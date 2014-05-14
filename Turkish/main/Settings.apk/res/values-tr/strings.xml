@@ -3314,4 +3314,5 @@ the %1$s music player will appear on your computer automatically"</string>
 <string name="dialog_title_auto_start_tips">About auto start</string>
     <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
     <string name="button_text_known">I know</string>
+	<string name="translation_contributors_title">Çevirmen</string>
   </resources>

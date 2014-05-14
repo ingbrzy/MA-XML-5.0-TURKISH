@@ -1100,4 +1100,5 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
     <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
     <string name="xdivert_summary">CFNRc Settings</string>
     <string name="xdivert_title">X-Divert</string>
+	<string name="preferred_network_type_pref_entries_4g_preferred_miui">4G Öncelikli şebeke</string>
 </resources>

@@ -344,4 +344,6 @@
     <string name="sync_disable_toast">Senkronize işlemini Sistem Ayarlarından etkinleştirebilirsiniz.</string>
     <string name="login_and_enable">Oturum Aç ve Senk et</string>
     <string name="sync_enable_toast"/>
+	<string name="volume_alert_playback_alert_title">Yüksek ses uyarısı</string>
+    <string name="volume_alert_playback_message">İşitme duyunuzu korumak için, yüksek sesle uzun süre müzik dinlemeniz engellenir.</string>
 </resources>

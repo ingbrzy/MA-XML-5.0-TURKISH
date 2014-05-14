@@ -570,4 +570,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
     <string name="webview_today">Bugün</string>
     <string name="webview_yesterday">Dün</string>
     <string name="week_picker_dialog_title">Haftayı ayarla</string>
+	<string name="xiaomi_bookmark_title">Xiaomi</string>
+    <string name="ssl_certificate">Güvenlik sertifikası</string>
+    <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
 </resources>
