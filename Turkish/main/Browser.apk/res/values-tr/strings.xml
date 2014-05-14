@@ -360,6 +360,7 @@
   <string name="pref_force_userscalable_summary">Web sitesinin yakınlaştırmayı denetleme isteğini geçersiz kıl</string>
   <string name="pref_general_autofill_title">Otomatik doldur</string>
   <string name="pref_general_exit_setting_title">Çıkış ayarları</string>
+  <string name="pref_general_setting_title">Ayarlar</string>
   <string name="pref_general_title">Genel</string>
   <string name="pref_images_preload_dialogtitle">Resimler yükleniyor...</string>
   <string name="pref_images_preload_summary">" Sunucusu tarafından desteklenen önyükleme görüntülerine izin ver"</string> 
@@ -419,6 +420,7 @@
   <string name="pref_security_show_security_warning">Güvenlik uyarılarını göster</string>
   <string name="pref_security_show_security_warning_summary">Site güvenliği ile ilgili bir sorun varsa uyarı göster</string>
   <string name="pref_set_homepage_to">Şunu kullan:</string>
+  <string name="pref_setting_title">Ayarlar</string>
   <string name="pref_text_zoom">Metin ölçekleme</string>
   <string name="pref_ua_string">Kullanıcı ajanı</string>
   <string name="pref_ua_title">Kullanıcı ajanı yönetimi</string>
@@ -428,7 +430,7 @@
   <string name="pref_video_preload_title">Video önyükleme</string>
   <string name="pref_volume_key_enabled">Ses tuşları</string>
   <string name="pref_volume_key_operation">Ses tuşları için seçenekler</string>
-  <string name="pref_zoom_on_double_tap">Hafifçe çift dokunmada yakınlaştır</string>
+  <string name="pref_zoom_on_double_tap">Çift dokunmada yakınlaştır</string>
   <string name="preview">Ön izleme</string>
   <string name="profiler_error_toast">Failed to start profiler</string>
   <string name="profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
