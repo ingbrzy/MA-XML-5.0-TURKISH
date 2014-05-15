@@ -11,7 +11,7 @@
     <string name="abc_searchview_description_search">Ara</string>
     <string name="abc_searchview_description_submit">Sorgu gönder</string>
     <string name="abc_searchview_description_voice">Sesli ara</string>
-    <string name="abc_shareactionprovider_share_with">Bunula paylaş</string>
+    <string name="abc_shareactionprovider_share_with">Bununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="accounts_welcome">Bir kaç adımda hesabınızı ayarlayabilirsiniz.</string>
     <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
@@ -87,7 +87,7 @@
     <string name="account_setup_exchange_certificate_title">İstemci sertifikası</string>
     <string name="account_setup_exchange_device_id_label">Mobil cihaz ID</string>
     <string name="account_setup_exchange_no_certificate">Yok</string>
-    <string name="account_setup_exchange_remove_certificate">Kladır</string>
+    <string name="account_setup_exchange_remove_certificate">Kaldır</string>
     <string name="account_setup_exchange_select_certificate">Seç</string>
     <string name="account_setup_exchange_use_certificate">İstemci sertifikası kullan</string>
   <string name="account_setup_failed_access_denied">"Bu sunucu ile senkronize izniniz yok. Daha fazla bilgi için sunucu yöneticisine başvurun."</string>
