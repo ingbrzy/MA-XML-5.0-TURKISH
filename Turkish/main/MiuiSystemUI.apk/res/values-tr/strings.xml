@@ -58,7 +58,8 @@
   <string name="battery_low_title">! DİKKAT !</string>
   <string name="battery_low_why">Pil kullanımına gözat</string>
   <string name="bluetooth_tethered">Bluetooth paylaşımı tamam</string>
-  <string name="call_status_dialing">Aranıyor..</string>
+  <string name="call_status_dialing">Aranıyor...</string>
+  <string name="call_status_ringing">Çalıyor...</string>
   <string name="camera_key_action_app_title">Uygulamayı aç</string>
   <string name="camera_key_action_category_title">Kamera uygulaması açılmazsa kullanın</string>
   <string name="camera_key_action_none_title">Eylem yok</string>
@@ -147,6 +148,7 @@
   <string name="notification_otg_unknow_out">OTG cihaz bağlantısı kesilmiş</string>
   <string name="recent_apps_key">Son uygulamalar</string>
   <string name="recent_apps_key_show">Son uygulamları göster</string>
+  <string name="reject_call">Çağrıyı reddet</string>
   <string name="return_to_incall_screen">Arama ekranına dön</string>
   <string name="screen_button_custom">Ekran konumunu özelleştir</string>
   <string name="screen_button_disabled_message">Ekranın altındaki tuşlar devre dışı. Etkinleştirmek için \"Ev\" ve \"Güç\ tuşlarına basın"</string>
