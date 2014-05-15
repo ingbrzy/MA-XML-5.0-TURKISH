@@ -776,13 +776,13 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
     <string name="donot_download">Geçici olarak indir</string>
     <string name="upgrade_now">Şimdi yeni sürüme yükselt</string>
     <string name="donot_upgrade">Yeni sürüme yükseltme</string>
-    +<string name="downloading">İndiriliyor...</string>
-    +<string name="upgrade_title">Yükselt</string>
-   + <string name="download_complete_title">İndirme tamamlandı</string>
-   + <string name="no_enough_space">Yeterli boş alan yok!</string>
-   + <string name="no_sdcard">SD kart bulunamadı!</string>
-   + <string name="download_complete_message">Yeni deneyim için güncellemeye hemen tıklayın！</string>
-   + <string name="file_size">Boyut</string>
-   + <string name="request_entity_large">Gerekli dosya çok büyük!</string>
+ <string name="downloading">İndiriliyor...</string>
+ <string name="upgrade_title">Yükselt</string>
+ <string name="download_complete_title">İndirme tamamlandı</string>
+ <string name="no_enough_space">Yeterli boş alan yok!</string>
+ <string name="no_sdcard">SD kart bulunamadı!</string>
+ <string name="download_complete_message">Yeni deneyim için güncellemeye hemen tıklayın！</string>
+ <string name="file_size">Boyut</string>
+ <string name="request_entity_large">Gerekli dosya çok büyük!</string>
 </resources>
 	
