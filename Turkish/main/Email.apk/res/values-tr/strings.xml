@@ -614,8 +614,6 @@ CC: %4$s
     <string name="quick_4">"Bu konuyu görüşmek üzere bir toplantı ayarlayalım."</string>
     <string name="quick_responses_empty_view">Hızlı cevap yok.</string>
     <string name="quoted_text">Alıntı metni içeriyor</string>
-    <string name="quoted_text_background_color_string">@*android:color/white</string>
-    <string name="quoted_text_font_color_string">@color/gray_text_color</string>
     <string name="quoted_text_label">Alıntı metni</string>
     <string name="quote_begin">&lt;div class=\"quote\"></string>
       <string name="read_string">Sohbet okundu</string>
