@@ -31,8 +31,11 @@
     <string name="bestv">Bestv</string>
     <string name="brief_intro">Açıklama</string>
     <string name="browse_devices">Telefona gözat</string>
+	<string name="btnplayerdefault">Varsayılan</string>
+  <string name="btnplayerfavorite">Favori</string>
     <string name="browse_folder">Klasörlere gözat</string>
     <string name="btnplayerforecast">Program</string>
+	<string name="btnplayerfullscreen">Tam ekran</string>
     <string name="btnplayerselect">Kanalı seç</string>
   <string name="buffering">Hazırlanıyor...</string>
   <string name="buffering_video_netplay_label_v5">Hazırlanıyor...</string>
@@ -47,8 +50,10 @@
   <string name="cancel_hide">Gizliliğini kaldır</string>
  <string name="cancel_select_all">Seçimi iptal et</string>
   <string name="cancel_waitfornewset">Takibi durdur</string>
+  <string name="cancelappointment">İptal</string>
   <string name="cant_connecting">"Sunucuya bağlanamadı"</string>
   <string name="channel_more">Daha fazla</string>
+  <string name="check_network">Ağ bağlantısı yok!</string>
   <string name="clear_cache">Resim önbelleğini temizle</string>
   <string name="clear_cache_success">Önbellek temizlendi</string>
   <string name="clear_cache_summary"/>
@@ -58,6 +63,8 @@
   <string name="clear_playhistory">Oynatıcı geçmişini temizle</string>
   <string name="clear_playhistory_tip"/>
   <string name="clearplayhistory">Geçmişi temizle</string>
+  <string name="click_to_list">Detayları gözat</string>
+  <string name="cnlive">cnlive</string>
   <string name="comment">Yorumlar</string>
   <string name="comment_can_input_prefix"/>
   <string name="comment_can_input_suffix"/>
@@ -89,6 +96,8 @@
   <string name="dlna_list_name">DLNA aygıtlar</string>
   <string name="dlna_name">Paylaşılan</string>
   <string name="download_add_success">Indirme görevi ekle</string>
+  <string name="download_add_sucess">Eklemeler başarılı</string>
+  <string name="download_delete">Sil</string>
   <string name="download_fail">Önbelleğe alma hatası</string>
   <string name="download_file_fail">Yerel dosya erişimi başarısız.</string>
   <string name="download_finish">Önbelleğe alma tamamlandı</string>
@@ -163,6 +172,7 @@
    <string name="local_count_ji">%d Bölüm</string>
   <string name="login_tip_content">Lütfen Xiaomi hesabınız ile oturum açın</string>
   <string name="login_tip_title">Oturum aç</string>
+  <string name="makeappointment">Ekle</string>
   <string name="manage">Yönet</string>
   <string name="media_source_unavailable">Kaynak kullanılamaz</string>
   <string name="mediaset">Seri</string>
@@ -215,10 +225,11 @@
   <string name="nowifi_alert_dialog_exit">Çıkış</string>
   <string name="nowifi_alert_dialog_message">Video akışı için mobil ağ kullanılacak, devam etmek istiyor musunuz?</string>
   <string name="nowifi_alert_dialog_title">Trafik uyarısı !</string>
+  <string name="null_category">Bilinmeyen</string>
+  <string name="null_videoname">Bilinmeyen</string>
   <string name="offline_alert_title">Önbellek bildirimleri</string>
   <string name="offline_alert_wifi">Mobil veri ağı kullanıyorsanız, duraklatılmış olan önbelleğe alma görevleri wifi ağına geçiş yaptıktan sonra devam edilecektir.</string>
   <string name="offline_continue">Devam</string>
-  <string name="offline_episode">%d</string>
   <string name="offline_max_promote">Önbellek bekleniyor, en fazla 2 önbelleğe alma görevleri aynı anda çalıştırılabilir.</string>
   <string name="offline_media">Çevrim dışı medya</string>
   <string name="offline_media_more">Daha fazla</string>
@@ -253,6 +264,8 @@
   <string name="quarter_bell_alert_message_cancel">"After the lifting of reservation, you won't receive a reminder before the program begins"</string>
   <string name="quarter_bell_alert_title">reminder</string>
   <string name="rank">Reyting</string>
+  <string name="receive_ad_notify">Uyarı</string>
+  <string name="receive_ad_notify_summary">Uygulamayı açtığınızda yei videolar size bildirilir.</string>
   <string name="recentplay">Sık oynatılanlar</string>
   <string name="recommendation">Beğenilen</string>
   <string name="reloading_tip">"Ağ bağlantısı yok!"</string>
@@ -277,6 +290,7 @@
   <string name="start_time">Başlangıç</string>
   <string name="subchannel_all">Tümü</string>
   <string name="success_add_myfavorite">Yıldızlı</string>
+  <string name="success_add_waitfornewset">Görüntülenen</string>
   <string name="success_cancel_myfavorite">Yıldızsız</string>
   <string name="success_cancel_waitfornewset">Takip durdu</string>
   <string name="success_to_cancel_myfavorite">İptal edildi</string>
@@ -292,6 +306,7 @@
   <string name="toast_message_continue_play_minute">Dak</string>
   <string name="toast_message_continue_play_second_and_play">San</string>
   <string name="today">Bugün</string>
+  <string name="top_null_videoname">Bilinmeyen başlık</string>
   <string name="top_status_local_media">Yerel medya</string>
   <string name="top_status_online_media">Online medya</string>
   <string name="unknown_source">Bilinmeyen kaynak</string>
@@ -310,6 +325,14 @@
   <string name="video_info_length_label">Uzunluk:</string>
   <string name="video_info_resolution_label">Video çözünürlüğü:</string>
   <string name="video_info_video_coding_label">Video kodlama biçimi:</string>
+  <string name="visit_postfix">| En son ziyaret</string>
+  <string name="vp_full_high_definition">1080P</string>
+  <string name="vp_high_definition">HD</string>
+  <string name="vp_next_ci">Daha fazla</string>
+  <string name="vp_offline">Offline</string>
+  <string name="vp_select_ci">Seç</string>
+  <string name="vp_standard_definition">SD</string>
+  <string name="vp_super_definition">Süper</string>
   <string name="vp_VideoView_error_button">TAMAM</string>
   <string name="vp_VideoView_error_network_not_available">Ağ bağlantısı yok!</string>
   <string name="vp_VideoView_error_text_invalid_progressive_playback">Seçilen video biçimi bu cihaz için uygun değil!</string>
