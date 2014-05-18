@@ -21,10 +21,6 @@
     <string name="account_folder_list_summary_outbox">Giden Kutusu</string>
     <string name="account_folder_list_summary_starred">Yıldızlı</string>
     <string name="account_name_toast">Kullanıcı adı zaten var</string>
-    <string name="account_manager_type_exchange">com.android.exchange</string>
-    <string name="account_manager_type_imap">com.android.email</string>
-    <string name="account_manager_type_legacy_imap">com.android.email</string>
-    <string name="account_manager_type_pop3">com.android.email</string>
   <string name="account_password_spaces_error">"Bu parola bir veya daha fazla boşluk karakterleri ile başlar ya da biter. Birçok sunucu boşluk şifreleri desteklemez."</string>
   <string name="account_security_dialog_content_fmt">%s güvenlik ayarlarını güncellemeniz gerekiyor.</string>
   <string name="account_security_dialog_title">Güvenlik güncellemesi</string>
@@ -117,12 +113,9 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">İlave</string>
   <string name="account_setup_incoming_imap_path_prefix_label">IMAP ön eki </string>
   <string name="account_setup_incoming_password_label">Şifre</string>
-  <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Güvenlik türü</string>
   <string name="account_setup_incoming_security_none_label">Hiçbiri</string>
-  <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
   <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (tüm sertifikaları kabul et)</string>
-  <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
   <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (tüm sertifikaları kabul et)</string>
   <string name="account_setup_incoming_server_label">Sunucu</string>
   <string name="account_setup_incoming_title">Hesap kurulumu</string>
@@ -159,7 +152,6 @@
   <string name="account_setup_options_title">Hesap Ayarları</string>
   <string name="account_setup_outgoing_headline">Giden sunucusu ayarları</string>
   <string name="account_setup_outgoing_password_label">Şifre</string>
-  <string name="account_setup_outgoing_port_label">Port</string>
   <string name="account_setup_outgoing_require_login_label">Oturum açmanız gerekiyor.</string>
   <string name="account_setup_outgoing_security_label">Güvenlik türü</string>
   <string name="account_setup_outgoing_smtp_server_label">SMTP sunucusu</string>
@@ -173,9 +165,6 @@
     <string name="account_set_up_change_type_note">POP3 ve ya IMAP türüne geçmeden önce, hesabınızı silin ve tekrar ayarlayın</string>
     <string name="account_set_up_notice">Sadece birkaç adımda, bir e-posta hesabı kurabilirsiniz</string>
     <string name="account_sync_off">Hesabı senkronize etme kapalı.</string>
-    <string name="account_type_exchange">Exchange</string>
-    <string name="account_type_imap">Imap</string>
-    <string name="account_type_pop3">Pop3</string>
     <string name="account_waiting_for_folders_msg">Klasör listesi yükleniyor…</string>
     <string name="actionbar_large_unread_count">%1$d+ okunmamış</string>
     <string name="actionbar_title_mail_aggregation">Mail toplama:</string>
@@ -253,7 +242,6 @@
     <string name="clear_display_images_whitelist_dialog_title">Resimler temizlensin mi</string>
     <string name="clear_display_images_whitelist_title">Resimleri temizle</string>
     <string name="collapse_recipient_details">Alıcı ayrıntılarını genişlet</string>
-    <string name="colon">:</string>
     <string name="compose">E-posta yaz</string>
     <string name="compose_send">Gönder</string>
     <string name="compose_sent">Gönderildi</string>
@@ -267,7 +255,6 @@
     <string name="confirm_send_message_with_no_body">"Mesajda herhangi bir metin yok."</string>
     <string name="confirm_send_message_with_no_subject">"Mesaj başlığında herhangi bir metin yok."</string>
     <string name="confirm_send_title">Mesaj gönderilsin mi?</string>
-    <string name="contact_content_provider">Contact Content Provider</string>
     <string name="contact_info_string">%1$s kişi bilgilerini göster</string>
     <string name="contact_info_string_default">Kişi bilgilerini göster</string>
     <string name="contact_list_add_btn">Ekle</string>
@@ -285,7 +272,6 @@
     <string name="contextmenu_openlink">Tarayıcıda aç</string>
     <string name="contextmenu_send_mail">E-posta gönder</string>
     <string name="contextmenu_sharelink">Linki paylaş</string>
-    <string name="contextmenu_sms_dot">SMS…</string>
     <string name="conversation_folder_moved">Buraya taşı: %1$s</string>
     <string name="conversation_item_mark_read">Okunmuş</string>
     <string name="conversation_item_mark_unread">Okunmamış</string>
@@ -294,14 +280,10 @@
     <string name="copy_number">Telefon numarasını kopyala</string>
     <string name="create_action">Yeni</string>
     <string name="custom_from_account_label">Olarak gönder:</string>
-    <string name="date">2888/88/88</string>
     <string name="date_heading">"Tarih: "</string>
     <string name="date_message_received">%1$s, %2$s</string>
     <string name="date_message_received_today">Bugün, %1$s</string>
     <string name="date_message_received_yesterday">Dün, %1$s</string>
-  <string name="default_imap">IMAP</string>
-  <string name="default_pop3">POP3</string>
-  <string name="default_exchange">EXCHANGE</string>
   <string name="default_">Varsayılan</string>
   <string name="default_setup">VARSAYILAN AYARLAR</string>
   <string name="default_signature">MIUI ile gönderildi</string>
@@ -340,7 +322,6 @@
     <string name="empty_trash">Çöp kutusunu temizle</string>
     <string name="empty_trash_dialog_title">Çöp kutusu temizlensin mi</string>
     <string name="enable_sync_in_account_settings">%1$s içinde aç.</string>
-    <string name="enumeration_comma">", "</string>
     <string name="exception_cancel">Bu olay %s için iptal edilmiştir</string>
     <string name="exception_updated">Bu olayın ayrıntıları %s için değiştirildi </string>
     <string name="exchange_name">Şirket</string>
@@ -390,7 +371,6 @@
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="hint_quick_reply_all">Tümünü buradan yanıtla</string>
     <string name="ignore_spam_warning">Yoksay, ben bu mesaja güveniyorum</string>
-    <string name="imap_name">IMAP</string>
     <string name="inbox_folders_heading">Yerel klasörler</string>
     <string name="info">Bilgi</string>
     <string name="input_password_prompt">Şifreyi girin:</string>
@@ -422,7 +402,6 @@
   <string name="mailbox_settings_mailbox_sync_window_label">E-posta senkronize günleri</string>
     <string name="mailbox_settings_sync_enabled_label">Klasörü senk et</string>
     <string name="mailbox_settings_sync_enabled_summary">Bağlantı kurulunca mesaj indirilecek</string>
-    <string name="main_help_context">ttl</string>
     <string name="manual_sync">Şimdi senkronize et</string>
     <string name="mark_important">Önemli olarak işaretle</string>
     <string name="mark_not_important">Önemsiz olarak işaretle</string>
@@ -439,7 +418,6 @@
     <string name="meeting_updated">Güncellenen: %s</string>
     <string name="meeting_when">Ne zaman: %s</string>
     <string name="meeting_where">Nerede: %s</string>
-    <string name="megabytes">%s MB</string>
     <string name="menu_att_mgr">Ekler</string>
     <string name="menu_att_mgr_order_default">Varsayılan</string>
     <string name="menu_att_mgr_order_mime">Biçime göre sırala</string>
@@ -470,7 +448,6 @@ CC: %4$s
 "</string>
     <string name="message_compose_insert_quick_response_list_title">Hızlı cevap ekle</string>
     <string name="message_compose_insert_quick_response_menu_title">Hızlı cevap ekle</string>
-    <string name="message_count_spacer">  </string>
     <string name="message_decode_error">Mesajı çözme sırasında bir hata oluştu.</string>
     <string name="message_details_title">Mesaj detayları</string>
     <string name="message_discarded">Mesaj silindi</string>
@@ -487,7 +464,6 @@ CC: %4$s
     <string name="more_atts_total">Toplam %1$d ek</string>
     <string name="more_info_attachment">Bilgi</string>
     <string name="more_string">+%1$s</string>
-    <string name="more_than_999">999+</string>
     <string name="move_to_selection_dialog_title">Başka klasöre taşındı</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b>"   %2$s"</string>
     <string name="mute">Sessiz</string>
@@ -535,7 +511,6 @@ CC: %4$s
   <string name="permission_access_provider_label">E-posta sağlayıcınıza veri erişimi</string>
   <string name="permission_read_attachment_desc">Uygulama e-posta eklerini okuma izni verir.</string>
   <string name="permission_read_attachment_label">E-posta eklerini okuma</string>
-    <string name="phone">phone</string>
     <string name="photo_load_failed">"Resim yüklenemedi"</string>
     <string name="photo_view_count" formatted="false">%d / %d</string>
     <string name="please_fill_in_your_mailbox_information">%s posta kutusu ile ilgili bilgileri doldurunuz:</string>
@@ -570,7 +545,6 @@ CC: %4$s
     <string name="policy_require_smime">Require SMIME messages</string>
     <string name="policy_screen_timeout">Require an idle device to lock its screen</string>
     <string name="policy_text_truncation">Restrict text email size</string>
-    <string name="pop3_name">POP3</string>
     <string name="prefDialogTitle_conversationListIcon">Gönderen resmi</string>
     <string name="prefDialogTitle_removal_action">Arşiv ve silme işlemi</string>
     <string name="preferences_default_reply_all_summary">Mesaj yanıtlar için varsayılan olarak kullan</string>
@@ -588,10 +562,6 @@ CC: %4$s
     <string name="previous_action">Önceki</string>
     <string name="prompt_title">Sor</string>
     <string name="protocol">Protocol</string>
-    <string name="protocol_eas">eas</string>
-    <string name="protocol_imap">imap</string>
-    <string name="protocol_legacy_imap">imap</string>
-    <string name="protocol_pop3">pop3</string>
     <string name="provider_note_live">"Bazı \"+\" hesapların bu programı bağlamak için POP erişimi vardır.Eğer doğru e-posta adresi ve şifre ile giriş yapamıyorsanız, e-posta hesabınıza erişmek için taratıcınızı kullanın"</string>
     <string name="provider_note_t_online">Before setting up this email account, visit the T-Online website and create a password for POP3 email access.</string>
     <string name="pull_to_refresh">Yenilemek için çekin</string>
@@ -602,7 +572,6 @@ CC: %4$s
     <string name="quick_responses_empty_view">Hızlı cevap yok.</string>
     <string name="quoted_text">Alıntı metni içeriyor</string>
     <string name="quoted_text_label">Alıntı metni</string>
-    <string name="quote_begin">&lt;div class=\"quote\"></string>
       <string name="read_string">Sohbet okundu</string>
     <string name="recent_folders_heading">Favori klasörler</string>
     <string name="recipient_error_dialog_title">Alıcı hatası!</string>
@@ -702,10 +671,6 @@ CC: %4$s
     <string name="too_large_to_attach_single">"%1$s\'den fazla dosya eklenemez."</string>
     <string name="to_heading">"Kime: "</string>
     <string name="trash_folder_selection_title">%s için sunucunuzun çöp klasörü seçin</string>
-    <string name="trigger_compose_char">c</string>
-    <string name="trigger_refresh_char">u</string>
-    <string name="trigger_save_char">s</string>
-    <string name="trigger_y_char">y</string>
     <string name="turn_auto_sync_on_dialog_body">Yaptığınız değişiklikler web, diğer cihazlarız ve %1$s arasında senkronize edilecektir.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
     <string name="turn_auto_sync_on_dialog_title">Oto-Senkronize açılsın mı?</string>
