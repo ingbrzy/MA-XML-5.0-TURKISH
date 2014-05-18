@@ -421,14 +421,6 @@
    <string name="mailbox_name_display_starred">Yıldızlı</string>
   <string name="mailbox_name_display_trash">Çöp</string>
   <string name="mailbox_name_display_unread">Okunmamış</string>
-  <string name="mailbox_name_server_inbox">Gelen kutusu</string>
-    <string name="mailbox_name_server_outbox">Giden kutusu</string>
-    <string name="mailbox_name_server_drafts">Taslaklar</string>
-    <string name="mailbox_name_server_trash">Çöp</string>
-    <string name="mailbox_name_server_sent">Gönderilen</string>
-    <string name="mailbox_name_server_junk">Artık</string>
-    <string name="mailbox_name_server_starred">Yıldızsız</string>
-    <string name="mailbox_name_server_all_unread">Okunmamış</string>
   <string name="mailbox_settings_activity_title">Senkronize ayarları</string>
   <string name="mailbox_settings_activity_title_with_mailbox">Senkronize ayarları(%s)</string>
   <string name="mailbox_settings_mailbox_sync_window_label">E-posta senkronize günleri</string>
