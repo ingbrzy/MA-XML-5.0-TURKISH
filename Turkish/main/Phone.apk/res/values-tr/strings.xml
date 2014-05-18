@@ -17,7 +17,6 @@
   <string name="administrative_disable">Yönetici devre dışı</string>
   <string name="administrative_enable">Yönetici etkin</string>
   <string name="advanced_settings">İlave ayarlar</string>
-  <string name="advanced_settings_container">Gelişmiş ayarlar</string>
   <string name="advanced_settings_hide">▽ Gizlemek için dokunun</string>
   <string name="advanced_settings_show">▷ Göstermek için dokunun</string>
   <string name="advertisements_disable">Reklamlar devre dışı</string>
@@ -304,8 +303,6 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
   <string name="default_contacts_countrycode_sum_miui">Kişinin ülke kodunu seçin</string>
    <string name="default_notification_description">Varsayılan Zilsesi (%1$s)</string>
-   <string name="default_port">5060</string> 
-   <string name="default_transport">UDP</string>
    <string name="default_preference_summary">Ayarlanmadı</string>
   <string name="delete">Sil</string>
   <string name="deleteAllSimEntries">Tüm SIM kayıtlarını sil</string>
@@ -361,10 +358,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="disable_pin_ok">SIM kart PIN kodu devre dışı</string>
   <string name="disable_sim_pin">SIM kart PIN kodunu devre dışı bırak</string>
   <string name="disable_sim_pin_miui">SIM kart PIN kodunu devre dışı bırak</string>
-  <string name="display_name">Ad</string>
   <string name="display_name_summary">Kullanıcı adı aynı</string>
   <string name="display_name_title">Ad</string>
-  <string name="domain_address">SipDomain</string>
   <string name="domain_address_title">Sunucu</string>
   <string name="doneButton">Tamam</string>
   <string name="dtmf_tone_enable_title">Tuş takımı dokunma sesleri</string>
@@ -723,7 +718,6 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ota_unsuccessful">"Telefon etkinleştirme hatası, daha iyi bir kapsama alanında (dış mekanda) tekrar deneyin ."</string>
   <string name="other_settings">Diğer Telefon Ayarları</string>
   <string name="other_settings_miui">Diğer Telefon Ayarları</string>
-  <string name="password">Şifre</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
   <string name="pause_prompt_str">"Ses gönderiliyor"</string>
@@ -757,7 +751,6 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="pin_progress_set_fdn_lock_miui">FDN kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_set_icc_lock_miui">icc kilit durumu ayarlanıyor…</string>
   <string name="pin_progress_unlock_icc_miui">SIM kart kilidi açılıyor…</string>
-  <string name="port">Port</string>
   <string name="port_title">Port numarası</string>
   <string name="pref_custom_location_summary_miui">Bölge ve numara özelliklerini değiştir</string>
   <string name="pref_custom_location_title_miui">Özellikleri değiştir</string>
@@ -895,11 +888,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="select_network_automatic_hint_miui">"Bu seçtiğiniz ağa kayıt olunamaz. Otomatik olarak tercih edilen bir ağ seçilsin mi??"</string>
   <string name="sendSms">SMS gönder</string>
   <string name="send_button">Gönder</string>
-  <string name="send_keepalive">sendKeepAlive</string> 
   <string name="send_keepalive_title">Gönder ve canlı tut</string>
   <string name="separate_from_conference_miui">Tek çağrı</string>
   <string name="set_preferred_network_type_when_data_enabled_miui">Tercih edilen şebeke, veri hizmeti kapatılınca çalışır</string>
-  <string name="set_primary">BirinciYap</string>
   <string name="set_primary_summary">Giden aramalar için kullanılan</string>
   <string name="set_primary_title">Birinci hesap yap</string>
   <string name="set_smsc_address_error_miui">SMS merkezi numarası ayarlanamadı, tekrar deneyin.</string>
@@ -940,10 +931,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="sip_accounts">Internet çağrısı (SIP) hesapları</string>
   <string name="sip_accounts_title">Hesaplar</string>
   <string name="sip_add_account_tip_text">Internet çağrısı kullanmak için SIP hesabı ekleyin</string>
-  <string name="sip_address_only">SIP_ADDRESS_ONLY</string>
-  <string name="sip_always">SIP_ALWAYS</string>
   <string name="sip_always_send_keepalive">Her zaman gönder</string>
-  <string name="sip_ask_me_each_time">SIP_ASK_ME_EACH_TIME</string>
   <string name="sip_call_options_entry_1">Veri ağı kullanılabilir olduğunda tüm aramalar için</string>
   <string name="sip_call_options_entry_2">Sadece internet çağrıları</string>
   <string name="sip_call_options_entry_3">Her arama için sor</string>
@@ -1051,7 +1039,6 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="updating_fdn_contact">Sabit arama numaraları güncelleniyor (FDN)...</string>
   <string name="updating_settings">Ayarlar güncelleniyor...</string>
   <string name="updating_title">Çağrı ayarlarını güncelle</string>
-  <string name="username">Kullanıcı adı</string>
   <string name="username_title">Kullanıcı adı</string>
   <string name="ussdRunning">USSD kodu çalışıyor…</string>
   <string name="vibrate_on_ring_title">Çalınca titret</string>

@@ -47,8 +47,6 @@
   <string name="hint_foler_name">Giriş Adı</string>
   <string name="image_edit_action_delete">Sil</string>
   <string name="image_edit_action_replace">Değiştir</string>
-  <string name="image_edit_action_replace_menu_camera">@string/attachment_camera</string>
-  <string name="image_edit_action_replace_menu_gallery">@string/attachment_gallery</string>
   <string name="image_edit_action_replace_menu_title">Öğeyi değiştir</string>
   <string name="image_edit_action_view">Görüntüle</string>
   <string name="info_note_enter_desktop">Not ana ekrana eklendi</string>

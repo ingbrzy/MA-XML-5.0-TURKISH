@@ -755,7 +755,6 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="debug_debugging_category">Hata ayıklama</string>
   <string name="debug_drawing_category">Çizimler</string>
   <string name="debug_input_category">Giriş</string>
-  <string name="debug_intent_sender_label">Hata ayıklama gönderen</string>
   <string name="debug_layout">Yerleşim sınırları göster</string>
   <string name="debug_layout_summary">Sınırları, kenar boşlukları, vb gösterir.</string>
   <string name="debug_log">Kullanıcı Deneyimi Programı</string>
@@ -834,7 +833,6 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="dirac_mode_piston_100">Xiaomi ahize</string>
     <string name="dirac_switch_title">MiSound</string>
     <string name="dirac_switch_summary">Hoparlör ses çıkışı için MiSound özelliğini kullanın</string>
-  <string name="disableNetwork">disableNetwork</string>
   <string name="disable_adb_debug_summary">USB hata ayıklamayı kapat</string>
   <string name="disable_anti_spam_summary">Mesaj filtresi kapalı</string>
   <string name="disable_app_permission_summary">İzin izleme kapalı</string>
@@ -843,7 +841,6 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="disable_power_key_long_press_under_keyguard">Kilit ekranında devre dışı bırak</string>
   <string name="disable_text">Devre dışı bırak</string>
   <string name="disabled">Devre dışı</string>
-  <string name="disconnect">Bağlantıyı kes</string>
   <string name="display_font_size_label">Yazı tipi boyutu:</string>
   <string name="display_label">Ekran</string>
   <string name="display_order_text">Sıralama ölçütü:</string>
@@ -945,7 +942,6 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="emptylist_fwlog_call">Engellenen çağrıların logları burada tutulur.</string>
   <string name="emptylist_fwlog_ms">Engellenen SMS ve MMS logları burada tutulur.</string>
   <string name="empty_list_msg">Yüklü üçüncü taraf uygulamanız yok.</string>
-  <string name="enableNetwork">enableNetwork</string>
     <string name="enable_anti_spam_summary">Mesaj filtresi açık</string>
     <string name="enable_anti_spam_title">İstenmeyen mesajları filtrele</string>
     <string name="enable_app_permission_summary">23 uygulama izleniyor</string>
@@ -1194,7 +1190,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="headset_settings">Kulaklık ayarları</string>
   <string name="heavy_weight_stop_description">Bu uygulama güvenli bir şekilde durdurulamıyor. Durdurursanız, mevcut çalışmanızın bir kısmını kaybedebilirsiniz.</string>
   <string name="help_label">Yardım</string>
-  <string name="hidden_ssid_label">Gizli SSID:</string>
   <string name="history_details_title">Geçmiş ayrıntıları</string>
   <string name="home_key">Ev tuşu</string>
   <string name="ime_security_warning">Bu giriş yöntemi, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Yöntem, %1$s uygulamasından gelmektedir. Bu giriş yöntemini kullanmak istiyor musunuz?</string>
@@ -1409,7 +1404,6 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lockpattern_tutorial_continue_label">İleri</string>
   <string name="lte_ram_dump_off">lte ram dökümünü kapat</string>
   <string name="lte_ram_dump_on">lte ram dökümünü aç</string>
-  <string name="macaddr_label">MAC:</string>
   <string name="main_running_process_description">Ana işlem kullanımda.</string>
   <string name="man_add_application">Otomatik başlayan uygulamaları elle ekle</string>
   <string name="manage_device_admin">Cihaz yöneticileri</string>
@@ -1548,8 +1542,6 @@ please follow the steps to complete installation"</string>
   <string name="network_assistant">Mobil Veri Kullanımı</string>
   <string name="network_detail">%s Ağı detayları</string>
   <string name="network_settings_title">Mobil Şebekeler</string>
-  <string name="network_state_label">Ağ durumu:</string>
-  <string name="networkid_label">Ağ Kimliği:</string>
   <string name="networks">Operatör seçimi</string>
   <string name="new_backup_pw_prompt">Buraya, tam yedekleme için yeni bir şifre yazın</string>
   <string name="new_bw_list_button">Kişi ekle</string>
@@ -2261,7 +2253,6 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="save_button">Kaydet</string>
   <string name="scan_done">Tarama bitti</string>
   <string name="scanning_prefix">Taranıyor...: %s</string>
-  <string name="scan_list_label">Tarama sonuçları:</string>
   <string name="scanning_virus">Taranıyor...</string>
   <string name="scanning_start_hints">Hazırlanıyor:</string>
   <string name="score">Sonuç</string>
@@ -2548,7 +2539,6 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
     <string name="summary_usb">USB bağlantısı yoluyla yayılan virüsleri engellem</string>
     <string name="summary_virus">%2$d virüs bulundu</string>
     <string name="summary_virus_update">Wi-Fi bağlanınca veri tabanını güncelle</string>
- <string name="supplicant_state_label">Supplicant state:</string>
   <string name="sync_active">Senkronize Etkin</string>
   <string name="sync_automatically">Uygulamaları otomatik senk et</string>
   <string name="sync_calendar">Takvim</string>
@@ -2582,7 +2572,6 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="testing_phone_info">Telefon bilgileri</string>
   <string name="testing_sim_toolkit">SIM toolkit</string>
   <string name="testing_usage_stats">Kullanım istatistikleri</string>
-  <string name="testing_wifi_info">Wi-Fi Bilgileri</string>
   <string name="tether_settings_title_all">İnternet Paylaşımı</string>
   <string name="tether_settings_title_bluetooth">Bluetooth internet paylaşımı</string>
   <string name="tether_settings_title_usb">USB internet paylaşımı</string>
@@ -2590,7 +2579,6 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="tether_settings_title_wifi">Taşınabilir Wi-Fi paylaşımı</string>
   <string name="tethering_help_button_text">Yardım</string>
   <string name="time_picker_title">Saat</string>
-  <string name="time_zone_auto_stub">Zaman dilimini seç</string>
   <string name="timezone_settings">Zaman Dilimi</string>
   <string name="title_app_update_no">%d uygulama için güncelleme var</string>
   <string name="title_app_update_yes">Tüm uygulamalar güncellendi</string>
@@ -3221,16 +3209,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar adına güncel uygulama izin
 
 Telefon ayarları önemli ağ etkinliği gerektirebilir."</string> 
   <string name="wifi_speed">Bağlantı hızı</string>
-  <string name="wifi_ssid">SSID</string>
   <string name="wifi_starting">Wi-Fi açılıyor...</string>
-  <string name="wifi_state_disabled">Devre dışı</string>
-  <string name="wifi_state_disabling">Kapatılıyor...</string>
-  <string name="wifi_state_enabled">Etkin</string>
-  <string name="wifi_state_enabling">Etkinleştiriliyor...</string>
-  <string name="wifi_state_label">Wi-Fi durumu:</string>
-  <string name="wifi_state_unknown">Bilinmiyor</string>
   <string name="wifi_status">Durum</string>
-  <string name="wifi_status_test">Wi-Fi durumu</string>
   <string name="wifi_stopping">Wi-Fi kapatılıyor…</string>
    <string name="wifi_suspend_optimizations">WLAN Optimizasyonu</string>
    <string name="wifi_suspend_optimizations_summary">WLAN açıkken pil kullanımını en aza indirir</string> 
@@ -3245,7 +3225,6 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
    <string name="wifi_tether_stopping">İnternet paylaşımı kapatılıyor...</string> 
   <string name="wifi_unchanged">(değişmedi)</string>
   <string name="wifi_unspecified">(belirtilmemiş)</string>
-  <string name="wifi_update">Durumu yenile</string>
   <string name="wifi_wapi_as_certificate">AS certificate</string>
   <string name="wifi_wapi_cert_cancel_button">Cancel</string>
   <string name="wifi_wapi_cert_create_subdir">Create a directory</string>

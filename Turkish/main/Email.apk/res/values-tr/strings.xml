@@ -14,7 +14,6 @@
     <string name="abc_shareactionprovider_share_with">Bununla paylaş</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="accounts_welcome">Bir kaç adımda hesabınızı ayarlayabilirsiniz.</string>
-    <string name="account_cache_provider">Hesap Önbellek Sağlayıcısı</string>
     <string name="account_duplicate_dlg_message_fmt">"\"%s\" hesabı için zaten kullanıcı adınız var."</string>
     <string name="account_duplicate_dlg_title">Çift Hesap</string>
     <string name="account_folder_list_summary_drafts">Taslaklar</string>
@@ -287,7 +286,6 @@
     <string name="contextmenu_send_mail">E-posta gönder</string>
     <string name="contextmenu_sharelink">Linki paylaş</string>
     <string name="contextmenu_sms_dot">SMS…</string>
-    <string name="conversation_content_provider">Conversation Content Provider</string>
     <string name="conversation_folder_moved">Buraya taşı: %1$s</string>
     <string name="conversation_item_mark_read">Okunmuş</string>
     <string name="conversation_item_mark_unread">Okunmamış</string>
@@ -335,7 +333,6 @@
     <string name="elided_padding_token"> </string>
     <string name="email_feedback_uri" />
     <string name="email_package_name">com.android.email</string>
-    <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
     <string name="empty_account_tip">Hesap bulunamadı!</string>
     <string name="empty_email_tip">Boş E-posta gönderilemez!</string>
     <string name="empty_spam">İstenmeyenleri temizle</string>
@@ -405,7 +402,6 @@
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="loading_conversation">Yükleniyor…</string>
     <string name="loading_conversations">Yükleniyor…</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_more">Daha fazla</string>
     <string name="local_search">Yerel arama</string>
     <string name="login">Oturum aç</string>
@@ -488,7 +484,6 @@ CC: %4$s
     <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
     <string name="me_object_pronun">me</string>
     <string name="me_subject_pronun">me</string>
-    <string name="mock_content_provider">Mock Content Provider</string>
     <string name="more_atts_total">Toplam %1$d ek</string>
     <string name="more_info_attachment">Bilgi</string>
     <string name="more_string">+%1$s</string>
@@ -626,10 +621,6 @@ CC: %4$s
     <string name="replyto_heading">"Cevapla: "</string>
     <string name="report">Raporla</string>
     <string name="report_phishing">Kimlik avcısı raporla</string>
-    <string name="report_rendering_improvement">İyi görünüyor</string>
-    <string name="report_rendering_improvement_desc">Bu mesaj iyi görünüyor.</string>
-    <string name="report_rendering_problem">Kötü görünüyor</string>
-    <string name="report_rendering_problem_desc">Bu mesaj kötü görünüyor.</string>
     <string name="report_spam">Spam raporla</string>
     <string name="require_manual_sync_message">Dolaşım sırasında bu hesap için arka plan senkronize işlemi devre dışı bırakıldı.</string>
     <string name="respond_inline">Satır arası cevap</string>
@@ -743,7 +734,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
     <string name="widget_all_mail">Tüm posta</string>
     <string name="widget_large_unread_count">%d+</string>
     <string name="widget_other_views">Diğer</string>
-    <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
     <string name="wrong_password">Şifre yanlış!</string>
     <string name="yes">Evet</string>
     <string name="zip_viewer_no_file">Dosya yok!</string>
