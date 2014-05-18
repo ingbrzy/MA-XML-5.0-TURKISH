@@ -16,34 +16,39 @@
   <string name="activate_feature_call_log_sync">Çağrı kaydı senkronize işlemi</string>
   <string name="activate_feature_find_device">Cihazımı bul</string>
   <string name="activate_feature_mms_sync">SMS Senkronize</string>
-  <string name="activate_feature_mx">Ücretsiz Cloud Mesajlaşma</string>
-  <string name="activate_phone_failed_notif_title">MiCloud hizmeti etkinleştirilemedi</string>
+  <string name="activate_feature_mx">Ücretsiz MiCloud Mesajlaşma</string>
+  <string name="activate_phone_failed_notif_title">MiCloud etkinleştirilemedi!</string>
   <string name="activate_phone_failed_notif_title_msim">%s SIM karttan MiCloud hizmeti başlatılamadı!</string>
-  <string name="activate_popup_confirm_failed_phone_error">Tekrar dene</string>
-  <string name="activate_popup_confirm_failed_query_info">Tekrar dene</string>
-  <string name="activate_popup_confirm_failed_receive_sms">Tekrar dene</string>
-  <string name="activate_popup_confirm_failed_send_sms">Tekrar gönder</string>
-  <string name="activate_popup_confirm_failed_server">Tekrar dene</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">%s özelliklerini etkinleştirmek ve SIM kart aktvasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_2_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktvasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_confirm_failed_phone_error">Lütfen tekrar deneyin!</string>
+  <string name="activate_popup_confirm_failed_query_info">Lütfen tekrar deneyin!</string>
+  <string name="activate_popup_confirm_failed_receive_sms">Lütfen tekrar deneyin!</string>
+  <string name="activate_popup_confirm_failed_send_sms">Lütfen tekrar deneyin!</string>
+  <string name="activate_popup_confirm_failed_server">Lütfen tekrar deneyin!</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_2_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
   <string name="activate_popup_desc_failed_phone_error">Girilen numara geçersiz!</string>
   <string name="activate_popup_desc_failed_query_info">Telefon numaranız alınamıyor. SIM kartın hizmette olduğundan emin olun.</string>
-  <string name="activate_popup_desc_failed_receive_sms">Girdiğiniz numarayı kontrol edin!</string>
+  <string name="activate_popup_desc_failed_receive_sms">Lütfen girdiğiniz numarayı kontrol edin!</string>
   <string name="activate_popup_desc_failed_send_sms">"Aktivasyon SMS\'i gönderilemedi!"</string>
   <string name="activate_popup_desc_failed_server">Sunucu hatası. Ağ ayarlarını kontrol edin!</string>
   <string name="activate_popup_desc_intl_sim_card">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
   <string name="activate_popup_desc_mixed_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_2_intl_sim_cards">SIM kartınız değişti. %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_2_sim_cards">SIM kartınız değişti. %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_intl_sim_card">SIM kartınız değişti. %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">SIM kartınız değişti. %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_2_intl_sim_cards">SIM kartınız değişti.
+  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_2_sim_cards">SIM kartınız değişti.
+  %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_intl_sim_card">SIM kartınız değişti.
+  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">SIM kartınız değişti.
+  %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
   <string name="activate_popup_desc_new_sim_card">SIM kartınız değişti. %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_sim_card_downlink">SIM kartınız değişti. %s özelliklerini etkinleştirmek için lütfen SIM kart numaranızı girin</string>
-  <string name="activate_popup_desc_register_account">Xiaomi Hesabınızı kaydetmek için SMS gönderilecek</string>
-  <string name="activate_popup_desc_register_account_downlink">Lütfen SIM kart numaranızı girin</string>
-  <string name="activate_popup_desc_register_account_intl">Xiaomi Hesabınızı kaydetmek için SMS gönderilecek</string>
+  <string name="activate_popup_desc_new_sim_card_downlink">SIM kartınız değişti.
+%s özelliklerini etkinleştirmek için lütfen SIM kart numaranızı girin.</string>
+  <string name="activate_popup_desc_register_account">Xiaomi Hesabınızı kaydetmek için SMS gönderilecek.</string>
+  <string name="activate_popup_desc_register_account_downlink">Lütfen SIM kart numaranızı girin.</string>
+  <string name="activate_popup_desc_register_account_intl">Xiaomi Hesabınızı kaydetmek için SMS gönderilecek.</string>
   <string name="activate_popup_desc_sim_card">%s özelliklerini etkinleştirmek ve SIM kart aktvasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_sim_card_downlink">%s özelliklerini etkinleştirmek için SIM kart numaranızı girin</string>
+  <string name="activate_popup_desc_sim_card_downlink">%s özelliklerini etkinleştirmek için SIM kart numaranızı girin.</string>
   <string name="activate_popup_title_failed_phone_error">Aktivasyon başarısız!</string>
   <string name="activate_popup_title_failed_query_info">Aktivasyon başarısız!</string>
   <string name="activate_popup_title_failed_receive_sms">Aktivasyon başarısız!</string>
@@ -90,7 +95,7 @@
   <string name="alert_notif_title_dspt">Veri güvenliği sağlamak için senkronizasyonu geri yükleyin</string>
   <string name="alert_title_remove_account">Hesabı sil</string>
   <string name="app_name">Xiaomi Framework Hizmetleri</string>
-  <string name="bad_authentication">Kimlik doğrulama başarısız, kullanıcı adı veya şifre hatalı!</string>
+  <string name="bad_authentication">Kimlik doğrulaması başarısız, kullanıcı adı veya şifre hatalı!</string>
   <string name="balance">Balance: %1$s Mi credits</string>
   <string name="bind">Yetki ver</string>
   <string name="bind_description">Telefon kayıtları ile senkronizeye izin ver</string>
@@ -141,8 +146,8 @@
   <string name="find_device_disabled_title">Cihazımı bul kapalı</string>
   <string name="find_device_disabling">Kapatılıyor...</string>
   <string name="find_device_enabling">Açılıyor...</string>
-  <string name="find_device_error_network">Ağ bağlantısı hatası</string>
-  <string name="find_device_error_server">Sunucu hatası</string>
+  <string name="find_device_error_network">Ağ bağlantısı hatası!</string>
+  <string name="find_device_error_server">Sunucu hatası!</string>
   <string name="find_device_notice_p1">Telefonunuzu kaybettiğinizde burayı ziyaret edin</string>
   <string name="find_device_notice_p2">i.xiaomi.com</string>
   <string name="find_device_notice_p3">Cihazınızı uzaktan kontrol edebilirsiniz.</string>
@@ -150,7 +155,7 @@
   <string name="find_device_success_title">Cihazımı bul etkin</string>
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
   <string name="forget_password">Şifremi unuttum</string> 
-  <string name="get_back_pwd">Şifreyi kurtar</string> 
+  <string name="get_back_pwd">Şifremi kurtar</string> 
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>
   <string name="i_know">Tamam</string>
   <string name="input_captcha_hint">Güvenlik kodunu girin</string>
@@ -219,9 +224,9 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_gallery_video">MiCloud videoları</string>
   <string name="micloud_input_password_prompt">Şifrenizi girin</string>
   <string name="micloud_intro_01_part_01">SMS mesajlarını kaydet</string>
-  <string name="micloud_intro_01_part_02">Cloud Hizmeti, internet üzerinden ücretsiz mesaj göndermenizi sağlar</string>
+  <string name="micloud_intro_01_part_02">MiCloud Hizmeti, internet üzerinden ücretsiz mesaj göndermenizi sağlar</string>
   <string name="micloud_intro_02_part_01">Hiçbir şey yapmanız gerekmez</string>
-  <string name="micloud_intro_02_part_02">Cloud Hizmetleri; kişiler, mesajlar, fotoğraflar ve farklı cihazlar arasındaki diğer veri senkronize işlemlerine yardımcı olur.</string> 
+  <string name="micloud_intro_02_part_02">MiCloud Hizmetleri; kişiler, mesajlar, fotoğraflar ve farklı cihazlar arasındaki diğer veri senkronize işlemlerine yardımcı olur.</string> 
   <string name="micloud_intro_03_part_01">Verilerinizi asla kaybetmezsiniz, her zaman güvendedir.</string>
   <string name="micloud_intro_03_part_02">i.xiaomi.com adresinden verilerinizi düzenleyebilir, cihazınımı bul, cihazımı kilitle veya sil gibi işlemleri buradan yapabilirsiniz.</string> 
   <string name="micloud_is_what">MiCloud nedir?</string>
@@ -283,7 +288,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="send_int_sms_for_sync_notice">Cihazınıza aktivasyon SMS\'i gönderildi. Devam edilsin mi?</string>
   <string name="send_sms_for_sync_notice">Aktivasyon SMS\'i gönderildi. Devam edilsin mi</string>
   <string name="send_sms_for_sync_title">Senk hizmetleri etkin değil</string>
-  <string name="service_error">Hizmet hatası</string>
+  <string name="service_error">Hizmet hatası!</string>
   <string name="show_password">Şifreyi göster</string>   
   <string name="sim_changed_notification_content">SIM kart aktif değil, lütfen tekrar aktivasyon yapın!</string>
   <string name="sim_unactivated_title">SIM kart aktif değil!</string>
@@ -293,7 +298,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="skip_setup_account_msg">Xiaomi Hesabınızı kullanarak, SMS, Rehber, fotoğraflar, notlar, vs senkronize ve yedekleme yapabilirsiniz.  Devam edip daha sonra kurulsun mu?</string>
   <string name="skip_setup_account_title">Hesap ayarlarını atla</string>
   <string name="start_micloud">Başlat</string>
-<string name="sub_alert_notif_dspt" formatted="false">" %s telefon kişisi, %s SMS, %s foto, %s of not ve diğer veriler senkronize edilmemiş.
+<string name="sub_alert_notif_dspt" formatted="false">" %s telefon kişisi, %s SMS, %s foto, %s not ve diğer veriler senkronize edilmemiş.
 
 
 
