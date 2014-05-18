@@ -1643,7 +1643,7 @@ please follow the steps to complete installation"</string>
     <string name="optimizing">Optimize ediliyor</string>
     <string name="optimizing_virus">Virüsler kaldırılıyor...</string>
   <string name="other_relative">Diğer yetkiler</string>
-    <string name="overlay_display_devices_title">Ikincil ekranları simüle et</string>
+    <string name="overlay_display_devices_title">İkincil ekranları simüle et</string>
   <string name="owner_info_settings_edit_text_hint">Kilit ekranında görüntülenecek metni yazın</string>
   <string name="owner_info_settings_summary"/>
   <string name="owner_info_settings_title">Sahip Bilgileri</string>
@@ -3294,4 +3294,14 @@ the %1$s music player will appear on your computer automatically"</string>
     <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
     <string name="button_text_known">I know</string>
 	<string name="translation_contributors_title">Çevirmen</string>
+    <string name="process_stats_summary_title">İşlem istatistikleri</string>
+    <string name="process_stats_summary">Çalışan işlemler hakkında istatistikler</string>
+	<string name="wifi_display_certification">Kablosuz ekran sertifikası</string>
+    <string name="wifi_display_certification_summary">Kablosuz ekran sertifikası ayarlarını göster</string>
+	<string name="force_rtl_layout_all_locales">RTL yerleşimini zorla</string>
+    <string name="force_rtl_layout_all_locales_summary">Tüm yerel ayarlar için RTL ekran yerleşim yönünü zorla</string>
+	<string name="debug_hw_drawing_category">Donanım hızlandırmalı işleme</string>
+	<string name="debug_hw_overdraw">GPU overdraw için hata ayıklama</string>
+	<string name="show_non_rect_clip">Dikdörtgen olmayan işlemler için hata ayıklama</string>
+	
   </resources>
