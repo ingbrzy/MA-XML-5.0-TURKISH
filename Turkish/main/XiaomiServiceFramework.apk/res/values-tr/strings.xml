@@ -110,7 +110,7 @@
   <string name="btn_voucher">Mi kredi kartı(%1$s)</string>
   <string name="check_phone_error_title">Senkronize hizmeti başlatılamadı</string>
   <string name="check_phone_io_error">Ağ hatası</string>
-  <string name="checking_account">Hesap duğrulanıyor...</string>
+  <string name="checking_account">Hesap doğrulanıyor...</string>
   <string name="checking_input">Giriş kontrol ediliyor...</string>
   <string name="cloud_messaging">MiCloud mesajlaşma</string>
   <string name="completed">Bitti</string>
