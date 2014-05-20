@@ -576,4 +576,5 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
     <string name="ssl_certificate">Güvenlik sertifikası</string>
     <string name="ssl_certificate_is_valid">Bu sertifika geçerli.</string>
 	<string name="pref_content_cloud_speedup">Cloud hızlandırıcıyı etkinleştir</string>
+	<string name="snapshot_successed">Çevrimdışı okumak için kaydet</string>
 </resources>

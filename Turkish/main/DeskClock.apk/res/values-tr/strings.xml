@@ -131,4 +131,5 @@ Ayrıca bu alarmı iptal edebilirsiniz."</string>
   <string name="workday_alarm_clock">İşgünü alarmı</string>
   <string name="worldclock_empty_text">Dünya saati yok</string>
   <string name="worldclock_title">Saatler</string>
+  <string name="timer_message_with_seconds">%1$d saniye</string>
 </resources>

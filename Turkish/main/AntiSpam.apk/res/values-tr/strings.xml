@@ -248,4 +248,13 @@
     <string name="ad_update_title">Otomatik güncelle</string>
     <string name="ad_update_time">Son güncelleme: %s</string>
     <string name="ad_update_time_unKnown">Son güncelleme: bilinmiyor</string>
+	<string name="ACaddnumcontent">Başlangıç numarasını girin, sistem otomatik joker dolduracaktır *</string>
+  <string name="Call_DEFAULT">Akıllı engelleme</string>
+  <string name="NACaddnumcontent">Telefon numarası</string>
+  <string name="SMS_DEFAULT">Akıllı engelleme</string>
+  <string name="backsound_set_hint">%s bağlantı için ses ayarlansın mı?</string>
+  <string name="call_delete_hint">Seçilen numaralardan gelen tüm çağrı engellemeleri silinsin mi?</string>
+  <string name="dlg_remove_blacklist_ing">Kara listeden kaldırılıyor...</string>
+  <string name="dlg_remove_whitelist_ing">Beyaz listeden kaldırılıyor...</string>
+  <string name="sms_delete_hint">Seçilen numaralardan tüm engellenen SMS engellemeleri silinsin mi?</string>
 </resources>
