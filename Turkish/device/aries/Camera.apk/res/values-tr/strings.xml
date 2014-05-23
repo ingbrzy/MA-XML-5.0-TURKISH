@@ -468,4 +468,5 @@
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin!</string> 
+  <string name="toast_cannot_preview_image_when_screen_locked">Ekran kilitli olduğu için fotoğraf veya video görüntülenemiyor!</string>
 </resources>
