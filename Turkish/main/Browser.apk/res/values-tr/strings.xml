@@ -217,7 +217,7 @@
   <string name="history_track">Geçmiş</string> 
   <string name="homepage_set">Ana sayfa ayarlandı.</string>
   <string name="http">http://</string>
-   <string name="instant_base">http://www.google.com/webhp?client={CID}&amp;source=android-instant&amp;ion=1</string>
+   <string name="in_incognito">"Gizli modda Internette sörf! Bu sayfada ziyaret edilen sitelerin verileri kaydedilmez."</string>
   <string name="is_first_history_item">İlk geçmiş öğesi </string>
   <string name="is_first_tab">Ilk sekme </string>
   <string name="is_last_history_item">Son geçmiş öğesi </string>

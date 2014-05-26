@@ -343,6 +343,7 @@
     <string name="folder_shortcut_widget_label">E-posta klasörü</string>
     <string name="formatted_email_address">&lt;%1$s></string>
     <string name="formatted_subject">%1$s%2$s</string>
+	<string name="forward">Yönlendir</string>
     <string name="forward_attachment">Yönlendir</string>
   <string name="forward_attribution">---------- Yönlendirilmiş mesaj ----------Kimden:%1$s, Tarih:%2$s, Konu:%3$s, Kime:%4$s,</string>
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş mesaj ----------</string>
@@ -553,9 +554,9 @@ CC: %4$s
     <string name="preferences_signature_summary_not_set">Ayarlı değil</string>
     <string name="preferences_signature_title">İmza</string>
     <string name="preference_removal_action_title">Arşiv ve silme işlemi</string>
-    <string name="preference_sender_image_description">Sohbet listesinin yanında adı göster</string>
+    <string name="preference_sender_image_description">Görüşme listesinde adının yanında resim görünür</string>
     <string name="preference_sender_image_title">Gönderen resmi</string>
-    <string name="preference_swipe_description">Sohbet listesindeki</string>
+    <string name="preference_swipe_description">Sohbeti silmek için sola kaydırın</string>
     <string name="preference_swipe_title_archive">Arşivlemek için kaydır</string>
     <string name="preference_swipe_title_delete">Silmek için kaydır</string>
     <string name="preview_attachment">Ön izleme</string>

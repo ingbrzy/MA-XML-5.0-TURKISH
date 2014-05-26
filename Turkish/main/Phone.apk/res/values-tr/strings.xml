@@ -259,7 +259,7 @@
   <string name="confirmPin2Label">Yeni PIN2 kodunu onayla</string>
   <string name="confirmPinLabel">Yeni PIN kodunu onayla</string>
   <string name="confirm_delete_message_title_miui">Bu özel atıf mesajları siler</string>
-  <string name="confirm_delete_sim_entry_miui">SIM karttaki %d işaretli kayıt silinecek?</string>
+  <string name="confirm_delete_sim_entry_miui">SIM karttaki seçilen %d kişiyi silmek istiyor musunuz?</string>
   <string name="confirm_no_countrycode_for_custom_location_miui">Ülke kodu olmadan numara girin.</string>
   <string name="confirm_pin2_hint_miui">Yeni PIN2 kodunu onayla</string>
   <string name="confirm_pin_hint_miui">Yeni PIN kodunu onayla</string>

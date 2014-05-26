@@ -21,8 +21,8 @@
         <item quantity="one">%dGB</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">%d numara seçildi</item>
-        <item quantity="one">1 numara seçildi</item>
+        <item quantity="other">%d sohbet seçildi</item>
+        <item quantity="one">1 sohbet seçildi</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">%1$d Sohbeti taşı</item>
@@ -33,8 +33,8 @@
         <item quantity="one">Taslak</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">%1$d sohbet silinsin mi?</item>
-        <item quantity="one">Sohbet silinsin mi?</item>
+        <item quantity="other">%1$d Sohbeti silmek istiyor musunuz?</item>
+        <item quantity="one">Sohbeti silmek istiyor musunuz?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Sohbetlerin tümünü silmek istiyor musunuz?</item>
@@ -53,32 +53,32 @@
         <item quantity="one">Yıldızsız %1$d sohbet.</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> sessize alındı.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> sessize alındı.</item>
+        <item quantity="other">%1$d sohbet sessize alındı.</item>
+        <item quantity="one">%1$d sohbet sessize alındı.</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> spam olarak raporlandı.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> spam olarak raporlandı.</item>
+        <item quantity="other">%1$d sohbet olarak raporlandı.</item>
+        <item quantity="one">%1$d sohbet spam olarak raporlandı.</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> spam olarak raporlanmadı.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> spam olarak raporlanmadı.</item>
+        <item quantity="other">%1$d sohbet spam olarak raporlanmadı.</item>
+        <item quantity="one">%1$d sohbet spam olarak raporlanmadı.</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> önemsiz olarak işaretlendi.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> önemsiz olarak işaretlendi.</item>
+        <item quantity="other">%1$d sohbet önemsiz olarak işaretlendi.</item>
+        <item quantity="one">%1$d sohbet önemsiz olarak işaretlendi.</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> dolandırıcı olarak raporlandı.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> dolandırıcı olarak raporlandı.</item>
+        <item quantity="other">%1$d sohbet dolandırıcı olarak raporlandı.</item>
+        <item quantity="one">%1$d sohbet dolandırıcı olarak raporlandı.</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> arşivlendi.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> arşivlendi.</item>
+        <item quantity="other">%1$d sohbet arşivlendi.</item>
+        <item quantity="one">%1$d sohbet arşivlendi.</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> silindi.</item>
-        <item quantity="one">&amp;amp;lt;b>%1$d&amp;amp;lt;/b> silindi.</item>
+        <item quantity="other">%1$d sohbet silindi.</item>
+        <item quantity="one">%1$d sohbet silindi.</item>
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">Klasörleri değiştir.</item>

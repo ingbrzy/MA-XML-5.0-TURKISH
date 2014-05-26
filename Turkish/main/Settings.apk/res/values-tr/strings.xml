@@ -302,7 +302,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="battery_info_status_charging_ac">(AC)</string>
   <string name="battery_info_status_charging_usb">(USB)</string>
     <string name="battery_info_status_charging_wireless">(Wi-Fi)</string>
-  <string name="battery_info_status_discharging">Oranında dolu</string>
+  <string name="battery_info_status_discharging">Boşaltılıyor</string>
   <string name="battery_info_status_full">Dolu</string>
   <string name="battery_info_status_label">Pil durumu:</string>
   <string name="battery_info_status_not_charging">Şarj edilmiyor</string>
@@ -1171,7 +1171,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="header_category_device">CİHAZ AYARLARI</string>
   <string name="header_category_personal">KİŞİSEL AYARLAR</string>
   <string name="header_category_system">TEMEL SİSTEM AYARLARI</string>
-  <string name="header_category_wireless_networks">Wi-Fi ve ŞEBEKELER AYARLARI</string>
+  <string name="header_category_wireless_networks">Wi-Fi ve MOBİL ŞEBEKE AYARLARI</string>
   <string name="header_data_and_synchronization">VERİ ve SENKRONİZE</string>
   <string name="headset_calibrate">Tuşları kalibre et</string>
   <string name="headset_calibrate_apply">Uygula</string>

@@ -212,8 +212,8 @@
   <string name="delete">Sil</string>
   <string name="deleting">Siliniyor...</string>
   <string name="deleteConfirmation">Bu kişi silinecek.</string>
-  <string name="deleteConfirmationDetail">\"%s\" silinecek.</string>
-  <string name="deleteConfirmation_title">Kişi silinsin mi?</string>
+  <string name="deleteConfirmationDetail">\"%s\" silinecek !</string>
+  <string name="deleteConfirmation_title">Kişi silmek istiyr musunuz?</string>
   <string name="delete_call_log_title">Silinecek arama kaydını seçin</string>
   <string name="delete_call_log_selected_title">Seçilen arama kaydını silmek istiyor musunuz?</string>
   <string name="delete_contact_calllog_title">"Arama kaydını silmek istiyor musunuz?"</string>
@@ -222,7 +222,7 @@
   <string name="delete_duplicate_message">"Birleştiriliyor ... "</string>
   <string name="delete_group_dialog_message"> \"%1$s\" grubunu sil, kişilerin kendilerini silinmez.</string>
   <string name="delete_group_dialog_title">Grubu sil</string>
-  <string name="delete_selected_sim_entry_miui">Seçilen kişiler silinsin mi?</string>
+  <string name="delete_selected_sim_entry_miui">Seçilen kişileri silmek istiyor musunuz?</string>
   <string name="delete_sim_entries_finish">SIM kişileri başarıyla silindi</string>
   <string name="delete_sim_entry_miui">SIM kişilerini sil</string>
   <string name="delete_unknown_contact_calllog_title">"Bilinmeyen kişinin arama kayıtlarını silmek istiyor musunuz?"</string>
