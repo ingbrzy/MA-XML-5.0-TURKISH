@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <plurals name="Ntracks_remove_from_favorite_playlist">
-       <item quantity="other">%d Şarkı listeden kaldırıldı %d</item>
+       <item quantity="other">%d Şarkı listeden kaldırıldı</item>
        <item quantity="one">1 şarkı listeden çıkartıldı</item>
     </plurals> 
     <plurals name="Ntracks_search_result_format">
