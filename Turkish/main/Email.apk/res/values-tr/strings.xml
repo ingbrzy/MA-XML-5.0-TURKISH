@@ -460,8 +460,6 @@ CC: %4$s
     <string name="message_invite_title">Davet takvimi</string>
     <string name="message_saved">Mesaj taslak olarak kaydedildi</string>
     <string name="message_view_attachment_background_load">Yönlendirilen mesajda bir veya daha fazla ek var.</string>
-    <string name="me_object_pronun">me</string>
-    <string name="me_subject_pronun">me</string>
     <string name="more_atts_total">Toplam %1$d ek</string>
     <string name="more_info_attachment">Bilgi</string>
     <string name="more_string">+%1$s</string>
@@ -730,8 +728,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
  <string name="download_complete_message">Yeni deneyim için güncellemeye hemen tıklayın！</string>
  <string name="file_size">Boyut</string>
  <string name="request_entity_large">Gerekli dosya çok büyük!</string>
-  <string name="reply_subject_label">Cevap:</string>
-  <string name="forward_subject_label">Yönlendir:</string>
 <string name="me_object_pronun">Ben</string>
 <string name="me_subject_pronun">Ben</string>
 <string name="button_bind_phone">Bağla</string>
