@@ -244,7 +244,7 @@
     <string name="collapse_recipient_details">Alıcı ayrıntılarını genişlet</string>
     <string name="compose">E-posta yaz</string>
     <string name="compose_send">Gönder</string>
-    <string name="compose_sent">Gönderildi</string>
+    <string name="compose_sent">Mesaj gönderildi</string>
     <string name="confirm">Onayla</string>
     <string name="confirm_discard_text">Bu mesaj silinsin mi?</string>
     <string name="confirm_response">Yanıt gönderiliyor…</string>
@@ -658,7 +658,7 @@ CC: %4$s
     <string name="system_folders_sent_summary"/>
     <string name="system_folders_sent_title">Gönderilen öğeler klasörü</string>
     <string name="system_folders_title">Sistem klasörleri</string>
-    <string name="system_folders_trash_dlg">"Sunucunuzun çöp klasörü seçin"</string>
+    <string name="system_folders_trash_dlg">"Sunucunuzun çöp klasörünü seçin"</string>
     <string name="system_folders_trash_summary"/>
     <string name="system_folders_trash_title">Çöp klasörleri</string>
     <string name="tablet">tablet</string>
@@ -730,5 +730,24 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
  <string name="download_complete_message">Yeni deneyim için güncellemeye hemen tıklayın！</string>
  <string name="file_size">Boyut</string>
  <string name="request_entity_large">Gerekli dosya çok büyük!</string>
+  <string name="reply_subject_label">Cevap:</string>
+  <string name="forward_subject_label">Yönlendir:</string>
+<string name="me_object_pronun">Ben</string>
+<string name="me_subject_pronun">Ben</string>
+<string name="button_bind_phone">Bağla</string>
+  <string name="button_count_down_reget">Doğrulama kodu alın (%1$s)</string>
+  <string name="button_reget">Doğrulama kodu alın</string>
+ <string name="button_sms_code">Onayla</string>
+  <string name="giftcard_payment">%1$s MiKredisi</string>
+  <string name="label_giftcard">Hediye Çeki:</string>
+  <string name="partner_giftcard_payment">%1$s MiKredisi (sadece %2$s için)</string>
+  <string name="prepaid_card_order_info">%1$s Kupon: RMB %2$s</string>
+  <string name="prepaid_error_not_choose_carrier">Operatör seçili değil!</string>
+  <string name="sms_code_error">Hatalı doğrulama kodu, lütfen tekrar deneyin</string>
+  <string name="sms_code_hint">Doğrulama kodu</string>
+  <string name="summary_bind_phone">Hesabınızı korumak için, telefon numaranızı bağladıktan sonra ödeme tamamlanır.</string>
+  <string name="summary_sms_code">Hesabınızı korumak için, doğrulama kodunu girin ve ödeme işlemini tamamlayın.</string>
+  <string name="title_bind_phone">Telefon numaralarını bağlama.</string>
+  <string name="title_sms_code">Doğrulama kodunu girin</string>
 </resources>
 	

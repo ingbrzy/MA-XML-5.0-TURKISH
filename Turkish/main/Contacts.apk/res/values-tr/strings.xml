@@ -1073,5 +1073,8 @@ Favoriler listenize kişi eklemek için:
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
   <string name="zero_items_selected">Seçili öğe yok</string>  
   <string name="resource_delete">Sil</string>
+  <string name="account_msim">SIM %d</string>
+  <string name="export_to_sim1">SIM 1 kartına aktar</string>
+  <string name="import_from_sim1">SIM 1 karttan içe aktar</string>
 </resources>
 

@@ -442,4 +442,5 @@ Son deneme zamanı: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="yes">Tamam</string>
   <string name="context_menu_add_calendar">Takvime ekle</string>
+  <string name="quick_reply">Hızlı cevap</string>
 </resources>

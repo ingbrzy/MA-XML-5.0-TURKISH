@@ -3291,8 +3291,8 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
     <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
 the %1$s music player will appear on your computer automatically"</string>
 <string name="dialog_title_auto_start_tips">About auto start</string>
-    <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
-    <string name="button_text_known">I know</string>
+    <string name="dialog_message_auto_start_tips">MIUI, bazı güvenlik uygulamalarının otomatik başlangıç yetkisini engelleyebilir. İzileri Ayarlar > Uygulamalara giderek kontrol edebilirsiniz. </string>
+    <string name="button_text_known">Biliyorum</string>
 	<string name="translation_contributors_title">Çevirmen</string>
     <string name="process_stats_summary_title">İşlem istatistikleri</string>
     <string name="process_stats_summary">Çalışan işlemler hakkında istatistikler</string>
@@ -3303,5 +3303,27 @@ the %1$s music player will appear on your computer automatically"</string>
 	<string name="debug_hw_drawing_category">Donanım hızlandırmalı işleme</string>
 	<string name="debug_hw_overdraw">GPU overdraw için hata ayıklama</string>
 	<string name="show_non_rect_clip">Dikdörtgen olmayan işlemler için hata ayıklama</string>
-	
+	<string name="bluetooth_unlock_add_device">Cihaz ekle</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihazyenisi ile değiştirilecektir, devam etmek istiyor musunuz?</string>
+  <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seçin</string>
+  <string name="bluetooth_unlock_confirm_device_text">Onaylamak için cihaza dokunun</string>
+  <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
+  <string name="bluetooth_unlock_delete_device_confirm_msg">Bu cihazı silmek istiyor musunuz?</string>
+  <string name="bluetooth_unlock_device_matched_text">Cihaz kilidini aç</string>
+  <string name="bluetooth_unlock_no_matched_device_yet">Eşleşen cihaz yok</string>
+  <string name="bluetooth_unlock_settings_devices_title">Cihaz</string>
+  <string name="bluetooth_unlock_settings_toggle_title">Uygula</string>
+  <string name="bluetooth_unlock_settings_unlock_device">Kilidi aç</string>
+ <string name="bluetooth_unlock_title">Bir bluetooth cihaz kullanarak kilidini açın</string>
+  <string name="bluetooth_unlock_turned_off">Kapalı</string>
+  <string name="bluetooth_unlock_turned_on">Açık</string>
+  <string name="security_keyguard_category_name">Kilitle</string>
+  <string name="security_password_category_name">Şifre</string>
+  <string name="wifi_type_approval"/>
+  <string name="wifi_type_approval_title">Type Approval</string>
+  <string name="manage_xiaomi_router">Xiaomi MiRouter Ayarları</string>
+  <string name="xiaomi_router_available_notif_summary"/>
+  <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter kullanılabilir</string>
+  <string name="xiaomi_router_notif_summary">Xiaomi MiRouter kallanılabilirliği hakkında bilgi ver.</string>
+  <string name="xiaomi_router_notif_title">Xiaomi MiRouter bildirimleri</string>
   </resources>

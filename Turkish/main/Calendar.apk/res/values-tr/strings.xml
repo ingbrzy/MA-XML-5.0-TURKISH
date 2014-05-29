@@ -250,4 +250,6 @@
     <string name="huangli_label">Tatil</string>
     <string name="holiday_label">Tatil</string>
     <string name="action_bar_today">B</string>
+	<string name="pref_error_no_ringtone_select">Zil sesi seçilmedi!</string>
+  <string name="view_all_matches">Tümünü göster</string>
 </resources>
