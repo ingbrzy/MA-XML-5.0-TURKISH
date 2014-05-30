@@ -31,7 +31,7 @@
         <item>2880</item>
         <item>10080</item>
         <item>20160</item>
- -    </integer-array>
+    </integer-array>
 	<string-array name="preferences_default_reminder_labels">
         <item>None</item>
         <item>0 dakika</item>
@@ -57,7 +57,7 @@
         <item>2880</item>
         <item>10080</item>
         <item>20160</item>
- -    </string-array>
+    </string-array>
 	<string-array name="preferences_week_start_day_labels">
         <item>Dile göre</item>
         <item>Cumartesi</item>
