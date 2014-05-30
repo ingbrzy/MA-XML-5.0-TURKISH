@@ -17,8 +17,21 @@
         <item>1 gün</item>
         <item>2 gün</item>
         <item>1 hafta</item>
-		<item>2 hafta</item>
+        <item>2 hafta</item>
     </string-array>
+<integer-array name="reminder_minutes_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+ -    </integer-array>
 	<string-array name="preferences_default_reminder_labels">
         <item>None</item>
         <item>0 dakika</item>
@@ -30,8 +43,21 @@
         <item>1 gün</item>
         <item>2 gün</item>
         <item>1 hafta</item>
-		<item>2 hafta</item>
+        <item>2 hafta</item>
     </string-array>
+<string-array name="preferences_default_reminder_values">
+        <item>-1</item>
+        <item>0</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>1440</item>
+        <item>2880</item>
+        <item>10080</item>
+        <item>20160</item>
+ -    </string-array>
 	<string-array name="preferences_week_start_day_labels">
         <item>Dile göre</item>
         <item>Cumartesi</item>

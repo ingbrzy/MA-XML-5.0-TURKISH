@@ -521,14 +521,4 @@
         <item>Show areas for Deuteranomaly</item>
         <item>Show overdraw counter</item>
     </string-array>
-	<string-array name="overlay_display_devices_entries">
-        <item>Yok</item>
-        <item>720x480 mdpi</item>
-        <item>720x480 mdpi (güvenli)</item>
-        <item>1280x720 tvdpi</item>
-        <item>1280x720 tvdpi (güvenli)</item>
-        <item>1920x1080 xhdpi</item>
-        <item>1920x1080 xhdpi (güvenli)</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
-    </string-array>
 </resources>
