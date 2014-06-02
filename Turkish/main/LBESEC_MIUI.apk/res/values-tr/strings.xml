@@ -165,8 +165,8 @@
   <string name="HIPS_SecurityPrompt_Reject">Engelle(%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Seçimi Hatırla</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s deneniyor %2$s</string>
-  <string name="Privacy_AppPerm_Count">%1$d yetkiler</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d yetkiler - &lt;font color=#478800&gt;Trusted&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count">%1$d yetki</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d yetkiler - &lt;font color=#478800&gt;Güvenli&lt;/font&gt;</string>
   <string name="Privacy_App_Finish">Bitti</string>
   <string name="Privacy_App_Installed">Yetkileri Yapılandır</string>
   <string name="Privacy_App_Launch">Başlat</string>
@@ -175,7 +175,7 @@
   <string name="Privacy_App_Trust">Bu uygulamaya güveniyorum</string>
   <string name="Privacy_App_TrustDialog_Content">MIUI bu uygulama için güvenlik ve gizlilik ile ilgili başka uyarı yapmayacak.</string>
   <string name="Privacy_App_TrustDialog_Title">Bu uygulama güvenli</string>
-  <string name="Privacy_App_Trust_Summary_Off">MIUI bu uygulamayı izlemeyecek</string>
+  <string name="Privacy_App_Trust_Summary_Off">MIUI bu uygulamayı izleyecek</string>
   <string name="Privacy_App_Trust_Summary_On">MIUI bu uygulamaya güveniyor</string>
   <string name="Privacy_App_Uninstall">Kaldır</string>
   <string name="Privacy_Perm_Count">İzin verilen: %1$d Reddedilen: %2$d</string>

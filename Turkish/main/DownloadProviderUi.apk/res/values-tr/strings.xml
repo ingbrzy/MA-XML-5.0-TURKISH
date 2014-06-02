@@ -28,7 +28,7 @@
   <string name="disable_download_only_in_wifi_title">Sadece Wi-Fi ile indiri kapat</string>
   <string name="download_complete">Tamamlanan</string>
   <string name="download_error">Hata</string>
-  <string name="download_error_insufficient_space">Yeterli bol alan yok!</string>
+  <string name="download_error_insufficient_space">Yeterli boş alan yok!</string>
   <string name="download_in_process">Devam eden</string>
   <string name="download_info_count_deleted_tasks">%s İndirme kaldırıldı</string>
   <string name="download_info_start_deleted_tasks">İndirilenleri sil</string>

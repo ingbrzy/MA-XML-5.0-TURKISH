@@ -3326,4 +3326,6 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="xiaomi_router_available_notif_title">Xiaomi MiRouter kullanılabilir</string>
   <string name="xiaomi_router_notif_summary">Xiaomi MiRouter kallanılabilirliği hakkında bilgi ver.</string>
   <string name="xiaomi_router_notif_title">Xiaomi MiRouter bildirimleri</string>
+  <string name="line_breaking_title">Metinleri optimize et</string>
+  <string name="line_breaking_summary">Paragraf satır kırılmasını optimize et</string>
   </resources>

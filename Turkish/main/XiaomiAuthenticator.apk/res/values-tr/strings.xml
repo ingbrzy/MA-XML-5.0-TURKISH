@@ -68,9 +68,9 @@
     <string name="howitworks_page_verify_device_title">"Şifrenizi girin"</string>
     <string name="howitworks_page_verify_device_details">"Xiaomi bu bilgisayar için tekrar kod sormayacak"</string>
     <string name="button_exit_howitworks_flow">Çıkış</string>
-    <string name="welcome_page_title">Xiaomi gizlilik hesapları </string>
-    <string name="welcome_page_details">"— Yetkisiz erişimlere karşı koruma
-- Cihazınızı hırsızlığa karşı koruma
+    <string name="welcome_page_title">Hoşgeldiniz. Bu uygulama; </string>
+    <string name="welcome_page_details">"- Hesaplarınızı yetkisiz erişimlere karşı korumak,
+- Cihazınızı hırsızlığa karşı korumak,
 - Xiaomi hesabınıza 2 adımlı giriş için kimlik doğrulama kodu oluşturmakta kullanılır"</string>
     <string name="welcome_page_alert"/>
     <string name="acknowledge_button">Devam</string>
@@ -127,7 +127,7 @@
     <string name="app_name_lockpattern">Kilit deseni</string>
     <string name="action_settings">Ayarlar</string>
     <string name="tip_lockpattern">Doğrulama kodunu korumak için, kilit açma desenini ayarlayın</string>
-    <string name="jump_createpattern_tip">Deseni ayarlamayı atla</string>
+    <string name="jump_createpattern_tip">Deseni ayarlamayı atlamak istiyor musunuz?</string>
     <string name="jump_updatepattern_tip">Atla</string>
     <string name="jump_lockpattern_title">Atla</string>
     <string name="update_pattern_jump">Atla</string>

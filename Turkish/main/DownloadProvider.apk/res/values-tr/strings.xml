@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_label">İndirme Yöneticisi</string>
-    <string name="download_unknown_title">&lt;İsimsiz></string>
+    <string name="download_unknown_title">&lt;İsimsiz&gt;</string>
     <string name="notification_filename_separator">", "</string>
     <string name="notification_filename_extras">" (%d) ve daha fazlası"</string>
     <string name="notification_download_complete">İndirme tamamlandı</string>

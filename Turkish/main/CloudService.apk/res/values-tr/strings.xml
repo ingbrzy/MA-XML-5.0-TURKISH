@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="app_name">Xiaomi senkronize</string>
-  <string name="find_device">Aygıt bul</string>
-  <string name="find_device_stop_noise">Uyarı sesini kapatmak için \"Tamam\" tuşuna dokunun</string>
+  <string name="find_device">Cihazımı bul</string>
+  <string name="find_device_stop_noise">Uyarı sesini kapatmak için \"Tamam\" \'a dokunun</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Ekstra ücret ödememek için fotoğrafları kablosuz ağı kullanarak senkronize edin.</string>
   <string name="pref_title_sync_contacts_title">Rehberi senkronize et</string>
   <string name="pref_title_sync_my_profile_title">Profilimi güncelle</string>
