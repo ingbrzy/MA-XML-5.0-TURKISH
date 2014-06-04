@@ -29,6 +29,7 @@
   <string name="accessibility_notifications_button">Bildirimler.</string>
   <string name="accessibility_phone_one_bar">Telefon sinyali bir çubuk.</string>
   <string name="accessibility_phone_signal_full">Telefon sinyali tam.</string>
+  <string name="accessibility_phone_four_bars">Telefon sinyali dört çubuk.</string>
   <string name="accessibility_phone_three_bars">Telefon sinyali üç çubuk.</string>
   <string name="accessibility_phone_two_bars">Telefon sinyali iki çubuk.</string>
   <string name="accessibility_recent">Son uygulamalar</string>

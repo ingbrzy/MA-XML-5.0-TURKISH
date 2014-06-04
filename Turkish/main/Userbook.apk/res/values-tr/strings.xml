@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kılavuz</string>
+    <string name="loading_userbook">Yükleniyor...</string>
+    <string name="bakc_key_toast_txt">Çıkmak için geri tuşuna tekrar basın</string>
+    <string name="non_wifi_not_download_data">Ağ bağlantısı yok, daha sonra tekrar deneyin!</string>
+</resources>

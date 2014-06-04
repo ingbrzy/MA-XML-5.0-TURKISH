@@ -583,10 +583,10 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
 <string name="date_picker_dialog_other_button_label">Diğer</string>
 <string name="copy_to_clipboard_failure_message">Panoya kopyalanamadı!</string>
 <string name="miuichromium_error_page_mobile">Mobil veri ayarları</string>
-<string name="miuichromium_error_page_reason_network">Görünen URL</string>
+<string name="miuichromium_error_page_reason_network">Hata!</string>
 <string name="miuichromium_error_page_reason_server">Bu sayfa yüklenemiyor!</string>
 <string name="miuichromium_error_page_reload">Tekrar yükle</string>
 <string name="miuichromium_error_page_title">Bu sayfa yüklenemiyor!</string>
-<string name="miuichromium_error_page_url">Görünen URL</string>
+<string name="miuichromium_error_page_url">Hata!</string>
 <string name="miuichromium_error_page_wlan">Wi-Fi ayarları</string>
 </resources>
