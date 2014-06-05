@@ -147,15 +147,15 @@ Seçenekler:"</string>
     <string name="tip1_patternforgotten">Kaldırın ve tekrar yükleyin</string>
     <string name="tip2_patternforgotten">Şifrenizi sıfırlayın</string>
     <string name="details_patternforgotten">"Yeniden:
-"account.xiaomi.com için giriş yapın ve aktivasyonu onaylayın</string>
+"account.xiaomi.com adresinden giriş yapın ve aktivasyonu onaylayın</string>
     <string name="activation_page">Devre dışı</string>
     <string name="activation_page_info">account.xiaomi.com adresinde oturum açın</string>
     <string name="activation_page_btn_txt">Etkinleştir</string>
     <string name="timesync_preference_screen_title">Kodlar için zaman doğrulama</string>
     <string name="timesync_preference_screen_summary">"Kimlik doğrulayıcı saatini sunucu ile senkronize et"</string>
     <string name="timesync_sync_now_preference_title">Şimdi senkronize et</string>
-    <string name="timesync_about_feature_preference_title">BU özellik hakında</string>
-    <string name="timesync_about_feature_screen_title">BU özellik hakında</string>
+    <string name="timesync_about_feature_preference_title">Bu özellik hakkında</string>
+    <string name="timesync_about_feature_screen_title">Bu özellik hakkında</string>
     <string name="timesync_about_feature_screen_details">"Şimdi senkronize et\'e basarsanız, Kimlik Doğrulayıcı Google sunucularında bir kez kendi iç saatini senkronize etmeye çalışacaktır. Cihazınızın tarih ve saat ayarları değişmez.. &lt;p> Bu işem sırasında kişisel bilgileriniz Google sunucularına gönderilez. &lt;p> &lt;b>Bu neden faydalıdır?&lt;/b> &lt;p> Kimlik Doğrulayıcı  2-adımlı doğrulama kodları üretir 1) Geçerli zaman 2)Uygulama ve sunucunun bildiği gizli bir numara &lt;p> Kimlik doğrulayıcı ve sunucu zamanları eşleşmez ise, uygulamanın verdiği kodlar oturum açarken yanlış olabilir.. &lt;p> "</string>
     <string name="timesync_sync_now_screen_title">Şimdi senkronize et</string>
     <string name="timesync_sync_now_progress_dialog_title">Şimdi senkronize et</string>
@@ -168,4 +168,5 @@ Cihazınızın tarih ve saat ayarları değiştirilmedi."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_details">"Kimlik doğrulayıcı iç saati ayarlanamadı, senkronize işlemi zaten yapılış"</string>
     <string name="timesync_sync_now_connectivity_error_dialog_title">Şimdi senkronize et</string>
     <string name="timesync_sync_now_connectivity_error_dialog_details">"Sunucular ile bağlantı kurulamıyor!."</string>
+	<string name="success_copy_to_clipboard">Panoya kopyalandı</string>
 </resources>
