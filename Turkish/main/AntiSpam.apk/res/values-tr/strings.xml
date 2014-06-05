@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="menu_report_block">Spam olarak işaretle</string>
+    <string name="menu_report_block">İstenmeyen olarak işaretle</string>
     <string name="st_sub_title_customize_mode_name">Mod adı</string>
     <string name="st_title_open_antispam">Kara Liste</string>
     <string name="st_title_antispam_mode">Kara Liste modu</string>
@@ -59,8 +59,8 @@
     <string name="note_call_none">Çağrı kaydı yok</string>
     <string name="note_keyword_none">Arama terimi uok</string>
     <string name="note_preference_delete">Bu mod kullanımda, silinemez!</string>
-    <string name="block_message_number">Spam mesajlar:%d</string>
-    <string name="block_phone_number">Spam çağrılar:%d</string>
+    <string name="block_message_number">Engellenen mesajlar:%d</string>
+    <string name="block_phone_number">Engellenen çağrılar:%d</string>
     <string name="app_name">Kara Liste</string>
     <string name="fw_blocked">Engellendi:</string>
     <string name="fw_blocked_count">Engellendi:</string>
@@ -143,7 +143,7 @@
     <string name="menu_bl_add_manual">Ekle</string>
     <string name="menu_bl_add_contact">Kişiler</string>
     <string name="menu_add_new_contact">Yeni kişi</string>
-    <string name="menu_add_into_contact">Varolan kişiyi ekle</string>
+    <string name="menu_add_into_contact">Varolan kişiye ekle</string>
     <string name="menu_add">Ekle</string>
     <string name="menu_edit">Düzenle</string>
     <string name="menu_remove">Kaldır</string>
@@ -196,8 +196,8 @@
     <string name="st_title_man_addblacklist">Numarayı Kara Listeye ekle</string>
     <string name="st_title_man_head_addwhitelist">Numara ön ekini Beyaz listeye ekle</string>
     <string name="st_title_man_addwhitelist">Numarayı Beyaz listeye ekle</string>
-    <string name="st_title_man_editblacklist">Choose an location code to add to Kara Liste</string>
-    <string name="st_title_man_editwhitelist">Choose an location code to add to Beyaz liste</string>
+    <string name="st_title_man_editblacklist">Kara Listeye eklenecek ala kodunu seçin</string>
+    <string name="st_title_man_editwhitelist">Beyaz listeye eklenecek alan kodunu seçin</string>
     <string name="st_title_back_sound_choose">Engelleme sesi</string>
     <string name="st_title_back_sound_busy">Hat meşgul</string>
     <string name="st_title_back_sound_none">Numara kullanılmıyor</string>
