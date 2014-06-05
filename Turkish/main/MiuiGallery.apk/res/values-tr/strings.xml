@@ -494,4 +494,17 @@
   <string name="photo_size">Boyut</string>
   <string name="taken_time">Alınma zamanı</string>
   <string name="yellow_page">Dizin</string>
+  <string name="alert_init_merged_message">Cihazınızdaki ve MiCloud üzerindeki fotoğraflar,
+tek bir yerde görünür.</string>
+  <string name="alert_init_merged_title">Tüm fotoğrafları birleştir</string>
+  <string name="click_to_add_picture">Fotoğraf eklemek için dokunun</string>
+  <string name="local_time">(Yerel)</string>
+  <string name="long_press_to_refocus">Basılı tutun</string>
+  <string name="photo_page_detail_show_in_the_map">Kartı göster</string>
+  <string name="picker_tab_photo">Fotoğraf</string>
+  <string name="start_slide_show">Slayt gösterisini başlat</string>
+  <string name="sync_in_progress_message">Senkronize ediliyor...</string>
+  <string name="ubifocus_data_missing">Veri eksikliği nedeniyle odaklanılması mümkün değil</string>
+  <string name="ubifocus_map_error">Eksik veri!</string>
+  <string name="ubifocus_refocus_fail_tip">Veri eksikliği nedeniyle odaklanılması mümkün değil</string>
 </resources>

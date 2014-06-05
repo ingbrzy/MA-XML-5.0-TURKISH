@@ -442,4 +442,7 @@ Son deneme zamanı: %s."</string>
   <string name="yes">Tamam</string>
   <string name="context_menu_add_calendar">Takvime ekle</string>
   <string name="quick_reply">Hızlı cevap</string>
+  <string name="sp_category_all">Tüm mesajlar</string>
+  <string name="sp_category_bank">Banka mesajları</string>
+  <string name="sp_category_title_prefix">%s</string>
 </resources>

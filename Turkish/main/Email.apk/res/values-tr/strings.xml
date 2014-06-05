@@ -745,5 +745,12 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="summary_sms_code">Hesabınızı korumak için, doğrulama kodunu girin ve ödeme işlemini tamamlayın.</string>
   <string name="title_bind_phone">Telefon numaralarını bağlama.</string>
   <string name="title_sms_code">Doğrulama kodunu girin</string>
+  <string name="att_download_failed_content">İndirme başarısız</string>
+  <string name="att_download_failed_title">Ek indirme başarısız</string>
+  <string name="dialog_auto_download_failed">İndirmeyi tamamlamak mümkün değil</string>
+  <string name="dialog_insufficient_space_for_single_account_on_internal">%s için yeterli alan yok</string>
+  <string name="dialog_insufficient_space_on_external">Ekleri indirmek için yeterli boş alan yok.</string>
+  <string name="dialog_insufficient_space_on_internal">Yeterli boş alan yok</string>
+  <string name="mail">E-Posta</string>
 </resources>
 	

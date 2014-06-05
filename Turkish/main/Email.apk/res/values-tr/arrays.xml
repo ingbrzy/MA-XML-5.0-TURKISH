@@ -19,8 +19,8 @@
         <item>Tüm klasörler</item>
     </string-array>
     <string-array name="prefEntries_autoAdvance">
-        <item>Yeni</item>
-        <item>Eski</item>
+        <item>Yeni mesajlar</item>
+        <item>Eski mesajlar</item>
         <item>Sohbet listesi</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
