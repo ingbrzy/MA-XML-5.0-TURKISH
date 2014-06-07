@@ -1767,7 +1767,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_notice">Güvenlik Uyarısı</string>
   <string name="perm_operating">Uygulanıyor...</string>
   <string name="perm_optimize">Optimize et</string>
-  <string name="perm_privacy_app_count">%1$d yetkiler</string>
+  <string name="perm_privacy_app_count">%1$d yetki</string>
   <string name="perm_privacy_app_count_trust_summary">Güvenilir uygulama</string>
   <string name="perm_privacy_app_finish">Bitti</string>
   <string name="perm_privacy_app_installed">Yükleme başarılı!</string>
@@ -2420,7 +2420,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="show_hw_screen_updates_summary">GPU işlemlerinde ekranda flaş yapar</string>
   <string name="show_magnifier_when_input">Büyüteçi göster</string>
   <string name="show_notification">Bildirimleri göster</string>
-  <string name="show_owner_info_on_lockscreen_label">Kilitli ekranda sahip bilgilerini göster</string>
+  <string name="show_owner_info_on_lockscreen_label">Kilit ekranında sahip bilgilerini göster</string>
   <string name="show_password">Şifreleri görünür yap</string>
   <string name="show_rounded_corners">Köşeleri oval göster</string>
   <string name="show_running_services">Çalışan hizmetleri göster</string>
@@ -3305,7 +3305,7 @@ the %1$s music player will appear on your computer automatically"</string>
 	<string name="debug_hw_overdraw">GPU overdraw için hata ayıklama</string>
 	<string name="show_non_rect_clip">Dikdörtgen olmayan işlemler için hata ayıklama</string>
 	<string name="bluetooth_unlock_add_device">Cihaz ekle</string>
-  <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihazyenisi ile değiştirilecektir, devam etmek istiyor musunuz?</string>
+  <string name="bluetooth_unlock_change_device_confirm_msg">Eski cihaz yenisi ile değiştirilecektir, devam etmek istiyor musunuz?</string>
   <string name="bluetooth_unlock_change_matched_device">Diğer cihazı seçin</string>
   <string name="bluetooth_unlock_confirm_device_text">Onaylamak için cihaza dokunun</string>
   <string name="bluetooth_unlock_delete_device">Bu cihazı sil</string>
@@ -3329,4 +3329,6 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="xiaomi_router_notif_title">Xiaomi MiRouter bildirimleri</string>
   <string name="line_breaking_title">Metinleri optimize et</string>
   <string name="line_breaking_summary">Paragraf satır kırılmasını optimize et</string>
+   <string name="dialog_title_auto_start_tips">Oto-Başlangıç hakkında</string>
+   <string name="pref_summary_garbage_cleanup_check_size">Artık dosyalar belirli bir boyuta ulaştığında bana bildir</string>
   </resources>

@@ -196,7 +196,7 @@
     <string name="st_title_man_addblacklist">Numarayı Kara Listeye ekle</string>
     <string name="st_title_man_head_addwhitelist">Numara ön ekini Beyaz listeye ekle</string>
     <string name="st_title_man_addwhitelist">Numarayı Beyaz listeye ekle</string>
-    <string name="st_title_man_editblacklist">Kara Listeye eklenecek ala kodunu seçin</string>
+    <string name="st_title_man_editblacklist">Kara Listeye eklenecek alan kodunu seçin</string>
     <string name="st_title_man_editwhitelist">Beyaz listeye eklenecek alan kodunu seçin</string>
     <string name="st_title_back_sound_choose">Engelleme sesi</string>
     <string name="st_title_back_sound_busy">Hat meşgul</string>
