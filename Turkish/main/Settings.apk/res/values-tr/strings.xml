@@ -3329,6 +3329,5 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="xiaomi_router_notif_title">Xiaomi MiRouter bildirimleri</string>
   <string name="line_breaking_title">Metinleri optimize et</string>
   <string name="line_breaking_summary">Paragraf satır kırılmasını optimize et</string>
-   <string name="dialog_title_auto_start_tips">Oto-Başlangıç hakkında</string>
    <string name="pref_summary_garbage_cleanup_check_size">Artık dosyalar belirli bir boyuta ulaştığında bana bildir</string>
   </resources>
