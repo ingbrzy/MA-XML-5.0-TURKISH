@@ -126,7 +126,7 @@
   <string name="disable_micloud">MiCloud hizmetini kapat</string> 
   <string name="enable_micloud">MiCloud hizmetini aç</string> 
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
-  <string name="enableAll">Hepsini etkinleştir</string>
+  <string name="enableAll">Senkronize et</string>
   <string name="enable_find_device_error">%1$s, Cihaz bulma etkinleştirilemedi</string>
   <string name="error_dup_phone">Telefon kaydedilmiş</string>
   <string name="error_invalid_dev_id">Geçersiz cihaz kimliği!</string>
@@ -265,6 +265,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="my_xiaomi_account">Xiaomi Hesabım</string>
   <string name="next">İleri</string>
   <string name="nobind">Yetkilendirilmedi</string>
+   <string name="noRemind">"Tekrar hatırlatma"</string>
   <string name="other_settings">Diğer ayarlar</string>
   <string name="password">Şifreniz</string>
   <string name="phone_num_hint_text">Telefon numarası</string>

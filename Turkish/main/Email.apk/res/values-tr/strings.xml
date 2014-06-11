@@ -752,5 +752,8 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="dialog_insufficient_space_on_external">Ekleri indirmek için yeterli boş alan yok.</string>
   <string name="dialog_insufficient_space_on_internal">Yeterli boş alan yok</string>
   <string name="mail">E-Posta</string>
+  <string name="outbox_alert_button_no_resend">"Gönderme"</string>
+  <string name="outbox_alert_button_resend">Tekrar gönder</string>
+  <string name="outbox_alert_mailbox_not_found">E-posta adresi bulunamadı!</string>
 </resources>
 	

@@ -3330,4 +3330,18 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="line_breaking_title">Metinleri optimize et</string>
   <string name="line_breaking_summary">Paragraf satır kırılmasını optimize et</string>
    <string name="pref_summary_garbage_cleanup_check_size">Artık dosyalar belirli bir boyuta ulaştığında bana bildir</string>
+      <string name="wifi_ssid">AĞ adı</string>
+    <string name="wifi_ssid_hint">Ağ adını girin</string>
+	<string name="app_backup">Yedek</string>
+  <string name="app_feedback">Hata raporu</string>
+  <string name="bugreport_tool_log">Bir hata raporu oluştur</string>
+  <string name="google_backup_section_title">Google yedekleme ve geri yükleme</string>
+  <string name="local_backup_section_summary">Hesaplar, uygulamalar ve yedekleme ayarları</string>
+  <string name="local_backup_section_title">Yerel yedek</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">BAŞLAT</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">DUR</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="system_backup_section_title">Yedek</string>
   </resources>
