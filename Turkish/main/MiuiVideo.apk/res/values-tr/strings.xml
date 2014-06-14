@@ -1,6 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="about_app_name">MiuiPlayer</string>
+  <string name="about_app_name">Miui Video</string>
   <string name="about_developer_label">Geliştirici</string>
   <string name="about_developer_name">MIUI</string>
   <string name="about_title">Hakkında</string>
@@ -349,4 +349,17 @@
   <string name="yestorday">Dün</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
+  <string name="upgrade">Güncelle</string>
+  <string name="start_addon">Başlat</string>
+  <string name="pick_addon_to_delete">Seç</string>
+  <string name="no_hot_special">Yeni kampanya yok</string>
+  <string name="install_comfirm">Yükle</string>
+  <string name="delete_addon">Sil</string>
+  <string name="delete_addon_content">Silmek istiyor musunuz?</string>
+  <string name="addon"/>
+  <string name="addon_category">Kampanyalar</string>
+  <string name="addon_install_complete_disc">%s tamamlandı</string>
+  <string name="addon_update_desc">Yeni bir sürümünü bulundu,
+güncellemek istiyor musunuz?</string>
+  <string name="add_more_addons">Daha fazla ekle</string>
 </resources>

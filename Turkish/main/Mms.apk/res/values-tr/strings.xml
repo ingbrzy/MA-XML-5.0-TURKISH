@@ -445,4 +445,17 @@ Son deneme zamanı: %s."</string>
   <string name="sp_category_all">Tüm mesajlar</string>
   <string name="sp_category_bank">Banka mesajları</string>
   <string name="sp_category_title_prefix">%s</string>
+  <string name="alert_dlg_cancel_button">İptal</string>
+  <string name="alert_dlg_ok_button">TAMAM</string>
+  <string name="app_name">Cihaz yönetimi</string>
+  <string name="confirm_dlg__msg">CMCC bildirimi: Eğer servisi iptal ederseniz CMCC ücretsiz yazılan hizmeti verilmeyecektir.
+İptal etmek istiyor musunuz?</string>
+  <string name="confirm_dlg_title">Cihaz yönetimi</string>
+  <string name="manage_permission_app_label">Cihaz Yönetimi İzni</string>
+  <string name="send_message_dlg_check_hint">Ayarları hatırlıyorum</string>
+  <string name="send_message_dlg_mgs">CMCC bildirimi: Cihaz yönetim platformu hizmetleri için cihazınızı kayıt etmeniz gerekir. Bu terminal cihazları yönetebilir bir CMcC  platformudur.  Size uzak ayarları ve uygulama yükseltme hizmeti vermektedir. Cihaz kaydı için ücretsiz bir bilgi mesajı gönderilir. Mesaj bir kere gönderilir ve kişisel bilgiler içermez. Devam etmek ve kayıt olmak için "Tamam" , kullanmak istemiyorsanız "İptal" seçeneğine dokunun.</string>
+  <string name="send_message_dlg_title">Cihaz yönetimi</string>
+  <string name="send_message_notification_msg">Cihaz yönetimi mesaj gönderme izin isteği</string>
+  <string name="send_message_notification_tickerText">Cihaz yönetimi izin isteği</string>
+  <string name="send_message_notification_title">Cihaz yönetimi</string>
 </resources>

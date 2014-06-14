@@ -20,4 +20,8 @@
         <item>Bölüm</item>
         <item>Açıklama</item>
     </string-array>
+	<string-array name="addon_list_tabs">
+        <item>Tüm kampanyalar</item>
+        <item>Bana özel</item>
+    </string-array>
 </resources>

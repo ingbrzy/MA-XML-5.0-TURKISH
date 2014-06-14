@@ -3344,4 +3344,5 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="modem_tool_log_stop">DUR</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
   <string name="system_backup_section_title">Yedek</string>
+  <string name="bluetooth_device_address">Cihaz adresi:</string>
   </resources>
