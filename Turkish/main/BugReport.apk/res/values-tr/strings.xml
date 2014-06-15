@@ -28,7 +28,7 @@
   <string name="packaging_dialog_content">Rapor oluşturulıyor. Lütfen bekleyin...</string>
   <string name="report_miui">MIUI ye rapor et</string>
   <string name="section_description">Tanımlama</string>
-  <string name="section_err_type">Geri besleme türü</string>
+  <string name="section_err_type">Geri bildirim türü</string>
   <string name="section_screenshot">Ekran görüntüsü</string>
   <string name="status_msg_collecting_log">Kayıtlar toplanıyor...</string>
   <string name="status_msg_pending_upload">%d geri bildirimi upload ediliyor...</string>

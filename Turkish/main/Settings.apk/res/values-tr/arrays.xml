@@ -275,7 +275,6 @@
     <string-array name="led_color_entries">
          <item>Mavi</item>
          <item>Kırmızı</item>
-         <item>Turuncu</item>
          <item>Sarı</item>
          <item>Yeşil</item>
          <item>Camgöbeği</item>
