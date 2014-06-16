@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+<string name="app_label">"Dokümanlar"</string>
+<string name="title_open">"Şuradan aç:"</string>
+<string name="title_save">"Şuraya kaydet:"</string>
+<string name="menu_create_dir">"Klasör oluştur"</string>
+<string name="menu_grid">"Tablo görünümü"</string>
+<string name="menu_list">"Liste görünümü</string>
+<string name="menu_sort">"Sıralama ölçütü"</string>
+<string name="menu_search">"Ara"</string>
+<string name="menu_settings">"Ayarlar"</string>
+<string name="menu_open">"Aç"</string>
+<string name="menu_save">"Kaydet"</string>
+<string name="menu_share">"Paylaş"</string>
+<string name="menu_delete">"Sil"</string>
+<string name="mode_selected_count"> tane seçildi"</string>
+<string name="sort_name">"Ada göre"</string>
+<string name="sort_date">"Değişiklik tarihine göre"</string>
+<string name="sort_size">"Boyuta göre"</string>
+<string name="drawer_open">"Kökleri göster"</string>
+<string name="drawer_close">"Kökleri sakla"</string>
+<string name="save_error">"Doküman kaydedilemedi"</string>
+<string name="create_error">"Klasör oluşturulamadı"</string>
+<string name="query_error">"Dokümanlar sorgulanamadı"</string>
+<string name="root_recent">"En son"</string>
+<string name="root_available_bytes">"%1$s boş"</string>
+<string name="root_type_service">"Depolama hizmetleri"</string>
+<string name="root_type_shortcut">"Kısayollar"</string>
+<string name="root_type_device">"Cihazlar"</string>
+<string name="root_type_apps">"Diğer uygulamalar"</string>
+<string name="pref_advanced_devices">"Gelişmiş cihazları göster"</string>
+<string name="pref_file_size">"Dosya boyutunu göster"</string>
+<string name="pref_device_size">"Cihaz boyutunu göster"</string>
+<string name="empty">"Öğe yok"</string>
+<string name="toast_no_application">"Dosya açılamıyor"</string>
+<string name="toast_failed_delete">"Bazı dokümanlar silinemiyor"</string>
+<string name="share_via">"Şunu kullanarak paylaş:"</string>
+</resources>
