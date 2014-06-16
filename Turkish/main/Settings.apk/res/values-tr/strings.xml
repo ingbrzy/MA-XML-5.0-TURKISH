@@ -1625,7 +1625,7 @@ please follow the steps to complete installation"</string>
     <string name="optimize_cache_header_left">Önbellek dosyası: %d</string>
     <string name="optimize_cache_list_empty_content">Ön bellek dosyası bulunmadı.</string>
     <string name="optimize_done">İşlem tamamlandı!</string>
-	<string name="optimize_installed_apps_header_left">Uygulamayı indir.:%d</string>
+	<string name="optimize_installed_apps_header_left">Yüklenmiş uygulamalar:%d</string>
 	<string name="optimize_installed_apps_list_empty_content">Uygulama yok</string>
     <string name="optimize_large_file_header_left">Büyük dosya: %d</string>
     <string name="optimize_large_file_list_empty_content">Büyük dosya bulunmadı.</string>

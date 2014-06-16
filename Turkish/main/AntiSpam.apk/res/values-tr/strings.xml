@@ -252,7 +252,7 @@
   <string name="Call_DEFAULT">Akıllı engelleme</string>
   <string name="NACaddnumcontent">Telefon numarası</string>
   <string name="SMS_DEFAULT">Akıllı engelleme</string>
-  <string name="backsound_set_hint">%s bağlantı için ses ayarlansın mı?</string>
+  <string name="backsound_set_hint">%s engelleme sesi olarak ayarlansın mı?</string>
   <string name="call_delete_hint">Seçilen numaralardan gelen ve engellenen tüm çağrılar silinsin mi?</string>
   <string name="dlg_remove_blacklist_ing">Kara listeden kaldırılıyor...</string>
   <string name="dlg_remove_whitelist_ing">Beyaz listeden kaldırılıyor...</string>
