@@ -284,4 +284,8 @@
   <string name="theme_no">Hayır</string>
   <string name="theme_fresh_man_notifaction">Bazı yeni temaları deneyin.</string>
   <string name="apply_default_font_tip">"Sistemin mevcut yazı tipi korunsun mu?"</string>
+  <string name="resource_allow">İzin ver</string>
+  <string name="resource_connect_network_message">Uygulamalrın internete bağlanmasına izin vermek istiyor musunuz?</string>
+  <string name="resource_connect_network_settings">İnternet bağlantısı ayarları</string>
+  <string name="resource_remind_another_time">Tekrar hatırlatma</string>
   </resources>

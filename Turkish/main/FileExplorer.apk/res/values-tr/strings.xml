@@ -336,4 +336,6 @@ Boş alanınız %1$s"</string>
   <string name="share_box">Paylaşılan</string>
   <string name="share_box_receive">Kabul edilen</string>
   <string name="share_box_send">Gönderilen</string>
+  <string name="file_not_exist">Dosya mevcut değil!</string>
+  <string name="open_file_failed">Dosya açılamadı!</string>
   </resources>

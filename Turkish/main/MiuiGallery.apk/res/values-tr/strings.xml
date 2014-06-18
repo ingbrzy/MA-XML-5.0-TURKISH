@@ -507,4 +507,6 @@ tek bir yerde görünür.</string>
   <string name="ubifocus_data_missing">Veri eksikliği nedeniyle odaklanılması mümkün değil</string>
   <string name="ubifocus_map_error">Eksik veri!</string>
   <string name="ubifocus_refocus_fail_tip">Veri eksikliği nedeniyle odaklanılması mümkün değil</string>
+  <string name="download_refocus_data">Veri al</string>
+  <string name="refocus_data_downloading">Veri alınıyor ......</string>
 </resources>

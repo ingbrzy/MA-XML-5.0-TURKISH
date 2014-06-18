@@ -12,6 +12,10 @@
   <string name="direction_north">K</string>
   <string name="direction_south">G</string>
   <string name="direction_west">B</string>
+  <string name="direction_north_east">KD</string>
+  <string name="direction_north_west">KB</string>
+  <string name="direction_south_east">GD</string>
+  <string name="direction_south_west">GB</string>
   <string name="getting_location">Konumunuz bulunuyor...</string>
   <string name="guide_toast">"Manyetik alan paraziti olabilir, aşağıdaki hareketi kullanarak pusulayı kalibre edin."</string>
   <string name="latitude">LAT</string>
