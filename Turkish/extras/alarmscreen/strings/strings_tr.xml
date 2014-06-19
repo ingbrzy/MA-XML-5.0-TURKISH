@@ -1,4 +1,4 @@
 <resources>
-    <string name="slider_text" value="ALARMI KAPAT" />
+    <string name="slider_text" value="> ALARMI KAPAT >" />
     <string name="snooze_message" value="%d Dakika Ertele" />
 </resources>

@@ -347,4 +347,8 @@
 	<string name="volume_alert_playback_alert_title">Yüksek ses uyarısı</string>
     <string name="volume_alert_playback_message">İşitme duyunuzu korumak için, yüksek sesle uzun süre müzik dinlemeniz engellenir.</string>
 	<string name="select_device">Cihazı seç</string>
+	<string name="impunity_declaration_ignore">Tekrar sorma</string>
+  <string name="impunity_declaration_settings">Ağ bildirimleri</string>
+  <string name="impunity_declaration_summary">Müziğe girerken, hatırlatmak için açılır pencere gösterir</string>
+  <string name="take_effect_afater_restart">Yeni müzik efektleri için uygulamayı tekrar başlatın.</string>
 </resources>

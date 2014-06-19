@@ -269,4 +269,10 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="widget_gadget_player">Müzik</string>
   <string name="widget_global_search">Genel arama</string>  
 <string name="free_wifi_manage_summary">%1$s  görüntülemek için dokunun.</string>  
+<string name="bad_wallpaper_source_prompt">Načítavanie tapety zlyhalo</string>
+<string name="status_downloaded">İndirilen</string>
+<string name="status_downloading">Devam ediyor</string>
+<string name="status_installing">Yükleme</string>
+<string name="status_paused">Duraklatıldı</string>
+<string name="status_pending">Beklemede</string>
 </resources>

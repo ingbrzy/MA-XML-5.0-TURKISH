@@ -3347,4 +3347,5 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="bluetooth_device_address">Cihaz adresi:</string>
   <string name="title_font">Yazı tipi</string>
   <string name="title_font_current">Geçerli yazı tipi</string>
+  <string name="use_network_warning">Xiaomi Framework ve Cloud hizmetleri internet bağlantısı gerektirir.</string>
   </resources>

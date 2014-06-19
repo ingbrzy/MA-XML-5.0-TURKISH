@@ -362,4 +362,19 @@
   <string name="addon_update_desc">Yeni bir sürümünü bulundu,
 güncellemek istiyor musunuz?</string>
   <string name="add_more_addons">Daha fazla ekle</string>
+  <string name="failed_text">Sertifika alınamıyor, lütfen tekrar deneyin!</string>
+  <string name="failed_text_11">Doğrulama hatası!</string>
+  <string name="failed_text_21">Onatmaya çalıştığınız film online değil, lütfen bekleyin!</string>
+  <string name="failed_text_49">Hesabınız bu filmi alamaz ve oynatamaz !</string>
+  <string name="failed_text_502">Oynatmaya çalıştığınız film çevrim dışı ya da süresi dolmuş!</string>
+  <string name="failed_text_708">Terminal sayısı çok fazla!</string>
+  <string name="failed_text_parse_file">Hata! Yanlış dosya biçimi</string>
+  <string name="failed_title">Dikkat</string>
+  <string name="get_cert_file_failed">Thunder sertifikası alınamadı, geri tuşuna basın</string>
+  <string name="gong_count_netdevice">%d net cihazı</string>
+  <string name="loading_text">Yükleniyor...</string>
+  <string name="net_device_name">Net cihazı</string>
+  <string name="thunder_cinema">Thunder sinema</string>
+  <string name="xunlei_cinema_title">Thunder sinema</string>
+  <string name="xunlei_login_error">Thunder sinema oturum açma hatası !</string>  
 </resources>

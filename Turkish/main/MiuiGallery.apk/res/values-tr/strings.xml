@@ -509,4 +509,8 @@ tek bir yerde görünür.</string>
   <string name="ubifocus_refocus_fail_tip">Veri eksikliği nedeniyle odaklanılması mümkün değil</string>
   <string name="download_refocus_data">Veri al</string>
   <string name="refocus_data_downloading">Veri alınıyor ......</string>
+  <string name="item_not_sync_for_origin_image">Bu resim Cloud ile senkronize edilmemiş, orijinal görüntü indirilemez</string>
+  <string name="item_not_sync_for_origin_video">Bu video Cloud ile senkronize edilmemiş, orijinal video indirilemez</string>
+  <string name="item_not_sync_for_refocus_data">Bu resim Cloud ile senkronize edilmemiş, veri indirilemez</string>
+  <string name="ubifocus_guide_text"> 0.5s basılı tutun</string>  
 </resources>

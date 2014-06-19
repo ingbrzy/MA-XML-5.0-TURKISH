@@ -78,4 +78,9 @@
   <string name="virus_scan_install">" "Yüklemeye devam et" "</string>
   <string name="virus_scan_is_risk">Bu uygulama risk oluşturuyor!</string>
   <string name="virus_scan_is_virus">Bu uygulama virüs içeriyor, lütfen hemen silin!</string>
+  <string name="ad_block_button_title">Reklam engelleme</string>
+  <string name="ad_relative">Reklam</string>
+  <string name="adware_count">%d eklenti içeriyor</string>
+  <string name="adware_hint">Bu eklentiler; cihazınızda  reklam göstermek için üçüncü parti geliştiriciler tarafından kullanılmaktadır</string>
+  <string name="adware_title">Reklam</string>
 </resources>

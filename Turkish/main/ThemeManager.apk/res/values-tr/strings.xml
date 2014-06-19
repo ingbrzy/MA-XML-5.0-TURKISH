@@ -288,4 +288,14 @@
   <string name="resource_connect_network_message">Uygulamalrın internete bağlanmasına izin vermek istiyor musunuz?</string>
   <string name="resource_connect_network_settings">İnternet bağlantısı ayarları</string>
   <string name="resource_remind_another_time">Tekrar hatırlatma</string>
+  <string name="theme_user_agreement_allow">Kabul et</string>
+  <string name="theme_user_agreement_content1">Bu ürünü kullanmadan önce dikkatle yürürlükteki koşullarını okuyun:</string>
+  <string name="theme_user_agreement_content2">" Kullanıcı sözleşmesi"</string>
+  <string name="theme_user_agreement_content3">" ve "</string>
+  <string name="theme_user_agreement_content4">Gizlilik politikası </string>
+  <string name="theme_user_agreement_content5">Bu işlem internet bağlantısı gerektirir, kabul ediyor musunuz?</string>
+  <string name="theme_user_agreement_remind_again">Ağ için bildir</string>
+  <string name="theme_user_agreement_remind_never">"Tekrar hatırlatma"</string>
+  <string name="theme_user_agreement_remind_summary">Cihazı yeniden başlatınca etkinleşir.</string>
+  <string name="theme_user_agreement_title">Açıklama</string>
   </resources>
