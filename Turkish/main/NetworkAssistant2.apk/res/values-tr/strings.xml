@@ -182,4 +182,5 @@ Kullanılan"</string>
     <string name="usage_sorted_loading_text">Yükleniyor...</string>
     <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
     <string name="network_assistant_upgraded_body">Veri kullanımını kısıtlamak için dokunun.</string>
+	<string name="spinner_title">%1$s - Mobil veri: %2$s</string>
 </resources>
