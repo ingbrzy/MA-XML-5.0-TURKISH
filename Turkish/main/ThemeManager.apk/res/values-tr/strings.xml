@@ -188,7 +188,7 @@
     <string name="resource_trial_end_title">Deneme süresi doldu</string>
     <string name="resource_trial_end_message">%1$s Deneme süresi doldu. Eğer beğendiyseniz, satın alabilirsiniz.</string>
     <string name="resource_trial_end_restore">Denemeyi bitir</string>
-    <string name="resource_trial_end_purchase">Sarın al</string>
+    <string name="resource_trial_end_purchase">Satın al</string>
   <string name="resource_update">Güncelle</string>
   <string name="resource_waiting_download">İndirme için bekliyor...</string>
   <string name="restore_default_theme_alert">Bu tema sahtecilik kurbanı olabilir, satın almak için tema marketine göz atın veya yeniden indirin.</string>
