@@ -1,4 +1,4 @@
 <strings>
-<string name="short_date_time" value="dd MMMM EEEE"/>
+<string name="short_date_time" value="dd MMMM yyyy, EEEE"/>
 <string name="long_date_time" value="dd MMMM yyyy, EEEE"/>
 </strings>

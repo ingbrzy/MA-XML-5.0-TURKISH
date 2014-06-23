@@ -84,7 +84,7 @@
   <string name="empty_edit_hint">Şarkı bilgisi kullanılamaz</string>
   <string name="empty_track_list">Parça listesi yok</string>
   <string name="emptyplaylist">Seçilen çalma listesi boş.</string>
-  <string name="enabled">Etkin</string>
+  <string name="enabled">Etkinleştir</string>
   <string name="enter_sleep_mode">Uyku modunu ayarla</string>
   <string name="eq_auto">Özel</string>
   <string name="eq_blues">Blues</string>
@@ -142,9 +142,7 @@
   <string name="id3_edit_failed">ID3 düzenleme başarısız</string>
   <string name="id3_modify_confirm_check">ID3 değişikliklerini onaylıyor musunuz?</string>
   <string name="id3_modify_confirm_text">Kaydet</string>
-  <string name="impunity_declaration">Kullanmak üzere olduğunuz online müzik, Baidu Online Müzik Servisi değil.Kullanmak için \"TAMAM\" , çıkmak için \"İPTAL\" e tıklayın.</string>
-  <string name="impunity_declaration_title">Açıklama</string>
-  <string name="keep_quit_position_settings">Son konumu kaydet</string>
+   <string name="keep_quit_position_settings">Son konumu kaydet</string>
   <string name="keep_quit_position_summary">Müzik çalar tekrar başlayınca şarkı kaldığı yerden devam eder</string>
   <string name="ktv_alert_message">"Sorumlu QR kodunu görüntülemek ve KTV adlı konsolunun ana sayfasındaki şarkıyı eklemek için lütfen telefon dokunun"</string>
   <string name="ktv_alert_title">Sadece desteklenen cihazlar şarkı ekleyebilir</string>
@@ -219,7 +217,7 @@
   <string name="overwrite_confirm">Üstüne yaz</string>
   <string name="pay_service_guide_dowload">İndirme kalitesi</string>
   <string name="pay_service_guide_listen">Akış kalitesi</string>
-  <string name="pay_service_guide_new">Yüksek kaliteli müzik şimdi kullanılabilir</string>
+  <string name="pay_service_guide_new">Online yüksek kaliteli müzik dinleyin.</string>
   <string name="payment_fail">Ödeme başarısız oldu!</string>
   <string name="payment_success">Ödeme başarılı!</string>
   <string name="play_all">Tümünü oynat</string>
@@ -330,16 +328,16 @@
      <string name="load_recommend_in_process">Yükleniyor ...</string>
     <string name="load_recommend_failed">Yüklenemedi!</string>
     <string name="click_to_play_all">Hepsini Oynat</string>
-    <string name="collect_topic_success">Albüm favorite eklendi</string>
-    <string name="collect_bill_success">Bill favorite eklendi</string>
-    <string name="collect_fm_success">Yer imlerine eklendi</string>
-    <string name="uncollect_success">Favorilere toplandı</string>
+    <string name="collect_topic_success">Albüm favorilere eklendi</string>
+    <string name="collect_bill_success">Bill favorilere eklendi</string>
+    <string name="collect_fm_success">Favorilere eklendi</string>
+    <string name="uncollect_success">Favorilerden kaldırıldı</string>
 	<string name="dirac_mode_general_earbuds">Genel kulaklık başlıkları</string>
     <string name="dirac_mode_general_inear">Genel inear</string>
     <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
     <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
     <string name="sync_alert_title">Müziği Senkronize et</string>
-    <string name="sync_alert_message">Favori müziklerinizi MiCloud hesabınıza senkronize edin.</string>
+    <string name="sync_alert_message">Favori müziklerinizi MiCloud hesabınıza senkronize edebilirsiniz.</string>
     <string name="not_now">Şimdi değil</string>
     <string name="sync_disable_toast">Senkronize işlemini Sistem Ayarlarından etkinleştirebilirsiniz.</string>
     <string name="login_and_enable">Oturum Aç ve Senk et</string>
@@ -347,8 +345,12 @@
 	<string name="volume_alert_playback_alert_title">Yüksek ses uyarısı</string>
     <string name="volume_alert_playback_message">İşitme duyunuzu korumak için, yüksek sesle uzun süre müzik dinlemeniz engellenir.</string>
 	<string name="select_device">Cihazı seç</string>
+	<string name="impunity_declaration">Kullanmak üzere olduğunuz online müzik servisi, Baidu Online Müzik Servisi değil.
+	Kullanmak için \"TAMAM\" , çıkmak için \"İPTAL\" e dokunun.</string>
+    <string name="impunity_declaration_title">Açıklama</string>
 	<string name="impunity_declaration_ignore">Tekrar sorma</string>
-  <string name="impunity_declaration_settings">Ağ bildirimleri</string>
-  <string name="impunity_declaration_summary">Müziğe girerken, hatırlatmak için açılır pencere gösterir</string>
-  <string name="take_effect_afater_restart">Yeni müzik efektleri için uygulamayı tekrar başlatın.</string>
+    <string name="impunity_declaration_settings">Ağ bağlantısı gerekirse bildir</string>
+    <string name="impunity_declaration_summary">Müziğe girerken, hatırlatmak için açılır pencere gösterir</string>
+    <string name="take_effect_afater_restart">Yeni ayarların etkili olabilmesi için uygulamanın tekrar başlatılması gerekir.</string>
+	<string name="music_filter">Dosyaları filtrele</string>
 </resources>
