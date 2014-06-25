@@ -28,7 +28,7 @@
     <string name="st_antispam_title_anoy_sms">Yabancı mesajlar</string>
     <string name="st_antispam_title_anoy_incoming">Yabancı çağrılar</string>
     <string name="st_antispam_title_null_incoming">Özel çağrılar</string>
-    <string name="st_antispam_mode_smart_sum">Kara Liste and yabancı numara çağrılarını engelle</string>
+    <string name="st_antispam_mode_smart_sum">Kara Liste ve yabancı numara çağrılarını engelle</string>
     <string name="st_antispam_mode_blacklist_sum">Kara Liste çağrı ve mesajlarını engelle</string>
     <string name="st_antispam_mode_only_contacts_sum">Kişilerden gelen çağrı ve mesajlara izin ver</string>
     <string name="st_antispam_mode_only_whitelist_sum">Sadece Beyaz liste çağrı ve mesajlarına izin ver</string>
@@ -83,7 +83,7 @@
     <string name="whitelist_prefix_add_hint">Ön eki olan tüm numaraları Beyaz Listeye ekle</string>
     <string name="customizer_mode_user_define_name">Özel</string>
     <string name="all_address_choose_hint">Tüm konumlar</string>
-    <string name="address_choose_hint">%1$s、%2$s and %3$d konum</string>
+    <string name="address_choose_hint">%1$s、%2$s ve %3$d konum</string>
     <string name="two_address_choose_hint">%1$s, %2$s2 konum</string>
     <string name="one_address_choose_hint">%s1 konum</string>
     <string name="marked_by_user">"olarak işaretlenmiş "</string>
