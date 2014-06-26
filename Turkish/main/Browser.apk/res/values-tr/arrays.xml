@@ -8,7 +8,7 @@
         <item>UTF-8</item>
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
     </string-array>
-	<string-array name="baidu">
+    <string-array name="baidu">
         <item>Google</item>
         <item>google.com</item>
         <item>http://www.google.com/favicon.ico</item>

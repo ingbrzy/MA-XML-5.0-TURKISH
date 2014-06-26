@@ -91,7 +91,7 @@
   <string name="map_session_key_dialog_title">%1$s kaynağının bağlantı şifresini girin</string>
   <string name="miui_transfer_history_title">Bluetooth trasfer geçmişi</string>
   <string name="miui_transfer_inbound_title">Gelenler</string>
-  <string name="miui_transfer_outbound_title">Gidenler</string> 
+  <string name="miui_transfer_outbound_title">Gidenler</string>
   <string name="no_transfers">Transfer geçmişi boş.</string>
   <string name="not_exist_file">Dosya yok</string>
   <string name="not_exist_file_desc">"Böyle bir dosya mevcut değil."</string>

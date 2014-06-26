@@ -115,7 +115,7 @@
   <string name="cloud_messaging">MiCloud mesajlaşma</string>
   <string name="completed">Bitti</string>
   <string name="confirm">Onayla</string>
-  <string name="current_account">Varolan hesap</string> 
+  <string name="current_account">Varolan hesap</string>
   <string name="data_keep_in_phone">Cihazdaki verileri koru</string>
   <string name="data_sync_notice">Xiaomi hesabınızı kullanarak verilerinizi senkronize edin</string>
   <string name="data_wipe_from_phone">Cihazımdan sil</string>
@@ -123,8 +123,8 @@
   <string name="dirty_mms_count">%d mesaj</string>
   <string name="dirty_note_count">%d not</string>
   <string name="disable_find_device_error">%1$s, Cihazımı bul devre dışı bırakılamadı</string>
-  <string name="disable_micloud">MiCloud hizmetini kapat</string> 
-  <string name="enable_micloud">MiCloud hizmetini aç</string> 
+  <string name="disable_micloud">MiCloud hizmetini kapat</string>
+  <string name="enable_micloud">MiCloud hizmetini aç</string>
   <string name="email_already_be_used">E-posta adresi zaten kullanılıyor</string>
   <string name="enableAll">Senkronize et</string>
   <string name="enable_find_device_error">%1$s, Cihaz bulma etkinleştirilemedi</string>
@@ -154,8 +154,8 @@
   <string name="find_device_notice_p4">SIM kart değiştiğinde cihazımı bul özelliğinin çalışması için yeniden aktivasyon işlemi yapılmalıdır.</string>
   <string name="find_device_success_title">Cihazımı bul etkin</string>
   <string name="find_password_on_web_msg">account.xiaomi.com adresinden hesabınızı geri alın</string>
-  <string name="forget_password">Şifremi unuttum</string> 
-  <string name="get_back_pwd">Şifremi kurtar</string> 
+  <string name="forget_password">Şifremi unuttum</string>
+  <string name="get_back_pwd">Şifremi kurtar</string>
   <string name="header_data_and_synchronization">Veriler ve Senkronize</string>
   <string name="i_know">Tamam</string>
   <string name="input_captcha_hint">Güvenlik kodunu girin</string>
@@ -163,7 +163,7 @@
   <string name="input_password_hint">Şifrenizi giriniz</string>
   <string name="int_phone_user_notice">Çin dışında bir numara kaydederken, ülke kodunu girin örnek. +90xxxxxxxxx</string>
   <string name="internet_comm">Mesajlar</string>
-  <string name="internet_message">MiCloud mesajları</string> 
+  <string name="internet_message">MiCloud mesajları</string>
   <string name="login">Oturum aç</string>
   <string name="login_failed">Oturum açma başarısız</string>
   <string name="login_instead_reg">Telefon numaranız ile giriş yapın</string>
@@ -181,20 +181,20 @@
   <string name="micloud_account_label">Hesap: %1$s</string>
   <string name="micloud_account_name">Xiaomi Hesabı</string>
   <string name="micloud_account_not_actived">Hesap etkin değil</string>
-  <string name="micloud_activate_account_fail_notify_title">Xiaomi hesap aktivasyonu başarısız!</string> 
+  <string name="micloud_activate_account_fail_notify_title">Xiaomi hesap aktivasyonu başarısız!</string>
   <string name="micloud_activate_account_success_notify_title">Xiaomi hesap aktivasyonu başarılı</string>
   <string name="micloud_activate_back_btn">İptal</string>
-  <string name="micloud_activate_retry_btn">Tekrar dene</string> 
+  <string name="micloud_activate_retry_btn">Tekrar dene</string>
   <string name="micloud_activating_account_notify_info">Xiaomi hesap aktivasyonu yapıyorsunuz</string>
   <string name="micloud_activating_account_notify_title">Xiaomi hesap aktivasyonu yapılıyor...</string>
- <string name="micloud_active_alert_title">Hesap aktivasyonu</string>  
+ <string name="micloud_active_alert_title">Hesap aktivasyonu</string>
   <string name="micloud_active_email_sent_1">E-postanıza  aktivasyon linki gönderildi:</string>
   <string name="micloud_active_email_sent_2"/>
   <string name="micloud_active_email_visit">Burayı ziyaret edin %s</string>
   <string name="micloud_activing_account">Hesap etkinleştiriliyor...</string>
   <string name="micloud_activing_account_delayed">"Aktivasyon işlemi 30 saniye içinde tamamlanacak.
-  Lütfen bekleyin..."</string> 
-  <string name="micloud_activing_account_failed">Aktivasyon başarısız!</string> 
+  Lütfen bekleyin..."</string>
+  <string name="micloud_activing_account_failed">Aktivasyon başarısız!</string>
   <string name="micloud_app_data">MiCloud uygulama yedekleri</string>
   <string name="micloud_area_code_hot">Sıcak</string>
   <string name="micloud_area_code_title">Ülke/Alan kodu</string>
@@ -202,7 +202,7 @@
   <string name="micloud_click_email_to_valid">Mesaj kutunuzdaki aktivasyon postasına tıklayın</string>
   <string name="micloud_data_loading">Yükleniyor...</string>
   <string name="micloud_delete_account">Hesabı sil</string>
-  <string name="micloud_dspt">MiCloud Hizmeti ile, arama, mesajlaşma, senkronize ve diğer pek çok işlemi yapabilirsiniz. Ayrıca çevrimiçi olarak istediğiniz zaman verilerinizi düzenleyebilirsiniz.</string> 
+  <string name="micloud_dspt">MiCloud Hizmeti ile, arama, mesajlaşma, senkronize ve diğer pek çok işlemi yapabilirsiniz. Ayrıca çevrimiçi olarak istediğiniz zaman verilerinizi düzenleyebilirsiniz.</string>
   <string name="micloud_email">E-posta adresi</string>
   <string name="micloud_error_email">E-posta geçersiz</string>
   <string name="micloud_error_empty_captcha_code">Güvenlik kodunu girin.</string>
@@ -210,7 +210,7 @@
   <string name="micloud_error_empty_username">Kullanıcı adı boş</string>
   <string name="micloud_error_empty_vcode">Doğrulama kodunu girin</string>
   <string name="micloud_error_illegal_pwd">Geçersiz şifre</string>
-  <string name="micloud_error_invalid_phone_num">Geçersiz telefon numarası</string> 
+  <string name="micloud_error_invalid_phone_num">Geçersiz telefon numarası</string>
   <string name="micloud_full_influence_dspt">"Tüm fotoğraflar, videolar, notlar ve uygulamalar MiCloud\'a yedeklenir.
 
 Eğer telefonunuzu kaybederseniz veya zarar verirseniz, verileriniz yinede güvende olur.
@@ -226,21 +226,21 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_intro_01_part_01">SMS mesajlarını kaydet</string>
   <string name="micloud_intro_01_part_02">MiCloud Hizmeti, internet üzerinden ücretsiz mesaj göndermenizi sağlar</string>
   <string name="micloud_intro_02_part_01">Hiçbir şey yapmanız gerekmez</string>
-  <string name="micloud_intro_02_part_02">MiCloud Hizmetleri; kişiler, mesajlar, fotoğraflar ve farklı cihazlar arasındaki diğer veri senkronize işlemlerine yardımcı olur.</string> 
+  <string name="micloud_intro_02_part_02">MiCloud Hizmetleri; kişiler, mesajlar, fotoğraflar ve farklı cihazlar arasındaki diğer veri senkronize işlemlerine yardımcı olur.</string>
   <string name="micloud_intro_03_part_01">Verilerinizi asla kaybetmezsiniz, her zaman güvendedir.</string>
-  <string name="micloud_intro_03_part_02">i.mi.com adresinden verilerinizi düzenleyebilir, cihazınımı bul, cihazımı kilitle veya sil gibi işlemleri buradan yapabilirsiniz.</string> 
+  <string name="micloud_intro_03_part_02">i.mi.com adresinden verilerinizi düzenleyebilir, cihazınımı bul, cihazımı kilitle veya sil gibi işlemleri buradan yapabilirsiniz.</string>
   <string name="micloud_is_what">MiCloud nedir?</string>
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_none">Yok</string>
   <string name="micloud_password_confirm_hint">Şifrenizi onaylayın</string>
   <string name="micloud_password_error_inconsistent">Şifre hatalı</string>
   <string name="micloud_password_req_notice">8~16 karakter, rakamlar, alfabe harfleri, küçük harfe duyarlı</string>
-  <string name="micloud_proceed">Devam et</string> 
+  <string name="micloud_proceed">Devam et</string>
   <string name="micloud_reg_new">Yeni</string>
   <string name="micloud_resend_active_email">Aktivasyon E-postasını tekrar gönder</string>
    <string name="micloud_space_full_influence">Kullanım alanım biterse ne yapacağım?</string>
   <string name="micloud_storage_space">MiCloud depolama alanı</string>
-  <string name="micloud_summary">Bağlantıları, fotoğrafları ve diğer birçok özellikleri senkronize etmek için Xiaomi hesabınız ile oturum açın.</string> 
+  <string name="micloud_summary">Bağlantıları, fotoğrafları ve diğer birçok özellikleri senkronize etmek için Xiaomi hesabınız ile oturum açın.</string>
   <string name="micloud_title_dspt" formatted="false">"Toplam alan %s
  Kullanılan %s | Boş %s"</string>
  <string name="micloud_title_full_dspt">Depolama alanınız doldu!</string>
@@ -275,7 +275,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="quick_login_title">Şifre</string>
   <string name="reg_by_email_failure">Kayıt başarısız oldu: %1$s</string>
   <string name="reg_failed">Kayıt işlemi başarısız </string>
-  <string name="reg_success">Kayıt işlemi başarılı</string> 
+  <string name="reg_success">Kayıt işlemi başarılı</string>
   <string name="reg_success_summary">Cep telefonu numaranız %1$s . Oturum açmak, MiLock ve şifre kurtarmak için zaten bir şifre alınmış.</string>
   <string name="reg_type_email">E-posta ile kaydol</string>
   <string name="reg_type_phone">Telefon ile kaydol (önerilen)</string>
@@ -290,7 +290,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="send_sms_for_sync_notice">Aktivasyon SMS\'i gönderildi. Devam edilsin mi</string>
   <string name="send_sms_for_sync_title">Senk hizmetleri etkin değil</string>
   <string name="service_error">Hizmet hatası!</string>
-  <string name="show_password">Şifreyi göster</string>   
+  <string name="show_password">Şifreyi göster</string>
   <string name="sim_changed_notification_content">SIM kart aktif değil, lütfen tekrar aktivasyon yapın!</string>
   <string name="sim_unactivated_title">SIM kart aktif değil!</string>
   <string name="sina_weibo">Sina Weibo</string>
@@ -305,7 +305,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
 
  Veri güvenliğiniz için senkronize işlemini yapmanız tavsiye edilir"</string>
 
-  <string name="sub_alert_notif_title">Senkronizasyon servisi etkin değil</string>  
+  <string name="sub_alert_notif_title">Senkronizasyon servisi etkin değil</string>
   <string name="sync_dspt">Senk için Xiaomi hesabı kullan</string>
   <string name="sync_off">Kapalı</string>
   <string name="sync_on">Açık</string>
@@ -326,7 +326,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="user_agreement_p5">"Kabul etmiş olursunuz.. "</string>
   <string name="vcode">Doğrulama kodu</string>
   <string name="vcode_notification_title">Giriş doğrulamanız tamamlanmadı</string>
-  <string name="vcode_prompt_long">Xiaomi güvenlik belirteci ile oluşturulan doğrulama kodunu girin</string>  
+  <string name="vcode_prompt_long">Xiaomi güvenlik belirteci ile oluşturulan doğrulama kodunu girin</string>
   <string name="wipe_data_dialog_msg">%s senkronize değil.</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="wipe_data_dialog_title">"Bazı öğeler senkronize edilmemiş."</string>

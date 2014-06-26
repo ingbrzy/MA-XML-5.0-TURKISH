@@ -15,7 +15,7 @@
         <item quantity="zero">%1$d resim</item>
         <item quantity="one">%1$d resim</item>
     </plurals>
-	<plurals name="number_of_items">
+    <plurals name="number_of_items">
         <item quantity="other">%1$d öğe</item>
         <item quantity="zero">%1$d öğe</item>
         <item quantity="one">%1$d öğe</item>

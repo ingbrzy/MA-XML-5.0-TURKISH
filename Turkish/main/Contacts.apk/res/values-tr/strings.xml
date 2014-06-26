@@ -36,7 +36,7 @@
   <string name="all_list_empty">Kişi yok</string>
   <string name="all_resources">Tümü</string>
   <string name="antispam_mark_my_contribution">Benim belirlediğim</string>
-  <string name="antispam_provider_format">%s gösterilen</string> 
+  <string name="antispam_provider_format">%s gösterilen</string>
   <string name="attach_photo_dialog_title">Kişi fotoğrafı</string>
   <string name="audio_chat">Sesli sohbet</string>
   <string name="auto_nickname">Otomatik</string>
@@ -55,8 +55,8 @@
   <string name="caching_vcard_title">Önbelleğe alınıyor</string>
   <string name="callAgain">Tekrar Ara</string>
   <string name="callBack">Geri ara</string>
-  <string name="callDetailTitle">Çağrı ayrıntıları</string> 
-  <string name="callDetailsDurationFormat" formatted="false">%s dak %s san</string>  
+  <string name="callDetailTitle">Çağrı ayrıntıları</string>
+  <string name="callDetailsDurationFormat" formatted="false">%s dak %s san</string>
   <string name="callShortcutActivityTitle">Aranacak numarayı seçin</string>
   <string name="call_assistant">Ara: %s</string>
   <string name="call_callback">Çağrı yap (geri arama)</string>
@@ -107,7 +107,7 @@
   <string name="callrecordview_menu_delete_confirm">%s silinsin mi?</string>
   <string name="callrecordview_menu_delete_missed">Cevaplanmayan çağrıları temizle</string>
   <string name="callrecordview_menu_delete_one">Bu kaydı listeden temizle</string>
-   <string name="callrecordview_menu_delete_sim">Çağrı listesini sil %s</string>
+  <string name="callrecordview_menu_delete_sim">Çağrı listesini sil %s</string>
   <string name="callrecordview_menu_delete_stranger">Bilinmeyen numara çağrılarını temizle</string>
   <string name="callrecordview_menu_edit_call_note">Çağrı notunu düzenle</string>
   <string name="callrecordview_menu_paste">Yapıştır</string>
@@ -322,7 +322,7 @@
   <string name="display_options_view_names_as">Kişi adlarını görüntüleme şekli:</string>
   <string name="display_sim_contacts">SIM kayıtlarını göster</string>
   <string name="display_ungrouped">Diğer tüm kişiler</string>
-  <string name="display_warn_remove_ungrouped">\"%s\" senkronize ile gruplandırılmamış kişilerden kaldırılıyor.</string> 
+  <string name="display_warn_remove_ungrouped">\"%s\" senkronize ile gruplandırılmamış kişilerden kaldırılıyor.</string>
   <string name="dlg_add_blacklist">Seçilen numara kara listeye eklensin mi?</string>
   <string name="dlg_remove_blacklist">Seçilen numara kara listeden kaldırılsın mı?</string>
   <string name="download_failed">İndirme başarısız!</string>
@@ -344,7 +344,7 @@
   <string name="empty_divider_title">Şunları yapabilirsiniz</string>
   <string name="enter_contact_name">Kişinin adını yazın</string>
   <string name="eventLabelsGroup">Etkinlikler</string>
-   <string name="eventTypeCustom">Sahibi</string>
+  <string name="eventTypeCustom">Sahibi</string>
   <string name="event_edit_field_hint_text">Tarih</string>
   <string name="export_sim_contact_finish">SIM karta aktarım tamamlandı</string>
   <string name="export_sim_contacts_dialog_message">SIM kartınızın %d kartvizit kapasitesi var, İşleme devam etmek istiyor musunuz?</string>
@@ -432,18 +432,18 @@
   <string name="import_percent">0%</string>
   <string name="import_selected_sim_entries_miui">Seçilen kişileri içe aktar</string>
   <string name="import_sim_entries_finish">SIM kişileri başarıyla içe aktarıldı</string>
-  <string name="import_sim_entry_miui">SIM karttan içe aktar</string> 
+  <string name="import_sim_entry_miui">SIM karttan içe aktar</string>
   <string name="import_to_xiaomi_account_confirm">İçe aktar</string>
   <string name="import_to_xiaomi_account_progress_finish">Aktarım tamamlandı</string>
   <string name="import_to_xiaomi_account_progress_message">Aktarılıyor...</string>
   <string name="import_to_xiaomi_account_progress_title">Kişileri Xiaomi hesabına aktar</string>
   <string name="import_to_xiaomi_account_title">Aşağıdaki kişileri Xiaomi hesabınıza aktarmak istediğinizden emin misiniz?</string>
   <string name="import_vcard_description">Kişileri SD kart\'tan aktar</string>
-   <string name="import_weibo_error_no_xiaomi_phone">Kişileri güncelleme bitti: Xiaomi hesabınızda telefon numarası bulunamadı</string>
-   <string name="import_weibo_error_no_matched_contacts">Kişileri güncelleme bitti: Eşleşen kişiler yok</string>
-   <string name="import_weibo_error_no_network">Kişileri güncelleme bitti: Ağ hatası</string>
-   <string name="import_weibo_error_user_cancel">Kişileri güncelleme bitti: Kullanıcı iptal etti</string>
-   <string name="import_weibo_error_unknown">Kişileri güncelleme bitti: Bilinmeyen hata</string>
+  <string name="import_weibo_error_no_xiaomi_phone">Kişileri güncelleme bitti: Xiaomi hesabınızda telefon numarası bulunamadı</string>
+  <string name="import_weibo_error_no_matched_contacts">Kişileri güncelleme bitti: Eşleşen kişiler yok</string>
+  <string name="import_weibo_error_no_network">Kişileri güncelleme bitti: Ağ hatası</string>
+  <string name="import_weibo_error_user_cancel">Kişileri güncelleme bitti: Kullanıcı iptal etti</string>
+  <string name="import_weibo_error_unknown">Kişileri güncelleme bitti: Bilinmeyen hata</string>
   <string name="import_weibo_dialog_title">Sina weibo kişilerini içe aktar</string>
   <string name="import_weibo_fetch_followers">Sina Weibo takipçileri alınıyor…</string>
   <string name="import_weibo_notification_title">Sina weibo kişilerini içe aktarılıyor…</string>
@@ -507,7 +507,7 @@
   <string name="menu_bar_group_delete">Sil</string>
   <string name="menu_bar_group_rename">Adlandır</string>
   <string name="menu_bar_group_ringtone">Gup Zil sesi</string>
-  <string name="menu_bar_group_ringtone_largeui">Zil sesi</string> 
+  <string name="menu_bar_group_ringtone_largeui">Zil sesi</string>
   <string name="menu_bar_group_sms">Grup SMS</string>
   <string name="menu_batch_delete">Bir çok kişiyi sil</string>
   <string name="menu_call">Çağrı yap</string>
@@ -760,7 +760,7 @@ Favoriler listenize kişi eklemek için:
   <string name="recent_number">En Son</string>
   <string name="recent_updates">En Son</string>
   <string name="redirect_calls_to_vm_confirm_message">Eğer bu eylem operatörünüz için uygulanabilir değilse etkinleştirmeyiniz. Aksi takdirde, bu kişiden gelen aramaları almanız mümkün olmayabilir.</string>
-  <string name="redirect_calls_to_vm_confirm_text">Etkinleştir</string> 
+  <string name="redirect_calls_to_vm_confirm_text">Etkinleştir</string>
   <string name="relationLabelsGroup">İlişki</string>
   <string name="remind_btn_ignore">Yoksay</string>
   <string name="remind_btn_sync_now">Şimdi Eşitle</string>
@@ -865,7 +865,7 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_title">Kaynak detayları</string>
   <string name="resource_title_select_ringtone">Zil sesini seç</string>
   <string name="resource_update">Güncelle</string>
-  <string name="resource_waiting_download">İndirme için bekliyor...</string> 
+  <string name="resource_waiting_download">İndirme için bekliyor...</string>
   <string name="restore_nickname">Onar</string>
   <string name="restore_to_phone_memory_failed">Telefon hafızası onarılamadı!</string>
   <string name="restored_to_phone_memory">"Telefon hafızası onarıldı"</string>
@@ -873,7 +873,7 @@ Favoriler listenize kişi eklemek için:
   <string name="returnCall">Çağrıya dön</string>
   <string name="ringLabelsGroup">Zil Sesi</string>
   <string name="ringtone_volume_mute">Zil Sesi sessiz modda.</string>
-  <string name="save">Kaydet</string> 
+  <string name="save">Kaydet</string>
   <string name="save_photo_progress">Fotoğraf kaydediliyor...</string>
   <string name="save_to_sim_failed">SIM karta kaydedilemedi! restored_to_phone_memory </string>
   <string name="saved_to_sim">SIm karta kaydedildi!</string>
@@ -1071,7 +1071,7 @@ Favoriler listenize kişi eklemek için:
   <string name="yellowpage_navigation_search_result_unknown_error">Bilinmeyen hata!</string>
   <string name="yellowpage_navigation_search_select_city">Şehir seçin</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Ana ekrana eklendi</string>
-  <string name="zero_items_selected">Seçili öğe yok</string>  
+  <string name="zero_items_selected">Seçili öğe yok</string>
   <string name="resource_delete">Sil</string>
   <string name="account_msim">SIM %d</string>
   <string name="export_to_sim1">SIM 1 kartına aktar</string>

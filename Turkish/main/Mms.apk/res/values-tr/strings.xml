@@ -68,11 +68,11 @@
   <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyormusunuz</string>
   <string name="confirm_export_dialog_title">Özel kişiyi kaldır</string>
   <string name="confirm_no_block_positive">"Engelleme ve kurtarma yapma"</string>
-  <string name="confirm_no_block_title">"Mesajlara engelleme ve kurtarma yapma?"</string> 
+  <string name="confirm_no_block_title">"Mesajlara engelleme ve kurtarma yapma?"</string>
   <string name="confirm_rate_limit">Çok sayıda MMS gönderilecek. Onaylıyor musunuz.?</string>
   <string name="confirm_restore_all_title">Bu numaranın tüm mesajları geri yüklensin mi？</string>
   <string name="confirm_restore_positive">Kurtar</string>
-  <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string> 
+  <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string>
   <string name="confirm_send_mms">Alıcıların biri bir e-posta adresi içeriyor. Bu rapor MMS olarak gönderilecektir.</string>
   <string name="context_menu_call">Çağrı</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
@@ -206,7 +206,7 @@
   <string name="msg_type_hint_mms">Multimedya Mesajı</string>
   <string name="msg_type_hint_mx">Cloud Mesajı</string>
   <string name="msg_type_hint_sms">SMS</string>
-   <string name="multimedia_message">MMS</string>
+  <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Multimedya iletisi bildirimi</string>
   <string name="mx_auto_resend_mms">MMS\'i tekrar gönder</string>
   <string name="mx_auto_resend_mms_summary">Cloud mesaj kullanılamıyorken MMS gönderir. Operatörünüzün mesajlaşma fiyatlar geçerli olabilir</string>
@@ -235,7 +235,7 @@
   <string name="no_subject_view">(Konu yok)</string>
   <string name="non_english_subject_limit">İngilizce olmayan başlıklar için en fazla 13 karakter kullanılabilir</string>
   <string name="nosend_message">Gönderim başarısız</string>
-  <string name="number_add_hint">Özel kişileri de dahil etmek için numarasını girin</string> 
+  <string name="number_add_hint">Özel kişileri de dahil etmek için numarasını girin</string>
   <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
   <string name="notification_failed_multiple_title">İletiler gönderilmedi</string>
   <string name="notification_multiple">%s okunmamış mesajınız var</string>
@@ -329,7 +329,7 @@ Eksik ve hataları Xiaomi\'e bildirin.”</string>
   <string name="resize_image_error_information">Bu resim, yeniden boyutlandırıldığında dahi gönderilemeyecek kadar büyük.</string>
   <string name="restore_blocked_message">Engellenen mesajları kurtar</string>
   <string name="restore_to_phone_memory_failed">Telefon hafızası onarılamadı!</string>
-  <string name="restored_to_phone_memory">"Telefon hafızası onarıldı"</string>  
+  <string name="restored_to_phone_memory">"Telefon hafızası onarıldı"</string>
   <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>
   <string name="save_to_sim">SIM\'e kaydet</string>
@@ -407,7 +407,7 @@ Eksik ve hataları Xiaomi\'e bildirin.”</string>
   <string name="timed_message_expired_title_2">Şimdi göndermek ister misiniz?</string>
   <string name="timed_message_in_total">... (toplam %d)</string>
   <string name="timed_message_to"></string>
-   <string name="title_collapse_sp_messages">Operatör grup mesajları</string>
+  <string name="title_collapse_sp_messages">Operatör grup mesajları</string>
   <string name="title_date_type">Mesaj zamanı</string>
   <string name="title_timed_message_dialog">Lütfen zamanlanmış mesaj zamanını ayarlayın</string>
   <string name="to_address_label">"Alıcı: "</string>
@@ -418,7 +418,7 @@ Eksik ve hataları Xiaomi\'e bildirin.”</string>
   <string name="too_many_recipients">Bu mesajın çok fazla alıcısı var (%1$s). En fazla %2$s alıcı olabilir.</string>
   <string name="too_many_unsent_mms">Mesaj şu anda gönderilemiyor. Gönderilmemiş çok fazla multimedya mesajı var.</string>
   <string name="try_to_send">Göndermeyi dene</string>
-  <string name="type_attachment">ek</string> 
+  <string name="type_attachment">ek</string>
   <string name="type_audio">ses</string>
   <string name="type_picture">resim</string>
   <string name="type_to_compose_text_enter_to_send">Mesaj yazın</string>

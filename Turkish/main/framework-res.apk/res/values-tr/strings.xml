@@ -766,7 +766,7 @@
     <string name="lockscreen_sim_error_message_short">SIM kart geçersiz.</string>
     <string name="lockscreen_sim_error_message">SIM kart geçerli değil.</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 kodu bloke oldu! PIN1 kilidini açmak için PUK1 kodunu girin.</string>
-    <string name="lockscreen_ruim_pin_blocked">PIN1 kodu bloke oldu! PIN1 kilidini açmak için PUK1 kodunu girin.</string> 
+    <string name="lockscreen_ruim_pin_blocked">PIN1 kodu bloke oldu! PIN1 kilidini açmak için PUK1 kodunu girin.</string>
     <string name="lockscreen_sim_puk_locked_message">SIM kart PUK kilidi devrede.</string>
     <string name="lockscreen_sim_puk_locked_instructions">"Kullanıcı Rehberine bakın veya Müşteri Hizmetlerine başvurun."</string>
     <string name="lockscreen_sim_locked_message">SIM kart kilitli.</string>

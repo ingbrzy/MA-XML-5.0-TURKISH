@@ -16,14 +16,14 @@
         <item quantity="other">%d gün</item>
         <item quantity="one">1 gün</item>
     </plurals>
-	<plurals name="weekN">
+    <plurals name="weekN">
         <item quantity="other">%d. hafta</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
         <item quantity="one">+1</item>
     </plurals>
-<plurals name="Nevents">
+    <plurals name="Nevents">
         <item quantity="other">%d olay</item>
         <item quantity="one">1 olay</item>
     </plurals>

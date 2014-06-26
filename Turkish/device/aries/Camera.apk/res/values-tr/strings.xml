@@ -22,7 +22,7 @@
   <string name="accessibility_zoom_control">Zoom kontrolü</string>
   <string name="albums">Albümler</string>
   <string name="aperture">Açıklık</string>
-  <string name="app_details">Uygulama:</string> 
+  <string name="app_details">Uygulama:</string>
   <string name="auto">Otomatik</string>
   <string name="bg_replacement_message">"Telefonunuzu aşağı indirin ve bir süre görüntüden uzaklaştırın"</string>
   <string name="camera_disabled">Kamera, güvenlik ilkelerinden dolayı devre dışı bırakıldı.</string>
@@ -33,7 +33,7 @@
   <string name="cancel">İptal</string>
   <string name="cannot_connect_camera">"Kameraya bağlanılamıyor!"</string>
   <string name="cannot_connect_camera_once">"Kameraya bağlanamıyor, uygulamadan çıkın"</string>
-  <string name="cannot_connect_camera_twice">"Kameraya bağlanamıyor, telefonunuzu yeniden başlatın"</string> 
+  <string name="cannot_connect_camera_twice">"Kameraya bağlanamıyor, telefonunuzu yeniden başlatın"</string>
   <string name="clear_effects">Efektleri temizle</string>
   <string name="close">Kapat</string>
   <string name="cloud_album_details">Cloud albümü:</string>
@@ -56,7 +56,7 @@
   <string name="contact_title">Başlık</string>
   <string name="contact_web">Web</string>
   <string name="copy_text">Kopyala</string>
-  <string name="copy_text_success">Metin kopyalandı</string> 
+  <string name="copy_text_success">Metin kopyalandı</string>
   <string name="crop_saved">Kırpılmış resim %s e kaydedildi.</string>
   <string name="delete">Sil</string>
   <string name="deleted">Silindi</string>
@@ -67,9 +67,9 @@
   <string name="details_title">%2$d de %1$d öğe:</string>
   <string name="dialog_ok">Tamam</string>
   <string name="disable_video_snapshot_hint">Özel efektler açıkken videodan resim alınamaz.</string>
-  <string name="download_by_browser">Bir web tarayıcısı indir</string> 
+  <string name="download_by_browser">Bir web tarayıcısı indir</string>
   <string name="download_qq">QQ\'yu İndir</string>
-  <string name="download_wechat">WeChat\'i indir</string> 
+  <string name="download_wechat">WeChat\'i indir</string>
   <string name="duration">Süre</string>
   <string name="edit">Düzenle</string>
   <string name="effect_backdropper_disco">Disko</string>
@@ -100,7 +100,7 @@
   <string name="find_qq_qrcode">QQ QR kodunu bul</string>
   <string name="find_web_qrcode">Web QR kodunu bul</string>
   <string name="find_wechat_qrcode">WeChat QR kodunu bul</string>
-  <string name="find_weixin_qrcode">Weixin QR kodunu bul</string> 
+  <string name="find_weixin_qrcode">Weixin QR kodunu bul</string>
   <string name="find_wifi_qrcode">Wi-Fi QR kodunu bul</string>
   <string name="flash">Flaş</string>
   <string name="flash_off">Flaş kapalı</string>
@@ -355,7 +355,7 @@
   <string name="pref_video_continuous_focus_entry_on">Kapalı</string>
   <string name="pref_video_focusmode_entry_auto">Dokunma</string>
   <string name="pref_video_focusmode_entry_continuous">Otomatik Odakla</string>
-  <string name="pref_video_focusmode_title">Odaklama Modu</string> 
+  <string name="pref_video_focusmode_title">Odaklama Modu</string>
   <string name="pref_video_quality_entry_1080p">HD 1080p</string>
   <string name="pref_video_quality_entry_480p">SD 480P</string>
   <string name="pref_video_quality_entry_720p">HD 720P</string>
@@ -385,8 +385,8 @@
   <string name="pref_video_time_lapse_frame_interval_title">Video atlatma zamanlaması</string>
   <string name="preference_simple_mode_title">Basit mod</string>
   <string name="preparing_sd">Dahili hafıza hazırlanıyor...</string>
-  <string name="qq_details">QQ detayları:</string> 
-  <string name="qr_code_details">"QR kodu: "</string> 
+  <string name="qq_details">QQ detayları:</string>
+  <string name="qr_code_details">"QR kodu: "</string>
   <string name="record_back_pressed_hint">Kaydı durdurmak için tekrar basın</string>
   <string name="resume_playing_message">%s den oynatmaya devam ediyor</string>
   <string name="resume_playing_restart">Yeniden başlat</string>
@@ -395,11 +395,11 @@
   <string name="review_cancel">İptal</string>
   <string name="rotate_left">Sola döndür</string>
   <string name="rotate_right">Sağa döndür</string>
-  <string name="save">Kaydet</string> 
+  <string name="save">Kaydet</string>
   <string name="scan_qrcode">QR kodunu tara</string>
   <string name="secure_access_web_url">Güvenli internet erişimi</string>
   <string name="see_app_details">Uygulama detayları</string>
-  <string name="see_qrcode_detals">QR kodu ayrıntılarını göster</string> 
+  <string name="see_qrcode_detals">QR kodu ayrıntılarını göster</string>
   <string name="select_all">Tümünü seç</string>
   <string name="select_image">Fotoğraf seç</string>
   <string name="select_item">Öğe seç</string>
@@ -428,7 +428,7 @@
   <string name="snapshot_qcif_and_d1">Bu çözünürlük için sadece videodan fotoğraf alma çözünürlüğü destekleniyor.</string>
   <string name="snapshotsize_low_powermode">Fotoğraf çözünürlüğü düşük güç modunda desteklenmiyor. Videodan fotoğraf alma çözünürlüğü kullanılacak. Lütfen yüksek güç modunu seçin.</string>
   <string name="spaceIsLow_content">USB belleğiniz dolmak üzere. Fotoğraf kalitesini düşürün veya bazı resim dosyalarını veya başka dosyaları silin.</string>
-  <string name="success_message_import_from_account">İçe aktarma başarılı</string> 
+  <string name="success_message_import_from_account">İçe aktarma başarılı</string>
   <string name="tags">Etiketler</string>
   <string name="tap_to_focus">Odaklamak için dokunun.</string>
   <string name="tap_to_exposure">Manuel pozlama için dokunun</string>
@@ -456,7 +456,7 @@
   <string name="web_url_warning">QR kodu Web sitesi verilerinizi tehlikeye sokabilir,  MIUI tarayıcı bu QR kodunu kontrol edecektir.</string>
   <string name="website_details">"Web Sitesi:: "</string>
   <string name="wechat_details">WeChat detayları:</string>
-  <string name="weixin_details">"Weixin: "</string> 
+  <string name="weixin_details">"Weixin: "</string>
   <string name="white_balance">Beyaz Dengesi</string>
   <string name="width">Genişlik</string>
   <string name="wifi_connect_fail">Wi-Fi ağı ile bağlantı başarısız!</string>
@@ -467,6 +467,6 @@
   <string name="wifi_pwd">Şifre:</string>
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
-  <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin!</string> 
+  <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin!</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Ekran kilitli olduğu için fotoğraf veya video görüntülenemiyor!</string>
 </resources>

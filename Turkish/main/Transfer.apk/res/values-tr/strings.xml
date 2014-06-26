@@ -54,9 +54,9 @@
   <string name="error_upload">Gönderme hatası</string>
   <string name="fail">Başarısız</string>
   <string name="failed">Başarısız</string>
-   <string name="file_download">Dosyayı indir</string>
+  <string name="file_download">Dosyayı indir</string>
   <string name="file_downloading">Dosya indiriliyor...</string>
-   <string name="file_not_exist">Dosya mevcut değil!</string>
+  <string name="file_not_exist">Dosya mevcut değil!</string>
   <string name="file_restore">Dosyaları geri yükle</string>
   <string name="file_share_download_complete">Paylaşılan dosyalar başarıyla alındı!</string>
   <string name="file_share_upload_complete">Paylaşılan dosya başarıyla yüklendi</string>
@@ -158,9 +158,9 @@
   <string name="send_finish">Dosya gönderildi!</string>
   <string name="send_finish_tip">%1$d dosyayı şuraya gönder:</string>
   <string name="send_history_deleted">Yükleme geçmişi silindi</string>
-   <string name="send_nfc">NFC ile gönder</string>
-   <string name="send_share_link">Paylaşım linkini gönder</string>
-   <string name="send_sound">Ses ile gönder</string>
+  <string name="send_nfc">NFC ile gönder</string>
+  <string name="send_share_link">Paylaşım linkini gönder</string>
+  <string name="send_sound">Ses ile gönder</string>
   <string name="send_tip">Resim, müzik, kişiler ve çeşitli diğer dosyaları toplu olarak gönder.</string>
   <string name="send_to">Şuraya gönder:</string>
   <string name="send_uncompleted">Gönderme tamamlanmadı</string>
@@ -182,7 +182,7 @@
   <string name="share_msg_model">"I have shared files with you [Download] %1$s"</string>
   <string name="share_text">MIUI V5, mobil veri kullanmadan dosya transferini destekler. MIUI V5 kullanıcısı olmayanlar lütfen indirin: %1$s</string>
   <string name="shortmessage">Kısa mesaj</string>
-<string name="start">Başlat</string>  
+  <string name="start">Başlat</string>
   <string name="summary_step_one">Resim, müzik, kişiler ve çeşitli diğer dosyaları gönder</string>
   <string name="summary_step_two">Arkadaşlarını MiShare yüklemeleri için davet et</string>
   <string name="support_tip">MiShare yönergelerini izleyin</string>

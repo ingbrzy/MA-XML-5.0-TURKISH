@@ -28,7 +28,7 @@
         <item quantity="other">Parola en az %d  adet harf olmayan başka karakter içermelidir</item>
         <item quantity="one">Parola sadece bir adet harf olmayan karakter içermelidir</item>
     </plurals>
-	    <plurals name="power_center_battery_day">
+    <plurals name="power_center_battery_day">
         <item quantity="other">%d gün,</item>
         <item quantity="one">%d gün,</item>
     </plurals>

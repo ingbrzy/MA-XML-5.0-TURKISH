@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="directory_item_count">
-		<item quantity="other">%d öğe</item>
+        <item quantity="other">%d öğe</item>
         <item quantity="zero">%d öğe</item>
         <item quantity="one">%d item</item>
         <item quantity="two">%d öğe</item>
         <item quantity="few">%d öğe</item>
         <item quantity="many">%d öğe</item>
     </plurals>
-	<plurals name="delete_files_confirm">
-		<item quantity="other">%1$d dosya </item>
+    <plurals name="delete_files_confirm">
+        <item quantity="other">%1$d dosya </item>
         <item quantity="zero">%1$d dosya </item>
         <item quantity="one">%1$d dosya </item>
         <item quantity="two">%1$d dosya </item>
@@ -25,7 +25,7 @@
         <item quantity="many">"  ve %1$d klasör silinsin mi??"</item>>
     </plurals>
     <plurals name="ui_bar_txt_download_progress">
-    	<item quantity="other">Kalan indirme dosyası: %1$d</item>
+        <item quantity="other">Kalan indirme dosyası: %1$d</item>
         <item quantity="zero">Kalan indirme dosyası: %1$d</item>
         <item quantity="one">Kalan indirme dosyası: %1$d</item>
         <item quantity="two">Kalan indirme dosyası: %1$d</item>
@@ -33,7 +33,7 @@
         <item quantity="many">Kalan indirme dosyası: %1$d</item>
     </plurals>
     <plurals name="ui_bar_txt_upload_progress">
-   		<item quantity="other">Kalan yükleme dosyaları: %1$d</item>
+        <item quantity="other">Kalan yükleme dosyaları: %1$d</item>
         <item quantity="zero">Kalan yükleme dosyaları: %1$d</item>
         <item quantity="one">Kalan yükleme dosyaları: %1$d</item>
         <item quantity="two">Kalan yükleme dosyaları: %1$d</item>

@@ -20,13 +20,13 @@
         <item>Varsayılan</item>
         <item>Klasik</item>
     </string-array>
-	<string-array name="editing_mode_entries">
+    <string-array name="editing_mode_entries">
         <item>Simgeler</item>
         <item>Widgetler</item>
         <item>Duvar kağıdı</item>
         <item>Efektler</item>
     </string-array>
-	<string-array name="gadget_weather_image">
+    <string-array name="gadget_weather_image">
         <item>Açık</item>
         <item>Bulutlu</item>
         <item>Puslu</item>

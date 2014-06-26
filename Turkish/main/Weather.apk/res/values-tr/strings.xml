@@ -125,7 +125,7 @@ Lütfen sonra tekrar deneyin."</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="widget_loading">Hava durumu bilgisi yok</string>  
+  <string name="widget_loading">Hava durumu bilgisi yok</string>
   <string name="location_tag">Konum</string>
   <string name="act_weather_find_city_no_result">Sonuç yok</string>
   <string name="act_weather_find_city_added">Şehir eklendi</string>

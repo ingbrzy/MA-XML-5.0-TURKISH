@@ -55,7 +55,7 @@
   <string name="preference_record_scenes_dialog_title">Bir kayıt ortamı seçin</string>
   <string name="preference_record_type_dialog_title">Kayıt türünü seçin</string>
   <string name="preference_record_type_title">Kayıt türü</string>
-  <string name="preference_scenes">Ortam ayarları</string>   
+  <string name="preference_scenes">Ortam ayarları</string>
   <string name="preference_silent_mode">Sessiz modda kayıt</string>
   <string name="preference_silent_mode_summary">Sessiz modda kayıt işlemi için ayarlayın</string>
   <string name="record_list">Kayıt listesi</string>

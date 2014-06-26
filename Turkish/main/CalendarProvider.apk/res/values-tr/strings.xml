@@ -5,9 +5,9 @@
     <string name="calendar_info_error">Hata</string>
     <string name="calendar_info_events">Olaylar: %1$d</string>
     <string name="calendar_info_events_dirty" formatted="false">Olaylar:%1$d, Kaydedilmemiş:%2$d</string>
-	<string name="calendar_info_no_calendars">Takvim yok</string>
-	<string name="calendar_storage">Takvim Depolama</string>
-	<string name="debug_tool_delete_button">Sil</string>
+    <string name="calendar_info_no_calendars">Takvim yok</string>
+    <string name="calendar_storage">Takvim Depolama</string>
+    <string name="debug_tool_delete_button">Sil</string>
     <string name="debug_tool_email_body">Tüm randevular ve kişisel bilgiler ile takvim veritabanı eklendi. Lütfen dikkatli taşıyın.</string>
     <string name="debug_tool_email_sender_picker">Dosyanızı göndermek için bir program seçin</string>
     <string name="debug_tool_email_subject">Takvim veritabanı eklendi</string>
@@ -19,5 +19,5 @@
     <string name="holiday_data_updating">Güncelleniyor...</string>
     <string name="holiday_update_summary">Güncellemeleri kontrol et</string>
     <string name="provider_label">Takvim</string>
-	<string name="upgrade_msg">Takvim veritabanı güncellemeleri.</string>
+    <string name="upgrade_msg">Takvim veritabanı güncellemeleri.</string>
 </resources>

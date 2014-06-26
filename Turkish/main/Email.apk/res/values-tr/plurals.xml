@@ -3,8 +3,8 @@
     <plurals name="move_messages">
         <item quantity="other">Mesajları taşı</item>
         <item quantity="one">Mesajı taşı</item>
-		<item quantity="zero">Mesajları taşı</item>
-		<item quantity="two">Mesajları taşı</item>
+        <item quantity="zero">Mesajları taşı</item>
+        <item quantity="two">Mesajları taşı</item>
         <item quantity="few">Mesajları taşı</item>
         <item quantity="many">Mesajları taşı</item>
     </plurals>
@@ -35,8 +35,8 @@
     <plurals name="move_conversation">
         <item quantity="other">%1$d Sohbeti taşı</item>
         <item quantity="one">Sohbeti taşı</item>
-		<item quantity="zero">%1$d Sohbeti taşı</item>
-		<item quantity="two">%1$d Sohbeti taşı</item>
+        <item quantity="zero">%1$d Sohbeti taşı</item>
+        <item quantity="two">%1$d Sohbeti taşı</item>
         <item quantity="few">%1$d Sohbeti taşı</item>
         <item quantity="many">%1$d Sohbeti taşı</item>
     </plurals>
@@ -47,24 +47,24 @@
     <plurals name="confirm_delete_conversation">
         <item quantity="other">%1$d Sohbeti silmek istiyor musunuz?</item>
         <item quantity="one">Sohbeti silmek istiyor musunuz?</item>
-		<item quantity="zero">%1$d Sohbeti silmek istiyor musunuz?</item>
-		<item quantity="two">%1$d Sohbeti silmek istiyor musunuz?</item>
+        <item quantity="zero">%1$d Sohbeti silmek istiyor musunuz?</item>
+        <item quantity="two">%1$d Sohbeti silmek istiyor musunuz?</item>
         <item quantity="few">%1$d Sohbeti silmek istiyor musunuz?</item>
         <item quantity="many">%1$d Sohbeti silmek istiyor musunuz?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">Sohbetlerin tümünü silmek istiyor musunuz?</item>
         <item quantity="one">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-		<item quantity="zero">Sohbetlerin tümünü silmek istiyor musunuz?</item>
-		<item quantity="two">Sohbetlerin tümünü silmek istiyor musunuz?</item>
+        <item quantity="zero">Sohbetlerin tümünü silmek istiyor musunuz?</item>
+        <item quantity="two">Sohbetlerin tümünü silmek istiyor musunuz?</item>
         <item quantity="few">Sohbetlerin tümünü silmek istiyor musunuz?</item>
         <item quantity="many">Sohbetlerin tümünü silmek istiyor musunuz?</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">%1$d sohbet arşivlensin mi?</item>
         <item quantity="one">Sohbet arşivlensin mi?</item>
-		<item quantity="zero">%1$d sohbet arşivlensin mi?</item>
-		<item quantity="two">%1$d sohbet arşivlensin mi?</item>
+        <item quantity="zero">%1$d sohbet arşivlensin mi?</item>
+        <item quantity="two">%1$d sohbet arşivlensin mi?</item>
         <item quantity="few">%1$d sohbet arşivlensin mi?</item>
         <item quantity="many">%1$d sohbet arşivlensin mi?</item>
     </plurals>
@@ -110,7 +110,7 @@
     </plurals>
     <plurals name="new_incoming_messages_many">
         <item quantity="other">%1$d yeni mesajınız var.</item>
-		<item quantity="zero">%1$d yeni mesajınız var.</item>
+        <item quantity="zero">%1$d yeni mesajınız var.</item>
         <item quantity="one">%1$d yeni mesajınız var.</item>
         <item quantity="two">%1$d yeni mesajınız var.</item>
         <item quantity="few">%1$d yeni mesajınız var.</item>
@@ -118,7 +118,7 @@
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">%1$d eski mesaj var.</item>
-		<item quantity="zero">%1$d eski mesaj var.</item>
+        <item quantity="zero">%1$d eski mesaj var.</item>
         <item quantity="one">%1$d eski mesaj var.</item>
         <item quantity="two">%1$d eski mesaj var.</item>
         <item quantity="few">%1$d eski mesaj var.</item>
@@ -130,12 +130,12 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d mesaj kalıcı olarak silinecektir.</item>
         <item quantity="one">%1$d mesaj kalıcı olarak silinecektir.</item>
-		 <item quantity="zero">%1$d mesaj kalıcı olarak silinecektir.</item>
-		 <item quantity="two">%1$d mesaj kalıcı olarak silinecektir.</item>
+        <item quantity="zero">%1$d mesaj kalıcı olarak silinecektir.</item>
+        <item quantity="two">%1$d mesaj kalıcı olarak silinecektir.</item>
         <item quantity="few">%1$d mesaj kalıcı olarak silinecektir.</item>
         <item quantity="many">%1$d mesaj kalıcı olarak silinecektir.</item>
     </plurals>
-	<plurals name="contact_num_selected">
+    <plurals name="contact_num_selected">
         <item quantity="other">%d seçildi</item>
         <item quantity="zero">%d seçildi</item>
         <item quantity="one">%d seçildi</item>

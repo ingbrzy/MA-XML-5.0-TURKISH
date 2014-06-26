@@ -20,8 +20,8 @@
     <string name="data_usage_correction_timeout_body">Güncellemek için dokunun</string>
     <string name="data_usage_correction_timeout_title">Senkronize başarısız !</string>
     <string name="data_usage_disabled_dialog">"Mobil veri kullanım limitine ulaştınız.
-	
-	Mobil veri hizmetini kullanmaya devam ederseniz, operatörünüz sizden ek ücret talep edebilir.!!!"</string>
+
+Mobil veri hizmetini kullanmaya devam ederseniz, operatörünüz sizden ek ücret talep edebilir.!!!"</string>
     <string name="data_usage_disabled_dialog_enable">Mobil veriyi aç</string>
     <string name="data_usage_leisure_warning_body">Kullanım bilgilerini görmek için dokunun</string>
     <string name="data_usage_leisure_warning_title">Mobil veri kullanım limitini aştınız!</string>
@@ -63,7 +63,7 @@
     <string name="lock_screen_traffic_warn_title">Mobil veri uyarısı</string>
     <string name="main_alert_message_no_imsi">SIM kart yok!</string>
     <string name="main_alert_message_no_mobile_package">Mobil veri limiti ayarlı değil!</string>
-	<string name="main_alert_message_slot_no_data_connection">"SIM kart yuvası desteklenmiyor.
+    <string name="main_alert_message_slot_no_data_connection">"SIM kart yuvası desteklenmiyor.
 
 Mobil internet erişimi yok!"</string>
     <string name="main_button_idel_traffic">Limit</string>
@@ -87,7 +87,7 @@ Kullanılan"</string>
     <string name="network_control">Uygulama ayarları</string>
     <string name="notification_content_title">Kısıtlı ike %1$s kullanıldı</string>
     <string name="notification_title">%1$s-%2$s: %3$s Kullanılan</string>
-	<string name="ok_button">TAMAM</string>
+    <string name="ok_button">TAMAM</string>
     <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
     <string name="permit_running_network">Arka plan verilerini aç</string>
     <string name="person_hotpot">Mobil İnternet paylaşımı</string>
@@ -123,7 +123,7 @@ Kullanılan"</string>
     <string name="pref_month_begin_date">Mobil veri yenilenme tarihi</string>
     <string name="pref_month_first_day">Ayın ilk günü</string>
     <string name="pref_more_traffic_settings">Diğer ayarlar</string>
-	<string name="pref_new_installed_preconfig_title">Yeni uygulamalar için varsayılan ayar.</string>
+    <string name="pref_new_installed_preconfig_title">Yeni uygulamalar için varsayılan ayar.</string>
     <string name="pref_open_adjust_traffic">"Veri kullanımını operatör ile senkronize et"</string>
     <string name="pref_package_traffic_leisure">%1$s | Limit: %2$s</string>
     <string name="pref_package_traffic_normal">Limit: %s</string>
@@ -182,5 +182,5 @@ Kullanılan"</string>
     <string name="usage_sorted_loading_text">Yükleniyor...</string>
     <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
     <string name="network_assistant_upgraded_body">Veri kullanımını kısıtlamak için dokunun.</string>
-	<string name="spinner_title">%1$s - Mobil veri: %2$s</string>
+    <string name="spinner_title">%1$s - Mobil veri: %2$s</string>
 </resources>

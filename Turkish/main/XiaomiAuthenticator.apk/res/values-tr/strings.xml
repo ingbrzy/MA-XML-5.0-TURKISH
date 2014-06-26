@@ -108,7 +108,7 @@
     <string name="lockpattern_need_to_unlock_wrong_footer" />
     <string name="lockpattern_too_many_failed_confirmation_attempts_header">Çok sayıda yanlış deneme yapıldı!</string>
     <string name="lockpattern_need_to_unlock_footer" />
-   <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d saniye sonra tekrar deneyin.</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d saniye sonra tekrar deneyin.</string>
     <string name="title_myaccount">Hesabım: %s</string>
     <string name="title_gesture">Kilit deseni</string>
     <string name="title_lockpattern">Kilit deseni gerekiyor</string>
@@ -118,7 +118,7 @@
     <string name="title_password">Şifre</string>
     <string name="title_nopassword">"Küçük ödemeler için gerekmez"</string>
     <string name="title_password_threshold">Günlük limit = %1$s</string>
-   <string name="title_nopassword_dialog">Günlük limit</string>
+    <string name="title_nopassword_dialog">Günlük limit</string>
     <string name="progress_loading">Yükleniyor…</string>
     <string name="login">Oturum aç</string>
     <string name="password_hint">Kullanıcı adı</string>

@@ -13,7 +13,7 @@
   <string name="app_name">Dosyalarım</string>
   <string name="application_size_label">Uygulama</string>
   <string name="background">Hızlı indir</string>
-  <string name="big5_summary">Geleneksel Çin dili için varsayılan Windows kodlaması</string> 
+  <string name="big5_summary">Geleneksel Çin dili için varsayılan Windows kodlaması</string>
   <string name="big5_title">BIG5</string>
   <string name="bind_account">MiDrive hesabını bağla</string>
   <string name="bind_account_summary">Eğer bir MiDrive hesabınız varsa, kişisel verilerinizi almak için ekleyebilirsiniz</string>
@@ -44,7 +44,7 @@
   <string name="clean_trash_box">Çöp kutusu boş</string>
   <string name="cleaning">Temizleniyor...</string>
   <string name="cleaned">Temizlendi</string>
-  <string name="cleanup_stopped">Temizleme durduruldu</string> 
+  <string name="cleanup_stopped">Temizleme durduruldu</string>
   <string name="cleanup_complete">Tamamlandı</string>
   <string name="close">Kapat</string>
   <string name="compress_fail">Zip dosyası oluşturulamadı, zaten var!</string>
@@ -53,8 +53,8 @@
   <string name="confirm">TAMAM</string>
   <string name="confirm_know">TAMAM</string>
   <string name="copy_failed">Kopyalama hatası</string>
-  <string name="count_down_time"> %d saniye sonra başlayacak</string> 
-  <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string> 
+  <string name="count_down_time"> %d saniye sonra başlayacak</string>
+  <string name="create_kuaipan_shortcut_pref">Masa üstünde kısayol oluştur</string>
   <string name="create_new_folder_desctiption">Yeni klasör oluşturuluyor...</string>
   <string name="create_new_folder_failed">Klasör oluşturulamadı%1$s</string>
   <string name="create_share_link_description">Paylaşım linki oluşturuluyor…</string>
@@ -80,8 +80,8 @@
   <string name="dialog_type_text">Yazı</string>
   <string name="dialog_type_video">Video</string>
   <string name="directory_no_item">Klasör boş</string>
-  <string name="dlg_error_unmount_text">"USB depolama kaldırılamaz, tekrar deneyin!"</string> 
-  <string name="directory_info_divider">"  |  "</string> 
+  <string name="dlg_error_unmount_text">"USB depolama kaldırılamaz, tekrar deneyin!"</string>
+  <string name="directory_info_divider">"  |  "</string>
   <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">İndirme hatası!</string>
   <string name="download_link_completed">%1$s MiDrive ile paylaşıldı. Görmek için linke tıklayın: </string>
@@ -89,16 +89,16 @@
   <string name="empty_dir_cleanup_indication">%s artık dosya</string>
   <string name="empty_dir_title">Boş klasörler</string>
   <string name="enable_sd_card">SD kart kullanılabilir değil, önce kartı bağlayın</string>
-  <string name="error_filename_too_long">Dosya adı çok uzun</string> 
+  <string name="error_filename_too_long">Dosya adı çok uzun</string>
   <string name="error_info_cant_send_folder">Klasör gönderilemiyor</string>
-  <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı!</string> 
-  <string name="fail_to_create_folder_unknown">Bir klasör oluşturmak mümkün değil</string> 
+  <string name="error_open_file_failed_no_app_found">Bu dosyayı açabilecek uygulama bulunamadı!</string>
+  <string name="fail_to_create_folder_unknown">Bir klasör oluşturmak mümkün değil</string>
   <string name="fail_to_create_folder">Klasör oluşturulamıyor, zaten var!</string>
   <string name="fail_to_rename">Dosya yeniden adlandırılamıyor, zaten var!</string>
   <string name="favorite_photo">Foto</string>
   <string name="favorite_ringtone">Zil sesi</string>
   <string name="favorite_screen_cap">Ekran görüntüsü</string>
-  <string name="file_cleanup">Dosyaları temizle</string> 
+  <string name="file_cleanup">Dosyaları temizle</string>
   <string name="file_info_canread">Okunabilir:</string>
   <string name="file_info_canwrite">Yazılabilir:</string>
   <string name="file_info_ishidden">Gizli:</string>
@@ -164,7 +164,7 @@ Artık dosya"</string>
   <string name="no_empty_dir_indication">Boş klasör yok</string>
   <string name="no_enough_space">Yeterli boş alan yok</string>
   <string name="no_enough_storage_indication">Yeterli boş alan yok, gereksiz dosyaları sildikten sonra tekrar deneyin</string>
-  <string name="no_enough_storage_title">Yeterli boş alan yok</string> 
+  <string name="no_enough_storage_title">Yeterli boş alan yok</string>
   <string name="no_file">Dosya yok</string>
   <string name="no_more_space">Yeterli boş alan yok</string>
   <string name="no_tasks">Görev yok</string>
@@ -214,7 +214,7 @@ Artık dosya"</string>
   <string name="operation_unfavorite">Favorilerden kaldır</string>
   <string name="pan_settting">MiDrive ayarları</string>
   <string name="paused">Duraklatıldı</string>
-   <string name="pull_to_signin">Oturum açmak ve boş disk alanı almak için aşağı doğru sürükleyin</string>
+  <string name="pull_to_signin">Oturum açmak ve boş disk alanı almak için aşağı doğru sürükleyin</string>
   <string name="query_bind_state">Bağlama durumu sorgulanıyor, lütfen bekleyin...</string>
   <string name="release_to_signin">Oturum açmak için serbest bırakın</string>
   <string name="release_space_indication">Artık dosya bulundu</string>
@@ -240,7 +240,7 @@ Artık dosya"</string>
   <string name="sign_description">Oturum açılıyor...</string>
   <string name="signin_error">Kullanılabilir ağ bağlantısı yok, daha sonra tekrar deneyin!</string>
   <string name="signin_success">"Başarıyla oturum açıldı!
-Boş alanınız %1$s"</string> 
+Boş alanınız %1$s"</string>
   <string name="space_info">Network alanı: %1$s kullanılabilir，toplam: %2$s</string>
   <string name="space_usage">Kullanım</string>
   <string name="start_cleanup">Temizliği başlat</string>

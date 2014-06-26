@@ -32,7 +32,7 @@
         <item>10080</item>
         <item>20160</item>
     </integer-array>
-	<string-array name="preferences_default_reminder_labels">
+    <string-array name="preferences_default_reminder_labels">
         <item>None</item>
         <item>0 dakika</item>
         <item>5 dakika</item>
@@ -45,7 +45,7 @@
         <item>1 hafta</item>
         <item>2 hafta</item>
     </string-array>
-<string-array name="preferences_default_reminder_values">
+    <string-array name="preferences_default_reminder_values">
         <item>-1</item>
         <item>0</item>
         <item>5</item>
@@ -58,7 +58,7 @@
         <item>10080</item>
         <item>20160</item>
     </string-array>
-	<string-array name="preferences_week_start_day_labels">
+    <string-array name="preferences_week_start_day_labels">
         <item>Dile göre</item>
         <item>Cumartesi</item>
         <item>Pazar</item>
