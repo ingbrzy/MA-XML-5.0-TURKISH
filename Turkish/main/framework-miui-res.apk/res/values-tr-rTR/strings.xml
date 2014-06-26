@@ -111,7 +111,7 @@
   <string name="lockscreen_transport_play_description">Oynat</string>
   <string name="lockscreen_transport_prev_description">Önceki parça</string>
   <string name="lockscreen_unlock_sim_via_puk">SIM kilidini açmak için PUK kodunu girin</string>
-  <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için http://i.xiaomi.com adresini ziyaret edin.</string> 
+  <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için i.mi.com adresini ziyaret edin.</string> 
    <string name="lunar_ba">" "</string>
   <string name="lunar_calendar">Ay takvimi</string>
   <string name="lunar_chu">" "</string>

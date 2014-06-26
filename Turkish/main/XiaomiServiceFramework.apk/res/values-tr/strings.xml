@@ -228,7 +228,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_intro_02_part_01">Hiçbir şey yapmanız gerekmez</string>
   <string name="micloud_intro_02_part_02">MiCloud Hizmetleri; kişiler, mesajlar, fotoğraflar ve farklı cihazlar arasındaki diğer veri senkronize işlemlerine yardımcı olur.</string> 
   <string name="micloud_intro_03_part_01">Verilerinizi asla kaybetmezsiniz, her zaman güvendedir.</string>
-  <string name="micloud_intro_03_part_02">i.xiaomi.com adresinden verilerinizi düzenleyebilir, cihazınımı bul, cihazımı kilitle veya sil gibi işlemleri buradan yapabilirsiniz.</string> 
+  <string name="micloud_intro_03_part_02">i.mi.com adresinden verilerinizi düzenleyebilir, cihazınımı bul, cihazımı kilitle veya sil gibi işlemleri buradan yapabilirsiniz.</string> 
   <string name="micloud_is_what">MiCloud nedir?</string>
   <string name="micloud_more">Daha fazla bilgi</string>
   <string name="micloud_none">Yok</string>

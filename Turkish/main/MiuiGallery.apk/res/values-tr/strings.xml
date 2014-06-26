@@ -89,7 +89,7 @@
   <string name="cloud_be_shared_guide_title">Bu albüm arkadaşınız tarafından paylaşıldı</string>
   <string name="cloud_camera_display_name">Kritersiz</string>
   <string name="cloud_gallery_no_pictures">MiCloud albümünde resim bulunamadı</string>
-  <string name="cloud_gallery_recyclebin_full">Cloud çöp kutusu doldu, i.xiaomi.com\'u ziyaret ederek çop kutunuzu boşaltın.</string>
+  <string name="cloud_gallery_recyclebin_full">Cloud çöp kutusu doldu, i.mi.com\'u ziyaret ederek çop kutunuzu boşaltın.</string>
   <string name="cloud_gallery_space_full">Yükleme başarısız!, Cloud galerisi tamamen dolu!</string>
   <string name="cloud_media_set_set">Cloud Albümleri</string>
   <string name="cloud_owner_album_share_guide">Bu albümü arkadaşlarınız ile paylaşabilirsiniz</string>
@@ -389,7 +389,7 @@
   <string name="set_screensaver_path_message_if_only_charging">Telefonunuz şarj olduğunda bu albümdeki fotoğraflar ekran koruyucu olarak görüntülenir.</string> 
   <string name="set_wallpaper">Duvar kağıdı uygulanıyor...</string>
   <string name="settings">Ayarlar</string>
-  <string name="settings_i_xiaomi_com">i.xiaomi.com\'a giriş yaparak Cloud deponuzu yönetebilirsiniz</string>
+  <string name="settings_i_xiaomi_com">i.mi.com\'a giriş yaparak Cloud alanınızı yönetebilirsiniz</string>
   <string name="shadow">Gölgeler</string>
   <string name="share_album">Albüm paylaş</string>
   <string name="share_album_owner">Sahip</string>
