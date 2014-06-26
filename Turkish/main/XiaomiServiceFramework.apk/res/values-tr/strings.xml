@@ -149,7 +149,7 @@
   <string name="find_device_error_network">Ağ bağlantısı hatası!</string>
   <string name="find_device_error_server">Sunucu hatası!</string>
   <string name="find_device_notice_p1">Telefonunuzu kaybettiğinizde burayı ziyaret edin</string>
-  <string name="find_device_notice_p2">i.xiaomi.com</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">Cihazınızı uzaktan kontrol edebilirsiniz.</string>
   <string name="find_device_notice_p4">SIM kart değiştiğinde cihazımı bul özelliğinin çalışması için yeniden aktivasyon işlemi yapılmalıdır.</string>
   <string name="find_device_success_title">Cihazımı bul etkin</string>
@@ -258,7 +258,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="micloud_warn_full_title">MiCloud alanı doldu!</string>
   <string name="micloud_warn_low_sum">Depolama alanı 90% dolu.</string>
   <string name="micloud_warn_low_title">Depolama alanı azaldı!</string>
-  <string name="micloud_web_discription_01">http://i.xiaomi.com adresinden giriş yapın</string>
+  <string name="micloud_web_discription_01">https://i.mi.com adresinden giriş yapın</string>
   <string name="micloud_web_discription_02">Ve her yerden dosyalarınıza ulaşın..</string>
   <string name="micloud_welcome_skip_login">Kayıt işlemini atla</string>
   <string name="mili_center">Mi Kredisi</string>
