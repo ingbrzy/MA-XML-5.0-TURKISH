@@ -63,9 +63,9 @@
     <string name="block_phone_number">Engellenen çağrılar:%d</string>
     <string name="app_name">Kara Liste</string>
     <string name="fw_blocked">Engellendi:</string>
-    <string name="fw_blocked_count">Engellendi:</string>
-    <string name="fw_blocked_count_call">%d çağrı ve</string>
-    <string name="fw_blocked_count_sms">%d mesaj</string>
+    <string name="fw_blocked_count">"Engellendi: "</string>
+    <string name="fw_blocked_count_call">%d çağrı</string>
+    <string name="fw_blocked_count_sms">" ve %d mesaj"</string>
     <string name="tab_title">Kara Liste</string>
     <string name="tab_block_log">Engelleme logları</string>
     <string name="tab_blacklist">Kara Liste</string>
