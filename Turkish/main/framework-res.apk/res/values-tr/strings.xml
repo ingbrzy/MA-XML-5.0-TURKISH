@@ -728,7 +728,7 @@
     <string name="keyguard_password_enter_password_code">Kilidi açmak için şifreyi yazın</string>
     <string name="keyguard_password_enter_pin_password_code">Kilidi açmak için PIN kodunu yazın</string>
     <string name="keyguard_password_wrong_pin_code">PIN kodu yanlış!</string>
-	<string name="keyguard_password_wrong_puk_code">PUK kodu yanlış!</string>
+    <string name="keyguard_password_wrong_puk_code">PUK kodu yanlış!</string>
     <string name="keyguard_password_pin_failed">PIN işlemi başarısız!</string>
     <string name="keyguard_password_puk_failed">PUK işlemi başarısız!</string>
     <string name="keyguard_label_text">"Kilidi açmak için önce Menü\'ye, sonra 0\'a basın."</string>
@@ -762,7 +762,7 @@
     <string name="lockscreen_transport_stop_description">Durdur düğmesi</string>
     <string name="emergency_calls_only">SADECE ACİL ÇAĞRILAR !</string>
     <string name="lockscreen_network_locked_message">Ağ kilitli</string>
-	<string name="lockscreen_perso_locked_message">SIM/RUIM kilitlendi</string>
+    <string name="lockscreen_perso_locked_message">SIM/RUIM kilitlendi</string>
     <string name="lockscreen_sim_error_message_short">SIM kart geçersiz.</string>
     <string name="lockscreen_sim_error_message">SIM kart geçerli değil.</string>
     <string name="lockscreen_sim_pin_blocked">PIN1 kodu bloke oldu! PIN1 kilidini açmak için PUK1 kodunu girin.</string>
@@ -817,7 +817,7 @@
     <string name="factorytest_not_system">FACTORY_TEST işlemi yalnızca /system/app dizinine yüklenmiş paketler için desteklenir.</string>
     <string name="factorytest_no_action">FACTORY_TEST işlemini sağlayan hiçbir paket bulunamadı.</string>
     <string name="factorytest_reboot">Tekrar başlat</string>
-	<string name="web_user_agent_target_content">"Mobil"</string>
+    <string name="web_user_agent_target_content">"Mobil"</string>
     <string name="js_dialog_title">\"%s\" adresindeki sayfada şunlar belirtiliyor:</string>
     <string name="js_dialog_title_default">JavaScript</string>
     <string name="js_dialog_before_unload">"Bu sayfadan ayrılmak istiyor musunuz?

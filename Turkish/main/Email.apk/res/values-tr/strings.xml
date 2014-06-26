@@ -343,7 +343,7 @@
   <string name="folder_shortcut_widget_label">E-posta klasörü</string>
   <string name="formatted_email_address">&lt;%1$s></string>
   <string name="formatted_subject">%1$s%2$s</string>
-	<string name="forward">Yönlendir</string>
+  <string name="forward">Yönlendir</string>
   <string name="forward_attachment">Yönlendir</string>
   <string name="forward_attribution">---------- Yönlendirilmiş mesaj ----------Kimden:%1$s, Tarih:%2$s, Konu:%3$s, Kime:%4$s,</string>
   <string name="forward_attribution_no_headers">---------- Yönlendirilmiş mesaj ----------</string>

@@ -168,5 +168,5 @@ Cihazınızın tarih ve saat ayarları değiştirilmedi."</string>
     <string name="timesync_sync_now_time_already_correct_dialog_details">"Kimlik doğrulayıcı iç saati ayarlanamadı, senkronize işlemi zaten yapılış"</string>
     <string name="timesync_sync_now_connectivity_error_dialog_title">Şimdi senkronize et</string>
     <string name="timesync_sync_now_connectivity_error_dialog_details">"Sunucular ile bağlantı kurulamıyor!."</string>
-	<string name="success_copy_to_clipboard">Panoya kopyalandı</string>
+    <string name="success_copy_to_clipboard">Panoya kopyalandı</string>
 </resources>

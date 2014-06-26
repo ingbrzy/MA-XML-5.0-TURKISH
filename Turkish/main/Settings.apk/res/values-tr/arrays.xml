@@ -510,11 +510,11 @@
         <item>Satır şeklinde ekran</item>
         <item>adb shell dumpsys gfxinfo içinde</item>
     </string-array>
-	<string-array name="perm_disable_keyguard_action">
+    <string-array name="perm_disable_keyguard_action">
         <item>İzin ver</item>
         <item>Engelle</item>
     </string-array>
-	<string-array name="debug_hw_overdraw_entries">
+    <string-array name="debug_hw_overdraw_entries">
         <item>Kapalı</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
