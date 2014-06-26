@@ -513,7 +513,7 @@ tek bir yerde görünür.</string>
   <string name="item_not_sync_for_origin_video">Bu video Cloud ile senkronize edilmemiş, orijinal video indirilemez</string>
   <string name="item_not_sync_for_refocus_data">Bu resim Cloud ile senkronize edilmemiş, veri indirilemez</string>
   <string name="ubifocus_guide_text"> 0.5s basılı tutun</string> 
-<string name="confirm_delete_has_cloud_image">(%s)fotoğraf Cloud alanından silmek istiyor musunuz?</string>
+  <string name="confirm_delete_has_cloud_image">(%s)fotoğraf Cloud alanından silmek istiyor musunuz?</string>
   <string name="confirm_delete_has_cloud_image_video">(%s)video Cloud alanından silmek istiyor musunuz?</string>
   <string name="confirm_delete_has_cloud_local_image">(%s)fotoğraf Cloud alanından silmek istiyor musunuz?</string>
   <string name="confirm_delete_has_cloud_local_image_video">(%s)fotoğraf cihaz ve Cloud alanından silmek istiyor musunuz?</string>
