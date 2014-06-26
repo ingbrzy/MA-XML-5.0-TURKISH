@@ -114,7 +114,7 @@ Today %1$s's weather is %2$s, %3$s, %4$s. %5$s."</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
   <string name="sms_notification">Share via SMS</string>
   <string name="tip_weather">MIUI hava durumu bildirimleri</string>
-  <string name="tip_weather_info_content_1">Giymek için bir şeyler al!</string>
+  <string name="tip_weather_info_content_1"/>
   <string name="tip_weather_info_title_1">%1$s beklenen sıcaklık farkı %2$d derece</string>
   <string name="tip_weather_info_title_2">%1$s sıcaklık %2$s derece tahmin ediliyor</string>
   <string name="trend_weather_today">Bugün</string>
@@ -132,7 +132,7 @@ Lütfen sonra tekrar deneyin."</string>
   <string name="act_weather_find_city_net_no_good">"Ağa bağlanılamıyor"</string>
   <string name="act_weather_find_city_click_retry">Tekrar denemek için dokunun</string>
   <string name="button_abandon">Vazgeç</string>
-  <string name="act_weather_cycle_no_forcast">Bilinmeyen</string>
+  <string name="act_weather_cycle_no_forcast">Bilinmiyor</string>
   <string name="edit_city">Düzenle</string>
   <string name="gps_hint">Geçerli konum</string>
 </resources>
