@@ -228,7 +228,7 @@
   <string name="null_category">Bilinmeyen</string>
   <string name="null_videoname">Bilinmeyen</string>
   <string name="offline_alert_title">Önbellek bildirimleri</string>
-  <string name="offline_alert_wifi">Mobil veri ağı kullanıyorsanız, duraklatılmış olan önbelleğe alma görevleri wifi ağına geçiş yaptıktan sonra devam edilecektir.</string>
+  <string name="offline_alert_wifi">Mobil veri ağı kullanıyorsanız, duraklatılmış olan önbelleğe alma görevleri Wi-Fi ağına geçiş yaptıktan sonra devam edilecektir.</string>
   <string name="offline_continue">Devam</string>
   <string name="offline_max_promote">Önbellek bekleniyor, en fazla 2 önbelleğe alma görevleri aynı anda çalıştırılabilir.</string>
   <string name="offline_media">Çevrim dışı medya</string>

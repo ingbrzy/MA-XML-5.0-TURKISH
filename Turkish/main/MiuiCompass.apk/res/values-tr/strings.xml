@@ -7,7 +7,7 @@
   <string name="calibrate_failed_timeout">Kalibrasyon başarısız oldu: Sunucu zaman aşımı oluştu!</string>
   <string name="calibrate_success">Kalibrasyon tamamlandı</string>
   <string name="dialog_calibrat_altitude">Internet bağlantısı üzerinden yükseklik kalibrasyonu.</string>
-  <string name="dialog_title_no_network">Hiçbir ağ bulunamadı, Wi-Fi  veya veri hizmetini etkinleştirin</string>
+  <string name="dialog_title_no_network">Hiçbir ağ bulunamadı, Wi-Fi veya veri hizmetini etkinleştirin</string>
   <string name="direction_east">D</string>
   <string name="direction_north">K</string>
   <string name="direction_south">G</string>

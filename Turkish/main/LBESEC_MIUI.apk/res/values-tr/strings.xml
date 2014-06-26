@@ -174,7 +174,7 @@
   <string name="HIPS_Perm_WIFINetwork_Hint">%1$s uygulamanın internet erişim izni var</string>
    <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi etkinleştirme</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fi etkinleştirme</string>
-    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s uygulama wi-fi bağlantısını kullanabilir</string>
+    <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s uygulama Wi-Fi bağlantısını kullanabilir</string>
   <string name="HIPS_SecurityPrompt_Accept">İzinli (%d)</string>
   <string name="HIPS_SecurityPrompt_AcceptRoot">İzin ver</string>
   <string name="HIPS_SecurityPrompt_Caption">Güvenlik Uyarısı !</string>

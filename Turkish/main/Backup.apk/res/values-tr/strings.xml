@@ -11,7 +11,7 @@
   <string name="auto_backup_choose_empty">Yedekleme Yok</string>
   <string name="auto_backup_choose_title">Yedekleme Öğelerini Seçin</string>
   <string name="auto_backup_date">Yedekleme Sıklığı (Gün olarak)</string>
-  <string name="auto_backup_only_wifi">Sadece Wifi Üzerinden Otomatik Yedekle</string>
+  <string name="auto_backup_only_wifi">Sadece Wi-Fi Üzerinden Otomatik Yedekle</string>
   <string name="auto_backup_open">Otomatik Yedekleme Etkin</string>
   <string name="auto_backup_progress">Otomatik Yedekleme Çalışıyor Lütfen Bekleyin...</string>
   <string name="auto_backup_select_user_apps">Uygulama Seç</string>
