@@ -1080,5 +1080,6 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_connect_network_message">Uygulamalrın internete bağlanmasına izin vermek istiyor musunuz?</string>
   <string name="resource_connect_network_settings">İnternet bağlantısı ayarları</string>
   <string name="resource_remind_another_time">Tekrar hatırlatma</string>
+  <string name="yellowpage_navigation_network_location_enabled">Hizmet etkin, ayarlardan devre dışı bırakabilirsiniz.</string>
 </resources>
 

@@ -512,5 +512,19 @@ tek bir yerde görünür.</string>
   <string name="item_not_sync_for_origin_image">Bu resim Cloud ile senkronize edilmemiş, orijinal görüntü indirilemez</string>
   <string name="item_not_sync_for_origin_video">Bu video Cloud ile senkronize edilmemiş, orijinal video indirilemez</string>
   <string name="item_not_sync_for_refocus_data">Bu resim Cloud ile senkronize edilmemiş, veri indirilemez</string>
-  <string name="ubifocus_guide_text"> 0.5s basılı tutun</string>  
+  <string name="ubifocus_guide_text"> 0.5s basılı tutun</string> 
+<string name="confirm_delete_has_cloud_image">(%s)fotoğraf Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_image_video">(%s)video Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_local_image">(%s)fotoğraf Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">(%s)fotoğraf cihaz ve Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_local_video">(%s)video cihaz ve Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_cloud_video">(%s)video Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_local_image">(%s)fotoğraf Cloud alanından silinsin mi?</string>
+  <string name="confirm_delete_has_local_image_video">%s öğe silinsin mi?</string>
+  <string name="confirm_delete_has_local_video">%s video silinsin mi?</string>
+  <string name="confirm_delete_init_message">Görüntüler Cloud alanı ve cihazınızdan  silinir. Sadece cihazınızdan silmek için, klasör konumuna gidin.</string>
+  <string name="confirm_delete_init_title">Not</string> 
+  <string name="bigscreen_slide_playing">Slayt gösterisi: %s</string>
+  <string name="skip_hide_special_album">Sistem albümleri (Kamera, Ekran görüntüleri) gizlenemezsin.</string>
+    
 </resources>
