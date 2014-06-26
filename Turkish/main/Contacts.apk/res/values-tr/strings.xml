@@ -1081,5 +1081,11 @@ Favoriler listenize kişi eklemek için:
   <string name="resource_connect_network_settings">İnternet bağlantısı ayarları</string>
   <string name="resource_remind_another_time">Tekrar hatırlatma</string>
   <string name="yellowpage_navigation_network_location_enabled">Hizmet etkin, ayarlardan devre dışı bırakabilirsiniz.</string>
+  <string name="cta_notice_checkbox">"Tekrar gösterme"</string>
+  <string name="cta_notice_new_contact_message">\"%s\" hesabına kişileri kaydetmek için, ağ erişimini kabul ediyor musunuz?</string>
+  <string name="cta_notice_ok">Tamam</string>
+  <string name="cta_notice_photo_message">Fotoğraf paketi kullanarak kişi fotoğraflarını düzenlemek için ağ erişimini kabul ediyor musunuz?</string>
+  <string name="cta_notice_settings">Ağa erişirken hatırlat</string>
+  <string name="cta_notice_title">Hatırlat</string>
 </resources>
 

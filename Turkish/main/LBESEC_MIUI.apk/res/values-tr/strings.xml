@@ -213,4 +213,19 @@
   <string name="HIPS_Perm_DisableKeyguard">Ekran kilidini aç</string>
   <string name="HIPS_Perm_DisableKeyguard_Desc">Ekran kilidini aç</string>
   <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s uygulama ekran kilidini açabilir</string>
+  <string name="HIPS_Perm_AutoStart">Açılışta otomatik başlat</string>
+  <string name="HIPS_Perm_AutoStart_Desc">Cihaz açılınca otomatik olarak başlatılacak</string>
+  <string name="HIPS_Perm_AutoStart_Hint">%1$s açılışta otomatik başlama izni var</string>
+  <string name="HIPS_Perm_Calendar">Takvim erişimi</string>
+  <string name="HIPS_Perm_Calendar_Desc">Takvim etkinliklerine erişim</string>
+  <string name="HIPS_Perm_Calendar_Hint">%1$s takvimin erişim izni var</string>
+  <string name="HIPS_Perm_Notification">Bildirimler</string>
+  <string name="HIPS_Perm_Notification_Desc">Bildirimlere erişim</string>
+  <string name="HIPS_Perm_Notification_Hint">%1$s bildirimlere erişim izni var</string>
+  <string name="HIPS_Perm_SystemAlert">Açılır pencere gösterimi</string>
+  <string name="HIPS_Perm_SystemAlert_Desc">Açılır pencere gösterimi</string>
+  <string name="HIPS_Perm_SystemAlert_Hint">%1$s Açılır pencere gösterim izni var</string>
+  <string name="HIPS_Perm_Wakelock">Uyku modunu önleme</string>
+  <string name="HIPS_Perm_Wakelock_Desc">Uyku modunu önleme</string>
+  <string name="HIPS_Perm_Wakelock_Hint">%1$s Uyku modunu önleme izni var</string>
 </resources>
