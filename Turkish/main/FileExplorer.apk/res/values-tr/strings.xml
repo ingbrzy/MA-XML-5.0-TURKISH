@@ -339,8 +339,8 @@ Boş alanınız %1$s"</string>
   <string name="file_not_exist">Dosya mevcut değil!</string>
   <string name="open_file_failed">Dosya açılamadı!</string>
   <string name="connect_network_setting_des">Ağa erişirken hatırlat</string>
-  <string name="network_connect_confirm_des">Kuaipan kullanarak ağa erişecek, kabul ediyor musunuz?</string>
+  <string name="network_connect_confirm_des">MiDrive kullanımı için ağ erişimi gerekiyor, kabul ediyor musunuz?</string>
   <string name="never_notify_network_connect">"Tekrar gösterme"</string>
   <string name="operation_agree">Tamam</string>
-  <string name="system_alert">Hatırlat</string>
+  <string name="system_alert">Açıklama :</string>
   </resources>

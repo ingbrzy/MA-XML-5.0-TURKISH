@@ -83,8 +83,11 @@
   <string name="count_ji_quan">%d bölümün tümü</string>
   <string name="count_myfavorite">" yıldızlı"</string>
   <string name="day">Gün</string>
-  <string name="declaration">Kullanım Koşulları</string>
+  <string name="declaration">Açıklama :</string>
   <string name="declaration_content">Sohu Video, iQiyi ve diğer video içerik sağlayıcılar tarafından öngörülen kullanım koşullarını kabul ediyor musunuz?</string>
+  <string name="declaration_content_short">Sohu Video, iQiyi ve diğer video içerik sağlayıcılar tarafından öngörülen kullanım koşullarını kabul ediyor musunuz?</string>
+  <string name="ok_no_more">Tamam, tekrar sorma</string>
+  <string name="sure">Kabul et</string>
   <string name="delete">Sil</string>
   <string name="delete_media">Sil</string>
   <string name="delete_media_content">Bu öğeyi silmek istiyor musunuz?</string>
@@ -255,7 +258,7 @@
   <string name="playvideo">Oynat</string>
   <string name="pps">PPS</string>
   <string name="pptv">PPTV</string>
-  <string name="publish">Wyślij</string>
+  <string name="publish">E-posta</string>
   <string name="qiyi">iQiyi</string>
   <string name="quarter_bell_alert_button_cancel">İptal</string>
   <string name="quarter_bell_alert_button_cancelappointment">remove reservation</string>

@@ -85,11 +85,11 @@
     <string name="lockscreen_forgot_pattern_button_text">Desen şifresini unuttum</string>
     <string name="lockpattern_recording_intro_header">Kilit açma desenini çizin:</string>
     <string name="lockpattern_settings_help_how_to_record">Kilit açma deseni nasıl çizilir?</string>
-    <string name="lockpattern_recording_incorrect_too_short">Bitişik %d noktayı birleştirin. Tekrar deneyin:</string>
+    <string name="lockpattern_recording_incorrect_too_short">Bitişik %d noktayı birleştirmeniz gerekiyor. Tekrar deneyin:</string>
     <string name="lockpattern_pattern_entered_header">Desen kaydedildi.</string>
-    <string name="lockpattern_need_to_confirm">Onaylaa için deseni tekrar çizin:</string>
-    <string name="lockpattern_need_to_confirm_wrong">Önceki girişi ile tutarsız, yeniden girin:</string>
-    <string name="lockpattern_need_to_unlock_wrong">%d sonra tekrar deneyin!</string>
+    <string name="lockpattern_need_to_confirm">Onaylamak için deseni tekrar çizin:</string>
+    <string name="lockpattern_need_to_confirm_wrong">Çizilen desen yanlış, yeniden girin:</string>
+    <string name="lockpattern_need_to_unlock_wrong">%d deneme hakkınız kaldı!</string>
     <string name="lockpattern_pattern_confirmed_header">Yeni kilit açma deseniniz:</string>
     <string name="lockpattern_recording_inprogress">Tamamlanınca parmağınızı çekin.</string>
     <string name="lockpattern_retry_text"><u>Desen şifresini sıfırla</u></string>
@@ -144,10 +144,9 @@
     <string name="correct_enter_update_password">Şifre doğru</string>
     <string name="title_patternforgotten">"Şifrenizi mi unuttunuz?
 Seçenekler:"</string>
-    <string name="tip1_patternforgotten">Kaldırın ve tekrar yükleyin</string>
+    <string name="tip1_patternforgotten">Uygulamayı kaldırın ve tekrar yükleyin</string>
     <string name="tip2_patternforgotten">Şifrenizi sıfırlayın</string>
-    <string name="details_patternforgotten">"Yeniden:
-"account.xiaomi.com adresinden giriş yapın ve aktivasyonu onaylayın</string>
+    <string name="details_patternforgotten">""account.xiaomi.com adresinden tekrar giriş yapın ve aktivasyonu onaylayın.</string>
     <string name="activation_page">Devre dışı</string>
     <string name="activation_page_info">account.xiaomi.com adresinde oturum açın</string>
     <string name="activation_page_btn_txt">Etkinleştir</string>

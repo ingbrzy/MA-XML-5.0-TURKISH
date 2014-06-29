@@ -3351,7 +3351,7 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="cta_button_text_agree">Tamam</string>
   <string name="cta_button_text_cancel">İptal</string>
   <string name="cta_checkbox_title">Tekrar sorma</string>
-  <string name="cta_dialog_msg">Virüs veritabanını güncellemek için internet bağlantısı gerekiyor. Kabul ediyor musunuz?</string>
+  <string name="cta_dialog_msg">Araçlar uygulamasının, virüs veritabanını güncellemesi için internet bağlantısı gerekiyor. Kabul ediyor musunuz?</string>
   <string name="cta_dialog_title">Dikkat!</string>
   <string name="cta_settings">İnternet erişimi</string>
   </resources>
