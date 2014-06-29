@@ -57,7 +57,7 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="dialog_select_account">Hesabı seçin</string>
   <string name="diselect_all">Seçimi iptal et</string>
   <string name="display">Ekran</string>
-  <string name="disturb_mode">DND</string>
+  <string name="disturb_mode">Sessiz Mod</string>
   <string name="edit_tag">Düzenle</string>
   <string name="edit_tag_content">Telefonun arkası ile dokunun</string>
   <string name="email_body">Mesaj</string>
@@ -103,14 +103,14 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="new_configures">Yeni yapılandırmalar</string>
   <string name="no_available_networks">Kullanılabilir ağ yok</string>
   <string name="no_available_networks_summary">Wi-Fi ile bağlanınca tekrar deneyin</string>
-  <string name="no_available_xiaomi_shop">Xiaomi market açılamadı</string>
+  <string name="no_available_xiaomi_shop">Mi market açılamadı</string>
   <string name="not_save_btn">Hayır</string>
   <string name="notification_value">Bildirimler %s%%</string>
   <string name="null_task">Görev yok</string>
   <string name="off">Kapalı</string>
   <string name="on">Açık</string>
   <string name="open_web">Web sayfasını aç</string>
-  <string name="open_xiaomi_web">Xiaomi.com sitesine git</string>
+  <string name="open_xiaomi_web">mi.com sitesine git</string>
   <string name="password_preference">Etiket şifresi</string>
   <string name="percent">%s%%</string>
   <string name="phone">Telefon</string>
@@ -131,7 +131,7 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="ringer_normal">Zil</string>
   <string name="ringer_silent">Sessiz</string>
   <string name="ringer_value">Zil %s%%</string>
-  <string name="running">çalışıyor</string>
+  <string name="running">Çalışıyor</string>
   <string name="save_alert">Görev kaydedilsin mi?</string>
   <string name="save_btn">Kaydet</string>
   <string name="saving">Kaydediliyor…</string>
@@ -151,7 +151,7 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="share_subject">Bir uygulama paylaş: %1$s</string>
   <string name="share_wifi">Wi-Fi paylaş</string>
   <string name="shortcut">Hızlı görevler</string>
-  <string name="sleep_mode">DND</string>
+  <string name="sleep_mode">Sessiz Mod</string>
   <string name="sms_content">Mesaj</string>
   <string name="sound">Ses</string>
   <string name="sound_alarm">Alarm</string>
