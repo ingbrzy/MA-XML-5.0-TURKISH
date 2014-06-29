@@ -179,5 +179,5 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
     <string name="faq_stat_title">Sabahları 0 tıklama oluyor? </string>
     <string name="faq_stat_text">Sıralama her yeni gün başlangıcında sıfırlanır</string>
     <string name="faq_vsm_title">Uyarı!</string>
-    <string name="faq_vsm_text">Cihazınızın arka kapağını çıkarmadan önce Mikey'in bağlantısını kestiğinizden emin olun. </string>
+    <string name="faq_vsm_text">"Cihazınızın arka kapağını çıkarmadan önce Mikey'in bağlantısını kestiğinizden emin olun."</string>
 </resources>
