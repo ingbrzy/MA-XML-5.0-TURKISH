@@ -28,7 +28,7 @@
   <string name="cold_dews">Soğuk çiy</string>
   <string name="contact_carrier_message">Sorularınız için operatörünüzü arayın</string>
   <string name="day_of_month">" %d"</string>
-  <string name="days">gün</string>
+  <string name="days">%d gün</string>
   <string name="def_alarm_alert">/system/media/audio/alarms/GoodMorning.ogg</string>
   <string name="def_notification_sound">/system/media/audio/notifications/FadeIn.ogg</string>
   <string name="def_ringtone">/system/media/audio/ringtones/MI.ogg</string>
