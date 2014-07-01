@@ -3354,4 +3354,6 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="cta_dialog_msg">Araçlar uygulamasının, virüs veritabanını güncellemesi için internet bağlantısı gerekiyor. Kabul ediyor musunuz?</string>
   <string name="cta_dialog_title">Dikkat!</string>
   <string name="cta_settings">İnternet erişimi</string>
+  <string name="accessibility_service_no_apps_confirm">Tamam</string>
+  <string name="accessibility_service_no_apps_prompt">TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Google Play\'den ücretsiz olarak yükleyebilirsiniz.</string>
   </resources>

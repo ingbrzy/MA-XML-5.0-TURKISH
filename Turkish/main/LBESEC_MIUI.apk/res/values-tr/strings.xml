@@ -56,12 +56,12 @@
   <string name="Generic_UserApp">İndirilen Uygulamalar (%d)</string>
   <string name="Generic_Version">Sürüm: %1$s</string>
   <string name="HIPS_Action_Accept">İzin ver</string>
-  <string name="HIPS_Action_Accept_Colored">&lt;font color=#478800&gt;Allow&lt;/font&gt;</string>
+  <string name="HIPS_Action_Accept_Colored">İzin ver</string>
   <string name="HIPS_Action_Accept_Count">İzin verilen: %1$d</string>
   <string name="HIPS_Action_Prompt">Sor</string>
-  <string name="HIPS_Action_Prompt_Colored">&lt;font color=#FF8A00&gt;Ask&lt;/font&gt;</string>
+  <string name="HIPS_Action_Prompt_Colored">Sor</string>
   <string name="HIPS_Action_Reject">Engelle</string>
-  <string name="HIPS_Action_Reject_Colored">&lt;font color=#DF0000&gt;Deny&lt;/font&gt;</string>
+  <string name="HIPS_Action_Reject_Colored">Reddet</string>
   <string name="HIPS_Action_Reject_Count">Engellendi: %1$d</string>
   <string name="HIPS_Group_DataPrivacy">Gizlilik</string>
   <string name="HIPS_Group_Expense">Güvenlik</string>
@@ -190,7 +190,7 @@
   <string name="HIPS_SecurityPrompt_Remember">Seçimi Hatırla</string>
   <string name="HIPS_SecurityPrompt_Title">%1$s deneniyor %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d yetki</string>
-  <string name="Privacy_AppPerm_Count_Trust">%1$d yetkiler - &lt;font color=#478800&gt;Güvenli&lt;/font&gt;</string>
+  <string name="Privacy_AppPerm_Count_Trust">%1$d yetki - Güvenli</string>
   <string name="Privacy_App_Finish">Bitti</string>
   <string name="Privacy_App_Installed">Yetkileri Yapılandır</string>
   <string name="Privacy_App_Launch">Başlat</string>

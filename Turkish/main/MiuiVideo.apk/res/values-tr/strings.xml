@@ -380,4 +380,7 @@ güncellemek istiyor musunuz?</string>
   <string name="thunder_cinema">Thunder sinema</string>
   <string name="xunlei_cinema_title">Thunder sinema</string>
   <string name="xunlei_login_error">Thunder sinema oturum açma hatası !</string>
+  <string name="info_title">Bilgi</string>
+  <string name="post_playcount">" defa"</string>
+  <string name="prex_playcount">Oynatılma:</string>
 </resources>
