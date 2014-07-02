@@ -1087,5 +1087,9 @@ Favoriler listenize kişi eklemek için:
   <string name="cta_notice_photo_message">Fotoğraf paketi kullanarak kişi fotoğraflarını düzenlemek için ağ erişimini kabul ediyor musunuz?</string>
   <string name="cta_notice_settings">Ağ bağlantısı gerekirse bildir</string>
   <string name="cta_notice_title">Uyarı:</string>
+  <string name="yellowpage_navigation_more_items">Daha fazla</string>
+  <string name="yellowpage_user_profile">Profil</string>
+  <string name="yellowpage_navigation_send_to_desktop_downloading">İndiriliyor...</string>
+  <string name="yellowpage_navigation_send_to_desktop_failed">Ağ bağlantısı yok!</string>
 </resources>
 

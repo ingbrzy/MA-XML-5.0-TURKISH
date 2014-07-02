@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
      <string-array name="alarm_in_future">
-        <item>Bir dakikadan daha az</item>
-        <item>Yaklaşık %1$s</item>
-        <item>Yaklaşık %2$s</item>
-        <item>Yaklaşık %1$s %2$s</item>
-        <item>Yaklaşık %3$s</item>
-        <item>Yaklaşık %1$s %3$s</item>
-        <item>Yaklaşık %2$s %3$s</item>
-        <item>Yaklaşık %1$s %2$s %3$s</item>
+        <item>Bir dakikadan daha az süre kaldı</item>
+        <item>Yaklaşık %1$s kaldı</item>
+        <item>Yaklaşık %2$s kaldı</item>
+        <item>Yaklaşık %1$s %2$s kaldı</item>
+        <item>Yaklaşık %3$s kaldı</item>
+        <item>Yaklaşık %1$s %3$s kaldı</item>
+        <item>Yaklaşık %2$s %3$s kaldı</item>
+        <item>Yaklaşık %1$s %2$s %3$s kaldı</item>
     </string-array>
     <string-array name="contact_entries">
         <item>Adı</item>

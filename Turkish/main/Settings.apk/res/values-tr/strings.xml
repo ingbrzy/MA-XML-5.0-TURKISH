@@ -3336,14 +3336,14 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="app_feedback">Hata raporu</string>
   <string name="bugreport_tool_log">Bir hata raporu oluştur</string>
   <string name="google_backup_section_title">Google yedekleme ve geri yükleme</string>
-  <string name="local_backup_section_summary">Hesaplar, uygulamalar ve yedekleme ayarları</string>
-  <string name="local_backup_section_title">Yerel yedek</string>
+  <string name="local_backup_section_summary">Hesaplar, uygulamalar ve ayarlarınızı yedekleyin.</string>
+  <string name="local_backup_section_title">MIUI Yedekleme</string>
   <string name="modem_tool_log">Capture Modem Logs</string>
   <string name="modem_tool_log_start">BAŞLAT</string>
   <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
   <string name="modem_tool_log_stop">DUR</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
-  <string name="system_backup_section_title">Yedek</string>
+  <string name="system_backup_section_title">Yedekleme</string>
   <string name="bluetooth_device_address">Cihaz adresi:</string>
   <string name="title_font">Yazı tipi</string>
   <string name="title_font_current">Geçerli yazı tipi</string>
@@ -3356,4 +3356,5 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="cta_settings">İnternet erişimi</string>
   <string name="accessibility_service_no_apps_confirm">Tamam</string>
   <string name="accessibility_service_no_apps_prompt">TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Google Play\'den ücretsiz olarak yükleyebilirsiniz.</string>
+  <string name="bluetooth_preference_connected_devices">Bağlı cihazlar</string>
   </resources>
