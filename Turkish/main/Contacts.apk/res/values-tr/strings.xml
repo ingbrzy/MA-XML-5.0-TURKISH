@@ -1077,7 +1077,7 @@ Favoriler listenize kişi eklemek için:
   <string name="export_to_sim1">SIM 1 kartına aktar</string>
   <string name="import_from_sim1">SIM 1 karttan içe aktar</string>
   <string name="resource_allow">İzin ver</string>
-  <string name="resource_connect_network_message">Uygulamalrın internete bağlanmasına izin vermek istiyor musunuz?</string>
+  <string name="resource_connect_network_message">Uygulamaların internete bağlanmasına izin vermek istiyor musunuz?</string>
   <string name="resource_connect_network_settings">İnternet bağlantısı ayarları</string>
   <string name="resource_remind_another_time">Tekrar hatırlatma</string>
   <string name="yellowpage_navigation_network_location_enabled">Hizmet etkin, ayarlardan devre dışı bırakabilirsiniz.</string>

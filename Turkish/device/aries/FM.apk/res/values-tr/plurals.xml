@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="toast_channel_searched">
+        <item quantity="other">Kanal Arama %1$d</item>
+        <item quantity="one">Kanal Arama: 1</item>
+    </plurals>
+</resources>

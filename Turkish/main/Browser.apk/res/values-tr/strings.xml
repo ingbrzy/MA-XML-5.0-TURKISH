@@ -617,4 +617,5 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="cloud_loading_tips">Senkronize etmek için aşağı çekin</string>
   <string name="cloud_no_new_data_toast">Yeni veri</string>
   <string name="pref_content_brightness_setting">Parlaklık ayarları </string>
+  <string name="enter_developer_mode">Geliştirici modu</string>
 </resources>

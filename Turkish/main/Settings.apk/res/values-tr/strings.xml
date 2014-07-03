@@ -501,7 +501,7 @@ Not: Üçlü tıklayarak Yakınlaştırma klavye ve gezinti çubuğu hariç her 
   <string name="bluetooth_visibility">Keşfedilebilir</string>
   <string name="bluetooth_visibility_timeout">Görünürlük zaman aşımı</string>
   <string name="bluetooth_visibility_timeout_summary">Cihazın ne süreyle keşfedilebilir olacağını ayarla</string>
-  <string name="breathing_light_color_menu_title">Işık rengi</string>
+  <string name="breathing_light_color_menu_title">Led rengi</string>
   <string name="breathing_light_color_summary">Yeni bildirimler için LED rengi</string>
   <string name="breathing_light_color_title">" - LED rengi"</string>
   <string name="breathing_light_freq_summary">LED parlamaları arası geçen süre</string>
@@ -839,7 +839,7 @@ Bu, telefondaki tüm kullanıcıları etkileyecek."</string>
   <string name="disable_app_permission_summary">İzin izleme kapalı</string>
   <string name="disable_overlays">Donanım bindirmelerini kapat</string>
   <string name="disable_overlays_summary">Ekran kompozisyon için GPU kullanımı</string>
-  <string name="disable_power_key_long_press_under_keyguard">Kilit ekranında devre dışı bırak</string>
+  <string name="disable_power_key_long_press_under_keyguard">Güç tuşu menüsünü kapat</string>
   <string name="disable_text">Devre dışı bırak</string>
   <string name="disabled">Devre dışı</string>
   <string name="display_font_size_label">Yazı tipi boyutu:</string>
@@ -1223,7 +1223,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="install_unknown_applications">Market dışı uygulamaların yüklenmesine izin ver</string>
   <string name="insufficient_storage">Yeterli depolama alanı yok.</string>
   <string name="intent_sender_account_label">Hesap:</string>
-  <string name="intent_sender_action_label">Aksiyon:</string>
+  <string name="intent_sender_action_label">Eylem:</string>
   <string name="intent_sender_data_label">Veri:</string>
   <string name="intent_sender_resource_label">Kaynak:</string>
   <string name="intent_sender_sendbroadcast_text">Yayın gönder</string>
@@ -1337,7 +1337,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="location_street_level">Konumunuzu belirlemek üzere, uygulamaların GPS kullanmasına izin verir</string>
   <string name="location_title">Konumum</string>
   <string name="lock_after_timeout">Otomatik olarak kilitle</string>
-  <string name="lock_after_timeout_summary">Uykudan %1$s sonra</string>
+  <string name="lock_after_timeout_summary">Uykudan %1$s sonra kilitlenecek.</string>
   <string name="lock_intro_message">"Kendinize özel bir ekran kilidi açma deseni oluşturarak telefonunuzu yetkisiz kullanıma karşı koruyun. Bir sonraki ekranda parmağınızı kullanarak en az dört noktayı istediğiniz sırayla birleştirin. Başlamaya hazır mısınız? \"İleri\"ye dokunun."</string>
   <string name="lock_screen_unlock_show">Direkt olarak şifre giriciyi göster</string>
   <string name="lock_screen_unlock_show_summary">"Diğer kilit ekranlarını kullanma, doğrudan kilit açıcıya git"</string>
@@ -1374,7 +1374,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="lockpassword_pin_set_toast">PIN kodu ayarlandı</string>
   <string name="lockpassword_pin_too_long">PIN kodu en çok %d basamaklı olmalıdır</string>
   <string name="lockpassword_pin_too_short">PIN kodu en az %d basamaklı olmalıdır</string>
-  <string name="lockpassword_press_continue">İşlem tamamlandığında Devam düğmesine basın</string>
+  <string name="lockpassword_press_continue">İşlem tamamlandığında Devam seçeneğine dokunun</string>
   <string name="lockpattern_change_lock_pattern_label">Kilit açma desenini değiştir</string>
   <string name="lockpattern_change_lock_pin_label">"Kilit açma PIN kodunu değiştir"</string>
   <string name="lockpattern_confirm_button_text">Onayla</string>
@@ -1461,7 +1461,7 @@ Kendi geliştiricileri tarafından güncellenene kadar bazı uygulamalar çalı�
   <string name="memory_media_cache_usage">Bellekteki veriler</string>
   <string name="memory_media_misc_usage">Çeşitli</string>
   <string name="memory_media_usage">Medya</string>
-  <string name="memory_music_usage">Ses (müzik, zil sesleri, oynatıcı yayın abonelği vb.)</string>
+  <string name="memory_music_usage">Ses dosyaları</string>
   <string name="memory_size">Toplam alan</string>
   <string name="memory_suffix">GB</string>
   <string name="memory_title">Boş %1$s\u0009\u0009Toplam %2$s</string>
@@ -1794,7 +1794,7 @@ please follow the steps to complete installation"</string>
   <string name="perm_su_disabled_in_stable">ROOT yetkileri MIUI Stabil sürümde kullanılamaz</string>
   <string name="perm_su_disabled_in_stable_desc">"3.parti yazılımlara ROOT yetkisi vermek cihazınızda yazılım veya donanım sorunlarına neden olabilir. MIUI gelistirme sürümü yükleyip ROOT izinlerini yönetebilirsiniz."</string>
   <string name="perm_su_disabled_in_stable_download"> MIUI İndir</string>
-  <string name="perm_su_enable_content">"Etkinleştirme; uygulamaların ROOT izni istemesini sağlayacak. Not: Uygulamalar sistemin ve donanımların kararlı yapısını bozabilir. Yinede etkinleştirilsin mi?"</string>
+  <string name="perm_su_enable_content">"Etkinleştirmeniz; uygulamaların ROOT izni istemesini sağlayacak. Not: Bazı uygulamalar sistemin ve donanımların kararlı yapısını bozabilir, güvenliğinizi riske atabilir. Yinede etkinleştirmek istiyor musunuz?"</string>
   <string name="perm_su_enable_dialog">%1$s uygulama ROOT yetkisi almayı deniyor. ROOT yetkileri sistem güvenliği için devre dışı durumdadır. Etkinleştirmek isterseniz Yetki Yönetimlerine bakınız.</string>
   <string name="perm_su_enable_summary">Lütfen dikkatli kullanın</string>
   <string name="perm_su_enable_title">ROOT Yetkisi</string>
@@ -2217,7 +2217,7 @@ tamamlanacak"</string>
   <string name="reset_app_preferences_desc">"Bu uygulama için tüm özellikler sıfırlanacak:
 
  "</string>
-  <string name="reset_app_preferences_title">Reset app preferences?</string>
+  <string name="reset_app_preferences_title">Uygulama özelliklerini sıfırlamak istiyor musunuz?</string>
   <string name="residual_cancel">İptal</string>
   <string name="residual_clean">Temizle</string>
   <string name="residual_tips_hints">SD kartta %s artık dosya bulundu</string>
@@ -2299,9 +2299,9 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="sd_ejecting_title">Kaldırılıyor</string>
   <string name="sd_format">SD kartı sil</string>
   <string name="sd_format_summary">SD karttaki müzik ve fotoğraf gibi tüm verileri siler</string>
-  <string name="sd_insert_summary">Eklemek için bir SD kart yerleştirin</string>
+  <string name="sd_insert_summary"/>
   <string name="sd_memory">SD kart</string>
-  <string name="sd_mount">SD kartı ekle</string>
+  <string name="sd_mount">SD kart / USB Depolama</string>
   <string name="sdcard_changes_instructions">Değişiklikler USB kablosu bağlandığında devreye girer</string>
   <string name="sdcard_format">SD kartı sil</string>
   <string name="sdcard_setting">SD kart</string>
