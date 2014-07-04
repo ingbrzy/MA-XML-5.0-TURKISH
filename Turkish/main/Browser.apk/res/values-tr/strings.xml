@@ -618,4 +618,8 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="cloud_no_new_data_toast">Yeni veri</string>
   <string name="pref_content_brightness_setting">Parlaklık ayarları </string>
   <string name="enter_developer_mode">Geliştirici modu</string>
+  <string name="miui_quicksearch_enable_pref_title">Bildirim alanında arama çubuğu</string>
+  <string name="miui_quicksearch_enable_pref_summary">Bildirim alanında tarayıcının arama çubuğunu gösterir.</string>
+  <string name="miui_search_notification_title">Ara</string>
+  <string name="miui_search_notification_message">Arama çubuğu için dokunun.</string>
 </resources>

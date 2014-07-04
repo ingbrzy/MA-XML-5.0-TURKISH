@@ -183,8 +183,8 @@ Kullanılan"</string>
     <string name="network_assistant_upgraded_title">Güncelleme tamamlandı</string>
     <string name="network_assistant_upgraded_body">Veri kullanımını kısıtlamak için dokunun.</string>
     <string name="spinner_title">%1$s - Mobil veri: %2$s</string>
-	<string name="main_toolbar_saving">Sıkıştırma</string>
-  <string name="pref_traffic_saving_issue">FAQ</string>
+	<string name="main_toolbar_saving">Veri tasarrufu (sıkıştırma)</string>
+  <string name="pref_traffic_saving_issue">SSS</string>
   <string name="pref_traffic_saving_issue_content">&lt;b&gt;Veri tasarrufu işlevi gizliliğimi ve güvenliğimi riske atar mı?&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Veri tasarrufu işlevi, herhangi bir özel veriyi kullanmaz. Erişim bilgilerini sızdırma veya hırsızlığa neden olmaz.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Veri tasarrufu işlevini niçin kullanıyım？&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;Bu işlev etkin ise; mobil veri kullanımı sırasında, metin ve görüntü dosyaları sıkıştırılarak boyutu düşürülür, ses ve görüntü dosyalarını indirmek mümkün olmaz.</string>
   <string name="pref_traffic_saving_notify_switch">Bildirimleri göster</string>
   <string name="pref_traffic_saving_notify_switch_hint">Bildirim çubuğunda veri tasarrufu durumunu gösterir</string>

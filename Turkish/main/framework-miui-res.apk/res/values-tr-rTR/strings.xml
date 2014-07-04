@@ -110,7 +110,7 @@
   <string name="lockscreen_transport_next_description">Sonraki parça</string>
   <string name="lockscreen_transport_play_description">Oynat</string>
   <string name="lockscreen_transport_prev_description">Önceki parça</string>
-  <string name="lockscreen_unlock_sim_via_puk">SIM kilidini açmak için PUK kodunu girin</string>
+  <string name="lockscreen_unlock_sim_via_puk">SIM kart kilidini açmak için PUK kodunu girin</string>
   <string name="login_website_in_case_forget_password">Şifrenizi sıfırlamak için i.mi.com adresini ziyaret edin.</string>
   <string name="lunar_ba">" "</string>
   <string name="lunar_calendar">Ay takvimi</string>
@@ -278,7 +278,7 @@
   <string name="volume_ring_description">Zil sesleri ve bildirimler</string>
   <string name="wake_alarm_message">Telefon kapatılınca alarm duraklatılacak.
 
-%s gününden sonra tekrar hatırlat!</string>
+Daha sonra tekrar hatırlat (%s)!</string>
   <string name="white_dews" />
   <string name="winter_begins" />
   <string name="winter_solstice" />

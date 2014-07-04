@@ -45,7 +45,7 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="contact_company">Şirket</string>
   <string name="contact_email">Email</string>
   <string name="contact_name">İsim</string>
-  <string name="contact_phone">telefon</string>
+  <string name="contact_phone">Telefon</string>
   <string name="contact_title">Başlık</string>
   <string name="create">Oluştur</string>
   <string name="create_configs_prompt">Görev eklemek için, ekleye dokunun</string>
@@ -70,7 +70,7 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="err_fail_to_erase">Silinemedi!</string>
   <string name="err_fail_to_read">Okunamadı!</string>
   <string name="err_fail_to_write">Yazılamadı!</string>
-  <string name="err_nfc_off">NFC için Ayarlar &gt; Kablosuz ve şebekeler &gt; Daha fazla &gt; NFC</string>
+  <string name="err_nfc_off">NFC için Ayarlar &gt; Wi-Fi ve Mobil Şebeke Ayarları &gt; Diğer Ayarlar &gt; NFC</string>
   <string name="err_no_enough_space">Etikette yeterli boş alan yok</string>
   <string name="err_no_nfc">"Cihazınız NFC özelliğini desteklemiyor"</string>
   <string name="err_tag_not_supported">"Cihazınız etiketlemeyi desteklemiyor"</string>
@@ -103,7 +103,7 @@ telefonunuzun arkası ile dokunun"</string>
   <string name="new_configures">Yeni yapılandırmalar</string>
   <string name="no_available_networks">Kullanılabilir ağ yok</string>
   <string name="no_available_networks_summary">Wi-Fi ile bağlanınca tekrar deneyin</string>
-  <string name="no_available_xiaomi_shop">Mi market açılamadı</string>
+  <string name="no_available_xiaomi_shop">Mi Market açılamadı</string>
   <string name="not_save_btn">Hayır</string>
   <string name="notification_value">Bildirimler %s%%</string>
   <string name="null_task">Görev yok</string>
