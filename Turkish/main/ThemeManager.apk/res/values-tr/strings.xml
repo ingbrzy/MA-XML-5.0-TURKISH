@@ -235,7 +235,7 @@
   <string name="theme_current_using_has_update">Mevcut tema güncellendi, uygulamak için buraya dokunun</string>
   <string name="theme_description_title_customized">Kullanıcı Tanımlı</string>
   <string name="theme_description_title_default">Geçerli</string>
-  <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulamak istiyor musunuz</string>
+  <string name="theme_immediately_apply_tip">Tema güncellendi, şimdi uygulamak istiyor musunuz?</string>
   <string name="theme_import_activity_label">Temayı güncelle</string>
   <string name="theme_import_data">Başlatılıyor. Lütfen bekleyin...</string>
   <string name="theme_import_fail"> %1$s İçe aktarılamadı!</string>
@@ -298,4 +298,5 @@
   <string name="theme_user_agreement_remind_never">"Tekrar hatırlatma"</string>
   <string name="theme_user_agreement_remind_summary">Cihazı tekrar başlatınca etkinleşir.</string>
   <string name="theme_user_agreement_title">Açıklama</string>
+  <string name="resource_purchase_getting_order">Bilgi alınıyor…</string>
   </resources>

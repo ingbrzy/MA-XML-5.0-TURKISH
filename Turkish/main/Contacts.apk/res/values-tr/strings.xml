@@ -213,7 +213,7 @@
   <string name="deleting">Siliniyor...</string>
   <string name="deleteConfirmation">Bu kişi silinecek.</string>
   <string name="deleteConfirmationDetail">\"%s\" silinecek !</string>
-  <string name="deleteConfirmation_title">Kişi silmek istiyr musunuz?</string>
+  <string name="deleteConfirmation_title">Kişi silinecek !</string>
   <string name="delete_call_log_title">Silinecek arama kaydını seçin</string>
   <string name="delete_call_log_selected_title">Seçilen arama kayıtlarını silmek istiyor musunuz?</string>
   <string name="delete_contact_calllog_title">"Arama kayıtlarını silmek istiyor musunuz?"</string>
@@ -561,8 +561,8 @@
   <string name="messageShortcutActivityTitle">İleti gönderilecek numarayı seçin</string>
   <string name="missing_name">(Adsız)</string>
   <string name="move_and_resize">Taşı ve boyutlandır</string>
-  <string name="multipleContactDeleteConfirmation">Bu kişiyi silmek, birden fazla hesaba ait bilgileri de etkiler.</string>
-  <string name="multipleContactDeleteConfirmationDetail">\"%s\"  kişiyi silmek birden fazla hesap bilgileri etkiler..</string>
+  <string name="multipleContactDeleteConfirmation">Bu kişiyi silmek, birden fazla hesaba ait bilgileri de silecektir.</string>
+  <string name="multipleContactDeleteConfirmationDetail">Bu kişiyi silmek( \"%s\" ), birden fazla hesaba ait bilgileri de silecektir.</string>
   <string name="my_phone_not_provider_bluetooth">Cihaz Bluetooth\'u desteklemiyor</string>
   <string name="my_phone_provider_bluetooth">Telefon Bluetooth\'u destekliyor</string>
   <string name="nameLabelsGroup">Ad</string>
@@ -1084,7 +1084,7 @@ Favoriler listenize kişi eklemek için:
   <string name="cta_notice_checkbox">"Tekrar gösterme"</string>
   <string name="cta_notice_new_contact_message">\"%s\" hesabına kişileri kaydetmek için ağ erişimi gerekiyor, kabul ediyor musunuz?</string>
   <string name="cta_notice_ok">Tamam</string>
-  <string name="cta_notice_photo_message">Fotoğraf paketi kullanarak kişi fotoğraflarını düzenlemek için ağ erişimini kabul ediyor musunuz?</string>
+  <string name="cta_notice_photo_message">Fotoğraf paketi kullanarak kişi fotoğraflarını düzenlemek için ağ erişimi gerekiyor, kabul ediyor musunuz?</string>
   <string name="cta_notice_settings">Ağ bağlantısı gerekirse bildir</string>
   <string name="cta_notice_title">Uyarı:</string>
   <string name="yellowpage_navigation_more_items">Daha fazla</string>

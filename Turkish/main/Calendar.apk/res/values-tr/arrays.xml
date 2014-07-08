@@ -203,4 +203,8 @@
         <item>Sadece sessizde</item>
         <item>Asla</item>
     </string-array>
+	<string-array name="widget_style_list">
+        <item>Transparan siyah</item>
+        <item>Beyaz arkaplan</item>
+    </string-array>
 </resources>
