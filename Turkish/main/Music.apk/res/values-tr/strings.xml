@@ -352,4 +352,6 @@
   <string name="impunity_declaration_settings">Ağ bağlantısı gerekirse bildir</string>
   <string name="impunity_declaration_summary">Müziğe girerken, hatırlatmak için açılır pencere gösterir</string>
   <string name="take_effect_afater_restart">Yeni ayarların etkili olabilmesi için uygulamanın tekrar başlatılması gerekir.</string>
+  <string name="priority_storage">SD Karta indir</string>
+  <string name="priority_storage_summary">Bu işlev, harici bir SD kart olduğunda kullanılabilir.</string>
 </resources>

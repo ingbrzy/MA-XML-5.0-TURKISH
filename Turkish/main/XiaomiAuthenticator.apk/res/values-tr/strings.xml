@@ -73,8 +73,8 @@
 - Cihazınızı hırsızlığa karşı korumak,
 - Xiaomi hesabınıza 2 adımlı giriş için kimlik doğrulama kodu oluşturmakta kullanılır"</string>
     <string name="welcome_page_alert"/>
-    <string name="acknowledge_button">Devam</string>
-    <string name="mycard_scan_barcode">MiID KOd Tarayıcı</string>
+    <string name="acknowledge_btn">Devam</string>
+    <string name="mycard_scan_barcode">MiID Kod Tarayıcı</string>
     <string name="scan_barcode_info">MiID kodunu  dikdörtgenin içine hizalayın...</string>
     <string name="scan_barcode">MiID kodunu tara</string>
     <string name="gif_not_support_camera_msg">Cihazınız video kaydetmeyi desteklemiyor!.</string>
@@ -140,7 +140,7 @@
     <string name="authenticator_page_reactivation">Tekrar etkinleştir</string>
     <string name="success_set_password">Şifre ayarlandı</string>
     <string name="success_reset_password">Şifre sıfırlandı</string>
-    <string name="correct_enter_password">Doğr şifreyi girin</string>
+    <string name="correct_enter_password">Doğru şifreyi girin</string>
     <string name="correct_enter_update_password">Şifre doğru</string>
     <string name="title_patternforgotten">"Şifrenizi mi unuttunuz?
 Seçenekler:"</string>
@@ -168,4 +168,7 @@ Cihazınızın tarih ve saat ayarları değiştirilmedi."</string>
     <string name="timesync_sync_now_connectivity_error_dialog_title">Şimdi senkronize et</string>
     <string name="timesync_sync_now_connectivity_error_dialog_details">"Sunucular ile bağlantı kurulamıyor!."</string>
     <string name="success_copy_to_clipboard">Panoya kopyalandı</string>
+	<string name="continue_btn">Devam</string>
+    <string name="authenticator_invalid_tip">Uygulamayı kapatın ya da başka bir doğrulama kodu oluşturun</string>
+    <string name="authenticator_invalid_title">Hesap: %1$s hatalı kod</string>
 </resources>

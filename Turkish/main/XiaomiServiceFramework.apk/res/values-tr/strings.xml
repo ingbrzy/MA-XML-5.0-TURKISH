@@ -340,4 +340,5 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="sync_sub_2_intl_sms">SIM kart aktivasyonu için 2 uluslar arası SMS gönderilecektir.</string>
   <string name="sync_sub_2_sms">SIM kart aktivasyonu için 2 SMS gönderilecektir.</string>
   <string name="error_device_id">IMEI yüklenemiyor !</string>
+  <string name="bank_cards">Ödeme kartı</string>
 </resources>

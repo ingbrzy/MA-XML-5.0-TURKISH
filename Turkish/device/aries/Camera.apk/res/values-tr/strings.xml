@@ -469,4 +469,6 @@
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin!</string>
   <string name="toast_cannot_preview_image_when_screen_locked">Ekran kilitli olduğu için fotoğraf veya video görüntülenemiyor!</string>
+  <string name="pref_camera_countdown_title">Geri sayım</string>
+  <string name="simple_mode_button_text_countdown">Geri sayımdan çık</string>
 </resources>

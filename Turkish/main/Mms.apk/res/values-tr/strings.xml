@@ -458,4 +458,9 @@ Son deneme zamanı: %s."</string>
   <string name="send_message_notification_msg">Cihaz yönetimi mesaj gönderme izin isteği</string>
   <string name="send_message_notification_tickerText">Cihaz yönetimi izin isteği</string>
   <string name="send_message_notification_title">Cihaz yönetimi</string>
+ <string name="hms_first_use_tips">Mesajlaşma hizmetleri için, bir Wi-Fi ağına bağlı olmanız gerekir.</string>
+ <string name="retrive_hms_tips">Alınıyor...</string>
+ <string name="send_hms_editor_hints">Cloud Mesajlaşma</string>
+ <string name="view_hms_details">Detaylar</string>
+ <string name="xiaomi_service_number">Servis numarası</string>
 </resources>
