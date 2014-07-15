@@ -3291,7 +3291,7 @@ Telefon ayarları önemli ağ etkinliği gerektirebilir."</string>
 %1$s will appear as a USB mass storage device when connected to a computer."</string>
   <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
 the %1$s music player will appear on your computer automatically"</string>
-  <string name="dialog_title_auto_start_tips">About auto start</string>
+  <string name="dialog_title_auto_start_tips">Uyarı:</string>
   <string name="dialog_message_auto_start_tips">MIUI, bazı güvenlik uygulamalarının otomatik başlangıç yetkisini engelleyebilir. İzileri Ayarlar > Uygulamalara giderek kontrol edebilirsiniz. </string>
   <string name="button_text_known">Biliyorum</string>
   <string name="translation_contributors_title">Çevirmen</string>

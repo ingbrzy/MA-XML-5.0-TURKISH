@@ -24,36 +24,37 @@
   <string name="activate_popup_confirm_failed_receive_sms">Lütfen tekrar deneyin!</string>
   <string name="activate_popup_confirm_failed_send_sms">Lütfen tekrar deneyin!</string>
   <string name="activate_popup_confirm_failed_server">Lütfen tekrar deneyin!</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_2_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_2_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
   <string name="activate_popup_desc_failed_phone_error">Girilen numara geçersiz!</string>
   <string name="activate_popup_desc_failed_query_info">Telefon numaranız alınamıyor. SIM kartın hizmette olduğundan emin olun.</string>
   <string name="activate_popup_desc_failed_receive_sms">Lütfen girdiğiniz numarayı kontrol edin!</string>
   <string name="activate_popup_desc_failed_send_sms">"Aktivasyon SMS\'i gönderilemedi!"</string>
   <string name="activate_popup_desc_failed_server">Sunucu hatası. Ağ ayarlarını kontrol edin!</string>
-  <string name="activate_popup_desc_intl_sim_card">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_mixed_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_2_intl_sim_cards">SIM kartınız değişti.
-  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_2_sim_cards">SIM kartınız değişti.
-  %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_intl_sim_card">SIM kartınız değişti.
-  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_mixed_sim_cards">SIM kartınız değişti.
-  %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_sim_card">SIM kartınız değişti. %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
-  <string name="activate_popup_desc_new_sim_card_downlink">SIM kartınız değişti.
+  <string name="activate_popup_desc_intl_sim_card">%s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_mixed_sim_cards">%s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_2_intl_sim_cards">SIM kartınız değişmiş gibi görünüyor.
+  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_2_sim_cards">SIM kartınız değişmiş gibi görünüyor.
+  %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için 2 adet uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_intl_sim_card">SIM kartınız değişmiş gibi görünüyor..
+  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_mixed_sim_cards">SIM kartınız değişmiş gibi görünüyor.
+  %s özelliklerini etkinleştirmek ve 2 SIM kart aktivasyonu için uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_sim_card">SIM kartınız değişmiş gibi görünüyor.
+  %s özelliklerini etkinleştirmek ve SIM kart aktivasyonu için uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_new_sim_card_downlink">SIM kartınız değişmiş gibi görünüyor.
 %s özelliklerini etkinleştirmek için lütfen SIM kart numaranızı girin.</string>
   <string name="activate_popup_desc_register_account">Xiaomi Hesabınızı kaydetmek için SMS gönderilecek.</string>
   <string name="activate_popup_desc_register_account_downlink">Lütfen SIM kart numaranızı girin.</string>
   <string name="activate_popup_desc_register_account_intl">Xiaomi Hesabınızı kaydetmek için SMS gönderilecek.</string>
-  <string name="activate_popup_desc_sim_card">%s özelliklerini etkinleştirmek ve SIM kart aktvasyonu için uluslar arası SMS gönderilecek(operatörünüzce ücretlendirilebilir)</string>
+  <string name="activate_popup_desc_sim_card">%s özelliklerini etkinleştirmek ve SIM kart aktvasyonu için uluslar arası SMS gönderilecek. (Operatörünüzce ücretlendirilebilir)</string>
   <string name="activate_popup_desc_sim_card_downlink">%s özelliklerini etkinleştirmek için SIM kart numaranızı girin.</string>
-  <string name="activate_popup_title_failed_phone_error">Aktivasyon başarısız!</string>
-  <string name="activate_popup_title_failed_query_info">Aktivasyon başarısız!</string>
-  <string name="activate_popup_title_failed_receive_sms">Aktivasyon başarısız!</string>
-  <string name="activate_popup_title_failed_send_sms">Aktivasyon başarısız!</string>
-  <string name="activate_popup_title_failed_server">Aktivasyon başarısız!</string>
+  <string name="activate_popup_title_failed_phone_error">Telefon numarası geçersiz!</string>
+  <string name="activate_popup_title_failed_query_info">Numara bulunamıyor!</string>
+  <string name="activate_popup_title_failed_receive_sms">Aktivasyon mesajı alınamadı!</string>
+  <string name="activate_popup_title_failed_send_sms">Aktivasyon mesajı gönderilemedi!</string>
+  <string name="activate_popup_title_failed_server">Sunucu hatası!</string>
   <string name="activate_popup_title_manual">SIM kart aktivasyonu başarısız!</string>
   <string name="activate_popup_title_new_sim_card">Yeni SIM kart aktivasyonu </string>
   <string name="activate_popup_title_register_account">Hesap kaydı</string>
@@ -161,7 +162,7 @@
   <string name="input_captcha_hint">Güvenlik kodunu girin</string>
   <string name="imported_contacts"> %s kişi içe aktarıldı</string>
   <string name="input_password_hint">Şifrenizi giriniz</string>
-  <string name="int_phone_user_notice">Çin dışında bir numara kaydederken, ülke kodunu girin örnek. +90xxxxxxxxx</string>
+  <string name="int_phone_user_notice">Çin dışında bir numara kaydederken, ülke kodunu girin. Örnek: +90xxxxxxxxx</string>
   <string name="internet_comm">Mesajlar</string>
   <string name="internet_message">MiCloud mesajları</string>
   <string name="login">Oturum aç</string>
@@ -301,10 +302,7 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="start_micloud">Başlat</string>
 <string name="sub_alert_notif_dspt" formatted="false">" %s telefon kişisi, %s SMS, %s foto, %s not ve diğer veriler senkronize edilmemiş.
 
-
-
  Veri güvenliğiniz için senkronize işlemini yapmanız tavsiye edilir"</string>
-
   <string name="sub_alert_notif_title">Senkronizasyon servisi etkin değil</string>
   <string name="sync_dspt">Senk için Xiaomi hesabı kullan</string>
   <string name="sync_off">Kapalı</string>
@@ -341,4 +339,5 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="sync_sub_2_sms">SIM kart aktivasyonu için 2 SMS gönderilecektir.</string>
   <string name="error_device_id">IMEI yüklenemiyor !</string>
   <string name="bank_cards">Ödeme kartı</string>
+  <string name="micloud_upgrade_space">Daha fazla alan al</string>
 </resources>

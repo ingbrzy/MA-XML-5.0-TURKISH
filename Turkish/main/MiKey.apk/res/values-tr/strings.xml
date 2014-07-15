@@ -116,7 +116,7 @@
     <string name="back_camera">Arka kaera</string>
     <string name="write_pic_fail">Resim kaydedilemedi!</string>
     <string name="settings">Ayarlar</string>
-    <string name="setting_buy">Mikey\' satın alın</string>
+    <string name="setting_buy">Mikey\'i satın alın</string>
     <string name="app_not_installed">Uygulama yüklü değil</string>
     <string name="setting_toolbar">Araç çubuğu</string>
     <string name="setting_toolbar_desc">Araç çubuğu özellikleri ile bildirim çubuğuna hızlıca erişebilir ve işlemlerinizi daha rahat yapabilirsiniz.</string>
@@ -175,7 +175,7 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
     <string name="faq_slow_title">Mikey çok yavaş tepki veriyor? </string>
     <string name="faq_slow_text">Tıklama sıklığını 0 olarak ayarlayın. </string>
     <string name="faq_quni_title">Bu ürünün kullanım ömrü ne kadar? </string>
-    <string name="faq_quni_text">Bu ürün 30000 tıklamaya kadar sorunsuzçalışır.</string>
+    <string name="faq_quni_text">Bu ürün 30000 tıklamaya kadar sorunsuz çalışır.</string>
     <string name="faq_stat_title">Sabahları 0 tıklama oluyor? </string>
     <string name="faq_stat_text">Sıralama her yeni gün başlangıcında sıfırlanır</string>
     <string name="faq_vsm_title">Uyarı!</string>

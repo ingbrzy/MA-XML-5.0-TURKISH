@@ -253,9 +253,9 @@
   <string name="pref_error_no_ringtone_select">Zil sesi seçilmedi!</string>
   <string name="view_all_matches">Tümünü göster</string>
   <string name="cta_notice_checkbox">"Tekrar gösterme"</string>
-  <string name="cta_notice_message">Takvimdeki \ "Doğum günü hatırlatıcı  \" ,  size kişiler listenizdeki kayıtların doğum günlerini hatırlatabilir.
+  <string name="cta_notice_message">Takvimdeki \"Doğumgünü hatırlatıcı\" size, kişiler listenizdeki kayıtların doğum günlerini hatırlatabilir.
   Takvimin kişiler listesine erişmesine izin veriyor musunuz?</string>
   <string name="cta_notice_ok">Tamam</string>
-  <string name="cta_notice_title">Hatırlat</string>
+  <string name="cta_notice_title">Açıklama:</string>
   <string name="cta_notify_settings">Kişilere erişirken hatırlat</string>
 </resources>
