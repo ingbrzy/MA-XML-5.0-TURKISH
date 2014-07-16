@@ -27,7 +27,7 @@
     <string name="st_antispam_title_contact_incoming">Kişiler çağrıları</string>
     <string name="st_antispam_title_anoy_sms">Yabancı mesajlar</string>
     <string name="st_antispam_title_anoy_incoming">Yabancı çağrılar</string>
-    <string name="st_antispam_title_null_incoming">Özel çağrılar</string>
+    <string name="st_antispam_title_null_incoming">Gizli çağrılar</string>
     <string name="st_antispam_mode_smart_sum">Kara Liste ve yabancı numara çağrılarını engelle</string>
     <string name="st_antispam_mode_blacklist_sum">Kara Liste çağrı ve mesajlarını engelle</string>
     <string name="st_antispam_mode_only_contacts_sum">Kişilerden gelen çağrı ve mesajlara izin ver</string>
@@ -159,7 +159,7 @@
     <string name="st_block_title">Engelleme logunu yönlendir</string>
     <string name="st_mute_title">"Zil çalmasın ya da titremesin"</string>
     <string name="st_common_setting_group">Filtre ayarları</string>
-    <string name="st_block_private_call_button">Özel numaraları engelle</string>
+    <string name="st_block_private_call_button">Gizli numaraları engelle</string>
     <string name="st_filter_sms_button">Mesajları filtrele</string>
     <string name="st_filter_keywords_setting_title">Arama terimini ayarla</string>
     <string name="st_filter_keywords_title">Arama terimi filtresi</string>
@@ -224,7 +224,7 @@
     <string name="Call_PREFIX">Kara Liste öneki</string>
     <string name="Call_MODENAME">Varsayılan Kara Liste</string>
     <string name="Call_ADRESS">Kara Liste konumu</string>
-    <string name="Call_PRIVATE_CALL">Özel çağrılar</string>
+    <string name="Call_PRIVATE_CALL">Gizli çağrılar</string>
     <string name="PAST_BLOCK">Daha önceden engellenmiş</string>
     <string name="AD_AntiSpam">Engelleme talepleri</string>
     <string name="AD_SCANNING">Taranıyor…</string>

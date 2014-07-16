@@ -31,7 +31,7 @@
     <string-array name="traffic_sort_type">
         <item>2G/3G kullanımı</item>
         <item>Wi-Fi kullanımı</item>
-        <item>Kullanılan toplam veri</item>
+        <item>Veri tasarrufu</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
         <item>Otomatik raporlama</item>
@@ -40,7 +40,7 @@
 	<string-array name="traffic_type">
         <item>2G/3G verileri\u0020</item>
         <item>Wi-Fi verileri\u0020</item>
-        <item>Toplam veri tüketimi\u0020</item>
+        <item>Veri tasarrufu\u0020</item>
     </string-array>
     <string-array name="date_of_traffic_prefix">
         <item>Dünki\u0020</item>

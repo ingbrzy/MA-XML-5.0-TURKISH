@@ -109,9 +109,9 @@
   <string name="HIPS_Perm_Location_Desc">Ağ veya GPS üzerinden telefon konumu</string>
   <string name="HIPS_Perm_Location_Hint">%1$s uygulamanın telefon konumu alma izni var</string>
   <string name="HIPS_Perm_Location_Monitor">Konumunuzu izleme</string>
-  <string name="HIPS_Perm_Location_Source_Cellular">Kaynak: Hücresel ağ</string>
-  <string name="HIPS_Perm_Location_Source_GPS">Kaynak: GPS</string>
-  <string name="HIPS_Perm_Location_Source_Network">Kaynak: Ağ</string>
+  <string name="HIPS_Perm_Location_Source_Cellular">Kaynak: Hücresel ağ bağlantısı</string>
+  <string name="HIPS_Perm_Location_Source_GPS">GPS bağlantısı</string>
+  <string name="HIPS_Perm_Location_Source_Network">Ağ bağlantısı</string>
   <string name="HIPS_Perm_MobileNetwork">Mobil ağ</string>
   <string name="HIPS_Perm_MobileNetwork_Desc">Mobil şebeke üzerinden internet erişimi</string>
   <string name="HIPS_Perm_MobileNetwork_Hint">%1$s uygulamanın internet erişim izni var</string>
@@ -188,7 +188,7 @@
   <string name="HIPS_SecurityPrompt_ROOT_Step6"> %1$s uygulamasına ROOT yetkisi verilsin mi?</string>
   <string name="HIPS_SecurityPrompt_Reject">Engelle(%d)</string>
   <string name="HIPS_SecurityPrompt_Remember">Seçimi Hatırla</string>
-  <string name="HIPS_SecurityPrompt_Title">%1$s deneniyor %2$s</string>
+  <string name="HIPS_SecurityPrompt_Title">%1$s için güvenlik uyarısı: %2$s</string>
   <string name="Privacy_AppPerm_Count">%1$d yetki</string>
   <string name="Privacy_AppPerm_Count_Trust">%1$d yetki - Güvenli</string>
   <string name="Privacy_App_Finish">Bitti</string>

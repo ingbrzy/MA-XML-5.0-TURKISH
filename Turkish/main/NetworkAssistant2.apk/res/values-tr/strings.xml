@@ -196,16 +196,17 @@ Kullanılan"</string>
   <string name="traffic_saving_button_stop">Durdur</string>
   <string name="traffic_saving_history_title">Veri tasarruf geçmişi</string>
   <string name="traffic_saving_history_total_money">Parasal miktar</string>
-  <string name="traffic_saving_history_total_money_unit">€</string>
+  <string name="traffic_saving_history_total_money_unit"/>
   <string name="traffic_saving_history_total_traffic">Toplam</string>
   <string name="traffic_saving_msg_month">Aylık %1$s | Bugün: %2$s</string>
-  <string name="traffic_saving_msg_today">Bugün </string>
+  <string name="traffic_saving_msg_today">Bugün :</string>
   <string name="traffic_saving_notify_start_content">Aylık : %s</string>
-  <string name="traffic_saving_notify_start_title">Transfer tasarrufu</string>
+  <string name="traffic_saving_notify_start_title">Veri kullanımınızı azaltın.</string>
   <string name="traffic_saving_tecsupport"/>
   <string name="traffic_saving_title">Veri tasarrufu</string>
   <string name="traffic_saving_toast_start_mobile">Veri tasarrufunu aç</string>
-  <string name="traffic_saving_toast_start_none_mobile">Veri tasarrufu, mobil veri kullanımı ile beraber başlar.</string>
+  <string name="traffic_saving_toast_start_none_mobile">Veri tasarrufu, mobil veri kullanımı ile beraber başlayacaktır.</string>
   <string name="traffic_saving_toast_start_unreachable">Hata!</string>
   <string name="traffic_saving_toast_stop">Veri tasarrufu devre dışı</string>
+  <string name="traffic_saving_button_sorted_chose_simcard">Seç</string>
 </resources>

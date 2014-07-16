@@ -189,11 +189,11 @@
   <string name="card_title_conditionalCF">Call Forward Conditional is enabled</string>
   <string name="card_title_conf_call">Konferans çağrısı</string>
   <string name="card_title_deflectedcall">Reddedilmiş çağrılar</string>
-  <string name="card_title_dialing">Numara Aranıyor..</string>
+  <string name="card_title_dialing">Numara Aranıyor...</string>
   <string name="card_title_forwardcheckreceived">Alınan çağrıları kontrol et</string>
   <string name="card_title_forwarded_MTcall">Yönlendirilmiş gelen çağrılar</string>
   <string name="card_title_forwarded_incoming_call_miui">Gelen çağrıyı yönlendir</string>
-  <string name="card_title_hanging_up">Çağrı Kapatılıyor..</string>
+  <string name="card_title_hanging_up">Telefon Kapatılıyor...</string>
   <string name="card_title_in_call">Çağrı içinde</string>
   <string name="card_title_in_progress">Geçerli çağrı</string>
   <string name="card_title_incoming_barred">Gelen çağrılar engellendi</string>
@@ -1060,7 +1060,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="voicemail_notification_vibarte_when_dialog_title">Titreşim</string>
   <string name="voicemail_notification_vibrate_when_default">Asla</string>
   <string name="voicemail_notification_vibrate_when_title">Titreşim</string>
-  <string name="voicemail_number_not_set">&lt;ayarlanmadı&gt;</string>
+  <string name="voicemail_number_not_set">ayarlanmadı</string>
   <string name="voicemail_provider">Sesli mesaj servisi</string>
   <string name="voicemail_provider_miui">Sesli mesaj servisi</string>
   <string name="voicemail_provider_sum_miui">Sesli mesaj servisini seç</string>

@@ -529,5 +529,7 @@ tek bir yerde görünür.</string>
   <string name="ubifocus_refocus_data_missing">Veri eksikliği nedeniyle yönlendirilemez</string>
   <string name="ubifocus_refocus_download_tip">Yönlendirmeden önce lütfen verileri indirin</string>
   <string name="ubifocus_refocus_map_error">Veri hatası nedeniyle yönlendirilemez</string>
+  <string name="priority_storage">SD Karta kaydet</string>
+  <string name="priority_storage_summary">Dosyaları otomatik olarak SD karta kaydedebilirsiniz.</string>
     
 </resources>

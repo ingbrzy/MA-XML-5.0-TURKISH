@@ -258,4 +258,8 @@
   <string name="cta_notice_ok">Tamam</string>
   <string name="cta_notice_title">Açıklama:</string>
   <string name="cta_notify_settings">Kişilere erişirken hatırlat</string>
+  <string name="alarm_label">Tamam</string>
+  <string name="button_week">H</string>
+  <string name="text_year">Yıl</string>
+  <string name="week_view_today_toast">Geçerli hafta</string>
 </resources>

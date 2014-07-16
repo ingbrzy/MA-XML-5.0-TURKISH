@@ -383,4 +383,6 @@ güncellemek istiyor musunuz?</string>
   <string name="info_title">Bilgi</string>
   <string name="post_playcount">" defa"</string>
   <string name="prex_playcount">Oynatılma:</string>
+  <string name="priority_storage">SD Karta kaydet</string>
+  <string name="priority_storage_summary">Dosyaları otomatik olarak SD karta kaydedebilirsiniz.</string>
 </resources>
