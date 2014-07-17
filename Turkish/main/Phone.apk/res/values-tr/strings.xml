@@ -1088,4 +1088,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G Öncelikli şebeke</string>
+  <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
+  <string name="ivr_menu_list_title">Anketler menüsü</string>
+  <string name="non_ivr_menu_collapse_menu">Daralt</string>
+  <string name="non_ivr_menu_view_menu">Göster</string>
 </resources>

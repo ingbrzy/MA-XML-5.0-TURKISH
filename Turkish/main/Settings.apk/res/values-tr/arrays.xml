@@ -520,4 +520,8 @@
         <item>Show areas for Deuteranomaly</item>
         <item>Show overdraw counter</item>
     </string-array>
+	<string-array name="priority_storage_entries">
+		<item>Dahili depolama</item>
+		<item>Harici depolama</item>
+	</string-array>
 </resources>

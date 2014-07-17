@@ -621,14 +621,17 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
   <string name="miui_quicksearch_enable_pref_title">Bildirim alanında arama çubuğu</string>
   <string name="miui_quicksearch_enable_pref_summary">Bildirim alanında tarayıcının arama çubuğunu gösterir.</string>
   <string name="miui_search_notification_title">Ara</string>
-  <string name="miui_search_notification_message">Arama çubuğu için dokunun.</string>
+  <string name="miui_search_notification_message">Arama çubuğunu açmak için dokunun.</string>
   <string name="account_prifix">Hesap:</string>
  <string name="adblock_notification">%d reklam engellendi.</string>
  <string name="miui_autologin_bar_error">Oturum açmak mümkün değil!</string>
  <string name="miui_autologin_bar_title">Sistem hesabı ile oturum açma</string>
- <string name="pref_adblock_counts">Toplam %d reklam engellendi.</string>
+ <string name="pref_adblock_counts">Engellenen reklam: %d</string>
  <string name="pref_adblock_title">Reklamları engelle</string>
  <string name="pref_clear_adblock_statistics">Reklam engelleme istatistiklerini temizle</string>
  <string name="pref_clear_adblock_statistics_dlg">Reklam engelleme istatistiklerini temizlemek istiyor musunuz?</string>
  <string name="pref_enable_adblock_notification">İpuçları</string>
+ <string name="close_cloud_tab_tip">%s sekmesini kapatmak istiyor musunuz?</string>
+ <string name="cloud_sync_closed_toast">Cloud senkronize devre dışı</string>
+ <string name="cloud_sync_failed_toast">Güncelleme başarısız!</string>
 </resources>

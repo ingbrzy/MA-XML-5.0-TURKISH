@@ -756,5 +756,6 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="outbox_alert_button_resend">Tekrar gönder</string>
   <string name="outbox_alert_mailbox_not_found">E-posta adresi bulunamadı!</string>
   <string name="contact_select">Kişiyi seç</string>
+  <string name="account_setup_options_mail_check_frequency_imap_push">Otomatik (sunucu destekliyorsa)</string>
 </resources>
 	

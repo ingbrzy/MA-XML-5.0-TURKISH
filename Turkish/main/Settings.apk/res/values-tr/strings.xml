@@ -3357,4 +3357,8 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="accessibility_service_no_apps_confirm">Tamam</string>
   <string name="accessibility_service_no_apps_prompt">TalkBack, görme engelli veya az gören kullanıcılara yardımcı olmak için sesli geri bildirim sağlar. Bu uygulamayı Google Play\'den ücretsiz olarak yükleyebilirsiniz.</string>
   <string name="bluetooth_preference_connected_devices">Bağlı cihazlar</string>
+  <string name="priority_storage_app_settings">Kullanıcı verileri %1$s saklanacaktır. </string>
+  <string name="priority_storage_settings_summary">SD kart kullanılmıyorsa, kullanıcı verileri otomatik olarak dahili depolama alanına kaydedilir</string>
+  <string name="priority_storage_summary">Kullanıcı verileri için varsayılan depolamayı seçin.</string>
+  <string name="priority_storage_title">Depolama Ayarları</string>
   </resources>
