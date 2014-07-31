@@ -126,7 +126,7 @@ Silmek için uzun basın.
 
 Araç çubuğunu açın,
 Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
-    <string name="task_title_prefix">"N Eylemi: "</string>
+    <string name="task_title_prefix">"Eylem %1$s: %2$s "</string>
     <string name="setting_feedback">Geri Bildirim</string>
     <string name="setting_speed_desc">Buton tıklama hızı</string>
     <string name="setting_speed_slow">Yavaş</string>
@@ -180,4 +180,17 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
     <string name="faq_stat_text">Sıralama her yeni gün başlangıcında sıfırlanır</string>
     <string name="faq_vsm_title">Uyarı!</string>
     <string name="faq_vsm_text">"Cihazınızın arka kapağını çıkarmadan önce Mikey'in bağlantısını kestiğinizden emin olun."</string>
+	<string name="toggle_wifi">Wi-Fi</string>
+ <string name="toggle_bluetooth">Bluetooth</string>
+ <string name="toggle_shake">Titreşim</string>
+ <string name="toggle_ring">Zil</string>
+ <string name="toggle_gps">GPS</string>
+ <string name="toggle_data">Mobil Veri</string>
+ <string name="toggle_sleep">Uyku modu</string>
+ <string name="toggle_bright">Parlaklık</string>
+ <string name="toggle_flight">Uçak modu</string>
+ <string name="toggle_nfc">NFC</string>
+ <string name="toast_open">Açık</string>
+ <string name="toast_close">Kapalı</string>
+ <string name="chooser_dust_cap">MiKey (Toz modu)</string> 
 </resources>
