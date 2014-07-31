@@ -21,7 +21,7 @@
   <string name="custom_mark_category">Özel</string>
   <string name="data_error">Üzgünüm, geçerli hizmet kullanılamaz, lütfen daha sonra tekrar deneyin</string>
   <string name="delete">Sil</string>
-  <string name="do_not_remind_me">"Hatırlatma"</string>
+  <string name="do_not_remind_me">"Tekrar sorma"</string>
    <string name="express_inqiury_select_logistics">Operatörü seç</string>
   <string name="express_inquiry">İzleme</string>
   <string name="express_inquiry_button_text">İzleme</string>
@@ -175,8 +175,10 @@ Total amount: RMB %3$s"</string>
   <string name="yellow_page_call_log_title">Arama kaydı</string>
   <string name="yellow_page_detail_title">Hakkında</string>
   <string name="yellow_page_website">Resmi websitesi</string>
-  <string name="turn_on_yellowpage_service_title">Use directory service</string>
-  <string name="notfiy_connect_title">Networking permission</string>
-  <string name="notices_and_terms">Legal notices and terms of use</string>
-  <string name="notify_connect_summary">Ask for networking permission every time</string>
+  <string name="turn_on_yellowpage_service_title">Dizin hizmeti kullan</string>
+  <string name="notfiy_connect_title">Ağ iletişim izni</string>
+  <string name="notices_and_terms">Yasal uyarılar ve kullanım şartları</string>
+  <string name="notify_connect_summary">Ağ iletişim izni için her zaman uyarı yapar.</string>
+  <string name="enable_now">Etkinleştir</string>
+  <string name="dont_enable">Etkinleştirme</string>
 </resources>

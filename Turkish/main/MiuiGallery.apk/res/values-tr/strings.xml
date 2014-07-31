@@ -214,7 +214,7 @@
   <string name="group_by_tags">Etikete göre</string>
   <string name="group_by_time">Süreye göre</string>
   <string name="height">Yükseklik</string>
-  <string name="highlight">Önemli</string>
+  <string name="highlight">Parlaklık</string>
   <string name="home_my_captured_items">Foto</string>
   <string name="how_many_pics">%d foto</string>
   <string name="how_many_sub_folders">%d klasör</string>
@@ -344,7 +344,7 @@
   <string name="retry_to_request_qr_code">Tekrar deneyin!</string>
   <string name="rotate">Döndür</string>
   <string name="rotate_tooltip">Döndürmek için fotoğrafı sürükleyin</string>
-  <string name="saturation">Saturation</string>
+  <string name="saturation">Doygunluk</string>
   <string name="save">Kaydet</string>
   <string name="save_error">"Kırpılan resim kaydedilemedi!"</string>
   <string name="save_photo">Düzenlenen foto kaydedilsin mi?</string>

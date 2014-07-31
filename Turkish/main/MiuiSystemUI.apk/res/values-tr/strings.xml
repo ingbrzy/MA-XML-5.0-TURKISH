@@ -161,7 +161,7 @@
   <string name="screen_rotation_freeze_message">Yatay modda kilit ekranını döndür</string>
   <string name="screenshot_failed_text">Ekran görüntüsü kaydedilemedi. Depolama birimi kullanımda olabilir.</string>
   <string name="screenshot_failed_title">Ekran görüntüsü alınamadı.</string>
-  <string name="screenshot_saved_text">Ekran görüntüsüne bakmak için dokunun.</string>
+  <string name="screenshot_saved_text">Ekran görüntüsüne gözatmak için dokunun.</string>
   <string name="screenshot_saved_title">Ekran görüntüsü alındı.</string>
   <string name="screenshot_saving_text">Ekran görüntüsü kaydediliyor.</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
@@ -221,7 +221,7 @@ EEEE"</string>
   <string name="status_bar_time_format_12">h:mma</string>
   <string name="status_bar_time_format_24">HH:mm</string>
   <string name="status_bar_toggle_ac">Erişim Kontrolü</string>
-  <string name="status_bar_toggle_auto_brightness">Otomatik Arka Işık</string>
+  <string name="status_bar_toggle_auto_brightness">Otomatik Parlaklık</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
   <string name="status_bar_toggle_brightness">Parlaklık</string>
   <string name="status_bar_toggle_data">Mobil Veri</string>

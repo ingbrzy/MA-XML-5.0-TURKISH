@@ -2623,7 +2623,7 @@ Bu işlem tüm kullanıcılara etki edecek."</string>
   <string name="trackball_settings">Trackball</string>
   <string name="trackball_wake_title">Trackball uyanma</string>
   <string name="transition_animation_scale_title">Geçiş animasyonu ölçeği</string>
-  <string name="trust_switch_dialog_msg">"MIUI gelecekte bu uygulama ile ilgil güvenlik bilgisi hatırlatmayacak. Uygulama güvenli mi?"</string>
+  <string name="trust_switch_dialog_msg">"MIUI gelecekte bu uygulama ile ilgili güvenlik uyarısı yapmayacak. Uygulama güvenli mi?"</string>
   <string name="trusted_credentials">Güvenilir kimlik bilgisi</string>
   <string name="trusted_credentials_disable_confirmation">Sistem CA sertifikası devre dışı bırakılsın mı?</string>
   <string name="trusted_credentials_disable_label">Devre dışı bırak</string>

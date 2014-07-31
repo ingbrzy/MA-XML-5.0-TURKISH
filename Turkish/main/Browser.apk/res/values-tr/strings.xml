@@ -636,4 +636,5 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
  <string name="cloud_sync_failed_toast">Güncelleme başarısız!</string>
 <string name="bookmarks_history">Yer imleri geçmişi</string>
 <string name="delete_homepage">Ana sayfayı sil</string>
+<string name="send_to_popular">Favori</string>
 </resources>
