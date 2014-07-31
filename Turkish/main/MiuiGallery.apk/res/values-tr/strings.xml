@@ -531,5 +531,9 @@ tek bir yerde görünür.</string>
   <string name="ubifocus_refocus_map_error">Veri hatası nedeniyle yönlendirilemez</string>
   <string name="priority_storage">SD Karta kaydet</string>
   <string name="priority_storage_summary">Dosyaları otomatik olarak SD karta kaydedebilirsiniz.</string>
-    
+  <string name="crop_recognize_text">Tanımla</string>
+ <string name="crop_save_text_setas">Kullan</string>
+ <string name="recognizing_image">Tanımlanıyor...</string>
 </resources>
+    
+

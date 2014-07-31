@@ -634,4 +634,6 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
  <string name="close_cloud_tab_tip">%s Cloud sekmesini kapatmak istiyor musunuz?</string>
  <string name="cloud_sync_closed_toast">Cloud senkronize devre dışı</string>
  <string name="cloud_sync_failed_toast">Güncelleme başarısız!</string>
+<string name="bookmarks_history">Yer imleri geçmişi</string>
+<string name="delete_homepage">Ana sayfayı sil</string>
 </resources>

@@ -260,4 +260,9 @@
     <string name="ad_block_hint">Engellenen reklam: %d</string>
     <string name="ad_single_block_hint">Reklam engelleme</string>
     <string name="ad_permission_hint">Reklam engelleme kullanımı, uygulama performansını veya işlevselliğini etkileyebilir.</string>
+ <string name="report">Rapor</string>
+ <string name="report_error">Raporlama için teşekkürler,  Wi-Fi ağına bağlandığınızda bilgiler otomatik olarak gönderilir.</string>
+ <string name="report_only">En azından bir mesaj seçiniz</string>
+ <string name="report_sms">Rapor mesajı</string>
+ <string name="report_success">Rapor başarıyla gönderildi.</string>
 </resources>

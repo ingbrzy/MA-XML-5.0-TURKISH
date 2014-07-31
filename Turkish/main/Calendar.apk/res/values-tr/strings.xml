@@ -262,4 +262,5 @@
   <string name="button_week">H</string>
   <string name="text_year">Yıl</string>
   <string name="week_view_today_toast">Geçerli hafta</string>
+  <string name="edit_event_confirm_message">Etkinlik değişiklikleri iptal edilsin mi?</string>
 </resources>
