@@ -134,7 +134,7 @@
   <string name="month_medium_december">Ara</string>
   <string name="month_view">Ay</string>
   <string name="monthly">Aylık</string>
-  <string name="monthly_on_day">Aylık (%s günüde)</string>
+  <string name="monthly_on_day">Aylık</string>
   <string name="monthly_on_day_count" formatted="false">Aylık (her %1$s %2$s)</string>
   <string name="more_string">%1$s daha...</string>
   <string name="new_event_dialog_label">Yeni etkinlik</string>

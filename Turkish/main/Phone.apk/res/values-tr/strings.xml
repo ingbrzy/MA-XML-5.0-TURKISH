@@ -1092,4 +1092,6 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ivr_menu_list_title">Anketler menüsü</string>
   <string name="non_ivr_menu_collapse_menu">Daralt</string>
   <string name="non_ivr_menu_view_menu">Göster</string>
+  <string name="ivr_menu_list_sub_menu_count_format">%s düğmesine basın</string>
+  <string name="fdn_contacts_empty_miui">Sabit numaralar listesinde kişi yok.</string>
 </resources>

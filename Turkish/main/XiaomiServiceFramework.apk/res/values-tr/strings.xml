@@ -340,4 +340,6 @@ Bunu çözmek için, ya eski dosyaları temizlemeyin, veya ek depolama alanı sa
   <string name="error_device_id">IMEI yüklenemiyor !</string>
   <string name="bank_cards">Ödeme kartı</string>
   <string name="micloud_upgrade_space">Daha fazla alan al</string>
+  <string name="error_login">Giriş yapılamıyor</string>
+  <string name="relogin_notice">Lütfen tekrar giriş yapın!</string>
 </resources>

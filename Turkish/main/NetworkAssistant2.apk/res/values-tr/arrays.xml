@@ -47,4 +47,9 @@
         <item>Bugünki\u0020</item>
         <item>Buayki\u0020</item>
     </string-array>
+	<string-array name="mi_service_traffic_type">
+		<item>"Mobil Veri "</item>
+		<item>"Wi-Fi "</item>
+	</string-array>
 </resources>
+

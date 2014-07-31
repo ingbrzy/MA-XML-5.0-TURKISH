@@ -463,4 +463,9 @@ Son deneme zamanı: %s."</string>
  <string name="send_hms_editor_hints">Cloud Mesajlaşma</string>
  <string name="view_hms_details">Detaylar</string>
  <string name="xiaomi_service_number">Servis numarası</string>
+ <string name="file_create_time">Oluşturulma tarihi:</string>
+ <string name="file_size">Boyut:</string>
+ <string name="file_title">İsim:</string>
+ <string name="file_width_height">Ölçüler:</string>
+ <string name="share_img">Paylaş</string>
 </resources>

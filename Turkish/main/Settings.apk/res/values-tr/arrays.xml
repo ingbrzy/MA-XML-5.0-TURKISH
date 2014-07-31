@@ -312,9 +312,8 @@
         <item>Hiçbir zaman</item>
     </string-array>
     <string-array name="power_dialog_cpu_state_items">
-        <item>Performans</item>
-        <item>Balans</item>
-        <item>Pil Tasarrufu</item>
+        <item>Performans Modu</item>
+        <item>Normaş Mod</item>
     </string-array>
     <string-array name="power_dialog_sleep_items">
         <item>15 saniye</item>
@@ -333,7 +332,6 @@
     <string-array name="power_mode_entries">
         <item>Performans modu</item>
         <item>Normal mod</item>
-        <item>Güç Tasarrufu Modu</item>
     </string-array>
     <string-array name="screen_color_title">
         <item>Sıcak Renkler</item>

@@ -3361,4 +3361,8 @@ the %1$s music player will appear on your computer automatically"</string>
   <string name="priority_storage_settings_summary">SD kart kullanılmıyorsa, kullanıcı verileri otomatik olarak dahili depolama alanına kaydedilir</string>
   <string name="priority_storage_summary">Kullanıcı verileri için varsayılan depolamayı seçin.</string>
   <string name="priority_storage_title">Depolama Ayarları</string>
+  <string name="high_performance_notif_summary">Batarya daha hızlı boşalacaktır.</string>
+ <string name="high_performance_notif_title">Performans Modu etkin.</string>
+ <string name="high_performance_title">Benchmark testlerinde en iyi sonuçlar için "Performans Modu" olarak ayarlayın.</string>
+ <string name="enable_mobile_data_when_opening_hotspot">Mobil Veriye izin vermek istiyor musunuz?</string>
   </resources>

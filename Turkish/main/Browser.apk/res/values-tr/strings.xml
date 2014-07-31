@@ -631,7 +631,7 @@ Bu sayfadan ayrılmak istiyor musunuz?"</string>
  <string name="pref_clear_adblock_statistics">Reklam engelleme istatistiklerini temizle</string>
  <string name="pref_clear_adblock_statistics_dlg">Reklam engelleme istatistiklerini temizlemek istiyor musunuz?</string>
  <string name="pref_enable_adblock_notification">İpuçları</string>
- <string name="close_cloud_tab_tip">%s sekmesini kapatmak istiyor musunuz?</string>
+ <string name="close_cloud_tab_tip">%s Cloud sekmesini kapatmak istiyor musunuz?</string>
  <string name="cloud_sync_closed_toast">Cloud senkronize devre dışı</string>
  <string name="cloud_sync_failed_toast">Güncelleme başarısız!</string>
 </resources>

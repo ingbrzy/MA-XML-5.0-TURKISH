@@ -198,7 +198,7 @@ Kullanılan"</string>
   <string name="traffic_saving_history_total_money">Parasal miktar</string>
   <string name="traffic_saving_history_total_money_unit"/>
   <string name="traffic_saving_history_total_traffic">Toplam</string>
-  <string name="traffic_saving_msg_month">Aylık %1$s | Bugün: %2$s</string>
+   <string name="traffic_saving_msg_month">Aylık Tasarruf</string>
   <string name="traffic_saving_msg_today">Bugün :</string>
   <string name="traffic_saving_notify_start_content">Aylık : %s</string>
   <string name="traffic_saving_notify_start_title">Veri kullanımınızı azaltın.</string>
@@ -209,4 +209,25 @@ Kullanılan"</string>
   <string name="traffic_saving_toast_start_unreachable">Hata!</string>
   <string name="traffic_saving_toast_stop">Veri tasarrufu devre dışı</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Seç</string>
-</resources>
+  <string name="traffic_saving_msg_not_started">Kapalı</string>
+ <string name="mi_service_app_detail">Tüketim detayları</string>
+ <string name="mi_service_framework">Mi Service Framework</string>
+ <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+ <string name="mi_service_traffic_detail">Framework detayları</string>
+ <string name="none_mi_service_app_detail">Boş</string>
+ <string name="pref_traffic_saving_whitelist">İstisnalar</string>
+ <string name="pref_traffic_saving_whitelist_hint">Bu uygulamalar için veri tasarrufu işlevi uygulanmaz.</string>
+ <string name="traffic_saving_history_total_month">Bu ayki tasarruf:</string>
+ <string name="traffic_saving_history_total_month_default">Ortalama aylık tasarrus</string>
+ <string name="traffic_saving_history_total_month_value">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%1$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%2$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Čítanie online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;%3$s&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Nové položky"</string>
+ <string name="traffic_saving_history_total_month_value_default">"Online hudba &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;18&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Online chat &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;10&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Čítanie online &lt;font color='#45c487'&gt;&lt;b&gt;&lt;big&gt;86&lt;/big&gt;&lt;/b&gt;&lt;/font&gt; Nové položky"</string>
+ <string name="traffic_saving_history_total_rate">Tasarruf</string>
+ <string name="traffic_saving_history_total_rate_unit">%</string>
+ <string name="traffic_saving_whitelist_btn_add">Ekle</string>
+ <string name="traffic_saving_whitelist_btn_add_app">Ekle</string>
+ <string name="traffic_saving_whitelist_btn_added">Eklendi</string>
+ <string name="traffic_saving_whitelist_btn_remove">Kaldır</string>
+ <string name="traffic_saving_whitelist_btn_removed">Uygulama kaldırıldı</string>
+ <string name="traffic_saving_whitelist_count">"%d uygulama için veri tasarrufu etkin değil"</string>
+ <string name="traffic_saving_whitelist_no_app">Uygulama yok</string>
+ </resources>
