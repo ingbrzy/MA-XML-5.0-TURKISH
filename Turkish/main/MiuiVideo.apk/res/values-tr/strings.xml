@@ -304,7 +304,7 @@
   <string name="temp_play_history_button_label">Oynatıcı geçmişi</string>
   <string name="to_be_play_label_v5">Oynatılıyor</string>
   <string name="toast_back_key_pressed_notice">Çıkmak için geri tuşuna basın.</string>
-  <string name="toast_message_continue_play_from">Burdan itibaren oynat</string>
+  <string name="toast_message_continue_play_from">Burdan itibaren oynat:</string>
   <string name="toast_message_continue_play_hour">Sa</string>
   <string name="toast_message_continue_play_minute">Dak</string>
   <string name="toast_message_continue_play_second_and_play">San</string>

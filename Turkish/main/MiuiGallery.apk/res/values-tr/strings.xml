@@ -525,7 +525,7 @@ tek bir yerde görünür.</string>
   <string name="confirm_delete_init_message">Görüntüler Cloud alanı ve cihazınızdan  silinir. Sadece cihazınızdan silmek için, klasör konumuna gidin.</string>
   <string name="confirm_delete_init_title">Not</string>
   <string name="bigscreen_slide_playing">Slayt gösterisi: %s</string>
-  <string name="skip_hide_special_album">Sistem albümleri (Kamera, Ekran görüntüleri) gizlenemezsin.</string>
+  <string name="skip_hide_special_album">Sistem albümleri (Kamera, Ekran görüntüleri) gizlenmesin.</string>
   <string name="ubifocus_refocus_data_missing">Veri eksikliği nedeniyle yönlendirilemez</string>
   <string name="ubifocus_refocus_download_tip">Yönlendirmeden önce lütfen verileri indirin</string>
   <string name="ubifocus_refocus_map_error">Veri hatası nedeniyle yönlendirilemez</string>
