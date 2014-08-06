@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<plurals name="AD_COUNT">
+	<item quantity="other">Reklam: %d</item>
+	<item quantity="one">Reklam: 1</item>
+ </plurals>
+ <plurals name="AD_TITLE_COUNT">
+	<item quantity="other">Reklam içeren uygulama: %d</item>
+	<item quantity="one">Reklam içeren uygulama: 1</item>
+ </plurals>
+</resources>
