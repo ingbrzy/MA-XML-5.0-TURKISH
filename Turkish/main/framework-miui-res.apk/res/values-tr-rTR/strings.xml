@@ -300,5 +300,5 @@ Daha sonra tekrar hatırlat (%s)!</string>
   <string name="sync_data_loading">Sunucudan bilgi alınıyor...</string>
   <string name="sync_data_merge_warning_title">Veri Birleştirme Uyarısı!!!</string>
   <string name="softap_notifif_summary">Bağlandı: %d</string>
-+ <string name="softap_notifif_title">İnternet paylaşımı \"%s\" etkin.</string>
+  <string name="softap_notifif_title">İnternet paylaşımı \"%s\" etkin.</string>
 </resources>
