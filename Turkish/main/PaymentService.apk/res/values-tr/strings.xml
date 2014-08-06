@@ -392,4 +392,6 @@ We will check again within two working days."</string>
   <string name="voucher_edit_limit">digits</string>
   <string name="voucher_error_password_empty">Code empty.</string>
   <string name="voucher_input_password_prompt">Enter code</string>
+  <string name="giftcard_title">MiKredi Kuponu</string>
+  <string name="giftcard_define_detail">Xiaomi yarışmalarında kazandığınız MiKredi kupolarını kullanın.</string>
 </resources>

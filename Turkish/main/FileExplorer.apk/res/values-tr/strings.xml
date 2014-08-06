@@ -343,4 +343,5 @@ Boş alanınız %1$s"</string>
   <string name="never_notify_network_connect">"Tekrar gösterme"</string>
   <string name="operation_agree">Tamam</string>
   <string name="system_alert">Açıklama :</string>
+  <string name="folder_name_illegal">Klasör adı hatalı!</string>
   </resources>

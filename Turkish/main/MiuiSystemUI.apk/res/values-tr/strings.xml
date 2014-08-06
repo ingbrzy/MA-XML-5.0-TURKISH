@@ -189,7 +189,7 @@
   <string name="settings_toggle_position_divider_page">%1$d Bar üzerine yerleştirilen geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="share">Paylaş</string>
-  <string name="status_bar_date_format">"dd MMMM yyyy
+  <string name="status_bar_date_format">"d MMMM yyyy
 EEEE"</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarlayın</string>
@@ -291,9 +291,9 @@ EEEE"</string>
   <string name="usb_storage_stop_notification_title">USB depolamayı kapat</string>
   <string name="usb_storage_stop_title">USB depolama kullanımda</string>
   <string name="usb_storage_title">USB bağlandı</string>
-  <string name="user_guide_for_notification">Yeni bir bildirim alındı, ayrıntılı kontrol için durum çubuğunu aşağı sürükleyebilirsiniz</string>
+  <string name="user_guide_for_notification">Yeni bir bildirim alındı, ayrıntılı kontrol için durum çubuğunu aşağı doğru sürükleyin</string>
   <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
-  <string name="user_guide_for_toggle_list">Tıkla ve geçiş listesini özelleştir</string>
+  <string name="user_guide_for_toggle_list">Geçiş listesini özelleştirmek için tıklayın</string>
   <string name="settings_advanced">Gelişmiş Ayarlar</string>
   <string name="settings_basic_settings">Ayarlar</string>
   <string name="settings_custom_carrier">Operatör adını değiştir</string>

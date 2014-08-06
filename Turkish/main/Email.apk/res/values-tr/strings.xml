@@ -760,5 +760,15 @@ E-postaları senkronize etmek için; senkronize ayarlarını değiştirin.</stri
   <string name="outbox_alert_description_auth_error">Giden posta sunucusu açılamadı!</string>
 <string name="outbox_alert_description_http_error">HTTP sunucusu hatası!</string>
 <string name="outbox_alert_description_provision_error">Sunucu hatası!</string>
+<string name="conversation_list_net_check">Ağa bağlanamıyor. İnternet bağlantı ayarlarını kontrol edin ve tekrar deneyin!</string>
+ <string name="mail_body_turncated">Bu rapor, çok büyük ve sadece bir bölümü gösterilmiştir. PC\'nizde bunu kontrol edin.</string>
+ <string name="no_wifi_promot">Servis sağlayıcınız üzerinden Mobil Veri kullanılacak, lütfen dikkatli olun!</string>
+ <string name="ser_resp_err_map_certificate_validator_err">"Sertifika doğrulama başarısız
+\u0009 (Otomatik senkronize ayarını kontrol edin")"</string>
+ <string name="ser_resp_err_map_connect_err">İnternet bağlantısı hatası!</string>
+ <string name="ser_resp_err_map_nouser">Kullanıcı yok</string>
+ <string name="ser_resp_err_map_or">Ya da</string>
+ <string name="ser_resp_err_map_pserr">Yanlış Kulanıcı Adı / Şifre</string>
+ <string name="ser_resp_err_map_serclosed">Servis sonlandırıldı</string>
+ <string name="ser_resp_err_map_ssl">" 'Güvenlik ayarlarından' SSL / TLS (Tüm sertifikaları kabul et) seçmeyi deneyin"</string>
 </resources>
-	

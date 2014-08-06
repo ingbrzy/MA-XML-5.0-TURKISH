@@ -94,7 +94,7 @@
   <string name="lantern_festival" />
   <string name="light_snow" />
   <string name="loading">Yükleniyor...</string>
-  <string name="lock_screen_date">d. MMMM EEEE</string>
+  <string name="lock_screen_date">d MMMM EEEE</string>
   <string name="lockscreen_access_pattern_cell_added">Hücre eklendi</string>
   <string name="lockscreen_access_pattern_cleared">Desen temizlendi</string>
   <string name="lockscreen_access_pattern_detected">Desen tamamlandı</string>
@@ -208,7 +208,7 @@
   <string name="select_all">Tümünü seç</string>
   <string name="send">Gönder</string>
   <string name="send_sms_for_sync_notice">Sistem aktivasyon mesajı(SMS) gönderecek, devam etmek istiyor musunuz?</string>
-  <string name="send_sms_for_sync_title">Senkronizasyonu etkinleştirmek için SMS gönderin</string>
+  <string name="send_sms_for_sync_title">Senkronize hizmeti etkin değil.</string>
   <string name="share">Paylaş</string>
   <string name="short_pincode_error_msg">Lütfen 4-8 haneli PIN kodunu girin</string>
   <string name="short_pukcode_error_msg">Lütfen 8 haneli PUK kodunu girin</string>
@@ -284,9 +284,9 @@ Daha sonra tekrar hatırlat (%s)!</string>
   <string name="winter_solstice" />
   <string name="yesterday">Dün</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="sync_data_merge_warning_desc">Telefonunuzdaki veriler (%s),  Cloud alanınızdaki kurtarılamayan verilerle birleştirilecek, lütfen dikkatli olun!!!</string>
+  <string name="sync_data_merge_warning_desc">Telefonunuzdaki yerel veriler (Örneğin; %s),  Cloud alanınıza senkronize edilmiş veriler ile birleştirilecek, lütfen dikkatli olun!!!</string>
   <string name="sync_data_recover_warning_title">Geri yükleme Uyarısı!!!</string>
-  <string name="sync_data_recover_warning_desc">Telefonunuzdaki veriler (%s), Cloud alanınızdan geri yüklenecek, lütfen dikkatli olun!!!</string>
+  <string name="sync_data_recover_warning_desc">Telefonunuzdaki veriler (Örneğin; %s), Cloud alanınızdan geri yüklenecek, lütfen dikkatli olun!!!</string>
   <string name="sync_data_merge_warning_ok">Birleştir</string>
   <string name="sync_data_merge_warning_cancel">İptal</string>
   <string name="sync_data_recover_warning_ok">Tamam</string>
@@ -299,4 +299,6 @@ Daha sonra tekrar hatırlat (%s)!</string>
   <string name="sync_data_msg_seperate">, </string>
   <string name="sync_data_loading">Sunucudan bilgi alınıyor...</string>
   <string name="sync_data_merge_warning_title">Veri Birleştirme Uyarısı!!!</string>
+  <string name="softap_notifif_summary">Bağlandı: %d</string>
++ <string name="softap_notifif_title">İnternet paylaşımı \"%s\" etkin.</string>
 </resources>

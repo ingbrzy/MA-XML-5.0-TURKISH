@@ -183,7 +183,7 @@
     <string name="badPuk">Yazdığınız PUK kodu doğru değil.</string>
     <string name="mismatchPin">Girdiğiniz PIN kodları eşleşmiyor</string>
     <string name="invalidPin">4 ila 8 rakamdan oluşan bir PIN kodu girin.</string>
-    <string name="invalidPuk">8 veya daha fazla basamaklı PUK kodunuzu girin.</string>
+    <string name="invalidPuk">8 veya daha fazla haneli PUK kodunuzu girin.</string>
     <string name="needPuk">SIM kartınızın PUK kilidi devrede. Kilidi açmak için PUK kodunu girin.</string>
     <string name="needPuk2">Engellenen SIM kartı açmak için PUK2 kodunu girin.</string>
     <string name="imei">IMEI</string>
@@ -260,10 +260,10 @@
     <string name="httpErrorFileNotFound">İstenen dosya bulunamadı.</string>
     <string name="httpErrorTooManyRequests">Çok fazla sayıda istek işleniyor. Daha sonra yeniden deneyin.</string>
     <string name="notification_title">%1$s hesabı için oturum açma hatası</string>
-    <string name="contentServiceSync">Senk.</string>
-    <string name="contentServiceSyncNotificationTitle">Senk.</string>
+    <string name="contentServiceSync">Senkronize</string>
+    <string name="contentServiceSyncNotificationTitle">Senkronize</string>
     <string name="contentServiceTooManyDeletesNotificationDesc">Çok fazla %s silme var.</string>
-    <string name="low_memory">Telefonun depolama alanı doldu! Yer açmak için bazı dosyaları silin.</string>
+    <string name="low_memory">Telefonunuzun depolama alanı doldu! Yer açmak için bazı dosyaları silin!!!</string>
     <string name="me">Ben</string>
     <string name="power_dialog">Telefon seçenekleri</string>
     <string name="silent_mode">Sessiz mod</string>

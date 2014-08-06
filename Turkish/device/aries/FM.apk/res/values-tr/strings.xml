@@ -161,4 +161,5 @@
   <string name="turn_off_speaker_phone">Hoparlörü Kapat</string>
   <string name="view_stations_list">Istasyon listesini görüntüle</string>
   <string name="type_rd"/>
+  <string name="toast_fm_scaning">Aranıyor...</string>
 </resources>

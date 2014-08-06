@@ -230,4 +230,5 @@ Kullanılan"</string>
  <string name="traffic_saving_whitelist_btn_removed">Uygulama kaldırıldı</string>
  <string name="traffic_saving_whitelist_count">"%d uygulama için veri tasarrufu etkin değil"</string>
  <string name="traffic_saving_whitelist_no_app">Uygulama yok</string>
+  <string name="checkout_traffic_saving_history">Geçmişi görüntüle</string>
  </resources>
