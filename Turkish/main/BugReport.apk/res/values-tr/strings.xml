@@ -7,7 +7,7 @@
     <string name="menu_attach_screenshot">Ekran görüntüsü ekle</string>
     <string name="menu_discard">Taslağı sil</string>
     <string name="description">Tanımlama (gerekli)</string>
-    <string name="suggestion_description">"Ben X özelliğini eklemenizi umuyorum, çünkü..."</string>
+    <string name="suggestion_description">"Açıklamanızı yazın..."</string>
     <string name="nonsystemapp_description">Sorunu açıklayın</string>
     <string name="btn_send">Gönder</string>
     <string name="err_type">Hata türü</string>
