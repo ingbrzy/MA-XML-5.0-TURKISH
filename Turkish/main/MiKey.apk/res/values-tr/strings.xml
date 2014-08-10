@@ -41,7 +41,7 @@
     <string name="short_click_10">10 defa</string>
     <string name="long_click">Uzun basma</string>
     <string name="action_open_flashlight">Flaş</string>
-    <string name="action_open_other_app">Uygulaa</string>
+    <string name="action_open_other_app">Uygulama</string>
     <string name="action_open_mi_route">Cihaz listesi</string>
     <string name="action_open_camera">Kamera</string>
     <string name="action_open_camera2">Galeri</string>
@@ -192,5 +192,7 @@ Kullanmak için ekranın üzerinden aşağı doğru kaydırın."</string>
  <string name="toggle_nfc">NFC</string>
  <string name="toast_open">Açık</string>
  <string name="toast_close">Kapalı</string>
- <string name="chooser_dust_cap">MiKey (Toz modu)</string> 
+ <string name="chooser_dust_cap">MiKey (Toz modu)</string>
+<string name="action_kuaidi">Hızlı taxi</string>
+<string name="hint_long_press_del">Kaldırmak için basılı tutun</string>
 </resources>
