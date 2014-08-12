@@ -44,7 +44,7 @@
     <string name="action_open_other_app">Uygulama</string>
     <string name="action_open_mi_route">Cihaz listesi</string>
     <string name="action_open_camera">Kamera</string>
-    <string name="action_open_camera2">Galeri</string>
+    <string name="action_open_camera2">Fotoğraf çek</string>
     <string name="action_screen_shot">Ekran görüntüsü</string>
     <string name="action_clear_sms_inbox">Mesajları sil</string>
     <string name="action_clear_call_list">Çağrı günlüklerini sil</string>
