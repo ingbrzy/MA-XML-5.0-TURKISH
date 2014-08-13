@@ -3365,4 +3365,11 @@ the %1$s music player will appear on your computer automatically"</string>
  <string name="high_performance_notif_title">Performans Modu etkin.</string>
  <string name="high_performance_title">Benchmark testlerinde en iyi sonuçlar için "Performans Modu" olarak ayarlayın.</string>
  <string name="enable_mobile_data_when_opening_hotspot">Mobil Veriye izin vermek istiyor musunuz?</string>
+ <string name="cache_data_sort_type_item_name">Ad</string>
+ <string name="cache_data_sort_type_item_size">Boyut</string>
+ <string name="deepclean_cache_header_left">Önbellek dosyaları: %d</string>
+ <string name="deepclean_sort_type_title">Sırala</string>
+ <string name="empty_content_size">Boş</string>
+ <string name="large_file_sort_type_item_name">Ad</string>
+ <string name="large_file_sort_type_item_size">Boyut</string>
   </resources>

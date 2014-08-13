@@ -125,5 +125,8 @@
  <string name="xunlei_member_annual_fee">Xunlei member for one year(platinum)</string>
  <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
  <string name="xunlei_speed_service">Xunlei indirme</string>
+ <string name="add_flow_fail_haveget_msg">Yüksek hızlı kanalı zaten bu ay aldınız.</string>
+ <string name="add_flow_fail_vip_msg">Yüksek hızlı kanal açıldı</string>
+ <string name="add_flow_success_msg">300MB Yüksek hızlı akış başarıyla alındı.</string>
 </resources>
 
