@@ -163,7 +163,7 @@
   <string name="task_failed_all_local">Görev Başarısız</string>
   <string name="task_failed_local">%s Görevi başarısız</string>
   <string name="task_finished">Bitti</string>
-  <string name="task_local_backup_cancel_dialog">Görev enüz tamamlanmamış, iptal etmek için tamama tıklayın</string>
+  <string name="task_local_backup_cancel_dialog">Görev henüz tamamlanmamış, iptal etmek için tamama tıklayın</string>
   <string name="task_pending">Bekleniyor</string>
   <string name="task_post_running">Ön hazırlama</string>
   <string name="task_pre_running">Hazırlanıyor</string>
