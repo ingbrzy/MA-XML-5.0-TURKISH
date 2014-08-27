@@ -74,7 +74,7 @@
   <string name="resource_comment_3_star">3 Yıldız</string>
   <string name="resource_comment_4_star">4 Yıldız</string>
   <string name="resource_comment_5_star">5 Yıldız</string>
-  <string name="resource_comment_account_need_activitied">Hesabınız şimdi etkinleştirmek istiyor musunuz?</string>
+  <string name="resource_comment_account_need_activitied">Hesabınızı şimdi etkinleştirmek istiyor musunuz?</string>
   <string name="resource_comment_all_comments">Tüm yorumlar</string>
   <string name="resource_comment_average_score">Ortalama</string>
   <string name="resource_comment_bad_comments">Olumsuz</string>
@@ -254,7 +254,7 @@
   <string name="theme_import_oper_complete">Tamamlandı</string>
   <string name="theme_import_oper_start">Tümünü güncelle</string>
   <string name="theme_import_oper_stop">İptal</string>
-  <string name="theme_import_oper_stop_request_content">Temaları kullanabilmeniz için güncellenmesi gerekir. Güncelleme işlemi iptal etmek istiyor musunuz?</string>
+  <string name="theme_import_oper_stop_request_content">Temaları kullanabilmeniz için güncellenmesi gerekir. Güncelleme işlemini iptal etmek istiyor musunuz?</string>
   <string name="theme_import_preparing">Hazırlanıyor..</string>
   <string name="theme_import_stoping">Durduruluyor...</string>
   <string name="theme_importing">Tema içe aktarılıyor...</string>
