@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="add_account_desc">Notları Xiaomi hesabınız ile senkronize etmek istiyor musunzu?</string>
   <string name="alert_action_edit_anyway">Düzenlemeye devam et</string>
@@ -63,9 +63,9 @@
   <string name="menu_font_super">Çok Büyük</string>
   <string name="menu_move">Klasöre taşı</string>
   <string name="menu_move_parent_folder">Alt klasör</string>
+  <string name="menu_search">Ara</string>
   <string name="menu_select_all">Hepsini seç</string>
   <string name="menu_select_none">Hiçbir şey seçilmedi, eylem hatalı!</string>
-  <string name="menu_search">Ara</string>
   <string name="menu_send_to_desktop">Ana ekrana gönder</string>
   <string name="menu_setting">Ayarlar</string>
   <string name="menu_share">Paylaş</string>
@@ -108,8 +108,8 @@
   <string name="search_hint">Notlarda ara</string>
   <string name="search_label">Notlarda arama</string>
   <string name="search_setting_description">Notlardaki yazılar</string>
-  <string name="snippet_image_stub">[Image]</string>
   <string name="set_remind_time_message">Hatırlatıcı ekle</string>
+  <string name="snippet_image_stub">[Image]</string>
   <string name="success_sdcard_export">Aktarım başarılı</string>
   <string name="success_sync_account">%1$s hesabıyla eşitleme tamamlandı</string>
   <string name="sync_progress_init_list">Not listesi alınıyor..</string>
@@ -120,10 +120,10 @@
   <string name="ticker_success">Eşitleme tamamlandı</string>
   <string name="ticker_syncing">Notlar eşitleniyor...</string>
   <string name="time_picker_dialog_title">Hatırlatma zamanı ayarla</string>
-  <string name="toast_message_add_image_fail">Resim eklenemedi!</string>
-  <string name="toast_note_privacy_mode">Korumalı modda notlar düzenlenemez</string>
   <string name="toast_folder_privacy_mode">Korumalı modda klasörler düzenlenemez</string>
+  <string name="toast_message_add_image_fail">Resim eklenemedi!</string>
   <string name="toast_message_replace_image_fail">Görüntü değişimi başarısız!</string>
+  <string name="toast_note_privacy_mode">Korumalı modda notlar düzenlenemez</string>
   <string name="toast_reach_text_limit_attachment">Notun içeriği yeni ek eklemek için çok uzun.</string>
   <string name="toast_reach_text_limit_truncate">"Notun içeriği kesildi çünkü çok uzun."</string>
   <string name="widget_havenot_content">Herhangi bir not yok, oluşturmak için tıklayın.</string>

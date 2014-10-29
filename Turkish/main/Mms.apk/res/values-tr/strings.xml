@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="activity_not_found">Ekteki dosyayı açmak için uygun bir program bulunamadı</string>
   <string name="activity_not_found_uri">Uygun program bulunamadı</string>
+  <string name="addBlackList">Kara listeye ekle</string>
   <string name="add_attachment">Ekle</string>
   <string name="add_contact">Kişi Ekle</string>
   <string name="add_festival">Önerilenler</string>
@@ -18,12 +19,14 @@
   <string name="add_subject">Kişi ekle</string>
   <string name="add_timing">Zamanlama</string>
   <string name="add_video">Video ekle</string>
-  <string name="addBlackList">Kara listeye ekle</string>
   <string name="adding_attachments">Öğeler slayt gösterisine eklenirken bekleyin.</string>
   <string name="adding_attachments_title">Ekler ekleniyor...</string>
   <string name="adding_recipients">Alıcılar ekleniyor...</string>
+  <string name="alert_dlg_cancel_button">İptal</string>
+  <string name="alert_dlg_ok_button">TAMAM</string>
   <string name="all_threads">Tüm mesaj dizileri</string>
   <string name="app_label">Mesajlar</string>
+  <string name="app_name">Cihaz yönetimi</string>
   <string name="attach_image">Resimler</string>
   <string name="attach_record_sound">Ses kaydet</string>
   <string name="attach_record_video">Video çek</string>
@@ -65,6 +68,9 @@
   <string name="confirm_delete_message">Mesaj silinecek.</string>
   <string name="confirm_dialog_locked_title">Favori mesajları silme istiyor musunuz ?</string>
   <string name="confirm_dialog_title">Sil</string>
+  <string name="confirm_dlg__msg">CMCC bildirimi: Eğer servisi iptal ederseniz CMCC ücretsiz yazılan hizmeti verilmeyecektir.
+İptal etmek istiyor musunuz?</string>
+  <string name="confirm_dlg_title">Cihaz yönetimi</string>
   <string name="confirm_export_dialog_description">Seçilen özel kişiyi silmek istiyormusunuz</string>
   <string name="confirm_export_dialog_title">Özel kişiyi kaldır</string>
   <string name="confirm_no_block_positive">"Engelleme ve kurtarma yapma"</string>
@@ -74,10 +80,11 @@
   <string name="confirm_restore_positive">Kurtar</string>
   <string name="confirm_restore_title">Seçilen tüm mesajlar kurtarılsın mı?</string>
   <string name="confirm_send_mms">Alıcıların biri bir e-posta adresi içeriyor. Bu rapor MMS olarak gönderilecektir.</string>
-  <string name="context_menu_call">Çağrı</string>
+  <string name="context_menu_add_calendar">Takvime ekle</string>
   <string name="context_menu_add_contact">Kişilere ekle</string>
   <string name="context_menu_add_to_browser_favorite">Tarayıcı favorilerine ekle</string>
   <string name="context_menu_browse_web">Tarayıcı</string>
+  <string name="context_menu_call">Çağrı</string>
   <string name="context_menu_contact">Kişi: %1$s</string>
   <string name="context_menu_copy">Kopyala</string>
   <string name="context_menu_copy_notice">Metin panoya kopyalandı</string>
@@ -142,7 +149,11 @@
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="fetion_prefix">[Aç]</string>
+  <string name="file_create_time">Oluşturulma tarihi:</string>
   <string name="file_share_message_description">Dosyaları paylaş</string>
+  <string name="file_size">Boyut:</string>
+  <string name="file_title">İsim:</string>
+  <string name="file_width_height">Ölçüler:</string>
   <string name="flatshow_page_no">Sayfa %1$d</string>
   <string name="forward_from">Burdan yönlendir:</string>
   <string name="forward_prefix">"ILT: "</string>
@@ -159,6 +170,7 @@
   <string name="has_invalid_recipient">Geçersiz alıcılar: &lt;%1$s&gt;</string>
   <string name="hidden_sender_address">Gizli gönderen adresi</string>
   <string name="hint_search_sms">%d sms</string>
+  <string name="hms_first_use_tips">Mesajlaşma hizmetleri için, bir Wi-Fi ağına bağlı olmanız gerekir.</string>
   <string name="importing_progress_private_message">Mesajlar özel mesaj kutunuza aktarılıyor</string>
   <string name="in_sms">Mesaj</string>
   <string name="insufficient_drm_rights">Yetersiz DRM hakları tespit edildi.</string>
@@ -168,9 +180,10 @@
   <string name="invalid_recipient_message">Alıcıları düzeltin, aksi takdirde mesajı almayacaklar.</string>
   <string name="kilobyte">KB</string>
   <string name="layout_selector_title">"Slayt gösterisi düzeni "</string>
-  <string name="loading_mms">MMS mesajları yükleniyor…</string>
   <string name="loading_all_messages">Tüm mesajlar yükleniyor...</string>
   <string name="loading_conversations">Görüşmeler yükleniyor...</string>
+  <string name="loading_mms">MMS mesajları yükleniyor…</string>
+  <string name="manage_permission_app_label">Cihaz Yönetimi İzni</string>
   <string name="me">Ben</string>
   <string name="menu_compose_new">Oluştur</string>
   <string name="menu_delete_messages">İletileri sil</string>
@@ -235,11 +248,11 @@
   <string name="no_subject_view">(Konu yok)</string>
   <string name="non_english_subject_limit">İngilizce olmayan başlıklar için en fazla 13 karakter kullanılabilir</string>
   <string name="nosend_message">Gönderim başarısız</string>
-  <string name="number_add_hint">Özel kişileri de dahil etmek için numarasını girin</string>
   <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
   <string name="notification_failed_multiple_title">İletiler gönderilmedi</string>
   <string name="notification_multiple">%s yeni mesajınız var</string>
   <string name="notification_multiple_title">Yeni mesajlar</string>
+  <string name="number_add_hint">Özel kişileri de dahil etmek için numarasını girin</string>
   <string name="overwrite_edited_content">Düzenlenen içeriğin üzerine yazılacak. Devam edilsin mi?</string>
   <string name="phrase_confirm_delete_message">Şablon silinsin mi?</string>
   <string name="phrase_empty">Şablon yok!</string>
@@ -310,6 +323,7 @@ Eksik ve hataları Xiaomi\'ye bildirin.”</string>
   <string name="private_settings">Özel ayarlar</string>
   <string name="processing">Çalışıyor...</string>
   <string name="prvate_contact">Özel kişi</string>
+  <string name="quick_reply">Hızlı cevap</string>
   <string name="rate_limit_surpassed">Doğrula</string>
   <string name="received_label">"Alındı: "</string>
   <string name="recipient_editor_count_format">%d</string>
@@ -330,6 +344,7 @@ Eksik ve hataları Xiaomi\'ye bildirin.”</string>
   <string name="restore_blocked_message">Engellenen mesajları kurtar</string>
   <string name="restore_to_phone_memory_failed">Telefon hafızası onarılamadı!</string>
   <string name="restored_to_phone_memory">"Telefon hafızası onarıldı"</string>
+  <string name="retrive_hms_tips">Alınıyor...</string>
   <string name="save">Kaydet</string>
   <string name="save_ringtone">Zil sesi olarak kaydet</string>
   <string name="save_to_sim">SIM karta kaydet</string>
@@ -354,6 +369,13 @@ Eksik ve hataları Xiaomi\'ye bildirin.”</string>
   <string name="select_recipient">Alıcıyı seç</string>
   <string name="select_top_text">Metin üstte</string>
   <string name="send">Gönder</string>
+  <string name="send_hms_editor_hints">Cloud Mesajlaşma</string>
+  <string name="send_message_dlg_check_hint">Ayarları hatırlıyorum</string>
+  <string name="send_message_dlg_mgs">CMCC bildirimi: Cihaz yönetim platformu hizmetleri için cihazınızı kayıt etmeniz gerekir. Bu terminal cihazları yönetebilir bir CMcC  platformudur.  Size uzak ayarları ve uygulama yükseltme hizmeti vermektedir. Cihaz kaydı için ücretsiz bir bilgi mesajı gönderilir. Mesaj bir kere gönderilir ve kişisel bilgiler içermez. Devam etmek ve kayıt olmak için "Tamam" , kullanmak istemiyorsanız "İptal" seçeneğine dokunun.</string>
+  <string name="send_message_dlg_title">Cihaz yönetimi</string>
+  <string name="send_message_notification_msg">Cihaz yönetimi mesaj gönderme izin isteği</string>
+  <string name="send_message_notification_tickerText">Cihaz yönetimi izin isteği</string>
+  <string name="send_message_notification_title">Cihaz yönetimi</string>
   <string name="send_signature_confirm_dialog_message">Mesaj içeriği yok, göndermek istiyor musunuz?</string>
   <string name="send_signature_confirm_dialog_title">Onay gönderiliyor...</string>
   <string name="send_sms">Mesaj Gönder</string>
@@ -366,6 +388,7 @@ Eksik ve hataları Xiaomi\'ye bildirin.”</string>
   <string name="service_not_activated">Şebeke üzerindeki hizmet etkin değil.</string>
   <string name="set">Ayarla</string>
   <string name="set_smsc_address_title_miui">Mesaj merkezi numarası</string>
+  <string name="share_img">Paylaş</string>
   <string name="show_all_messages">Tüm mesajları göster</string>
   <string name="sim_card1">SIM 1</string>
   <string name="sim_card2">SIM 2</string>
@@ -385,6 +408,9 @@ Eksik ve hataları Xiaomi\'ye bildirin.”</string>
   <string name="sms_full_title">Kısa mesaj belleği dolu</string>
   <string name="sms_rejected_body">"Gelen bir mesaj bilinmeyen bir nedenden dolayı  reddedildi."</string>
   <string name="sms_rejected_title">Kısa mesaj reddedildi</string>
+  <string name="sp_category_all">Tüm mesajlar</string>
+  <string name="sp_category_bank">Banka mesajları</string>
+  <string name="sp_category_title_prefix">%s</string>
   <string name="status_failed">Başarısız</string>
   <string name="status_label">"Durum: "</string>
   <string name="status_pending">Beklemede</string>
@@ -406,7 +432,7 @@ Eksik ve hataları Xiaomi\'ye bildirin.”</string>
   <string name="timed_message_expired_title">%d zamanlanmış mesaj gönderilemedi</string>
   <string name="timed_message_expired_title_2">Şimdi göndermek ister misiniz?</string>
   <string name="timed_message_in_total">... (toplam %d)</string>
-  <string name="timed_message_to"></string>
+  <string name="timed_message_to"/>
   <string name="title_collapse_sp_messages">Operatör grup mesajları</string>
   <string name="title_date_type">Mesaj zamanı</string>
   <string name="title_timed_message_dialog">Lütfen zamanlanmış mesaj zamanını ayarlayın</string>
@@ -437,35 +463,9 @@ Son deneme zamanı: %s."</string>
   <string name="unsupported_media_format">Desteklenmeyen %1$s biçimi.</string>
   <string name="view">Göster</string>
   <string name="view_bookmark">Orijinal mesaja bak</string>
+  <string name="view_hms_details">Detaylar</string>
   <string name="view_message_details">Ayrıntıları görüntüle</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="xiaomi_service_number">Servis numarası</string>
   <string name="yes">Tamam</string>
-  <string name="context_menu_add_calendar">Takvime ekle</string>
-  <string name="quick_reply">Hızlı cevap</string>
-  <string name="sp_category_all">Tüm mesajlar</string>
-  <string name="sp_category_bank">Banka mesajları</string>
-  <string name="sp_category_title_prefix">%s</string>
-  <string name="alert_dlg_cancel_button">İptal</string>
-  <string name="alert_dlg_ok_button">TAMAM</string>
-  <string name="app_name">Cihaz yönetimi</string>
-  <string name="confirm_dlg__msg">CMCC bildirimi: Eğer servisi iptal ederseniz CMCC ücretsiz yazılan hizmeti verilmeyecektir.
-İptal etmek istiyor musunuz?</string>
-  <string name="confirm_dlg_title">Cihaz yönetimi</string>
-  <string name="manage_permission_app_label">Cihaz Yönetimi İzni</string>
-  <string name="send_message_dlg_check_hint">Ayarları hatırlıyorum</string>
-  <string name="send_message_dlg_mgs">CMCC bildirimi: Cihaz yönetim platformu hizmetleri için cihazınızı kayıt etmeniz gerekir. Bu terminal cihazları yönetebilir bir CMcC  platformudur.  Size uzak ayarları ve uygulama yükseltme hizmeti vermektedir. Cihaz kaydı için ücretsiz bir bilgi mesajı gönderilir. Mesaj bir kere gönderilir ve kişisel bilgiler içermez. Devam etmek ve kayıt olmak için "Tamam" , kullanmak istemiyorsanız "İptal" seçeneğine dokunun.</string>
-  <string name="send_message_dlg_title">Cihaz yönetimi</string>
-  <string name="send_message_notification_msg">Cihaz yönetimi mesaj gönderme izin isteği</string>
-  <string name="send_message_notification_tickerText">Cihaz yönetimi izin isteği</string>
-  <string name="send_message_notification_title">Cihaz yönetimi</string>
- <string name="hms_first_use_tips">Mesajlaşma hizmetleri için, bir Wi-Fi ağına bağlı olmanız gerekir.</string>
- <string name="retrive_hms_tips">Alınıyor...</string>
- <string name="send_hms_editor_hints">Cloud Mesajlaşma</string>
- <string name="view_hms_details">Detaylar</string>
- <string name="xiaomi_service_number">Servis numarası</string>
- <string name="file_create_time">Oluşturulma tarihi:</string>
- <string name="file_size">Boyut:</string>
- <string name="file_title">İsim:</string>
- <string name="file_width_height">Ölçüler:</string>
- <string name="share_img">Paylaş</string>
 </resources>

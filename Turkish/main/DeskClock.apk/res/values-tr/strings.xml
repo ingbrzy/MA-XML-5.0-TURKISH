@@ -116,6 +116,7 @@ Ayrıca bu alarmı iptal edebilirsiniz."</string>
   <string name="timer_hour">S</string>
   <string name="timer_message">%1$d dakika</string>
   <string name="timer_message_with_hour">%1$d saat ve %2$d dakika</string>
+  <string name="timer_message_with_seconds">%1$d saniye</string>
   <string name="timer_minute">D</string>
   <string name="timer_start_alarm">Zamanlayıcıyı Başlat</string>
   <string name="timer_title">Zamanlayıcı</string>
@@ -131,5 +132,4 @@ Ayrıca bu alarmı iptal edebilirsiniz."</string>
   <string name="workday_alarm_clock">İşgünü alarmı</string>
   <string name="worldclock_empty_text">Dünya saati yok</string>
   <string name="worldclock_title">Saatler</string>
-  <string name="timer_message_with_seconds">%1$d saniye</string>
 </resources>

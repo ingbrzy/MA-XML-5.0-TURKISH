@@ -28,7 +28,7 @@
   <string name="error_mediadb_new_record">Ses verisi kayıt edilemedi</string>
   <string name="error_sdcard_access">Harici ve dahili depolama alanına erişilemiyor</string>
   <string name="fm_record">Radyo kaydı (%d)</string>
-  <string name="hour" Format="false">%d Saat</string>
+  <string name="hour">%d Saat</string>
   <string name="insert_sd_card">Sd kart gerekiyor</string>
   <string name="low_battery_error">Pil durumu %5 olduğunda kayıt durdurulur ve saklanır.</string>
   <string name="low_battery_message_title">Pil seviyesi düşük!</string>
@@ -38,14 +38,14 @@
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_view_record_list">Kayıtları görüntüle</string>
   <string name="message_file_size_error">%s için desteklenen maksimum kayıt süresine ulaşıldı!</string>
-  <string name="minute" Format="false">%d Dakika</string>
+  <string name="minute">%d Dakika</string>
   <string name="no_file">Kayıt yok</string>
   <string name="notification_playback">Kayıt oynatılıyor…</string>
   <string name="notification_recording">Kayıt ediliyor...</string>
   <string name="notification_stopped">Kayıt durduruldu</string>
-  <string name="notification_warning" Format="false">Düşük hafıza ( %d dakikadan az )...</string>
+  <string name="notification_warning">Düşük hafıza ( %d dakikadan az )...</string>
   <string name="open_file_explorer">Dosya yöneticisini aç</string>
-  <string name="overwrite_dialog_message" Format="false">%s Zaten var. Üzerine yazmak istiyor musunuz?</string>
+  <string name="overwrite_dialog_message">%s Zaten var. Üzerine yazmak istiyor musunuz?</string>
   <string name="pause">Duraklat</string>
   <string name="play_record">Oynat</string>
   <string name="preference_enable_earpiece_summary">Harici oynatma için alıcı kullan</string>

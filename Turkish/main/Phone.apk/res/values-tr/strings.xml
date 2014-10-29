@@ -131,6 +131,7 @@
   <string name="callFailed_userBusy">Numara meşgul!</string>
   <string name="callUnanswered_forwarded">Çağrı cevaplanamadı ve yönlendirildi</string>
   <string name="call_assistant_miui">Arama asistanı</string>
+  <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
   <string name="call_forwarding_number_hint_miui">Numarayı gir ve yönlendir</string>
   <string name="call_forwarding_settings">Çağrı yönlendirme ayarları</string>
   <string name="call_forwarding_settings_miui">Çağrı yönlendirme ayarları</string>
@@ -230,6 +231,7 @@
   <string name="cfnry_title_miui">Cevap yoksa  yönlendir</string>
   <string name="cfu_title_miui">Herzaman yönlendir</string>
   <string name="change_num">Güncelle</string>
+  <string name="change_password">Engelleme şifresini değiştir</string>
   <string name="change_pin">SIM kart PIN kodunu değiştir</string>
   <string name="change_pin2">PIN2 kodunu değiştir</string>
   <string name="change_pin2_miui">PIN2 kodunu değiştir</string>
@@ -261,6 +263,7 @@
   <string name="confirm_delete_message_title_miui">Bu özel atıf mesajları siler</string>
   <string name="confirm_delete_sim_entry_miui">SIM karttaki seçilen %d kişiyi silmek istiyor musunuz?</string>
   <string name="confirm_no_countrycode_for_custom_location_miui">Ülke kodu olmadan numara girin.</string>
+  <string name="confirm_password_label">Yeni şifreyi onaylayın</string>
   <string name="confirm_pin2_hint_miui">Yeni PIN2 kodunu onayla</string>
   <string name="confirm_pin_hint_miui">Yeni PIN kodunu onayla</string>
   <string name="connect_disconnect_vibrate_none_miui">Titreşim yok</string>
@@ -299,6 +302,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="data_enable_summary">Mobil şebekede veri kullanımını etkinleştirir</string>
   <string name="data_enabled">Mobil Veriyi etkinleştir</string>
   <string name="deact_all_sub_not_supported">Abonelikler desteklenmiyor.</string>
+  <string name="deactivate_all">Hepsini kapat</string>
   <string name="default_contacts_countrycode_hint_miui">Örneğin: 90</string>
   <string name="default_contacts_countrycode_miui">Geçerli ülke kodu</string>
   <string name="default_contacts_countrycode_sum_miui">Kişinin ülke kodunu seçin</string>
@@ -419,9 +423,10 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="enable_telocation_title_miui">Bölgemi kullan</string>
   <string name="enforce_proximity_summary_miui">Telefonunuz cebinizde veya uyku modunda ise, bu özellik yanlışlıkla arama yapılmasını engeller.</string>
   <string name="enforce_proximity_title_miui">Yakınlık sensörünü güçlendir</string>
-  <string name="enter_input">Birşeyler girmeniz gerekiyor, tekrar deneyin!</string>
   <string name="enterName">Adı girin:</string>
   <string name="enterNumber">Telefon numarasını girin:</string>
+  <string name="enter_callbarring_password">4 haneli engelleme şifresini girin</string>
+  <string name="enter_input">Birşeyler girmeniz gerekiyor, tekrar deneyin!</string>
   <string name="enter_pin2_text">PIN2 kodu</string>
   <string name="enter_pin2_text_miui">PIN2 kodu</string>
   <string name="enter_pin_text">SIM kart PIN kodu:</string>
@@ -444,6 +449,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="fdn_contact_added">Sabit arama numarası eklendi.</string>
   <string name="fdn_contact_deleted">Sabit arama numarası silindi.</string>
   <string name="fdn_contact_updated">Sabit arama numarası güncellendi.</string>
+  <string name="fdn_contacts_empty_miui">Sabit numaralar listesinde kişi yok.</string>
   <string name="fdn_disabled">Sabit arama numaraları devre dışı</string>
   <string name="fdn_disabled_miui">Sabit numaralar devre dışı</string>
   <string name="fdn_enable_puk2_requested">Şifre yanlış, PIN2 kodu Bloke oldu. PIN2 kodunu değiştirip tekrar deneyin!</string>
@@ -509,6 +515,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="invalidPuk2">8 haneli PUK2 kodunu girin.</string>
   <string name="invalid_new_pin2_miui">PIN2 kodu yanlış, Tekrar girin.</string>
   <string name="invalid_new_pin_miui">PIN kodu yanlış, Tekrar girin.</string>
+  <string name="invalid_password">Şifreyi girin</string>
   <string name="invalid_pin2_miui">PIN2 kodu yanlış, Tekrar girin.</string>
   <string name="invalid_pin_miui">PIN kodu yanlış, Tekrar girin.</string>
   <string name="invalid_puk2_miui">PUK2 kodu yanlış, Tekrar girin.</string>
@@ -516,6 +523,9 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ip_prefix_miui">IP ön eki</string>
   <string name="ip_prefix_required_miui">IP ön eki gerekli</string>
   <string name="ip_prefix_sum_miui">"Şebekenin IP ön eki: %s"</string>
+  <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
+  <string name="ivr_menu_list_sub_menu_count_format">%s düğmesine basın</string>
+  <string name="ivr_menu_list_title">Anketler menüsü</string>
   <string name="jituan_number_format_error_message_miui">%s sadece numara veya jokerler desteklenir</string>
   <string name="labelCDMAMore">CDMA çağrı ayarları</string>
   <string name="labelCF">Çağrı yönlendirme</string>
@@ -544,6 +554,14 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="label_sdp">SIM SIM PIN kodu</string>
   <string name="label_spdp">SIM servis sağlayıcı PIN kodu</string>
   <string name="label_subscription">Abonelik için</string>
+  <string name="lable_all_incoming">Tüm gelen çağrılar</string>
+  <string name="lable_all_out_except">PLMN hariç Uluslar arası çağrılar</string>
+  <string name="lable_all_outgoing">Tüm giden çağrılar</string>
+  <string name="lable_all_outgoing_international">Uluslararası çağrılar</string>
+  <string name="lable_call_barring">Çağrı engelleme</string>
+  <string name="lable_disable">Kapat</string>
+  <string name="lable_enable">Aç</string>
+  <string name="lable_incoming_calls_except">Dolaşımda Gelen çağrılar</string>
   <string name="lafs_disable">Uçuş takvimi devre dışı</string>
   <string name="lafs_enable">Uçuş takvimi etkin</string>
   <string name="list_language_dtitle">Diller</string>
@@ -583,6 +601,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="mhh_enable">Sağlık servisleri etkin</string>
   <string name="mismatchPin">Girdiğiniz PIN eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="mismatchPin2">Girdiğiniz PIN2 eşleşmiyor. Lütfen tekrar deneyin.</string>
+  <string name="mismatch_password">Şifreler eşleşmiyor</string>
   <string name="mismatch_pin2_miui">Girdiğiniz PIN2 eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="mismatch_pin_miui">Girdiğiniz PIN eşleşmiyor. Lütfen tekrar deneyin.</string>
   <string name="missed_call_notify_five_times_miui">5 kez</string>
@@ -614,6 +633,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="newPin2Label">Yeni PIN2</string>
   <string name="newPinLabel">Yeni PIN</string>
   <string name="new_cards_available">Yeni kart kullanılabilir.</string>
+  <string name="new_password_label">Yeni şifre (4 haneli)</string>
   <string name="new_pin2_hint_miui">Yeni PIN2 kodu</string>
   <string name="new_pin_hint_miui">Yeni PIN kodu</string>
   <string name="next_miui">Sonraki</string>
@@ -627,6 +647,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="no_voip">Internet çağrısı desteklenmiyor</string>
   <string name="no_wifi_available">Internet çağrısı için Wi-Fi bağlantısı gerekiyor</string>
   <string name="no_wifi_available_title">Wi-Fi bağlantısı yok</string>
+  <string name="non_ivr_menu_collapse_menu">Daralt</string>
+  <string name="non_ivr_menu_view_menu">Göster</string>
   <string name="not_a_valid_port">Port numarası 1000 ve 65534 arasında olmalıdır</string>
   <string name="not_allowed">SIM kartınız bu şebekeye bağlanma izni vermiyor.</string>
   <string name="not_connected_miui">Bağlanmadı!</string>
@@ -662,6 +684,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ok">Tamam</string>
   <string name="oldPin2Label">Eski PIN2 kodu</string>
   <string name="oldPinLabel">Eski PIN kodu</string>
+  <string name="old_password_label">Eski şifre (4 haneli)</string>
   <string name="old_pin2_hint_miui">Geçerli PIN2 kodu</string>
   <string name="old_pin_hint_miui">Geçerli PIN kodu</string>
   <string name="onHold">Beklemede</string>
@@ -676,8 +699,8 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="onscreenModifyCallText">Çağrıyı değiştir</string>
   <string name="onscreenMuteText">Sessiz</string>
   <string name="onscreenShowDialpadText">Tuş takımı</string>
-  <string name="onscreenSwitchText">Aboneliğe geç</string>
   <string name="onscreenSwapCallsText">Karşılıklı değiş</string>
+  <string name="onscreenSwitchText">Aboneliğe geç</string>
   <string name="onscreen_add_call_text_miui">Çağrı ekle</string>
   <string name="onscreen_audio_mode_bluetooth_miui">Bluetooth</string>
   <string name="onscreen_audio_mode_handset_miui">Eller Serbest</string>
@@ -718,6 +741,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="ota_unsuccessful">"Telefon etkinleştirme hatası, daha iyi bir kapsama alanında (dış mekanda) tekrar deneyin ."</string>
   <string name="other_settings">Diğer Telefon Ayarları</string>
   <string name="other_settings_miui">Diğer Telefon Ayarları</string>
+  <string name="password_changed">Şifre değiştirildi</string>
   <string name="password_title">Şifre</string>
   <string name="pause_prompt_no">Hayır</string>
   <string name="pause_prompt_str">"Ses gönderiliyor"</string>
@@ -778,12 +802,13 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="preferred_network_type_3g_only_warning_miui">"Sadece 3G şebekesini seçtiniz, SIM kartınızın 3G desteği yoksa telefon sinyal alamaz! Devam etmek istiyor musunuz?"</string>
   <string name="preferred_network_type_cdma_miui">CDMA</string>
   <string name="preferred_network_type_gsm_umts_miui">GSM/WCDMA</string>
-  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_miui">3G Öncelikli Şebeke</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G Öncelikli şebeke</string>
   <string name="preferred_network_type_pref_entries_auto_miui">Otomatik</string>
   <string name="preferred_network_type_pref_entries_global_miui">Global</string>
   <string name="preferred_network_type_pref_entries_only_2g_miui">Sadece 2G (Pil tasarrufu sağlar)</string>
   <string name="preferred_network_type_pref_entries_only_3g_miui">Sadece 3G Şebekesi</string>
+  <string name="preferred_network_type_tds_cdma_miui">GSM/TD-SCDMA</string>
   <string name="preferred_network_type_title_miui">2G/3G Şebeke Ayarları</string>
   <string name="primary_account_summary_with">Birincil hesap. %s</string>
   <string name="private_num">Gizli numara</string>
@@ -1075,6 +1100,7 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
  "</string>
   <string name="wait_prompt_str">"Yönlendirme sesi gönderilsin mi?"</string>
   <string name="wild_prompt_str">Karakteri ile değiştirin</string>
+  <string name="wrong_password">Yanlış şifre</string>
   <string name="xdivert_active">Active</string>
   <string name="xdivert_button">X-Divert Setting</string>
   <string name="xdivert_enternumber_error">Enter phone number for both the subscriptions</string>
@@ -1087,30 +1113,4 @@ Veri hizmeti kullanımdayken şebeke değiştirilemiyor. Mevcut veri hizmeti dur
   <string name="xdivert_sub_absent">Both subscriptions should be activated to process X-Divert</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_miui">4G Öncelikli şebeke</string>
-  <string name="ivr_menu_dialing_msg">Yönlendiriliyor...</string>
-  <string name="ivr_menu_list_title">Anketler menüsü</string>
-  <string name="non_ivr_menu_collapse_menu">Daralt</string>
-  <string name="non_ivr_menu_view_menu">Göster</string>
-  <string name="ivr_menu_list_sub_menu_count_format">%s düğmesine basın</string>
-  <string name="fdn_contacts_empty_miui">Sabit numaralar listesinde kişi yok.</string>
-  <string name="call_barring_sum">Çağrı Engelleme Ayarları</string>
- <string name="change_password">Engelleme şifresini değiştir</string>
- <string name="confirm_password_label">Yeni şifreyi onaylayın</string>
- <string name="deactivate_all">Hepsini kapat</string>
- <string name="enter_callbarring_password">4 haneli engelleme şifresini girin</string>
- <string name="invalid_password">Şifreyi girin</string>
- <string name="lable_all_incoming">Tüm gelen çağrılar</string>
- <string name="lable_all_out_except">PLMN hariç Uluslar arası çağrılar</string>
- <string name="lable_all_outgoing">Tüm giden çağrılar</string>
- <string name="lable_all_outgoing_international">Uluslararası çağrılar</string>
- <string name="lable_call_barring">Çağrı engelleme</string>
- <string name="lable_disable">Kapat</string>
- <string name="lable_enable">Aç</string>
- <string name="lable_incoming_calls_except">Dolaşımda Gelen çağrılar</string>
- <string name="mismatch_password">Şifreler eşleşmiyor</string>
- <string name="new_password_label">Yeni şifre (4 haneli)</string>
- <string name="old_password_label">Eski şifre (4 haneli)</string>
- <string name="password_changed">Şifre değiştirildi</string>
- <string name="wrong_password">Yanlış şifre</string>
 </resources>

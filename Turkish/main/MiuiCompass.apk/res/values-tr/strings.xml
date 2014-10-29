@@ -10,12 +10,12 @@
   <string name="dialog_title_no_network">Hiçbir ağ bulunamadı, Wi-Fi veya veri hizmetini etkinleştirin</string>
   <string name="direction_east">D</string>
   <string name="direction_north">K</string>
-  <string name="direction_south">G</string>
-  <string name="direction_west">B</string>
   <string name="direction_north_east">KD</string>
   <string name="direction_north_west">KB</string>
+  <string name="direction_south">G</string>
   <string name="direction_south_east">GD</string>
   <string name="direction_south_west">GB</string>
+  <string name="direction_west">B</string>
   <string name="getting_location">Konumunuz bulunuyor...</string>
   <string name="guide_toast">"Manyetik alan paraziti olabilir, aşağıdaki hareketi kullanarak pusulayı kalibre edin."</string>
   <string name="latitude">LAT</string>

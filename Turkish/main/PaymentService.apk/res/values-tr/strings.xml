@@ -1,4 +1,4 @@
-﻿<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_detail">"Xiaomi hesabı:
 %1$s"</string>
@@ -88,6 +88,7 @@ Beş dakika sonra tekrar deneyin."</string>
   <string name="fee">%1$s MiKredisi</string>
   <string name="frozen">(Donduruldu)</string>
   <string name="giftcard_acitivity_and_denomination"> %1$s \'den %2$s-Mikredisi hediye kartı</string>
+  <string name="giftcard_define_detail">Xiaomi yarışmalarında kazandığınız MiKredi kupolarını kullanın.</string>
   <string name="giftcard_denom">MiKredisi</string>
   <string name="giftcard_denom_available">MiKredisi kullanılabilir</string>
   <string name="giftcard_denom_frozen">MiKredisi donduruldu</string>
@@ -97,6 +98,7 @@ Beş dakika sonra tekrar deneyin."</string>
   <string name="giftcard_push_notification_prime_title">"Bir hediye sertifikası aldığınız"</string>
   <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiKredisi hediye.</string>
   <string name="giftcard_record">Hediye kartlarım</string>
+  <string name="giftcard_title">MiKredi Kuponu</string>
   <string name="giftcard_value">(%1$s-MiKredisi hediye kartı)</string>
   <string name="hfb_app_name">话付宝</string>
   <string name="hfb_commit">提交订单</string>
@@ -392,6 +394,4 @@ We will check again within two working days."</string>
   <string name="voucher_edit_limit">digits</string>
   <string name="voucher_error_password_empty">Code empty.</string>
   <string name="voucher_input_password_prompt">Enter code</string>
-  <string name="giftcard_title">MiKredi Kuponu</string>
-  <string name="giftcard_define_detail">Xiaomi yarışmalarında kazandığınız MiKredi kupolarını kullanın.</string>
 </resources>

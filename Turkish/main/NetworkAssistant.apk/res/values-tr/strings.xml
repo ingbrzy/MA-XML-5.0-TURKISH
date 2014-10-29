@@ -50,8 +50,8 @@
   <string name="custom_adjust_recevier_same_with_sender">Gönderici numarası ile aynı</string>
   <string name="custom_adjust_sender">Gönderici numarası</string>
   <string name="custom_adjust_sender_hint">Kullanıcıdan sorgu ayrıntıları almak için kullanılan taşıyıcı numarası</string>
-  <string name="custom_adjust_title">Özel Ayarlar</string>
   <string name="custom_adjust_summary">%1$s, %2$s, %3$s</string>
+  <string name="custom_adjust_title">Özel Ayarlar</string>
   <string name="daily_limit_dialog_hint">Günlük trafik limiti (Boşluk veya 0 limitsiz anlamına gelir)</string>
   <string name="daily_limit_result">Bana hatırlat ve günlük trafik %dMB ı aştığında İnternet bağlantısını kes</string>
   <string name="daily_limit_result_no_disconnect">Günlük trafik %dMB ı aştığında hatırlat</string>

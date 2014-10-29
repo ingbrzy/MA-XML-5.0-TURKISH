@@ -2,16 +2,16 @@
 <resources>
   <string name="app_name">Xiaomi senkronize</string>
   <string name="find_device">Cihazımı bul</string>
+  <string name="find_device_noise_title">Telefonu ses ile bul</string>
   <string name="find_device_stop_noise">Uyarı sesini kapatmak için \"Tamam\" \'a dokunun</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Ekstra ücret ödememek için fotoğrafları kablosuz ağı kullanarak senkronize edin.</string>
   <string name="pref_title_sync_contacts_title">Rehberi senkronize et</string>
-  <string name="pref_title_sync_my_profile_title">Profilimi güncelle</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Fotoğrafları görüntülemek için kablosuz ağı kullan</string>
+  <string name="pref_title_sync_my_profile_title">Profilimi güncelle</string>
   <string name="sub_sync_item_sms_summary">Ekstra ücret ödememek için mesajları kablosuz ağı kullanarak senkronize edin.</string>
   <string name="sub_sync_item_sms_title_wifi_only">Mesajları kablosuz ağı kullanarak senkronize edin.</string>
+  <string name="sync_item_calllog_summary"/>
+  <string name="sync_item_calllog_title">Çağrı loglarını senkronize et</string>
   <string name="sync_item_sms_summary">Mesajlar otomatik olarak senkronize edilecek.</string>
   <string name="sync_item_sms_title">Mesajları senkronize et</string>
-  <string name="find_device_noise_title">Telefonu ses ile bul</string>
-  <string name="sync_item_calllog_title">Çağrı loglarını senkronize et</string>
-  <string name="sync_item_calllog_summary"/>
 </resources>

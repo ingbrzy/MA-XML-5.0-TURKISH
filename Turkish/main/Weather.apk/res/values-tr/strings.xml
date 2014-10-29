@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
- <string name="act_aqi_no2_title">NO2</string>
+  <string name="act_aqi_no2_title">NO2</string>
   <string name="act_aqi_pm10_title">PM10</string>
   <string name="act_aqi_pm25_title">PM2.5</string>
   <string name="act_aqi_so2_title">SO2</string>
@@ -18,8 +18,13 @@
   <string name="act_weather_aqi_title">Hava kalite indeksi</string>
   <string name="act_weather_cycle_link_china"/>
   <string name="act_weather_cycle_low_temp">Düşük</string>
+  <string name="act_weather_cycle_no_forcast">Bilinmiyor</string>
   <string name="act_weather_cycle_update">Güncelleniyor…</string>
+  <string name="act_weather_find_city_added">Şehir eklendi</string>
+  <string name="act_weather_find_city_click_retry">Tekrar denemek için dokunun</string>
   <string name="act_weather_find_city_connect_net">Ağ ayarlarını kontrol edin</string>
+  <string name="act_weather_find_city_net_no_good">"Ağa bağlanılamıyor"</string>
+  <string name="act_weather_find_city_no_result">Sonuç yok</string>
   <string name="act_weather_find_city_search_online">Online şehir bul</string>
   <string name="act_weather_find_city_searching">Aranıyor…</string>
   <string name="act_weather_main_aqi_index">Hava kalitesi: %s</string>
@@ -36,7 +41,6 @@
   <string name="app_love_sms_title">Mesaj içeriği</string>
   <string name="app_love_view_title">Önizle</string>
   <string name="app_name">Hava Durumu</string>
-  <string name="network_unavailable">Ağ bağlantısı yok!</string>
   <string name="app_unquiet_net">Kötü ağ bağlantısı</string>
   <string name="aqi_details_dangerous">People with heart or lung disease, older adults, and children should avoid all physical activity outdoors. Everyone else should avoid prolonged or heavy exertion.</string>
   <string name="aqi_details_fine">Unusually sensitive people should consider reducing prolonged or heavy exertion.</string>
@@ -51,9 +55,11 @@
   <string name="aqi_quality_index_moderate">makul</string>
   <string name="aqi_quality_index_pure">mükemmel</string>
   <string name="aqi_quality_index_unhealthy">sağlıksız</string>
+  <string name="button_abandon">Vazgeç</string>
   <string name="button_allow">İzin ver</string>
   <string name="button_not_allow">Reddet</string>
   <string name="cancel">İptal</string>
+  <string name="edit_city">Düzenle</string>
   <string name="enable_gps">GPS</string>
   <string name="enable_notification">Konum bildirimini aç</string>
   <string name="enable_notification_city">Have opened %s weather notification, system notification will be sent when unexpected weather such as rain, snow and temperature change occurs.</string>
@@ -63,12 +69,14 @@
   <string name="format_date_trend_md">d/M</string>
   <string name="format_date_week">EEEE</string>
   <string name="format_date_wmd">d/M EEEE</string>
+  <string name="gps_hint">Geçerli konum</string>
   <string name="install_tencent">Get Weibo app</string>
   <string name="loading_weather">Hava durumu yükleniyor...</string>
   <string name="local_city">Yerel şehirler</string>
   <string name="location_allow_err">Hata !</string>
   <string name="location_management">Konumlar</string>
   <string name="location_notification">Hava durumu bildirimleri</string>
+  <string name="location_tag">Konum</string>
   <string name="menu_about">Hakkında</string>
   <string name="menu_add">Şehir ekle</string>
   <string name="menu_around">Cevresel</string>
@@ -83,6 +91,7 @@
   <string name="menu_settings">Ayarlar</string>
   <string name="menu_share">Paylaş</string>
   <string name="menu_trend">Trend</string>
+  <string name="network_unavailable">Ağ bağlantısı yok!</string>
   <string name="save_screen_shot_failed">Ekran görüntüsü kaydedilemedi.</string>
   <string name="selected_format">%d öğe seçildi</string>
   <string name="send_sms_notification">Hava durumu bildirimlerini yönlendir</string>
@@ -126,13 +135,4 @@ Lütfen sonra tekrar deneyin."</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="widget_loading">Hava durumu bilgisi yok</string>
-  <string name="location_tag">Konum</string>
-  <string name="act_weather_find_city_no_result">Sonuç yok</string>
-  <string name="act_weather_find_city_added">Şehir eklendi</string>
-  <string name="act_weather_find_city_net_no_good">"Ağa bağlanılamıyor"</string>
-  <string name="act_weather_find_city_click_retry">Tekrar denemek için dokunun</string>
-  <string name="button_abandon">Vazgeç</string>
-  <string name="act_weather_cycle_no_forcast">Bilinmiyor</string>
-  <string name="edit_city">Düzenle</string>
-  <string name="gps_hint">Geçerli konum</string>
 </resources>

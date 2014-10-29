@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_abnormal_state">Anormal hesap bilgileri, kontrol edip tekrar deneyin!</string>
   <string name="activity_not_found">Uygulama telefonunuzda yüklü değil!</string>
@@ -12,6 +12,7 @@
   <string name="aqi_quality_index_light_pollution">Işık kirliliği</string>
   <string name="aqi_quality_index_moderate">Orta</string>
   <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
+  <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemedi!</string>
   <string name="buffering">Belleğe alınıyor..</string>
   <string name="cancel_action">İptal</string>
   <string name="cancel_btn_label">İptal</string>
@@ -37,10 +38,10 @@
   <string name="download_failed">İçe aktarım hatası!</string>
   <string name="download_preview_failed">Önizleme yüklenemedi!</string>
   <string name="edit_folder_title">Klasörü adlandır</string>
-  <string name="editing_tips">Widget ekle veya düzenle</string>
   <string name="editing_add_widget_tips">Widget Ekle</string>
-  <string name="editing_set_wallpaper_tips">Duvar Kağıdını Değiştir</string>
   <string name="editing_set_transition_effect_tips">Ekran Geçiş Efektleri</string>
+  <string name="editing_set_wallpaper_tips">Duvar Kağıdını Değiştir</string>
+  <string name="editing_tips">Widget ekle veya düzenle</string>
   <string name="emptyplaylist">Çalma listesi boş</string>
   <string name="encryption">Şifreleme</string>
   <string name="failed_to_delete_temporary">Silme işleminde hata, lütfen tekrar deneyin!</string>
@@ -62,18 +63,19 @@
   <string name="free_style_edit_tab_widget">Widgetler</string>
   <string name="free_style_enter_tip">MiSpace\'e geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
   <string name="free_style_exit_tip">MiSpace\'den çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
+  <string name="free_wifi_manage_summary">%1$s  görüntülemek için dokunun.</string>
   <string name="gadget_clear_button_label">Görev Temizleyici</string>
-  <string name="gadget_clock_label">Saat</string>
   <string name="gadget_clock_12_label">1x2 Saat</string>
   <string name="gadget_clock_22_label">2x2 Saat</string>
   <string name="gadget_clock_24_label">2x4 Saat</string>
+  <string name="gadget_clock_label">Saat</string>
   <string name="gadget_error_text">Widget yüklenirken hata!</string>
   <string name="gadget_google_search_label">Google ARA</string>
   <string name="gadget_load_error">Widget yükleniyor...</string>
-  <string name="gadget_photo_label">Resim</string>
   <string name="gadget_photo_22_label">2x2 Resim</string>
   <string name="gadget_photo_24_label">2x4 Resim</string>
   <string name="gadget_photo_44_label">4x4 Resim</string>
+  <string name="gadget_photo_label">Resim</string>
   <string name="gadget_search_label">Arama</string>
   <string name="gadget_weather_app_not_installed">MIUI Hava Durumunu yüklemek için tıklayın</string>
   <string name="gadget_weather_aqi_title">Hava Kalitesi</string>
@@ -245,6 +247,11 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="status_bar_toggle_vibrate">Titreşim</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Wi-Fi İ.Paylaşımı</string>
+  <string name="status_downloaded">İndirilen</string>
+  <string name="status_downloading">Devam ediyor</string>
+  <string name="status_installing">Yükleme</string>
+  <string name="status_paused">Duraklatıldı</string>
+  <string name="status_pending">Beklemede</string>
   <string name="title_select_live_folder">Klasör seçin</string>
   <string name="title_select_shortcut">Kısayol seçin</string>
   <string name="toggle_select_title">Geçişi seçin</string>
@@ -268,11 +275,4 @@ Uygulamayı tekrar açıp kaynakları yenileyin."</string>
   <string name="widget_favorite_contacts_style">Sık Görüşülen Kişiler Stili</string>
   <string name="widget_gadget_player">Müzik</string>
   <string name="widget_global_search">Genel arama</string>
-<string name="free_wifi_manage_summary">%1$s  görüntülemek için dokunun.</string>
-<string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemedi!</string>
-<string name="status_downloaded">İndirilen</string>
-<string name="status_downloading">Devam ediyor</string>
-<string name="status_installing">Yükleme</string>
-<string name="status_paused">Duraklatıldı</string>
-<string name="status_pending">Beklemede</string>
 </resources>

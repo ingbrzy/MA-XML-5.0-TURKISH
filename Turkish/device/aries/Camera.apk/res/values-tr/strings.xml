@@ -134,8 +134,8 @@
   <string name="maker">Yapımcı</string>
   <string name="manual">Kılavuz</string>
   <string name="mimetype">MIME tipi</string>
-  <string name="no_save">"Kaydetme"</string>
   <string name="model">Model</string>
+  <string name="no_save">"Kaydetme"</string>
   <string name="no_storage">Kamerayı kullanmadan önce lütfen bir SD kart takın.</string>
   <string name="no_thumbnail">Ön izleme yok</string>
   <string name="not_enough_space">Dahili hafıza dolu.</string>
@@ -192,6 +192,7 @@
   <string name="pref_camera_contrast_entry_level8">Seviye 8</string>
   <string name="pref_camera_contrast_entry_level9">Seviye 9</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+  <string name="pref_camera_countdown_title">Geri sayım</string>
   <string name="pref_camera_current_k_value">Mevcut değer</string>
   <string name="pref_camera_default_suffix">(Varsayılan)</string>
   <string name="pref_camera_denoise_title">Gürültü azaltma modu</string>
@@ -327,6 +328,9 @@
   <string name="pref_camera_volumekey_function_entry_volume">Ses</string>
   <string name="pref_camera_volumekey_function_entry_zooming">Zoom</string>
   <string name="pref_camera_volumekey_function_title">Ses tuşu fonksiyonu</string>
+  <string name="pref_camera_watermark_entry_off">Kapalı</string>
+  <string name="pref_camera_watermark_entry_on">Açık</string>
+  <string name="pref_camera_watermark_title">Tarih etiketi ekle</string>
   <string name="pref_camera_whitebalance_entry_auto">Otomtik</string>
   <string name="pref_camera_whitebalance_entry_cloudy">Bulutlu</string>
   <string name="pref_camera_whitebalance_entry_daylight">Gün ışığı</string>
@@ -337,9 +341,6 @@
   <string name="pref_camera_zsl_entry_off">Kapalı (Önerilen)</string>
   <string name="pref_camera_zsl_entry_on">Açık</string>
   <string name="pref_camera_zsl_title">ZSL (Sıfır deklanşör gecikmesi)</string>
-  <string name="pref_camera_watermark_title">Tarih etiketi ekle</string>
-  <string name="pref_camera_watermark_entry_off">Kapalı</string>
-  <string name="pref_camera_watermark_entry_on">Açık</string>
   <string name="pref_captrue_mirror_entry_off">Kapalı</string>
   <string name="pref_captrue_mirror_entry_on">Açık</string>
   <string name="pref_captrue_mirror_title">Ön kamera görüntüsünü aynala</string>
@@ -417,6 +418,7 @@
   <string name="show_videos_only">Sadece videolar</string>
   <string name="simple_mode_button_text_audio_capture">Ses kaydını kapat</string>
   <string name="simple_mode_button_text_color_effect">Filtreyi kapat</string>
+  <string name="simple_mode_button_text_countdown">Geri sayımdan çık</string>
   <string name="simple_mode_button_text_hand_night">Gece modundan çık</string>
   <string name="simple_mode_button_text_hdr">HDR modundan çık</string>
   <string name="simple_mode_button_text_panorama">Panoramadan çık</string>
@@ -430,8 +432,8 @@
   <string name="spaceIsLow_content">USB belleğiniz dolmak üzere. Fotoğraf kalitesini düşürün veya bazı resim dosyalarını veya başka dosyaları silin.</string>
   <string name="success_message_import_from_account">İçe aktarma başarılı</string>
   <string name="tags">Etiketler</string>
-  <string name="tap_to_focus">Odaklamak için dokunun.</string>
   <string name="tap_to_exposure">Manuel pozlama için dokunun</string>
+  <string name="tap_to_focus">Odaklamak için dokunun.</string>
   <string name="time">Zaman</string>
   <string name="time_lapse_error">Hızlandırılmış kayıt için hatalı video çözünürlüğü.</string>
   <string name="times">Zamanlar</string>
@@ -441,6 +443,7 @@
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Ses kayıt özelliği açıkken çoklu çekim yapılamaz.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">HDR özelliği açıkken çoklu çekim yapılamaz.</string>
   <string name="toast_burst_snap_forbidden_when_iso_not_auto">"ISO özelliği otomatikte değilken çoklu çekim yapılamaz."</string>
+  <string name="toast_cannot_preview_image_when_screen_locked">Ekran kilitli olduğu için fotoğraf veya video görüntülenemiyor!</string>
   <string name="toast_start_audio_capture">Sesle fotoğraf çekimini etkinleştirmek için bir ses çıkarın</string>
   <string name="undo">Geri</string>
   <string name="unit_mm">mm</string>
@@ -468,7 +471,4 @@
   <string name="wifi_security">Güvenlik:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Bu Wi-Fi ağına bağlanmadan önce güvenliğinizi kontrol edin!</string>
-  <string name="toast_cannot_preview_image_when_screen_locked">Ekran kilitli olduğu için fotoğraf veya video görüntülenemiyor!</string>
-  <string name="pref_camera_countdown_title">Geri sayım</string>
-  <string name="simple_mode_button_text_countdown">Geri sayımdan çık</string>
 </resources>

@@ -48,9 +48,9 @@
   <string name="cancel">İptal</string>
   <string name="cancel_backup">Yedekleme İptal</string>
   <string name="cancel_restore">GeriYükleme İptal</string>
-  <string name="cloud_app_name">Cloud Yedekleme</string>
   <string name="cloud_app_backup_title">Cloud\'a yedekle</string>
   <string name="cloud_app_just_show_in_current_device">Sadece cihazdaki uygulamaları göster</string>
+  <string name="cloud_app_name">Cloud Yedekleme</string>
   <string name="cloud_backup_hint">Güvenli bir şekilde saklamak ve yedekleri geri yüklemek için giriş yapınız</string>
   <string name="cloud_backup_login">Lütfen Xiaomi hesabını kullanarak giriş yapınız</string>
   <string name="cloud_backup_window_title">Cloud Yedekleme</string>

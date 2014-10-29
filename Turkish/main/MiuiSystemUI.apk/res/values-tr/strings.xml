@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="accessibility_airplane_mode">Uçak modu.</string>
   <string name="accessibility_back">Geri</string>
@@ -27,9 +27,9 @@
   <string name="accessibility_no_wifi">Kablosuz yok.</string>
   <string name="accessibility_no_wimax">WiMAX yok.</string>
   <string name="accessibility_notifications_button">Bildirimler.</string>
+  <string name="accessibility_phone_four_bars">Telefon sinyali dört çubuk.</string>
   <string name="accessibility_phone_one_bar">Telefon sinyali bir çubuk.</string>
   <string name="accessibility_phone_signal_full">Telefon sinyali tam.</string>
-  <string name="accessibility_phone_four_bars">Telefon sinyali dört çubuk.</string>
   <string name="accessibility_phone_three_bars">Telefon sinyali üç çubuk.</string>
   <string name="accessibility_phone_two_bars">Telefon sinyali iki çubuk.</string>
   <string name="accessibility_recent">Son uygulamalar</string>
@@ -51,9 +51,9 @@
   <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
   <string name="always_use_device">Bu USB cihazı için varsayılan olarak kullan</string>
   <string name="app_label">Sistem Arayüzü</string>
-  <string name="audio_effect_settings">Kulaklık türünü seç</string>
-  <string name="audio_effect_info">Ses Optimizasyonu</string>
   <string name="audio_effect_custom">Özel</string>
+  <string name="audio_effect_info">Ses Optimizasyonu</string>
+  <string name="audio_effect_settings">Kulaklık türünü seç</string>
   <string name="battery_low_percent_format">PİL SEVİYESİ :%d%% </string>
   <string name="battery_low_subtitle">LÜTFEN ŞARJ CİHAZINI BAĞLAYIN!</string>
   <string name="battery_low_title">! DİKKAT !</string>
@@ -91,7 +91,7 @@
   <string name="dlg_confirm_kill_storage_users_title">USB Depolamayı Aç</string>
   <string name="dlg_error_title">USB eylemi başarısız</string>
   <string name="dlg_ok">TAMAM</string>
-  <string name="drive_mode_tip">Sürüş modu etkinleştirildi, lütfen dikkatli olun..!</string>	
+  <string name="drive_mode_tip">Sürüş modu etkinleştirildi, lütfen dikkatli olun..!</string>
   <string name="ext_media_badremoval_notification_message">Veri kaybını önlemek için çıkarmadan önce SD kart bağlantısını kesin.</string>
   <string name="ext_media_badremoval_notification_title">SD kart beklenmedik şekilde kaldırıldı</string>
   <string name="ext_media_checking_notification_message">Hatalar kontrol ediliyor...</string>
@@ -129,8 +129,6 @@
   <string name="move_data_to_sdcard_message">"Düzgün ve istikrarlı bir kullanım deneyimi sağlamak için, verileri günlük kullanımda  SD kartta tutmak daha iyidir."</string>
   <string name="move_data_to_sdcard_title">Dahili verileri SD karta aktar</string>
   <string name="no_notification_tips">YENİ BİLDİRİM YOK</string>
-  <string name="notifications_off_text">Bildirimleri tekrar açmak için buraya dokunun</string>
-  <string name="notifications_off_title">Bildirimler kapalı</string>
   <string name="notification_otg_gamestick_in">Oyun kumandası bağlı</string>
   <string name="notification_otg_gamestick_out">Oyun kumandası bağlantısı kesilmiş</string>
   <string name="notification_otg_keyboard_in">Klavye bağlı</string>
@@ -147,6 +145,8 @@
   <string name="notification_otg_trackball_out">Trackball bağlantısı kesilmiş</string>
   <string name="notification_otg_unknow_in">OTG cihaz bağlı</string>
   <string name="notification_otg_unknow_out">OTG cihaz bağlantısı kesilmiş</string>
+  <string name="notifications_off_text">Bildirimleri tekrar açmak için buraya dokunun</string>
+  <string name="notifications_off_title">Bildirimler kapalı</string>
   <string name="recent_apps_key">Son uygulamalar</string>
   <string name="recent_apps_key_show">Son uygulamları göster</string>
   <string name="reject_call">Çağrıyı reddet</string>
@@ -166,17 +166,24 @@
   <string name="screenshot_saving_text">Ekran görüntüsü kaydediliyor.</string>
   <string name="screenshot_saving_ticker">Ekran görüntüsü kaydediliyor...</string>
   <string name="screenshot_saving_title">Ekran görüntüsü kaydediliyor...</string>
+  <string name="settings_advanced">Gelişmiş Ayarlar</string>
   <string name="settings_all_app_display_loading">Yükleniyor..</string>
+  <string name="settings_basic_settings">Ayarlar</string>
+  <string name="settings_custom_carrier">Operatör adını değiştir</string>
   <string name="settings_custom_notification">Bildirimleri özelleştir</string>
   <string name="settings_expandable_under_fullscreen">Tam ekranda genişlet</string>
   <string name="settings_expandable_under_fullscreen_summary">Ekranı aşağı doğru kaydırın</string>
   <string name="settings_expandable_under_keyguard">Kilit ekranında genişlet</string>
   <string name="settings_expandable_under_keyguard_summary">Sadece güvenliği olmayan kilit ekranında çalışır</string>
   <string name="settings_expanded_view">Genişletilmiş bildirim görünümü</string>
+  <string name="settings_no_carrier">Başlık yok</string>
   <string name="settings_notification_bar">Bildirim çubuğu</string>
+  <string name="settings_show_carrier">Operatör adını göster</string>
+  <string name="settings_show_carrier_summary"/>
   <string name="settings_show_flow_info">Trafik bilgisini göster</string>
   <string name="settings_show_network_speed">Ağ hızını göster</string>
   <string name="settings_show_notificationBar_notification">Bildirimleri göster</string>
+  <string name="settings_show_screenshot_notification">Ekran görüntüsü bildirimleri</string>
   <string name="settings_show_statusBar_notification">Durum çubuğu bildirimlerini göster</string>
   <string name="settings_status_bar">Durum çubuğu</string>
   <string name="settings_toggle_collapse_after_clicked">Tıklatınca kapat</string>
@@ -189,6 +196,7 @@
   <string name="settings_toggle_position_divider_page">%1$d Bar üzerine yerleştirilen geçiş etkin</string>
   <string name="settings_toggle_position_reset">Geçişleri sıfırla</string>
   <string name="share">Paylaş</string>
+  <string name="status_bar_and_notification_bar">Bildirim listesi</string>
   <string name="status_bar_date_format">"d MMMM yyyy
 EEEE"</string>
   <string name="status_bar_date_formatter">%2$s</string>
@@ -226,21 +234,21 @@ EEEE"</string>
   <string name="status_bar_toggle_brightness">Parlaklık</string>
   <string name="status_bar_toggle_data">Mobil Veri</string>
   <string name="status_bar_toggle_divider">Daha</string>
+  <string name="status_bar_toggle_drive_mode">Sürüş Modu</string>
   <string name="status_bar_toggle_flight_mode">Uçak Modu</string>
   <string name="status_bar_toggle_gps">GPS</string>
   <string name="status_bar_toggle_lock">Kilitle</string>
   <string name="status_bar_toggle_mute">Sessiz</string>
   <string name="status_bar_toggle_network_type">Şebeke Modu</string>
-  <string name="status_bar_toggle_drive_mode">Sürüş Modu</string>
   <string name="status_bar_toggle_power_high">Performans modu</string>
   <string name="status_bar_toggle_power_low">Güç Tasarrufu modu</string>
   <string name="status_bar_toggle_power_mid">Normal mod</string>
   <string name="status_bar_toggle_power_mode">Güç</string>
   <string name="status_bar_toggle_privacy_mode">Koruma</string>
   <string name="status_bar_toggle_quiet_mode">Sessiz Mod</string>
+  <string name="status_bar_toggle_reboot">Tekrar Başlat</string>
   <string name="status_bar_toggle_ring">Zil</string>
   <string name="status_bar_toggle_ringtone">Zil sesi</string>
-  <string name="status_bar_toggle_reboot">Tekrar Başlat</string>
   <string name="status_bar_toggle_rotate">Döndür</string>
   <string name="status_bar_toggle_screen_button">Ekran tuşları</string>
   <string name="status_bar_toggle_screenshot">Ekran görüntüsü</string>
@@ -257,8 +265,8 @@ EEEE"</string>
   <string name="tab_notifications_lable">Bildirimler</string>
   <string name="tab_toggles_lable">Geçişler</string>
   <string name="title_usb_accessory">USB aksesuarı</string>
-  <string name="toast_rotation_locked">Ekran manzara moduna kilitlendi</string>
   <string name="to_vibrate_settings">Titreşim ayarları</string>
+  <string name="toast_rotation_locked">Ekran manzara moduna kilitlendi</string>
   <string name="torch_activity_hint">Elfenerini [icon] \'a basılı tutarak aç</string>
   <string name="torch_activity_name">El feneri</string>
   <string name="torch_closed">El feneri kapat</string>
@@ -294,12 +302,4 @@ EEEE"</string>
   <string name="user_guide_for_notification">Yeni bir bildirim alındı, ayrıntılı kontrol için durum çubuğunu aşağı doğru sürükleyin</string>
   <string name="user_guide_for_toggle">Geçiş listesi yatay kaydırılabilir</string>
   <string name="user_guide_for_toggle_list">Geçiş listesini özelleştirmek için tıklayın</string>
-  <string name="settings_advanced">Gelişmiş Ayarlar</string>
-  <string name="settings_basic_settings">Ayarlar</string>
-  <string name="settings_custom_carrier">Operatör adını değiştir</string>
-  <string name="settings_no_carrier">Başlık yok</string>
-  <string name="settings_show_carrier">Operatör adını göster</string>
-  <string name="settings_show_carrier_summary"/>
-  <string name="settings_show_screenshot_notification">Ekran görüntüsü bildirimleri</string>
-  <string name="status_bar_and_notification_bar">Bildirim listesi</string>
 </resources>

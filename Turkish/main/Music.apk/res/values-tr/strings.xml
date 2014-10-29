@@ -42,7 +42,11 @@
   <string name="channel_postfix">MHZ</string>
   <string name="choose_download_quality">İndirme kalitesini seçin</string>
   <string name="choose_stream_quality">Akış kalitesini seçin</string>
+  <string name="click_to_play_all">Hepsini Oynat</string>
   <string name="click_to_shuffle">Hepsini karışık çal</string>
+  <string name="collect_bill_success">Bill favorilere eklendi</string>
+  <string name="collect_fm_success">Favorilere eklendi</string>
+  <string name="collect_topic_success">Albüm favorilere eklendi</string>
   <string name="complete">Tamamla</string>
   <string name="confirm">Onayla</string>
   <string name="correct_id3_by_internet">Mobil internet kullanarak ID3 doğrula</string>
@@ -65,9 +69,13 @@
   <string name="deselect_all">Tümünü reddet</string>
   <string name="dirac_mode_earbuds">Xiaomi kulaklıkları</string>
   <string name="dirac_mode_general">Genel mod</string>
+  <string name="dirac_mode_general_earbuds">Genel kulaklık başlıkları</string>
+  <string name="dirac_mode_general_inear">Genel inear</string>
   <string name="dirac_mode_in_ear">Xiaomi kulak içi kulaklıkları</string>
   <string name="dirac_mode_off">Dirac kapalı</string>
   <string name="dirac_mode_piston_100">Xiaomi Piston kulaklıkları</string>
+  <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
+  <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
   <string name="download">İndir</string>
   <string name="download_album_settings">Albüm kapağını otomatik indir</string>
   <string name="download_album_summary">Mobil ağ üzerinden kullanıldığında daha pahalı olabilir, Wi-Fi kullanmanız tavsiye edilir</string>
@@ -142,6 +150,12 @@
   <string name="id3_edit_failed">ID3 düzenleme başarısız</string>
   <string name="id3_modify_confirm_check">ID3 değişikliklerini onaylıyor musunuz?</string>
   <string name="id3_modify_confirm_text">Kaydet</string>
+  <string name="impunity_declaration">Kullanmak üzere olduğunuz online müzik servisi, Baidu Online Müzik Servisi değil.
+	Kullanmak için \"TAMAM\" , çıkmak için \"İPTAL\" e dokunun.</string>
+  <string name="impunity_declaration_ignore">Tekrar sorma</string>
+  <string name="impunity_declaration_settings">Ağ bağlantısı gerekirse bildir</string>
+  <string name="impunity_declaration_summary">Müziğe girerken, hatırlatmak için açılır pencere gösterir</string>
+  <string name="impunity_declaration_title">Açıklama</string>
   <string name="keep_quit_position_settings">Son konumu kaydet</string>
   <string name="keep_quit_position_summary">Müzik çalar tekrar başlayınca şarkı kaldığı yerden devam eder</string>
   <string name="ktv_alert_message">"Sorumlu QR kodunu görüntülemek ve KTV adlı konsolunun ana sayfasındaki şarkıyı eklemek için lütfen telefon dokunun"</string>
@@ -167,8 +181,11 @@
   <string name="load_bill_in_process">Billboard listesi yükleniyor...</string>
   <string name="load_channel_failed">Kanal listesi yüklenemedi, lütfen tekrar deneyin</string>
   <string name="load_channel_in_process">Kanal listesi yükleniyor...</string>
+  <string name="load_recommend_failed">Yüklenemedi!</string>
+  <string name="load_recommend_in_process">Yükleniyor ...</string>
   <string name="loading">Yükleniyor...</string>
   <string name="login">Oturum aç</string>
+  <string name="login_and_enable">Oturum Aç ve Senk et</string>
   <string name="lrc_progress_modify">Sözleri kaydırma hızını ayarla</string>
   <string name="lrc_progress_modify_helper">Yukarı veya aşağı  sürükleyerek sözleri kaydırma hızını ayarlayın</string>
   <string name="lrc_search_failed">Şarkı sözü bulunamadı!</string>
@@ -195,8 +212,8 @@
   <string name="more">Daha</string>
   <string name="music_browser_label">Müzik</string>
   <string name="music_filter">Dosyaları filtrele</string>
-  <string name="music_not_loaded">Ses dosyası bulunamadı!</string>
   <string name="music_filter_helper">Mp3 formatında olmayan dosyaları gizlemek için 800kb altında ki dosyaları gizleyecek bir boyut filtresi uygulanmıştır.Bu ayarı Gelişmiş ayarlar &gt; dosya filtresi altından değiştirebilirsiniz.</string>
+  <string name="music_not_loaded">Ses dosyası bulunamadı!</string>
   <string name="music_open_other_connect">Mobil internet bağlantısını kullanarak müzik indir</string>
   <string name="music_picker_title">Şarkıyı seç</string>
   <string name="music_quality">Müzik kalitesi</string>
@@ -210,6 +227,7 @@
   <string name="no_music_to_play">Müzik parçası yok</string>
   <string name="no_song_downloaded">Şarkı indirilemedi</string>
   <string name="normal_quality">Normal kalite</string>
+  <string name="not_now">Şimdi değil</string>
   <string name="not_selected">Şarkıyı seçin</string>
   <string name="notification_artist_album">"%2$s %1$s"</string>
   <string name="online_search_hint">Online müzik ara</string>
@@ -239,6 +257,8 @@
   <string name="playlist_renamed_message">Çalma listesi adlandırıldı.</string>
   <string name="playlists_title">Çalma listesi</string>
   <string name="powered_by">Powered by</string>
+  <string name="priority_storage">SD Karta indir</string>
+  <string name="priority_storage_summary">Bu işlev, harici bir SD kart olduğunda kullanılabilir.</string>
   <string name="project_device">Xiaomi Box</string>
   <string name="project_device_mobile">Mobil telefon</string>
   <string name="queue">Geçerli çalma listesi</string>
@@ -277,6 +297,7 @@
   <string name="search_suggestion">Arama Önerileri:</string>
   <string name="search_title">Ara</string>
   <string name="select_all">Tümünü seç</string>
+  <string name="select_device">Cihazı seç</string>
   <string name="select_folder">Klasörü seç</string>
   <string name="select_quit_time">Oynatıcıyı durdurmak için zamanlayıcı kurun (dakika içinde)</string>
   <string name="send_to">Buraya gönder</string>
@@ -297,10 +318,15 @@
   <string name="start_to_download_album">Şarkınız için albüm kapağı indiriliyor</string>
   <string name="start_to_download_avatar">Şarkıcı resmi indiriliyor</string>
   <string name="streamloadingtext">Bağlanıyor %s</string>
+  <string name="sync_alert_message">Favori müziklerinizi MiCloud hesabınıza senkronize edebilirsiniz.</string>
+  <string name="sync_alert_title">Müziği Senkronize et</string>
+  <string name="sync_disable_toast">Senkronize işlemini Sistem Ayarlarından etkinleştirebilirsiniz.</string>
+  <string name="sync_enable_toast"/>
   <string name="synchronize_guide_toast">Sekronizeyi açmak için, Ayarlar &gt; Listeyi senkronize et\'e gidin.</string>
   <string name="synchronize_playlist_setting">Listeyi senkronize et</string>
   <string name="synchronize_playlist_summary">Listeyi MiCloud\'a senkronize et</string>
   <string name="synchronize_to_baidu_cloud">Baidu Cloud kullanarak çalma listelerini online yedekleyin</string>
+  <string name="take_effect_afater_restart">Yeni ayarların etkili olabilmesi için uygulamanın tekrar başlatılması gerekir.</string>
   <string name="track_album_format" formatted="false">%s - %s</string>
   <string name="track_bit_rate_hd">Yüksek</string>
   <string name="track_bit_rate_standard">Normal</string>
@@ -309,6 +335,7 @@
   <string name="track_num_format">(%s)</string>
   <string name="tracks_title">Tüm şarkılar</string>
   <string name="ultra_high_quality">En yüksek kalite</string>
+  <string name="uncollect_success">Favorilerden kaldırıldı</string>
   <string name="unknown_album_name">Bilinmeyen albüm</string>
   <string name="unknown_artist_name">Bilinmeyen şarkıcı</string>
   <string name="use_local_album">Kayıtlı albüm kapağını kullan</string>
@@ -323,35 +350,8 @@
   <string name="vip_recommend_sub_title">Aylık sadece 5 RMB</string>
   <string name="vip_recommend_summary">Baidu Müzikten tüm favori sanatçıları 320 kbps ile dinleyin ve indirin.</string>
   <string name="vip_recommend_title">Yüksek kaliteli müzik</string>
-  <string name="where_is_barcode">"QR kodu nerede?"</string>
-  <string name="xiaomi_account_setting">Xiaomi hesabı</string>
-  <string name="load_recommend_in_process">Yükleniyor ...</string>
-  <string name="load_recommend_failed">Yüklenemedi!</string>
-  <string name="click_to_play_all">Hepsini Oynat</string>
-  <string name="collect_topic_success">Albüm favorilere eklendi</string>
-  <string name="collect_bill_success">Bill favorilere eklendi</string>
-  <string name="collect_fm_success">Favorilere eklendi</string>
-  <string name="uncollect_success">Favorilerden kaldırıldı</string>
-  <string name="dirac_mode_general_earbuds">Genel kulaklık başlıkları</string>
-  <string name="dirac_mode_general_inear">Genel inear</string>
-  <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
-  <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
-  <string name="sync_alert_title">Müziği Senkronize et</string>
-  <string name="sync_alert_message">Favori müziklerinizi MiCloud hesabınıza senkronize edebilirsiniz.</string>
-  <string name="not_now">Şimdi değil</string>
-  <string name="sync_disable_toast">Senkronize işlemini Sistem Ayarlarından etkinleştirebilirsiniz.</string>
-  <string name="login_and_enable">Oturum Aç ve Senk et</string>
-  <string name="sync_enable_toast"/>
   <string name="volume_alert_playback_alert_title">Yüksek ses uyarısı</string>
   <string name="volume_alert_playback_message">İşitme duyunuzu korumak için, yüksek sesle uzun süre müzik dinlemeniz engellenir.</string>
-  <string name="select_device">Cihazı seç</string>
-  <string name="impunity_declaration">Kullanmak üzere olduğunuz online müzik servisi, Baidu Online Müzik Servisi değil.
-	Kullanmak için \"TAMAM\" , çıkmak için \"İPTAL\" e dokunun.</string>
-  <string name="impunity_declaration_title">Açıklama</string>
-  <string name="impunity_declaration_ignore">Tekrar sorma</string>
-  <string name="impunity_declaration_settings">Ağ bağlantısı gerekirse bildir</string>
-  <string name="impunity_declaration_summary">Müziğe girerken, hatırlatmak için açılır pencere gösterir</string>
-  <string name="take_effect_afater_restart">Yeni ayarların etkili olabilmesi için uygulamanın tekrar başlatılması gerekir.</string>
-  <string name="priority_storage">SD Karta indir</string>
-  <string name="priority_storage_summary">Bu işlev, harici bir SD kart olduğunda kullanılabilir.</string>
+  <string name="where_is_barcode">"QR kodu nerede?"</string>
+  <string name="xiaomi_account_setting">Xiaomi hesabı</string>
 </resources>

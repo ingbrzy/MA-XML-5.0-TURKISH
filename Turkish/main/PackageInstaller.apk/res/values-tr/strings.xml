@@ -2,6 +2,11 @@
 <resources>
   <string name="Parse_error_dlg_text">Paket ayrıştırılırken bir hata oluştu!</string>
   <string name="Parse_error_dlg_title">Ayrıştırma hatası!</string>
+  <string name="ad_block_button_title">Reklam engelleme</string>
+  <string name="ad_relative">Reklam</string>
+  <string name="adware_count">%d eklenti içeriyor</string>
+  <string name="adware_hint">Bu eklentiler; cihazınızda  reklam göstermek için üçüncü parti geliştiriciler tarafından kullanılmaktadır</string>
+  <string name="adware_title">Reklam</string>
   <string name="allow_source_dlg_text">"%1$s diğer uygulamaları yüklemek istiyor. Şimdi ve gelecekte bu izin vermek istiyor musunuz?"</string>
   <string name="allow_source_dlg_title">Uygulamalar için yeni kaynaklara izin vermek istiyor musunuz?</string>
   <string name="app_name">Paket Yükleyici</string>
@@ -73,14 +78,9 @@
   <string name="unknown_apps_dlg_text">"Güvenlik nedeni ile resmi olmayan uygulamalar yüklenemez. Yüklemek isterseniz yasağı kaldırmanız gerekir. Kaldırmak için; Ayarlar-&gt;Güvenlik-&gt;Bilinmeyen kaynaklar."</string>
   <string name="unknown_apps_dlg_title">Yükleme durduruldu!</string>
   <string name="unknown_installer">Bilinmeyen yükleyici!</string>
-  <string name="virus_scan_clear">Sil</string>
   <string name="virus_scan_caller_unknown">Bilinmeyen</string>
+  <string name="virus_scan_clear">Sil</string>
   <string name="virus_scan_install">" "Yüklemeye devam et" "</string>
   <string name="virus_scan_is_risk">Bu uygulama risk oluşturuyor!</string>
   <string name="virus_scan_is_virus">Bu uygulama virüs içeriyor, lütfen hemen silin!</string>
-  <string name="ad_block_button_title">Reklam engelleme</string>
-  <string name="ad_relative">Reklam</string>
-  <string name="adware_count">%d eklenti içeriyor</string>
-  <string name="adware_hint">Bu eklentiler; cihazınızda  reklam göstermek için üçüncü parti geliştiriciler tarafından kullanılmaktadır</string>
-  <string name="adware_title">Reklam</string>
 </resources>
